@@ -1,0 +1,18 @@
+# Site settings
+title: restlessgamer.net
+email: ctrueden@gmail.com
+description: >
+  Gaming stuff.
+baseurl: ""
+url: "http://localhost:4000"
+twitter_username: ctrueden
+github_username:  ctrueden
+
+# Build settings
+markdown: kramdown
+theme: minima
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
