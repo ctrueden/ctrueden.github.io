@@ -119,6 +119,22 @@ footer {
 	padding: 40px;
 }
 
+/* Mystic Magic guide */
+
+table.calculator {
+	border-collapse: collapse;
+}
+table.calculator td:nth-child(odd) {
+	padding: 0 0 0 1em;
+}
+table.calculator td:nth-child(even) {
+	padding: 0 1em 0 0.3em;
+	border-right: 1px solid gray;
+}
+input[readonly] {
+	background-color: lightgray;
+}
+
 /* Fest */
 
 table.clean, table.compact {

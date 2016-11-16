@@ -54,15 +54,15 @@ function half (form) {
 }
 // ]]></script>
 <form>
-<table>
+<table class="calculator">
 <tbody>
 <tr>
 <td>Level</td>
-<td><input name="level" size="3" type="text" value="1" /></td>
+<td><input onchange="compute(this.form)" name="level" size="3" type="text" value="1" /></td>
 <td>Ability modifier</td>
-<td><input name="key" size="3" type="text" value="4" /></td>
+<td><input onchange="compute(this.form)" name="key" size="3" type="text" value="4" /></td>
 <td>Half rate</td>
-<td><input name="half" type="checkbox" /></td>
+<td><input onchange="compute(this.form)" name="half" type="checkbox" /></td>
 </tr>
 <tr>
 <td>Gain</td>
@@ -74,37 +74,37 @@ function half (form) {
 </tr>
 <tr>
 <td>Creation</td>
-<td><input name="s1" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s1" size="3" type="text" value="0" /></td>
 <td>Destruction</td>
-<td><input name="s2" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s2" size="3" type="text" value="0" /></td>
 <td>Displacement</td>
-<td><input name="s3" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s3" size="3" type="text" value="0" /></td>
 </tr>
 <tr>
 <td>Divination</td>
-<td><input name="s4" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s4" size="3" type="text" value="0" /></td>
 <td>Enhancement</td>
-<td><input name="s5" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s5" size="3" type="text" value="0" /></td>
 <td>Healing</td>
-<td><input name="s6" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s6" size="3" type="text" value="0" /></td>
 </tr>
 <tr>
 <td>Illusion</td>
-<td><input name="s7" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s7" size="3" type="text" value="0" /></td>
 <td>Kinetics</td>
-<td><input name="s8" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s8" size="3" type="text" value="0" /></td>
 <td>Mind Control</td>
-<td><input name="s9" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s9" size="3" type="text" value="0" /></td>
 </tr>
 <tr>
 <td>Pyrotechnics</td>
-<td><input name="s10" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s10" size="3" type="text" value="0" /></td>
 <td>Transmutation</td>
-<td><input name="s11" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="s11" size="3" type="text" value="0" /></td>
 <td>Reserve</td>
-<td><input name="res" size="3" type="text" value="0" /></td>
+<td><input onchange="compute(this.form)" name="res" size="3" type="text" value="0" /></td>
 </tr>
 </tbody>
 </table>
-<p><input onclick="compute(this.form)" type="button" value="Recompute" /><input type="reset" value="Reset" /></p>
+<p><input type="reset" value="Reset" /></p>
 </form>
