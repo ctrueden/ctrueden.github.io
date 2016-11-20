@@ -130,7 +130,7 @@ At level 10, the wizard learns "**Wish**." She can cast it to duplicate the effe
 *   Use Invisibility to avoid paying rent on particularly devastating improved properties.
 *   Keep all your opponents charmed whenever possible.
 *   Use Counterspell, Fireball and Wish to make deals with opponents. Threaten to destroy all their houses, offer to dispel an enemy Curse, or even place a hotel on their property, in exchange for money, property or services.
-*   Use Telekinesis to maneuver an opponent to a location with the greatest chance of landing on your improved properties (seven squares away is statistically most likely).
+*   Use Telekinesis to maneuver an opponent to a location with the greatest chance of landing on your improved properties—seven squares away is statistically most likely.
 *   Study the cleric spells as well, since Wish can duplicate any cleric spell.
 
 ### 2.3 – Cleric
@@ -141,29 +141,29 @@ The cleric is chosen by the gods, granted holy powers and blessings.
 
 Clerics begin play with one spell, and obtain other spells and powers as they advance in level.
 
-At level 1, the cleric begins play with the "**Bless**" spell. When cast, the current property becomes blessed, yielding an additional 5% rent per level of the cleric (rounded down). Hence, a property normally yielding $650 in rent would bring in $747 if blessed by a level 3 cleric. In addition, a blessed property is immune to effects that destroy buildings, such as the wizard's "Fireball" and the fighter's "Raze." If cast on a cursed land, Bless simply dispels the curse. Bless is an enchantment effect and has a $50 casting cost.
+At level 1, the cleric begins play with the "**Bless**" spell. When cast, the current property becomes blessed, yielding an additional 5% rent per level of the cleric, rounded down. Hence, a property normally yielding $650 in rent would bring in $747 if blessed by a level 3 cleric. In addition, a blessed property is immune to effects that destroy buildings, such as the wizard's "Fireball" and the fighter's "Raze." If cast on a cursed land, Bless simply dispels the curse. Bless is an enchantment effect and has a $50 casting cost.
 
-Alternately, the cleric can invert the spell and cast it as a "**Curse**." When cast, the current property becomes cursed, yielding 5% less rent per level of the cleric (rounded up). Hence, a property normally yielding $650 in rent would bring in $553 if cursed by a level 3 cleric. If cast on a blessed land, Curse simply dispels the blessing. Curse is an enchantment effect and has a $50 casting cost
+Alternately, the cleric can invert the spell and cast it as a "**Curse**." When cast, the current property becomes cursed, yielding 5% less rent per level of the cleric, rounded up. Hence, a property normally yielding $650 in rent would bring in $553 if cursed by a level 3 cleric. If cast on a blessed land, Curse simply dispels the blessing. Curse is an enchantment effect and has a $50 casting cost
 
-At level 2, the cleric learns the "**Shield of Faith**" spell. After casting this spell, she is protected. The next time someone either damages her or casts a spell at her (e.g., Magic Missile, Charm Person, Telekinesis, etc.) she is unaffected. Shield of Faith cannot be stacked (that is, casting it twice does not protect from the next two attacks or spells). Shield of Faith is an enchantment effect.
+At level 2, the cleric learns the "**Shield of Faith**" spell. After casting this spell, she is protected. The next time someone either damages her or casts a spell at her (e.g., Magic Missile, Charm Person or Telekinesis) she is unaffected. Shield of Faith cannot be stacked—that is, casting it twice does not protect from the next two attacks or spells. Shield of Faith is an enchantment effect.
 
 At level 3, the cleric learns the "**Sanctuary**" spell. After casting the spell, the cleric is invulnerable until her next turn. She cannot be targeted by any class abilities, nor can she take damage. If cast before moving, the cleric forfeits her movement roll. Sanctuary is an enchantment effect.
 
 At level 4, the cleric gains a new power, "**Divine Favor**." She no longer needs to pay most fees. She can ignore Luxury Tax and Income Tax payments, as well as choose whether to accept the consequences of any Community Chest and Chance cards she draws. However, she still pays the $50 jail fee to get out of jail. This is an automatic effect which does not award EP.
 
-At level 5, the cleric learns the "**Holy Smite**" spell. When cast, it damages an opponent, regardless of her position on the board (although it cannot be used to damage someone in jail).
+At level 5, the cleric learns the "**Holy Smite**" spell. When cast, it damages an opponent, regardless of her position on the board—although it cannot be used to damage someone in jail.
 
 At level 6, the cleric learns the "**Divine Intervention**" spell. Any time dice are rolled, she can cast this spell to discard the result and require a reroll. If she casts this spell to reroll a roll during her own turn, it counts toward the one spell per turn limit.
 
 At level 7, the cleric gains a new power, "**Divine Power**." Whenever she passes a Chance or Community Chest square, she draws the card. Divine Favor applies as usual for choosing whether to accept each card. If the card is a movement card (e.g., "Advance to GO") and the cleric accepts it, movement occurs from the associated Chance or Community Chest square, and the remainder of the cleric's movement roll is discarded.
 
-In addition, whenever she passes the Free Parking square, she collects the money from the central pot (he no longer needs to land on the square).
+In addition, whenever she passes the Free Parking square, she collects the money from the central pot—she no longer needs to land on the square.
 
 This is an automatic effect which does not award EP.
 
-At level 8, the cleric learns the "**Glyph of Warding**" spell. Casting this spell leaves behind a glyph on the current property. The next character to pass over the property with the glyph stops on that square, forfeiting any remaining movement (treat it as though the character landed on that square). In addition, the affected character takes damage. In the case of a character being moved with Telekinesis over a glyph, the character still does not count as landing on the square. Glyph of Warding is an enchantment effect and has a $150 casting cost.
+At level 8, the cleric learns the "**Glyph of Warding**" spell. Casting this spell leaves behind a glyph on the current property. The next character to pass over the property with the glyph stops on that square, forfeiting any remaining movement—treat it as though the character landed on that square. In addition, the affected character takes damage. In the case of a character being moved with Telekinesis over a glyph, the character still does not count as landing on the square. Glyph of Warding is an enchantment effect and has a $150 casting cost.
 
-At level 9, the cleric gains "**Ascended**" status. She is immune to mental effects (e.g., the wizard's "Charm Person" spell), as well as any effect that would send her to jail. In the case of three consecutive doubles rolls, the cleric moves the result of the third roll but does not roll a fourth time. This is an automatic effect which does not award EP.
+At level 9, the cleric gains "**Ascended**" status. She is immune to mental effects (e.g., Charm Person), as well as any effect that would send her to jail. In the case of three consecutive doubles rolls, the cleric moves the result of the third roll but does not roll a fourth time. This is an automatic effect which does not award EP.
 
 At level 10, the cleric learns the "**Wrath of God**" spell. When cast, all opponents are damaged—even hidden ones. Furthermore, all opponents' properties lose one house. A property with a hotel is downgraded to four houses. Unimproved properties are unaffected. Wrath of God has a $300 casting cost.
 
@@ -190,19 +190,19 @@ The rogue's skills are:
 
 *   "**Open Locks**" is the skill for escaping jail. When in jail, the rogue can use this skill to leave without paying the usual $50\. She can attempt to escape on the same turn she is imprisoned, as well as at the beginning of any subsequent turn. She can also use this skill to release other characters from jail when she is on the Just Visiting square. A separate skill check is required for each character to be released. Only one attempt can be made per character each turn.
 
-*   "**Pick Pockets**" is the skill for stealing money from other characters. Whenever the rogue is on the same square as another character, she can use this skill to attempt to pick the pockets of that character. If successful, she takes $20 per level from the opponent's cash on hand. If the opponent has insufficient cash on hand, the rogue simply takes what she can get. If she fails the skill roll, the rogue goes to jail. The rogue can also use this skill on an opponent while sneaking past (see the Sneak skill below). Only one attempt can be made per character each turn.
+*   "**Pick Pockets**" is the skill for stealing money from other characters. Whenever the rogue is on the same square as another character, she can use this skill to attempt to pick the pockets of that character. If successful, she takes $20 per level from the opponent's cash on hand. If the opponent has insufficient cash on hand, the rogue simply takes what she can get. If she fails the skill roll, the rogue goes to jail. The rogue can also use this skill on an opponent while sneaking past—see the Sneak skill below. Only one attempt can be made per character each turn.
 
-*   "**Rob Bank**" is the skill for stealing money from the bank. When the rogue passes GO, she can attempt to obtain additional money using this skill. If successful, she takes an extra $50 per level (when landing on GO, success yields an extra $100 per level). If she fails, however, she forfeits her entire GO bonus and goes to jail.
+*   "**Rob Bank**" is the skill for stealing money from the bank. When the rogue passes GO, she can attempt to obtain additional money using this skill. If successful, she takes an extra $50 per level. When landing on GO, success yields an extra $100 per level. If she fails, however, she forfeits her entire GO bonus and goes to jail.
 
-*   "**Sneak**" is the skill for moving stealthily. Instead of rolling movement normally, the rogue can opt to sneak with a successful skill check. She rolls only 1d6 for movement. During that move, she does not count as passing over or landing on any squares (that is, her figurine moves, but there are no consequences to the move—he owes no rent, collects no money from passing GO, etc.).
+*   "**Sneak**" is the skill for moving stealthily. Instead of rolling movement normally, the rogue can opt to sneak with a successful skill check. She rolls only 1d6 for movement. During that move, she does not count as passing over or landing on any squares—that is, her figurine moves, but there are no consequences to the move—she owes no rent, collects no money from passing GO, etc.
 
-    While sneaking past an opponent, she may choose to **Backstab** that opponent, damaging her and earning an additional EP. She may also pick pockets if desired, although she faces the usual penalties for failure (see the Pick Pockets skill above).
+    While sneaking past an opponent, she may choose to **Backstab** that opponent, damaging her and earning an additional EP. She may also pick pockets if desired, although she faces the usual penalties for failure—see the Pick Pockets skill above.
 
     After sneaking, a rogue is considered hidden until her next turn.
 
     Lastly, after moving, she may choose not to hide, so that she still counts as having landed on the current property. If the rogue "comes out of sneak" in this fashion, she must face all normal consequences of landing on the current property, and she is no longer hidden until her next turn.
 
-*   "**Steal**" is the skill for robbing property of valuables. When on a property with at least one house, the rogue may use this skill to loot the place, stealing 5% of the property's rent per level (rounded down). The rogue receives this money from the property owner, who must take all the usual actions to generate enough money (or else she goes bankrupt). If the rogue fails her skill roll, she must pay rent on the property normally if she has not done so already, then go to jail.
+*   "**Steal**" is the skill for robbing property of valuables. When on a property with at least one house, the rogue may use this skill to loot the place, stealing 5% of the property's rent per level, rounded down. The rogue receives this money from the property owner, who must take all the usual actions to generate enough money, or else she goes bankrupt. If the rogue fails her skill roll, she must pay rent on the property normally if she has not done so already, then go to jail.
 
 #### Rogue tactics
 
@@ -222,7 +222,7 @@ The bard sings sweet songs, lulling her opponents into a false sense of security
 
 #### Bard abilities
 
-At level 1, the bard begins play the "**Bardic Music**" ability. The bard may activate this ability whenever a character (including the bard herself) owes rent with the bard present on that rental property. The bard performs a melody which alters details of the transaction. She begins play with one melody, chosen from the following list:
+At level 1, the bard begins play the "**Bardic Music**" ability. The bard may activate this ability whenever a character—including the bard herself—owes rent with the bard present on that rental property. The bard performs a melody which alters details of the transaction. She begins play with one melody, chosen from the following list:
 
 *   "**Inspire Courage**" - The bank pays half the rent owed on behalf of the character.
 *   "**Cutting Words**" - After rent is paid, the property owner takes damage.
@@ -275,7 +275,7 @@ At level 1, the druid begins play with a "**Primal Enchantment**" spell, which e
 *   "**Hallow**" - Characters on the enchanted square are immune to damage.
 *   "**Insect Plague**" - Characters on the enchanted square cannot use abilities.
 *   "**Wall of Thorns**" - Characters who land on or pass over the enchanted square take damage. The druid is not subject to this damage.
-*   "**Antimagic Field**" - The enchanted square cannot be the target of enchantments, and any active enchantments (e.g., Bless) are suppressed. Characters on the enchanted square also cannot be the target of enchantments, and their active enchantments (e.g., Shield of Faith, Hex) are suppressed. Characters on the enchanted square cannot cast spells.
+*   "**Antimagic Field**" - The enchanted square cannot be the target of enchantments, and any active enchantments (e.g., Bless) are suppressed. Characters on the enchanted square also cannot be the target of enchantments, and their active enchantments (e.g., Shield of Faith or Hex) are suppressed. Characters on the enchanted square cannot cast spells.
 
 Only one square on the board may be enchanted by each particular primal spell; enchanting a second square using the same spell moves the enchantment from the old square to the new one.
 
@@ -342,7 +342,7 @@ At level 4, the warlock's Eldritch Blast grows stronger. Choose one of the follo
 
 At level 5, the warlock develops supernatural fortitude. This is an automatic effect which does not award EP. She gains a trait according to her chosen pact:
 
-*   [Infernal] "**Fiendish Resilience**" - Any time she owes a fee (Luxury Tax, Income Tax, Community Chest, Chance or jail), she pays only half the cost (rounded down).
+*   [Infernal] "**Fiendish Resilience**" - Any time she owes a fee (Luxury Tax, Income Tax, Community Chest, Chance or jail), she pays only half the cost, rounded up.
 *   [Fey] "**Beguiling Defenses**" - Any time the warlock is targeted by an enchantment, the aggressor becomes cursed as described in the Hex ability above.
 *   [Dark] "**Entropic Ward**" - Any time the warlock would be affected by an enchantment or take damage, roll 1d6\. On a 1, she is unaffected.
 
@@ -368,7 +368,7 @@ At level 10, the warlock learns the "**Crown of Madness**" spell, which targets 
 
 ### Politics
 
-Like normal Monopoly, Dungeonopoly can become very political. For example, a four player game can easily degenerate into a two on two game. When that happens, it not always clear what's allowed and what's not. Can you choose to waive the rent on one of your properties? What about reduce it? One way to cut down on the politics is to institute strict rules, so that rent must always be paid, and money and property cannot be given or traded to other players except at listed value. However, this strictness can cause problems as well, since part of the value of a trade is not represented in its listed price (for example, obtaining the third property in a set to form a monopoly is clearly more valuable than obtaining the same property without possessing the other two matching ones).
+Like normal Monopoly, Dungeonopoly can become very political. For example, a four player game can easily degenerate into a two on two game. When that happens, it not always clear what's allowed and what's not. Can you choose to waive the rent on one of your properties? What about reduce it? One way to cut down on the politics is to institute strict rules, so that rent must always be paid, and money and property cannot be given or traded to other players except at listed value. However, this strictness can cause problems as well, since part of the value of a trade is not represented in its listed price; for example, obtaining the third property in a set to form a monopoly is clearly more valuable than obtaining the same property without possessing the other two matching ones.
 
 ### Team rules
 
@@ -380,8 +380,8 @@ Like normal Monopoly, Dungeonopoly can become very political. For example, a fou
 ### Quicker game
 
 *   5 EP per level
-*   Double all fees (damage, Community Chest/Chance, jail, etc.)
-*   Cut all gains in half (Pick Pockets, Community Chest/Chance, etc.)
+*   Double all fees: damage, Community Chest/Chance, jail, etc.
+*   Cut all gains in half: Pick Pockets, Community Chest/Chance, etc.
 
 ### Blitz game
 
