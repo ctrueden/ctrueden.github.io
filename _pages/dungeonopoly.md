@@ -170,7 +170,7 @@ At level 10, the cleric learns the "**Wrath of God**" spell. When cast, all oppo
 #### Cleric tactics
 
 *   Use Bless/Curse to make deals with opponents. Offer them the chance to get their property blessed for a fee, or threaten to curse their property if they won't meet your demands.
-*   To stay protected from your enemies, especially the brutal fighter, have Shield of Faith active whenever possible. If a fighter is continually hassling you, use Sanctuary before your movement to protect yourself, and to increase the likelihood of her passing you.
+*   To stay protected from your enemies, especially the brutal fighter, have Shield of Faith active whenever possible. If an opponent is continually hassling you, use Sanctuary before your movement to protect yourself, and to increase the likelihood of her passing you.
 *   Don't forget about Divine Favor and Divine Power. Those Community Chest and Chance bonuses really add up.
 *   Use Holy Smite when an opponent is low on cash to force her to sell houses or mortgage property.
 *   Use Divine Intervention to force a lucky opponent to reroll if she escapes landing on your improved properties. Or use it on yourself to avoid landing on an opponent's improved property.
