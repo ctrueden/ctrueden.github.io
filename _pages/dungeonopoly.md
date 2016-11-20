@@ -180,7 +180,7 @@ At level 10, the cleric learns the "**Wrath of God**" spell. When cast, all oppo
 
 The rogue is wily and crafty, stealing what she needs to survive.
 
-### Rogue abilities
+#### Rogue abilities
 
 Rogues begin play with 30 points to distribute throughout their skills. Each time they gain a level, 5 more points become available for distribution. Because thievery always involves a degree of risk, no skill may have more than 15 ranks.
 
