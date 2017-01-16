@@ -807,5 +807,11 @@ _Saturday, March 20, 2004 (courtesy of Eva)_
 _Friday, September 13, 2013 - 10:20 pm_  
 **Kelsey (to Moe)** - "Are you trying to disarm a bomb the size of the universe with thievery?"
 
+_Saturday, December 20, 2008_
+**Kelsey** - "I'm going to grab a dark elf bane pocket ballista. I can sneak attack with that, right?"
+
+_Thursday, October 15, 2009_
+**Joel** - "You want me to *mule* you to Sigil?" [On eating magic jarred party members and traversing through the chaos with them inside.]
+
 * * *
 When I get to the future, [things will be different](http://asofterworld.com/index.php?id=42)
