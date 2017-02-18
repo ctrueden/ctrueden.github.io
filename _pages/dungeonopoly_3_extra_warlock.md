@@ -31,7 +31,7 @@ At level 5, the warlock develops supernatural fortitude. This is an automatic ef
 
 *   [Infernal] "**Fiendish Resilience**" - Any time she owes a fee (Luxury Tax, Income Tax, Community Chest, Chance or jail), she pays only half the cost, rounded up.
 *   [Fey] "**Beguiling Defenses**" - Any time the warlock is targeted by an enchantment, the aggressor becomes cursed as described in the Hex ability above.
-*   [Dark] "**Entropic Ward**" - Any time the warlock would be affected by an enchantment or take damage, roll 1d6\. On a 1, she is unaffected.
+*   [Dark] "**Entropic Ward**" - Any time the warlock would be affected by an enchantment or take damage, roll 1d6. On a 1, she is unaffected.
 
 At level 6, the warlock selects a second Eldritch Blast enhancement from the above list.
 

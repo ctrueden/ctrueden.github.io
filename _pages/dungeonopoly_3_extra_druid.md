@@ -54,4 +54,3 @@ At level 10, the druid learns the "**Creeping Doom**" spell. The druid's current
 *   Use Wall of Thorns when opponents are close behind you.
 *   When a nearby opponent is on a property you wish to enchant with a Primal Enchantment, switch to Wolf form and use Scent. When possible, try to enchant dangerous enemy properties before they become fully developed.
 *   Antimagic Field is useful for countering enemy enchantments: e.g., when on the same square as a Wizard with Mage Armor, cast Antimagic Field, then shift to Bear form and Maul her. Or use it to suppress a cleric's Curse on your improved property.
-
