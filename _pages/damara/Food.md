@@ -1,0 +1,1 @@
+The Food statistic is the amount of surplus food a given region is storing. It is possible for this statistic to be negative, in which case people are starving in the area and will soon die without intervention.

@@ -1,0 +1,1 @@
+Primary characters (and primary characters only) receive an Item of Legacy, as described in the Weapons of Legacy source book. This item follows the normal rules outlined in the book, except that no penalties apply.

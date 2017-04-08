@@ -1,0 +1,1 @@
+Formerly a servant of the ((Citadel of Assassins)) who had infiltrated the Damaran military.  Was caught attempting to divert a trade caravan to ((Narfell)), and died after revealing his hidden affiliation.

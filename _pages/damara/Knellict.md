@@ -1,0 +1,1 @@
+Formerly the favored apprentice of ((Zhengyi the Witch-King)), Knellict is a powerful wizard in his own right.  Though he prefers to operate from behind the scenes, he was known to be directly involved in the theft of the Witch-King's phylactery.  He has since faded back into the shadows, but he assumed to be actively supporting the ((Citadel of Assassins)).

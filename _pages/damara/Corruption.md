@@ -1,0 +1,1 @@
+Corruption is the likelihood of any given official to be corrupt. It mainly deals with corruption in population centers, and is likely to be higher in places where the infrastructure statistic is also high.

@@ -1,0 +1,1 @@
+Infrastructure represents both the physical and bureaucratic civil improvements in a region. It will increase with the construction of items such as aqueducts and roads, as well as with the development of more complicated ways of life.

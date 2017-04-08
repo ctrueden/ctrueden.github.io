@@ -1,0 +1,4 @@
+-=Paul's Character's Secrets=-
+
+This page will provide the GMs a restricted page to discuss secrets related to Paul's character.
+

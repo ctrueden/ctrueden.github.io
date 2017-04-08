@@ -1,0 +1,1 @@
+Being a massive stone wall on the ((Damara)) side of ((Bloodstone Pass)). The Damaran Gate is 30' tall, and three miles long. It features ballista-studded towers at regular intervals, and an enormous iron gate in the center.  A fortress stands at either end of the wall.

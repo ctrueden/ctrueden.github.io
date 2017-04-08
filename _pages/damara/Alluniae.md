@@ -1,0 +1,1 @@
+A bit of a Brash and uncaring Elan that was sent to join the Royal Magicians Guild as an ambassador from the Elan colony to show their good faith in teaching people about Psionics.  He assists Oreth in researching Psionics, and he does his duty faithfully and without guestion, although that does not stop him from constantly muttering about the old man's incompetence.

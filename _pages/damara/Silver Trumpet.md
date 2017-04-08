@@ -1,0 +1,1 @@
+When blown this trumpet grants all allies of the user in a 30ft cone emanated from the trumpet the celestial template for 5 rounds.  The smite ability granted by this template is usable once per day only no matter how many times the template is reapplied.  This item is usable 3 times per mission

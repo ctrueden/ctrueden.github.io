@@ -1,0 +1,1 @@
+The wearer of the belt of truth emanates a 10ft ''Zone of Truth''(DC 16).  As well the wearer of the belt of truth may use ''Truestrike'' targeting anyone affected by the ''Zone of Truth'' as an immediate action once per mission.  If the wear of the belt every opts to roll the save against the ''Zone of Truth'' the belt ceases functioning for the remainder of the mission.

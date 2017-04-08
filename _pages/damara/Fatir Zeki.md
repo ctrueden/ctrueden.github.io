@@ -1,0 +1,1 @@
+Fatir is a wizard.  He spends most of his time cooped up in a (admittedly very nice) laboratory provided to him by his employer, ((Shamir Ranalt)).  Fatir is the primary creator of magic items for Shamir's trading business.

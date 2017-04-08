@@ -1,0 +1,1 @@
+The former stronghold of the ((Citadel of Assassins)), stripped bare of all signs of life by the shadow of Zhengyi's power.  It now stands abandoned, a great black spire of obsidian standing alone in a narrow mountain pass in the Northern Galena mountains.  (if anyone intends to occupy this citadel, contact Griffin first)

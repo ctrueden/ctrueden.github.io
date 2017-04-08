@@ -1,0 +1,3 @@
+The Caretakers are volunteers who are trained and governmentally recognized selfless proficient persons, primarily clerics of Ilmater, who travel the country providing whatever services they can to improve the lives of the Damaran people. They are unpaid by the government and have no authority over the citizens.
+
+The Caretakers make their living by receiving food and shelter from those kind enough to give it.  They tend to join travelling caravans or armies, but some stay at newly formed hospitals within Heliogabalus.  Their presence is almost always welcome as they provide free healing, labor, protection, and religious guidance.

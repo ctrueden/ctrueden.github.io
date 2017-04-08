@@ -1,0 +1,3 @@
+The Great Glacier Tradition is an animist cult that venerates the spirits of animals and geographical features of the cold lands. It is led by ((Spirit Talker Azar)). Other known members include ((Spirit Talker Azar|Azar))'s apprentice ((Mara)) and ((Chi Zahal)).  The spirits of the Great Glacier tradition only listen to women, but they don't understand material beings well enough to tell the difference between someone who is physically female and someone who just acts female.
+
+((Spirit Talker Azar|Azar)) has been trying to initiate her apprentice ((Mara)) as a spirit talker, but has not been able to find a spirit guide for her.  In fact, ((Spirit Talker Azar|Azar))'s power has been weakened of late.  Has something happened to the spirits of the Great Glacier?

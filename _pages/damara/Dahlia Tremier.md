@@ -1,0 +1,5 @@
+Dahlia Tremier is an evil sorceress, servant of the ((Zhengyi the Witch-King|Witch-King)), and ((Gareth Tremier|Gareth Tremier's)) mother. After the Witch-King was defeated over a decade ago, she was captured and forced to swear a vow of fealty to Damara. She served as a court sorceress for many years, until the Witch-King's reawakening, at which time she fled ((Heliogabalus)) to rejoin her former master.
+
+She was believed to have been killed during the final battle between ((King Gareth Dragonsbane|Dragonsbane)) and the Witch-King, but recently resurfaced posing as the mayor of Fimbul village in the ((Shadow of the Great Glacier)). She had concocted a plan to draw spirits from the glacier to use in a ritual for awakening a dark genie, but her plan was foiled. She narrowly escaped, and is currently at large.
+
+''Note to GMs: This character is &quot;GM candy,&quot; available for use in missions as a villain or NPC, if desired and appropriate. If you use her, please update her description here so that other GMs know her current status.''

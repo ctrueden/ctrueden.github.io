@@ -1,0 +1,1 @@
+Formerly, a group of paladins indirectly related to ((Imphras II)).  They had been charged with the administration of ((Impiltur)) by ((Queen Sambryl)), until her untimely death allowed her son ((King Arorhon Imphras|Arorhon Imphras)) to seize absolute power.  In the resulting power struggle the Twelve Lords of Imphras II were each killed, imprisoned, or banished.

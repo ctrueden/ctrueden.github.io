@@ -1,0 +1,1 @@
+A Human ranger from the community of ((Freedoms Tear|Freedom's Tear)).  He works for ((Gil)) and ((Baron Luke Solthen)) when a situation requires a more wild hand, or significant amounts of travel.  He has not yet earned the right to become an Elan, but he shows promise, especially in Archery Trials.

@@ -1,0 +1,1 @@
+High General of the northern armies of ((Impiltur)).  She earned her nickname The wolf of the North for her unrivaled mastery of northern ((Impiltur))'s terrain.  She and her armies have rallied to the banner of the true heir to the throne.

@@ -1,0 +1,1 @@
+Formerly the ruler of ((Trails End|Trail's End)), Baron Donlevy the Young was dispatched to ((Impiltur)) as the royal emissary at the beginning of the ((Zhengyi the Witch-King|the Witch-King's)) second invasion of ((Damara)).  He has not been heard from since.

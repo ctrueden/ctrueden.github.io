@@ -1,0 +1,1 @@
+Just a homeless guy.  He sits on the street, or in a church.  He probably begs and eats rats.  He might have some useful tidbits of information from time to time, seeing as how he is around somewhere not doing anything in particular other than just staying alive.
