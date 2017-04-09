@@ -1,0 +1,8 @@
+---
+layout: page
+title: Fey Arius
+permalink: /deus/char-public-danielle
+category: deus
+---
+Fey is quite striking looking.  A few people may first notice that she is no bigger than a two or three year old human child, but more of a rail than a healthy looking, meaty child.  A couple people actually notice her dainty wings that are often in use and when they are not they usually sit high above her head in much resemblance to those of ancient insects called dragonflies.  However, the vast majority of anyone who comes across her notices how bright, or light, or just odd colored her hair is.  Usually after trying for a while not to stare at her extremely light and wildly curly hair; often trying to figure out if it is some sort of insane bleach job and searching for roots to support this theory, people notice that her skin is also an almost creepy shade, obviously nearly void of melatonin.  She is so small and moves in such a speedy fashion that people don't often have to avoid staring for too long.  As more time in spent in close facility with her, however, the most striking thing about her appearance unveils itself.  At first her eyes just appear to be way too dark for the rest of her but when they are caught straight on for a while they become a deep red.
+
