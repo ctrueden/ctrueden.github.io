@@ -4,7 +4,7 @@ title: SessionMon01
 permalink: /deus/session-mon01
 category: deus
 ---
-Thanks to [Alex](playeralex) for this session summary.
+Thanks to [Alex](player-alex) for this session summary.
 
 -----
 [Ariona Cassyon](char-public-alex) returns from vacation at the behest of her boss, [Rudolph Bernstein](npc-bernstein).  She returns to the lab in the evening of Wednesday, June 7th, 2299.  Just as she is about to enter the building, an extremely strange creature appears next to her.  She instantly identifies him as [Devon Merridith](char-public-joey), as she has heard of his research, and his accident, and no one else could possibly be this distinctively deformed.   She attempts to keep him out, but he claims that Dr. Bernstein contacted him because he is in grave danger at this moment.  They run inside together, and as they enter the lab facility they discover that someone else has arrived first. 

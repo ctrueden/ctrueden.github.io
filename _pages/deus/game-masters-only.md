@@ -39,27 +39,27 @@ This page is for GMs only, and serves as the central repository of all the game'
 
 ## Characters
 |__Player__|__Character__|__Public__|__Private__|__Secrets__|__Announce__|
-|[AJ](playeraj) |Ian Thorpe| [X](char-public-aj) | [X](char-private-aj) | [X](char-secrets-aj) | [X](announce-aj)|
-|[Alex](playeralex) |Ariona Cassyon| [X](char-public-alex) | [X](char-private-alex) | [X](char-secrets-alex) | [X](announce-alex)|
-|[Allen](playerallen) |Vittorio Garibaldi| [X](char-public-allen) | [X](char-private-allen) | [X](char-secrets-allen) | [X](announce-allen)|
-|[Andy](playerandy) |Brice Murphy| [X](char-public-andy) | [X](char-private-andy) | [X](char-secrets-andy) | [X](announce-andy)|
-|[Athena](playerathena) |Bridget &quot;Ridge&quot; Kilgerren| [X](char-public-athena) | [X](char-private-athena) | [X](char-secrets-athena) | [X](announce-athena)|
-|[Danielle](playerdanielle) |Fey Arius| [X](char-public-danielle) | [X](char-private-danielle) | [X](char-secrets-danielle) | [X](announce-danielle)|
-|[Eva](playereva) |Rekari Der'Ken (Rae Denison)| [X](char-public-eva) | [X](char-private-eva) | [X](char-secrets-eva) | [X](announce-eva)|
-|[Griffin](playergriffin) |Damocles Experiment Epsilon| [X](char-public-griffin) | [X](char-private-griffin) | [X](char-secrets-griffin) | [X](announce-griffin)|
-|[James](playerjames) |Zee| [X](char-public-james) | [X](char-private-james) | [X](char-secrets-james) | [X](announce-james)|
-|[Jason](playerjason) |Laiden Brinsop| [X](char-public-jason) | [X](char-private-jason) | [X](char-secrets-jason) | [X](announce-jason)|
-|[Joey](playerjoey) |Devon &quot;Meechum&quot; Merrideth| [X](char-public-joey) | [X](char-private-joey) | [X](char-secrets-joey) | [X](announce-joey)|
-|[John](playerjohn) |Matt Smith| [X](char-public-john) | [X](char-private-john) | [X](char-secrets-john) | [X](announce-john)|
-|[Jon](playerjon) |Nikolai Derrota| [X](char-public-jon) | [X](char-private-jon) | [X](char-secrets-jon) | [X](announce-jon)|
-|[Kelsey](playerkelsey) |Eddie| [X](char-public-kelsey) | [X](char-private-kelsey) | [X](char-secrets-kelsey) | [X](announce-kelsey)|
-|[Lucas](playerlucas) |Noun (Russell Tanner Miner) | [X](char-public-lucas) | [X](char-private-lucas) | [X](char-secrets-lucas) | [X](announce-lucas)|
-|[Mark](playermark) |Trenton Verner| [X](char-public-mark) | [X](char-private-mark) | [X](char-secrets-mark) | [X](announce-mark)|
-|[Megan](playermegan) |Hep| [X](char-public-megan) | [X](char-private-megan) | [X](char-secrets-megan) | [X](announce-megan)|
-|[Mike](playermike) |Vadril Korlax| [X](char-public-mike) | [X](char-private-mike) | [X](char-secrets-mike) | [X](announce-mike)|
-|[Nate](playernate) |Maximilian Cohen| [X](char-public-nate) | [X](char-private-nate) | [X](char-secrets-nate) | [X](announce-nate)|
-|[Ozzyie](playerozzyie) |Malcolm Biggs| [X](char-public-ozzyie) | [X](char-private-ozzyie) | [X](char-secrets-ozzyie) | [X](announce-ozzyie)|
-|[Paul](playerpaul) |Andrew Peters| [X](char-public-paul) | [X](char-private-paul) | [X](char-secrets-paul) | [X](announce-paul)|
+|[AJ](player-aj) |Ian Thorpe| [X](char-public-aj) | [X](char-private-aj) | [X](char-secrets-aj) | [X](announce-aj)|
+|[Alex](player-alex) |Ariona Cassyon| [X](char-public-alex) | [X](char-private-alex) | [X](char-secrets-alex) | [X](announce-alex)|
+|[Allen](player-allen) |Vittorio Garibaldi| [X](char-public-allen) | [X](char-private-allen) | [X](char-secrets-allen) | [X](announce-allen)|
+|[Andy](player-andy) |Brice Murphy| [X](char-public-andy) | [X](char-private-andy) | [X](char-secrets-andy) | [X](announce-andy)|
+|[Athena](player-athena) |Bridget &quot;Ridge&quot; Kilgerren| [X](char-public-athena) | [X](char-private-athena) | [X](char-secrets-athena) | [X](announce-athena)|
+|[Danielle](player-danielle) |Fey Arius| [X](char-public-danielle) | [X](char-private-danielle) | [X](char-secrets-danielle) | [X](announce-danielle)|
+|[Eva](player-eva) |Rekari Der'Ken (Rae Denison)| [X](char-public-eva) | [X](char-private-eva) | [X](char-secrets-eva) | [X](announce-eva)|
+|[Griffin](player-griffin) |Damocles Experiment Epsilon| [X](char-public-griffin) | [X](char-private-griffin) | [X](char-secrets-griffin) | [X](announce-griffin)|
+|[James](player-james) |Zee| [X](char-public-james) | [X](char-private-james) | [X](char-secrets-james) | [X](announce-james)|
+|[Jason](player-jason) |Laiden Brinsop| [X](char-public-jason) | [X](char-private-jason) | [X](char-secrets-jason) | [X](announce-jason)|
+|[Joey](player-joey) |Devon &quot;Meechum&quot; Merrideth| [X](char-public-joey) | [X](char-private-joey) | [X](char-secrets-joey) | [X](announce-joey)|
+|[John](player-john) |Matt Smith| [X](char-public-john) | [X](char-private-john) | [X](char-secrets-john) | [X](announce-john)|
+|[Jon](player-jon) |Nikolai Derrota| [X](char-public-jon) | [X](char-private-jon) | [X](char-secrets-jon) | [X](announce-jon)|
+|[Kelsey](player-kelsey) |Eddie| [X](char-public-kelsey) | [X](char-private-kelsey) | [X](char-secrets-kelsey) | [X](announce-kelsey)|
+|[Lucas](player-lucas) |Noun (Russell Tanner Miner) | [X](char-public-lucas) | [X](char-private-lucas) | [X](char-secrets-lucas) | [X](announce-lucas)|
+|[Mark](player-mark) |Trenton Verner| [X](char-public-mark) | [X](char-private-mark) | [X](char-secrets-mark) | [X](announce-mark)|
+|[Megan](player-megan) |Hep| [X](char-public-megan) | [X](char-private-megan) | [X](char-secrets-megan) | [X](announce-megan)|
+|[Mike](player-mike) |Vadril Korlax| [X](char-public-mike) | [X](char-private-mike) | [X](char-secrets-mike) | [X](announce-mike)|
+|[Nate](player-nate) |Maximilian Cohen| [X](char-public-nate) | [X](char-private-nate) | [X](char-secrets-nate) | [X](announce-nate)|
+|[Ozzyie](player-ozzyie) |Malcolm Biggs| [X](char-public-ozzyie) | [X](char-private-ozzyie) | [X](char-secrets-ozzyie) | [X](announce-ozzyie)|
+|[Paul](player-paul) |Andrew Peters| [X](char-public-paul) | [X](char-private-paul) | [X](char-secrets-paul) | [X](announce-paul)|
 
 ## Topics covered
 * [Creation of the universe](universe-creation) -- how the universe came to be, as well as background on the entities known as the Destroyer and the Destiny Force

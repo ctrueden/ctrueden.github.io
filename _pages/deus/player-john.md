@@ -1,7 +1,7 @@
 ---
 layout: page
 title: John
-permalink: /deus/playerjohn
+permalink: /deus/player-john
 category: deus
 ---
 Status: confirmed

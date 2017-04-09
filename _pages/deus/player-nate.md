@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nate
-permalink: /deus/playernate
+permalink: /deus/player-nate
 category: deus
 ---
 Status: confirmed

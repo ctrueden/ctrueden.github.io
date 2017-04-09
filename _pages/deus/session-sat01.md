@@ -4,15 +4,15 @@ title: SessionSat01
 permalink: /deus/session-sat01
 category: deus
 ---
-Thanks to [Eva](playereva) for this session summary.
+Thanks to [Eva](player-eva) for this session summary.
 
 A copy of these session notes from [Rae](char-public-eva)'s perspective can be found at [http://www.digitalchangeling.com/gaming/session_notes/deus/050903.html].
 
 -----
 Session started at 2:15 pm on 9/3/05
 
-Attending players: [Mike](playermike), [Nate](playernate), [Griffin](playergriffin), [John](playerjohn), [Eva](playereva)
-Presiding GM: [Curtis](playercurtis)
+Attending players: [Mike](player-mike), [Nate](player-nate), [Griffin](player-griffin), [John](player-john), [Eva](player-eva)
+Presiding GM: [Curtis](player-curtis)
 
 (Each of us go off to talk with Curtis one at a time to do our individual character introduction.)
 

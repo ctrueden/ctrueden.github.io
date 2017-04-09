@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Danielle
-permalink: /deus/playerdanielle
+permalink: /deus/player-danielle
 category: deus
 ---
 Status: confirmed

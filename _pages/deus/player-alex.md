@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alex
-permalink: /deus/playeralex
+permalink: /deus/player-alex
 category: deus
 ---
 Status: confirmed

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joey
-permalink: /deus/playerjoey
+permalink: /deus/player-joey
 category: deus
 ---
 Status: confirmed

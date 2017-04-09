@@ -16,9 +16,9 @@ Welcome to Deus Ultionis! Use the menu bar to the left to navigate the site.
 ## Players
 
 |__Group__|__Time__|__Players__|
-|Monday|6:30 pm|[Alex](playeralex), [Allen](playerallen), [Andy](playerandy), [Griffin](playergriffin), [Joey](playerjoey), [Jon](playerjon)|
-|Wednesday|7:00 pm|[Athena](playerathena), [Danielle](playerdanielle), [Jason](playerjason), [Lucas](playerlucas), [Mark](playermark), [Oz](playerozzyie), [Paul](playerpaul)|
-|Saturday|2:00 pm|[Eva](playereva), [James](playerjames), [John](playerjohn), [Kelsey](playerkelsey), [Mike](playermike), [Nate](playernate)|
+|Monday|6:30 pm|[Alex](player-alex), [Allen](player-allen), [Andy](player-andy), [Griffin](player-griffin), [Joey](player-joey), [Jon](player-jon)|
+|Wednesday|7:00 pm|[Athena](player-athena), [Danielle](player-danielle), [Jason](player-jason), [Lucas](player-lucas), [Mark](player-mark), [Oz](player-ozzyie), [Paul](player-paul)|
+|Saturday|2:00 pm|[Eva](player-eva), [James](player-james), [John](player-john), [Kelsey](player-kelsey), [Mike](player-mike), [Nate](player-nate)|
 
 * The campaign will run until summer 2006 (~18 sessions).
 * The tentative date for the joint final session is Saturday, June 17th, 2006.

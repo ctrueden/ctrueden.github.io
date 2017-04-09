@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Megan
-permalink: /deus/playermegan
+permalink: /deus/player-megan
 category: deus
 ---
 Status: dropped

@@ -4,7 +4,7 @@ title: SessionWed01
 permalink: /deus/session-wed01
 category: deus
 ---
-Thanks to [Oz](playerozzyie) for this session summary.
+Thanks to [Oz](player-ozzyie) for this session summary.
 
 -----
 &quot;An army without leaders is like a foot without a big toe.&quot;
@@ -18,7 +18,7 @@ Upon the space colony [Percepi](worlds), the unveiling of the first Great Forest
 
 UN Forces Captain [Ridge Kilgerren](char-public-athena) patiently waits at Pax Artificium Spaceport for her 14:50 transport to Percepi, where she is to meet with Claxton Jones, who is coordinating a new colony that will be significantly further from Earth than any previous.  In the waiting area a voice announces that all transport to Percepi are suspended until further notice.  Checking with her superiors using her comlink, she finds that Percepi no longer shows up on any instruments and that she is reassigned immediately to Laboro where she will check in and be briefed on her new mission to study what has happened.
 
-Right at that same moment, [Trenton Verner](char-public-mark) has some revelation, which I cannot share with our audience.  You DO NOT have clearance.  This was a private meeting between [Curtis](playercurtis) and [Mark](playermark), who has been cast as Trenton Verner.  Perhaps he wonders if he left the stove on at home.
+Right at that same moment, [Trenton Verner](char-public-mark) has some revelation, which I cannot share with our audience.  You DO NOT have clearance.  This was a private meeting between [Curtis](player-curtis) and [Mark](player-mark), who has been cast as Trenton Verner.  Perhaps he wonders if he left the stove on at home.
 
 Trenton, traveling to Percepi on the same transport and hearing the same announcement, begins searching the nets for more details.  There is little other than all communications with Percepi having been lost.  He calls his parents, gets their answering machine, and leaves a message for them to call back.  Working with the gate stewardess, he is told all transports to Percepi have been suspended, but is offered transport to Laboro in exchange.  Trenton accepts, handing over identification card and is cleared for transport from gate Zeta 12.
 

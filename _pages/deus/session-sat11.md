@@ -4,7 +4,7 @@ title: SessionSat11
 permalink: /deus/session-sat11
 category: deus
 ---
-Thanks to [Eva](playereva) for this session summary.
+Thanks to [Eva](player-eva) for this session summary.
 
 These session notes are from [Rae](char-public-eva)'s perspective, and are originally from [http://www.digitalchangeling.com/gaming/session_notes/deus/060224.html].
 

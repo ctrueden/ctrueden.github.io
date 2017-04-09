@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mark
-permalink: /deus/playermark
+permalink: /deus/player-mark
 category: deus
 ---
 Status: confirmed

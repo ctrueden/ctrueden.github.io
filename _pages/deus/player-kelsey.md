@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kelsey
-permalink: /deus/playerkelsey
+permalink: /deus/player-kelsey
 category: deus
 ---
 Status: confirmed
