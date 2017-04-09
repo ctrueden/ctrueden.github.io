@@ -6,7 +6,7 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Saturday, 2:00pm||
+|__1st choice__|Saturday, 2:00pm|
 ### Harry Bryant, Eddie
 *[Character description](CharPublicKelsey){GROUP(groups=&gt;kelsey|GMs)}
 *[Private page](CharPrivateKelsey)

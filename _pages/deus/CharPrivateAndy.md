@@ -114,19 +114,19 @@ Computer Use (Int), Concentration (Con), Craft (electronic) (Int), Decipher  Scr
 The Netmind receives (5 + Int) skill points per level.
 
 ### Table: The Netmind
-|| Class Level | Base Attack | Fort Save | Ref Save | Will Save | Special | Def.  Bonus | Rep. Bonus
-1st|+0|+0|+0|+2|Seeing the code|+1|+1
-2nd|+1|+0|+0|+3|Remote read|+1|+1
-3rd|+1|+1|+1|+3|Writing the code|+2|+1
-4th|+2|+1|+1|+4|Bridging the gap|+2|+2
-5th|+2|+1|+1|+4|Stepping through the code|+3|+2
-6th|+3|+2|+2|+5|Seeing through the code|+3|+2
-6th|+3|+2|+2|+5|Permanent connections|+4|+3
-7th|+4|+2|+2|+6|Cut and paste|+4|+3
-8th|+4|+3|+3|+6|Carbon copy|+5|+3
-9th|+5|+3|+3|+7|Temporal connection|+5|+4
-10th|+5|+3|+3|+7|Universal network|+6|+4
-12th|+6|+4|+4|+8|Being the code|+6|+4||
+|Class Level | Base Attack | Fort Save | Ref Save | Will Save | Special | Def.  Bonus | Rep. Bonus|
+|1st|+0|+0|+0|+2|Seeing the code|+1|+1|
+|2nd|+1|+0|+0|+3|Remote read|+1|+1|
+|3rd|+1|+1|+1|+3|Writing the code|+2|+1|
+|4th|+2|+1|+1|+4|Bridging the gap|+2|+2|
+|5th|+2|+1|+1|+4|Stepping through the code|+3|+2|
+|6th|+3|+2|+2|+5|Seeing through the code|+3|+2|
+|6th|+3|+2|+2|+5|Permanent connections|+4|+3|
+|7th|+4|+2|+2|+6|Cut and paste|+4|+3|
+|8th|+4|+3|+3|+6|Carbon copy|+5|+3|
+|9th|+5|+3|+3|+7|Temporal connection|+5|+4|
+|10th|+5|+3|+3|+7|Universal network|+6|+4|
+|12th|+6|+4|+4|+8|Being the code|+6|+4|
 
 ### Class Features
 The following features pertain to the Netmind advanced class. 

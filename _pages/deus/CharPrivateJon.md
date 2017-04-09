@@ -184,12 +184,12 @@ __Skill Points:__ 5 + Int Mod
 
 __Class Skills:__  Balance(Dex), Craft(Int), Hide(Dex), Intimidate(Cha), Knowledge(Int, all skills taken individually), Listen(Wis), Move Silently(Dex), Navigate(Int), Profession(Wis), Read/Write Language(None), Research(Int), Search(Int), Speak Language(None), Spot(Wis), Survival(Wis), Tumble(Dex). 
 
-||__Level__|__Base Att. Bonus__|__Fort Save__|__Reflex Save__|__Will Save__|__Reputation__|__Defense Bonus__|__Special__
-1|+0|+0|+1|+2|+0|+0|Sense the Void
-2|+1|+0|+1|+3|+0|+0|Touch of Void
-3|+1|+1|+2|+3|+0|+1|Void of Mind
-4|+2|+1|+2|+4|+0|+1|Channel Void
-5|+2|+1|+3|+4|+0|+2|One with the Void||
+|__Level__|__Base Att. Bonus__|__Fort Save__|__Reflex Save__|__Will Save__|__Reputation__|__Defense Bonus__|__Special__|
+|1|+0|+0|+1|+2|+0|+0|Sense the Void|
+|2|+1|+0|+1|+3|+0|+0|Touch of Void|
+|3|+1|+1|+2|+3|+0|+1|Void of Mind|
+|4|+2|+1|+2|+4|+0|+1|Channel Void|
+|5|+2|+1|+3|+4|+0|+2|One with the Void|
 
 As a Disciple of the Void progresses down the paths of understanding, he gains the following abilities: 
 
@@ -217,15 +217,15 @@ __Class Skills:__ ...
 __Skill Points:__ 3 + Int modifier.
 
 __Table: Void Ascendant__
-||__Level__|__Base Attack Bonus__|__Fort Save__|__Ref Save__|__Will Save__|__Special__|__Defense Bonus__|__Reputation Bonus__
-1st|+0|+0|+1|+1|Void Step|+1|+0
-2nd|+1|+0|+2|+2|Void Echoes|+1|+0
-3rd|+2|+1|+2|+2|Void Reflex|+2|+1
-4th|+3|+1|+3|+3|Commune with the Void|+2|+1
-5th|+3|+1|+3|+3|Annihilation|+3|+1
-6th|+4|+2|+4|+4|Time Stop|+3|+2
-7th|+5|+2|+4|+4|Void Duplicate|+4|+2
-8th|+6|+2|+5|+5|Void Mastery|+4|+2||
+|__Level__|__Base Attack Bonus__|__Fort Save__|__Ref Save__|__Will Save__|__Special__|__Defense Bonus__|__Reputation Bonus__|
+|1st|+0|+0|+1|+1|Void Step|+1|+0|
+|2nd|+1|+0|+2|+2|Void Echoes|+1|+0|
+|3rd|+2|+1|+2|+2|Void Reflex|+2|+1|
+|4th|+3|+1|+3|+3|Commune with the Void|+2|+1|
+|5th|+3|+1|+3|+3|Annihilation|+3|+1|
+|6th|+4|+2|+4|+4|Time Stop|+3|+2|
+|7th|+5|+2|+4|+4|Void Duplicate|+4|+2|
+|8th|+6|+2|+5|+5|Void Mastery|+4|+2|
 
 __Void Step (Su):__ At 1st level, the Ascendant can step directly into the Void as a standard action, remaining there for up to one round per level. As a standard action (or as a non-action when the duration expires) he may leave the Void, stepping back into reality at any place where he is familiar. The Ascendant may perform the Void Step once per day. Whenever this power is used, echoes of the Void can briefly be heard to those nearby.
 

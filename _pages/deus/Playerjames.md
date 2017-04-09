@@ -6,7 +6,7 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Saturday 2:00pm||
+|__1st choice__|Saturday 2:00pm|
 ### Zee
 *[Character description](CharPublicJames){GROUP(groups=&gt;james|GMs)}
 *[Private page](CharPrivateJames)

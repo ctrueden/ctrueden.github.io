@@ -98,23 +98,23 @@ Lastly, dragons possess the secrets of [psionic power](MagicPsionics), meaning t
 
 ### Young [white dragon](http://www.d20srd.org/srd/monsters/dragonTrue.htm#whiteDragon) level progression
 
-||__Level__|__Hit Dice__|__Base Attack/Grapple__|__Fort Save__|__Ref Save__|__Will Save__|__Skill Points__|__CR__|__Special__
-1st|1d12|+0/+0|+2|+0|+0|(6 + Int mod) x 4|1|+1 natural armor, natural attacks, icewalking, immunity to cold, vulnerability to fire, speed 30 ft., fly 90 ft. (poor)
-2nd|1d12|+1/+1|+3|+1|+1|-|1|+2 Str, breath weapon 1d6 (12), fly 100 ft. (poor), swim 10 ft.
-3rd|2d12|+2/+2|+3|+1|+1|(6 + Int mod)|1|+2 natural armor, ''sleep'' and paralysis immunity, fly 110 ft. (poor)
-4th|3d12|+3/+3|+4|+2|+2|(6 + Int mod)|1|+3 natural armor, Keen Senses, speed 40 ft., fly 120 ft. (poor), swim 20 ft.
-5th|4d12|+4/+4|+4|+2|+2|(6 + Int mod)|2|+2 Con, fly 130 ft. (poor), burrow 10 ft.
-6th|4d12|+4/+5|+5|+3|+3|-|2|+4 natural armor, breath weapon 2d6 (14), fly 140 ft. (poor), swim 30 ft.
-7th|5d12|+5/+6|+5|+3|+3|(6 + Int mod)|2|+5 natural armor, [Blindsense](http://www.d20srd.org/srd/naturalSpecialAbilities.htm#blindsense), speed 50 ft., fly 150 ft. (poor)
-8th|6d12|+6/+7|+6|+4|+4|(6 + Int mod)|2|+2 Str, fly 160 ft. (poor), burrow 20 ft., swim 40 ft.
-9th|7d12|+7/+8|+6|+4|+4|(6 + Int mod)|3|+6 natural armor, fly 170 ft. (poor)
-10th|7d12|+8/+9|+7|+5|+5|-|3|+7 natural armor, breath weapon 3d6 (16), speed 60 ft., fly 180 ft. (poor), swim 50 ft.
-11th|8d12|+9/+10|+7|+5|+5|(6 + Int mod)|3|+2 Con, fly 190 ft. (poor), burrow 30 ft.
-12th|9d12|+9/+11|+8|+6|+6|(6 + Int mod)|3|+8 natural armor, fly 200 ft. (poor), swim 60 ft.||
+|__Level__|__Hit Dice__|__Base Attack/Grapple__|__Fort Save__|__Ref Save__|__Will Save__|__Skill Points__|__CR__|__Special__|
+|1st|1d12|+0/+0|+2|+0|+0|(6 + Int mod) x 4|1|+1 natural armor, natural attacks, icewalking, immunity to cold, vulnerability to fire, speed 30 ft., fly 90 ft. (poor)|
+|2nd|1d12|+1/+1|+3|+1|+1|-|1|+2 Str, breath weapon 1d6 (12), fly 100 ft. (poor), swim 10 ft.|
+|3rd|2d12|+2/+2|+3|+1|+1|(6 + Int mod)|1|+2 natural armor, ''sleep'' and paralysis immunity, fly 110 ft. (poor)|
+|4th|3d12|+3/+3|+4|+2|+2|(6 + Int mod)|1|+3 natural armor, Keen Senses, speed 40 ft., fly 120 ft. (poor), swim 20 ft.|
+|5th|4d12|+4/+4|+4|+2|+2|(6 + Int mod)|2|+2 Con, fly 130 ft. (poor), burrow 10 ft.|
+|6th|4d12|+4/+5|+5|+3|+3|-|2|+4 natural armor, breath weapon 2d6 (14), fly 140 ft. (poor), swim 30 ft.|
+|7th|5d12|+5/+6|+5|+3|+3|(6 + Int mod)|2|+5 natural armor, [Blindsense](http://www.d20srd.org/srd/naturalSpecialAbilities.htm#blindsense), speed 50 ft., fly 150 ft. (poor)|
+|8th|6d12|+6/+7|+6|+4|+4|(6 + Int mod)|2|+2 Str, fly 160 ft. (poor), burrow 20 ft., swim 40 ft.|
+|9th|7d12|+7/+8|+6|+4|+4|(6 + Int mod)|3|+6 natural armor, fly 170 ft. (poor)|
+|10th|7d12|+8/+9|+7|+5|+5|-|3|+7 natural armor, breath weapon 3d6 (16), speed 60 ft., fly 180 ft. (poor), swim 50 ft.|
+|11th|8d12|+9/+10|+7|+5|+5|(6 + Int mod)|3|+2 Con, fly 190 ft. (poor), burrow 30 ft.|
+|12th|9d12|+9/+11|+8|+6|+6|(6 + Int mod)|3|+8 natural armor, fly 200 ft. (poor), swim 60 ft.|
 
 
 ### Merit point costs for unique abilities
 
-||__Ability__|__Cost__
-Breath weapon|1mp per 1d6
-Keen senses|1mp||
+|__Ability__|__Cost__|
+|Breath weapon|1mp per 1d6|
+|Keen senses|1mp|

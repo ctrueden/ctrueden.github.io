@@ -129,35 +129,35 @@ __Prerequisite:__ Reserve 10.
 
 __Benefit:__ You are capable of weaving nets made of mystic energy. Each thread costs 1 Reserve and takes 10 minutes to create. Threads dissolve after one day. It takes one thread per 10 feet of linear area (length + width), as given on the table below.
 
-||__Threads__|__Linear area__|__Example__
-1|10 ft|5 ft x 5 ft area
-10|100 ft|30 ft x 70 ft area
-20|192 ft|Launch (24 ft)
-26|256 ft|Assault Fighter (32 ft)
-29|288 ft|Fighter (36 ft)
-36|360 ft|Courier (45 ft)
-48|480 ft|Orbital Shuttle (60 ft)
-88|880 ft|Fast Freighter (110 ft)
-120|1,200 ft|Scout (150 ft)
-144|1,440 ft|Escort (180 ft)
-256|2,560 ft|Corvette (320 ft)
-288|2,880 ft|Frigate (360 ft)
-360|3,600 ft|Destroyer (450 ft)
-360|3,600 ft|Hauler (450 ft)
-576|5,760 ft|Cruiser (720 ft)
-640|6,400 ft|Bulk Freighter (800 ft)
-680|6,800 ft|Clipper (850 ft)
-760|7,600 ft|Strike Cruiser (950 ft)
-960|9,600 ft|Tanker (1,200 ft)
-960|9,600 ft|Liner (1,200 ft)
-1,000|10,000 ft|Battleship (1,250 ft)
-1,056|10,560 ft|Heavy Transport (1,320 ft)
-1,088|10,880 ft|Battle Cruiser (1,360 ft)
-1,120|11,200 ft|Fleet Carrier (1,400 ft)
-1,440|14,400 ft|Star Freighter (1,800 ft)
-1,600|16,000 ft|Colony Ship (2,000 ft)
-2,200|22,000 ft|Dreadnought (2,750 ft)
-2,400|24,000 ft|Star Carrier (3,000 ft)||
+|__Threads__|__Linear area__|__Example__|
+|1|10 ft|5 ft x 5 ft area|
+|10|100 ft|30 ft x 70 ft area|
+|20|192 ft|Launch (24 ft)|
+|26|256 ft|Assault Fighter (32 ft)|
+|29|288 ft|Fighter (36 ft)|
+|36|360 ft|Courier (45 ft)|
+|48|480 ft|Orbital Shuttle (60 ft)|
+|88|880 ft|Fast Freighter (110 ft)|
+|120|1,200 ft|Scout (150 ft)|
+|144|1,440 ft|Escort (180 ft)|
+|256|2,560 ft|Corvette (320 ft)|
+|288|2,880 ft|Frigate (360 ft)|
+|360|3,600 ft|Destroyer (450 ft)|
+|360|3,600 ft|Hauler (450 ft)|
+|576|5,760 ft|Cruiser (720 ft)|
+|640|6,400 ft|Bulk Freighter (800 ft)|
+|680|6,800 ft|Clipper (850 ft)|
+|760|7,600 ft|Strike Cruiser (950 ft)|
+|960|9,600 ft|Tanker (1,200 ft)|
+|960|9,600 ft|Liner (1,200 ft)|
+|1,000|10,000 ft|Battleship (1,250 ft)|
+|1,056|10,560 ft|Heavy Transport (1,320 ft)|
+|1,088|10,880 ft|Battle Cruiser (1,360 ft)|
+|1,120|11,200 ft|Fleet Carrier (1,400 ft)|
+|1,440|14,400 ft|Star Freighter (1,800 ft)|
+|1,600|16,000 ft|Colony Ship (2,000 ft)|
+|2,200|22,000 ft|Dreadnought (2,750 ft)|
+|2,400|24,000 ft|Star Carrier (3,000 ft)|
 All starships are assumed to be approximately 2:1:1 ratio (length:width:height), with linear area computed as 2*(l+w) + 2*(l+h) + 2*(w+h) = 8*l.
 
 ### Weaver Adept [[Mystic]

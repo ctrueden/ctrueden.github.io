@@ -22,17 +22,17 @@ __Class Skills:__ Climb (Str), Concentration (Con), Drive (Dex), Intimidate (Cha
 __Skill Points:__ 5 + Int modifier.
 
 __Table: Pandora's Champion__
-||__Level__|__Base Attack Bonus__|__Fort Save__|__Ref Save__|__Will Save__|__Special__|__Defense Bonus__|__Reputation Bonus__
-1st|+0|+1|+1|+0|Weak Illusions|+1|+0
-2nd|+1|+2|+2|+0|Slow Perception|+1|+0
-3rd|+2|+2|+2|+1|Illusion Perception|+2|+1
-4th|+3|+2|+2|+1|Multiple Illusions|+2|+1
-5th|+3|+3|+3|+1|Aura Perception|+3|+1
-6th|+4|+3|+3|+2|Powerful Illusions|+3|+2
-7th|+5|+4|+4|+2|Mystic Perception|+4|+2
-8th|+6|+4|+4|+2|Permanent Illusions|+4|+2
-9th|+6|+4|+4|+3|Precognitive Perception|+5|+3
-10th|+7|+5|+5|+3|Eyes of Discord|+5|+3||
+|__Level__|__Base Attack Bonus__|__Fort Save__|__Ref Save__|__Will Save__|__Special__|__Defense Bonus__|__Reputation Bonus__|
+|1st|+0|+1|+1|+0|Weak Illusions|+1|+0|
+|2nd|+1|+2|+2|+0|Slow Perception|+1|+0|
+|3rd|+2|+2|+2|+1|Illusion Perception|+2|+1|
+|4th|+3|+2|+2|+1|Multiple Illusions|+2|+1|
+|5th|+3|+3|+3|+1|Aura Perception|+3|+1|
+|6th|+4|+3|+3|+2|Powerful Illusions|+3|+2|
+|7th|+5|+4|+4|+2|Mystic Perception|+4|+2|
+|8th|+6|+4|+4|+2|Permanent Illusions|+4|+2|
+|9th|+6|+4|+4|+3|Precognitive Perception|+5|+3|
+|10th|+7|+5|+5|+3|Eyes of Discord|+5|+3|
 
 __Weak Illusions:__ As an active [gaze attack](http://www.d20srd.org/srd/naturalSpecialAbilities.htm#gazeAttacks), the Champion can force a visual illusion on a biological creature with eyes. This illusion can be anything occupying a space of up to 15 feet in size (width + height + depth). It lasts for 1d6 rounds, and must remain within 50 feet of the target at all times. Each round the Champion is within 100 feet of the target, he may concentrate (a move-equivalent action) to manipulate the illusion -- otherwise it remains static (motionless). The intended target receives a Will save (DC 10 + Champion's Wisdom modifier) to avoid being affected. Only one creature may be affected at a time. Lastly, maintaining an illusion is taxing for the Champion, costing 2 vitality points per round. The Champion's eyes glow green whenever he attempts to use this power, and while it is active.
 

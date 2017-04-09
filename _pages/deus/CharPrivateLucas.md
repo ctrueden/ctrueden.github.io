@@ -109,17 +109,17 @@ Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Jump (Str), Knowle
 The enlightened receives (5 + Int) skill points per level.
 
 ### Table: The enlightened
-|| __Class Level__ | __Base Attack__ | __Fort Save__ | __Ref Save__ | __Will Save__ | __Special__ | __Def. Bonus__ | __Rep. Bonus__
-1st|+0|+2|+0|+2|Time magic, suppress paradox|+1|+2
-2nd|+1|+3|+0|+3|Mind clock|+1|+2
-3rd|+1|+3|+1|+3|Insightful attack|+2|+2
-4th|+2|+4|+1|+4|Quirk, toughened|+2|+3
-5th|+2|+4|+1|+4|Slow motion|+3|+3
-6th|+3|+5|+2|+5|Heart of paradox|+3|+3
-7th|+3|+5|+2|+5|Toughened|+4|+4
-8th|+4|+6|+2|+6|Quirk|+4|+4
-9th|+4|+6|+3|+6|Timeless body|+5|+4
-10th|+5|+7|+3|+7|Suppress time|+5|+5||
+|__Class Level__ | __Base Attack__ | __Fort Save__ | __Ref Save__ | __Will Save__ | __Special__ | __Def. Bonus__ | __Rep. Bonus__|
+|1st|+0|+2|+0|+2|Time magic, suppress paradox|+1|+2|
+|2nd|+1|+3|+0|+3|Mind clock|+1|+2|
+|3rd|+1|+3|+1|+3|Insightful attack|+2|+2|
+|4th|+2|+4|+1|+4|Quirk, toughened|+2|+3|
+|5th|+2|+4|+1|+4|Slow motion|+3|+3|
+|6th|+3|+5|+2|+5|Heart of paradox|+3|+3|
+|7th|+3|+5|+2|+5|Toughened|+4|+4|
+|8th|+4|+6|+2|+6|Quirk|+4|+4|
+|9th|+4|+6|+3|+6|Timeless body|+5|+4|
+|10th|+5|+7|+3|+7|Suppress time|+5|+5|
 
 ### Requirements
 To become an enlightened, a character must fulfill the following criteria.

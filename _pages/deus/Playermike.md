@@ -6,8 +6,8 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Saturday 2:00pm
-__2nd choice__|Monday 6:30pm||
+|__1st choice__|Saturday 2:00pm|
+|__2nd choice__|Monday 6:30pm|
 ### Vadril Korlax
 *[Character description](CharPublicMike){GROUP(groups=&gt;mike|GMs)}
 *[Private page](CharPrivateMike)

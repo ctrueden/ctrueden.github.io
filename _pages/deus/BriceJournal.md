@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brice's Journal: 1-10.5
+title: "Brice's Journal: 1-10.5"
 permalink: /deus/BriceJournal
 category: deus
 ---

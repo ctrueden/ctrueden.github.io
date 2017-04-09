@@ -6,7 +6,7 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Anything but Saturday||
+|__1st choice__|Anything but Saturday|
 ### Vittorio Garibaldi
 *[Character description](CharPublicAllen){GROUP(groups=&gt;allen|GMs)}
 *[Private page](CharPrivateAllen)

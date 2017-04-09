@@ -233,17 +233,17 @@ __Hit Die:__ 1d8
 __Class Skills:__ The Shattered's class skills (and the key ability for each skill) are: Balance (Dex), Climb (Str), Concentration (Con), Escape Artist (Dex), Intimidate (Cha), Jump (Str), Navigate (Int), Sense Motive (Wis), Senses (Wis), Survival (Wis), Swim (Str).
 __Skill Points at Each Level:__ 3 + Int modifier.
 
-||Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus
-1st|+1|+1|+0|+1|Altered MPD, improved BEM field|+1|+0
-2nd|+2|+2|+0|+2|Extend BEM field|+1|+0
-3rd|+3|+2|+1|+2|Mystic deflection field|+2|+1
-4th|+4|+2|+1|+2|Bonus mutations (2mp)|+2|+1
-5th|+5|+3|+1|+3|DNA memory gland|+3|+1
-6th|+6|+3|+2|+3|Cellular sentience|+3|+2
-7th|+7|+4|+2|+4|Enforced mutation|+4|+2
-8th|+8|+4|+2|+4|Bonus mutations (2mp)|+4|+2
-9th|+9|+4|+3|+4|Bonus mutations (2mp)|+5|+3
-10th|+10|+5|+3|+5|Enforced mutation (move-equivalent)|+5|+3||
+|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|1st|+1|+1|+0|+1|Altered MPD, improved BEM field|+1|+0|
+|2nd|+2|+2|+0|+2|Extend BEM field|+1|+0|
+|3rd|+3|+2|+1|+2|Mystic deflection field|+2|+1|
+|4th|+4|+2|+1|+2|Bonus mutations (2mp)|+2|+1|
+|5th|+5|+3|+1|+3|DNA memory gland|+3|+1|
+|6th|+6|+3|+2|+3|Cellular sentience|+3|+2|
+|7th|+7|+4|+2|+4|Enforced mutation|+4|+2|
+|8th|+8|+4|+2|+4|Bonus mutations (2mp)|+4|+2|
+|9th|+9|+4|+3|+4|Bonus mutations (2mp)|+5|+3|
+|10th|+10|+5|+3|+5|Enforced mutation (move-equivalent)|+5|+3|
 
 __Class Features__
 The following features pertain to the Shattered advanced class.

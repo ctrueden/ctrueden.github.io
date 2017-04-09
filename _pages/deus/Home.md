@@ -6,14 +6,12 @@ category: deus
 ---
 Welcome to Deus Ultionis! Use the menu bar to the left to navigate the site.
 
-[{img src=&quot;show_image.php?id=56&quot; width=100% align=center desc=&quot;Final session photos&quot;}](tiki-browse_gallery.php?galleryId=1)
-
 ## Next session
 
 |__Group__|__Time__|
-|Monday|[[18] Jun 17, 1:00 pm|
-|Wednesday|[[18] Jun 17, 1:00 pm|
-|Saturday|[[18] Jun 17, 1:00 pm|
+|Monday|[[18] Jun 17, 1:00 pm](Joint18)|
+|Wednesday|[[18] Jun 17, 1:00 pm](Joint18)|
+|Saturday|[[18] Jun 17, 1:00 pm](Joint18)|
 
 ## Players
 

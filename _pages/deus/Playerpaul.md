@@ -6,9 +6,9 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Wednesday 6:30pm
-__2nd choice__|Saturday 2:00pm
-__3rd choice__|Monday 6:30pm||
+|__1st choice__|Wednesday 6:30pm|
+|__2nd choice__|Saturday 2:00pm|
+|__3rd choice__|Monday 6:30pm|
 ### Andrew Peters
 *[Character description](CharPublicPaul){GROUP(groups=&gt;paul|GMs)}
 *[Private page](CharPrivatePaul)

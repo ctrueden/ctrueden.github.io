@@ -6,8 +6,8 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Wednesday 6:30pm
-__2nd choice__|Wednesdays or bust||
+|__1st choice__|Wednesday 6:30pm|
+|__2nd choice__|Wednesdays or bust|
 ### Noun
 *[Character description](CharPublicLucas){GROUP(groups=&gt;lucas|GMs)}
 *[Private page](CharPrivateLucas)

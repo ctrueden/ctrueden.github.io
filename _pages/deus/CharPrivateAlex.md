@@ -304,17 +304,17 @@ __Internal Energies:__ As the Mystic Researcher continues her study of the parti
 __Natural Dampening:__ Upon completing this class, the Mystic Researcher's understanding of the nature of energy dampening is so advanced that all effects she creates are automatically dampened. Warded effects are now also automatically dampened at no additional cost. The DC to detect a dampened effect as it is created is as given in the Improved Dampening ability.
 
 ### Table: The Mystic Researcher 
-|| Class Level | Base Attack | Fort Save | Ref Save | Will Save | Special | Def. Bonus | Rep. Bonus
-1st|+0|+0|+0|+2|Cannibalize|+1|+1
-2nd|+1|+0|+0|+3|Bonus Feat|+1|+1
-3rd|+1|+1|+1|+3|Aura Detection|+2|+1
-4th|+2|+1|+1|+4|Improved Dampening|+2|+2
-5th|+2|+1|+1|+4|Bonus Feat|+3|+2
-6th|+3|+2|+2|+5|Mystic Surge|+3|+2
-7th|+3|+2|+2|+5|Strengthen Warding|+4|+3
-8th|+4|+2|+2|+6|Bonus Feat|+4|+3
-9th|+4|+3|+3|+6|Internal Energies|+5|+3
-10th|+5|+3|+3|+7|Natural Dampening|+5|+4||
+|Class Level | Base Attack | Fort Save | Ref Save | Will Save | Special | Def. Bonus | Rep. Bonus|
+|1st|+0|+0|+0|+2|Cannibalize|+1|+1|
+|2nd|+1|+0|+0|+3|Bonus Feat|+1|+1|
+|3rd|+1|+1|+1|+3|Aura Detection|+2|+1|
+|4th|+2|+1|+1|+4|Improved Dampening|+2|+2|
+|5th|+2|+1|+1|+4|Bonus Feat|+3|+2|
+|6th|+3|+2|+2|+5|Mystic Surge|+3|+2|
+|7th|+3|+2|+2|+5|Strengthen Warding|+4|+3|
+|8th|+4|+2|+2|+6|Bonus Feat|+4|+3|
+|9th|+4|+3|+3|+6|Internal Energies|+5|+3|
+|10th|+5|+3|+3|+7|Natural Dampening|+5|+4|
 
 -----
 # Alchemical Items in my possession 
@@ -323,12 +323,12 @@ __Silk Feathered Cloak__
 ''made from a Coatl feather, Siren's hair, and a Swanmee feather'' 
 *Deflection bonus to AC equal to Charisma modifier
 *Depending on wearer's Charisma, grants additional abilities:
-||Cha Bonus|Ability
-+2|Immunity to natural disease
-+3|Immunity to natural poison
-+4|Immunity to Intelligence damage
-+5|Immunity to magical disease &amp; poison
-+6|Immunity to paralysis, petrification and stunning||
+|Cha Bonus|Ability|
+|+2|Immunity to natural disease|
+|+3|Immunity to natural poison|
+|+4|Immunity to Intelligence damage|
+|+5|Immunity to magical disease &amp; poison|
+|+6|Immunity to paralysis, petrification and stunning|
 
 __Wand of Tenebrous Incandescence__
 ''made from one of Cain's hairs, one of Ariona's, and one of Basilie's''

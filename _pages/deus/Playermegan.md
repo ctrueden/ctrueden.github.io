@@ -6,7 +6,7 @@ category: deus
 ---
 Status: dropped
 Preferred gaming slot:
-||__1st choice__|Anything||
+|__1st choice__|Anything|
 ### Hep
 *[Character description](CharPublicMegan){GROUP(groups=&gt;megan|GMs)}
 *[Private page](CharPrivateMegan)

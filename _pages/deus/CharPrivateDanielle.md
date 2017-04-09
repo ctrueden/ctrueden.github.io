@@ -104,17 +104,17 @@ Computer Use (Int), Concentration (Con), Craft (electronic, mechanical, structur
 The technodruid receives (5 + Int) skill points per level.
 
 ### Table: The technodruid 
-|| __Class Level__ | __Base Attack__ | __Fort Save__ | __Ref Save__ | __Will Save__ | __Special__ | __Def. Bonus__ | __Rep. Bonus__
-1st|+0|+2|+0|+2|Animal companion, nature sense, artifice sense|+1|+2
-2nd|+1|+3|+0|+3|Wild empathy, machine empathy|+1|+2
-3rd|+2|+3|+1|+3|Wild shape (1/day), machina shape (1/day)|+2|+2
-4th|+3|+4|+1|+4|Woodland stride, urban stride|+2|+3
-5th|+3|+4|+1|+4|Trackless step|+3|+3
-6th|+4|+5|+2|+5|Wild shape (2/day), machina shape (2/day)|+3|+3
-7th|+5|+5|+2|+5|Poison immunity|+4|+4
-8th|+6|+6|+2|+6|A thousand faces|+4|+4
-9th|+6|+6|+3|+6|Wild shape (3/day), machina shape (3/day)|+5|+4
-10th|+7|+7|+3|+7|Timeless body|+5|+5||
+|__Class Level__ | __Base Attack__ | __Fort Save__ | __Ref Save__ | __Will Save__ | __Special__ | __Def. Bonus__ | __Rep. Bonus__|
+|1st|+0|+2|+0|+2|Animal companion, nature sense, artifice sense|+1|+2|
+|2nd|+1|+3|+0|+3|Wild empathy, machine empathy|+1|+2|
+|3rd|+2|+3|+1|+3|Wild shape (1/day), machina shape (1/day)|+2|+2|
+|4th|+3|+4|+1|+4|Woodland stride, urban stride|+2|+3|
+|5th|+3|+4|+1|+4|Trackless step|+3|+3|
+|6th|+4|+5|+2|+5|Wild shape (2/day), machina shape (2/day)|+3|+3|
+|7th|+5|+5|+2|+5|Poison immunity|+4|+4|
+|8th|+6|+6|+2|+6|A thousand faces|+4|+4|
+|9th|+6|+6|+3|+6|Wild shape (3/day), machina shape (3/day)|+5|+4|
+|10th|+7|+7|+3|+7|Timeless body|+5|+5|
 
 ### Class Features 
 The following features pertain to the technodruid advanced class. 

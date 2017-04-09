@@ -6,9 +6,9 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Wednesday 6:30pm
-__2nd choice__|Saturday 2:00pm
-__3rd choice__|Not Friday or Sunday||
+|__1st choice__|Wednesday 6:30pm|
+|__2nd choice__|Saturday 2:00pm|
+|__3rd choice__|Not Friday or Sunday|
 ### Malcolm Biggs
 *[Character description](CharPublicOzzyie){GROUP(groups=&gt;ozzyie|GMs)}
 *[Private page](CharPrivateOzzyie)

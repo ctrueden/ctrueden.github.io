@@ -74,17 +74,17 @@ Class Skills
 ++The AI Researcher's class skills (and the key ability for each skill) are:__ Computer Use (Int), Craft (electronic, mechanical), Decipher Script (Int), Disable Device (Int), Investigate (Int), Knowledge (beÂ­havioral sciences, earth and life sciences, physical sciences, technology) (Int), Mysticraft (Int), Navigate (Int), Profession (Wis), Read/Write Language (none), Research (Int), Search (Int), Speak Language (none).
 __Skill Points at Each Level:__ 7 + Int modifier.
 
-||Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus
-1st|+0|+1|+1|+0|Quick Hack|+1|+0
-2nd|+1|+2|+2|+0|Scientific improvisation|+2|+0
-3rd|+1|+2|+2|+1|Build Robot(1)|+2|+1
-4th|+2|+2|+2|+1|Program Software Utility|+2|+1
-5th|+2|+3|+3|+1|Smart People Skills|+3|+1
-6th|+3|+3|+3|+2|Build Robot(2)|+3|+2
-7th|+3|+4|+4|+2|Smart Regeneration|+4|+2
-8th|+4|+4|+4|+2|Strategy Analysis|+4|+2
-9th|+4|+4|+4|+3|Build Robot(3)|+4|+3
-10th|+5|+5|+5|+3|Build Robot Defenses|+5|+3||
+|Class Level|Base Attack Bonus|Fort Save|Ref Save|Will Save|Special|Defense Bonus|Reputation Bonus|
+|1st|+0|+1|+1|+0|Quick Hack|+1|+0|
+|2nd|+1|+2|+2|+0|Scientific improvisation|+2|+0|
+|3rd|+1|+2|+2|+1|Build Robot(1)|+2|+1|
+|4th|+2|+2|+2|+1|Program Software Utility|+2|+1|
+|5th|+2|+3|+3|+1|Smart People Skills|+3|+1|
+|6th|+3|+3|+3|+2|Build Robot(2)|+3|+2|
+|7th|+3|+4|+4|+2|Smart Regeneration|+4|+2|
+|8th|+4|+4|+4|+2|Strategy Analysis|+4|+2|
+|9th|+4|+4|+4|+3|Build Robot(3)|+4|+3|
+|10th|+5|+5|+5|+3|Build Robot Defenses|+5|+3|
 
 __Class Features__
 The following features pertain to the AI Researcher advanced class.
@@ -116,32 +116,32 @@ An AI Researcher of 10th level or higher can build remote-controlled robots that
 
 Follow these steps to build a robot.
 Wealth Check:The purchase DC for the components needed to construct a robot is based on the robot's size.
-||Size|Purchase DC
-Diminutive|18
-Tiny|15||
+|Size|Purchase DC|
+|Diminutive|18|
+|Tiny|15|
 Make the Wealth check to purchase and gather the necessary components prior to starting construction.
 Construct Frame: The robot's body determines its size, shape, locomotion, and hit points. The DC of the Craft (mechanical) check is set by the robot's size and modified by the form of locomotion selected.
-||Size|Craft DC
-Diminutive|15
-Tiny|12||
+|Size|Craft DC|
+|Diminutive|15|
+|Tiny|12|
 
-||Components|DC Modifier
-Frame Shape and Locomotion __1__|
-Bipedal|+4
-Quadruped|+3
-Treads|+2
-Wheels|+1
-Gravity-Altering Floating Device (Make the sound better Curtis)|+5
-External Components__2__|
-Manipulators __3__|+3
-Audio/visual sensor|+2
-Remote Range__1__|
-Remote control link, 100 feet|+1
-Remote control link, 200 feet|+3
-Remote control link, 300 feet|+5
-1 Select only one of the options in this category.|
-2 Select one or more of the options in this category.|
-3 Necessary for a robot built to use any skill except Listen or Spot.| ||
+|Components|DC Modifier|
+|Frame Shape and Locomotion __1__|-|
+|Bipedal|+4|
+|Quadruped|+3|
+|Treads|+2|
+|Wheels|+1|
+|Gravity-Altering Floating Device (Make the sound better Curtis)|+5|
+|External Components__2__|-|
+|Manipulators __3__|+3|
+|Audio/visual sensor|+2|
+|Remote Range__1__|-|
+|Remote control link, 100 feet|+1|
+|Remote control link, 200 feet|+3|
+|Remote control link, 300 feet|+5|
+|1 Select only one of the options in this category.|-|
+|2 Select one or more of the options in this category.|-|
+|3 Necessary for a robot built to use any skill except Listen or Spot.|-|
 Select a frame size and form, add manipulators and sensors as necessary, and choose a type of remote control link. Add all the modifiers to determine the check's DC. Make the Craft (mechanical) check to construct the robot's frame.
 It takes an AI Researcher 30 hours to construct a Diminutive robot frame or 12 hours to construct a Tiny robot frame.
 A Diminutive robot can be 6 to 12 inches long or tall and weighs about 1 pound. A Tiny robot can be 13 to 24 inches long or tall and weighs up to 3 pounds. Statistics for these robots can be found in the Creature listings.

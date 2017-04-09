@@ -6,7 +6,7 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Anything but Wednesday||
+|__1st choice__|Anything but Wednesday|
 ### Rae Denisen
 *[Character description](CharPublicEva){GROUP(groups=&gt;eva|GMs)}
 *[Private page](CharPrivateEva)

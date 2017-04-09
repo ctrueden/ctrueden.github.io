@@ -172,12 +172,12 @@ __Vitality cost:__ 3 vitality times the total cost (burst)
 __Processing cost:__ A number of slots equal to the total cost
 __Cycle:__ Rounds
 __Effect:__ Certain forms of sensory input no longer function while the user emits a burst when within detection range (or 50 feet, whichever is less). The forms affected are according to the following table:
-||__Cost__|__Sensory input type__
-1|Radiation (nonvisual spectra: IR, UV, radio, X-ray, etc.)
-2|Active (motion sensors, laser trip lines, etc.)
-3|Acoustic (radar, sonar, hearing)
-4|Visual (spectra between IR and UV)
-5|Mystic||
+|__Cost__|__Sensory input type__|
+|1|Radiation (nonvisual spectra: IR, UV, radio, X-ray, etc.)|
+|2|Active (motion sensors, laser trip lines, etc.)|
+|3|Acoustic (radar, sonar, hearing)|
+|4|Visual (spectra between IR and UV)|
+|5|Mystic|
 Any combination of the above sensor types can be affected, but the user must possess at least as many ranks as the largest sensor type cost. To determine the &quot;total cost&quot; referenced above, sum the costs of the sensor types to be affected. Each affected creature is entitled to a saving throw, DC 10+total cost.
 
 ### Sensor Cloak

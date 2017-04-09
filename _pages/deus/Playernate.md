@@ -6,9 +6,9 @@ category: deus
 ---
 Status: confirmed
 Preferred gaming slot:
-||__1st choice__|Saturday 2:00pm
-__2nd choice__|Wednesday 6:30pm
-__3rd choice__|Monday 6:30pm||
+|__1st choice__|Saturday 2:00pm|
+|__2nd choice__|Wednesday 6:30pm|
+|__3rd choice__|Monday 6:30pm|
 ### Max Cohen
 *[Character description](CharPublicNate){GROUP(groups=&gt;nate|GMs)}
 *[Private page](CharPrivateNate)

@@ -6,7 +6,7 @@ category: deus
 ---
 Status: ex
 Preferred gaming slot:
-||__1st choice__|Any||
+|__1st choice__|Any|
 ### Ian Thorpe
 *[Character description](CharPublicAJ){GROUP(groups=&gt;aj|GMs)}
 *[Private page](CharPrivateAJ)

@@ -8,12 +8,12 @@ category: deus
 
 # Max 4.0
 # O.L. as a class or monster class
-||Level|BAB|Fort|Refl|Will|Def|Rep|Ability
-1|0|2|0|2|2|0|Trapped Will, Alchemical Prowess, Type:Outsider
-2|1|3|1|3|3|0|
-3|1|3|1|3|3|0|Nigredo
-4|1|4|1|4|4|1|Albedo
-5|2|4|2|4|4|1|Rubedo||
+|Level|BAB|Fort|Refl|Will|Def|Rep|Ability|
+|1|0|2|0|2|2|0|Trapped Will, Alchemical Prowess, Type:Outsider|
+|2|1|3|1|3|3|0|-|
+|3|1|3|1|3|3|0|Nigredo|
+|4|1|4|1|4|4|1|Albedo|
+|5|2|4|2|4|4|1|Rubedo|
 
 ## Trapped Will
 If any one traps the OL in a magic circle or similiar device, then the OL's abilities may be used by who ever is in control of the device as if it possessed them himself.
@@ -55,17 +55,17 @@ Bluff (Chr), Diplomacy (Chr), Craft (Int), Gamble (Wis), Intimidate (Int), Knowl
 
 Skill Points at Each Additional Level: 5 + Int modifier
 ## Table:Hand of Dissolution
-||Level|BAB|Fort|Refl|Will|Def|Rep|Ability
-1|0|1|0|2|0|0|Dissolute Nature; Disintigrating Vision
-2|1|2|0|3|1|0|Deep into the Beyond
-3|2|2|1|3|1|0|Void of Difference
-4|3|2|1|4|1|1|Where and When
-5|3|2|1|4|2|1|Nonexistence
-6|4|3|2|5|2|1|Travel Without Movement
-7|5|4|2|5|2|2|A View Beyond
-8|6|4|2|6|3|2|One point
-9|6|4|3|6|3|2|Nonbeing
-10|7|4|3|7|3|3|Dissolute Resolve||
+|Level|BAB|Fort|Refl|Will|Def|Rep|Ability|
+|1|0|1|0|2|0|0|Dissolute Nature; Disintigrating Vision|
+|2|1|2|0|3|1|0|Deep into the Beyond|
+|3|2|2|1|3|1|0|Void of Difference|
+|4|3|2|1|4|1|1|Where and When|
+|5|3|2|1|4|2|1|Nonexistence|
+|6|4|3|2|5|2|1|Travel Without Movement|
+|7|5|4|2|5|2|2|A View Beyond|
+|8|6|4|2|6|3|2|One point|
+|9|6|4|3|6|3|2|Nonbeing|
+|10|7|4|3|7|3|3|Dissolute Resolve|
 
 ## Class Abilities
 ### Dissolute Nature
@@ -112,97 +112,96 @@ __Dissolute Nature:__None, however upon use of this power an area 50ft in radius
 *4
 *1
 ## Flaws, Merits, Feats, and traits
-||Start|+45mp
-Levels x 13|+65mp
-Flaws|+20mp
-Merits|-119mp
-Feats|-7mp
-Bonus|+12mp
-OLness|-10
-Remaining|0mp||
+|Start|+45mp|
+|Levels x 13|+65mp|
+|Flaws|+20mp|
+|Merits|-119mp|
+|Feats|-7mp|
+|Bonus|+12mp|
+|OLness|-10|
+|Remaining|0mp|
 
 ### Flaws
-||__Flaw__|__Price__
-Enemy(Bryant)|3mp
-Str -2|2mp
-Vulnerable|1mp
-Poor(12)|12mp
-Total|20mp||
+|__Flaw__|__Price__|
+|Enemy(Bryant)|3mp|
+|Str -2|2mp|
+|Vulnerable|1mp|
+|Poor(12)|12mp|
+|Total|20mp|
 
 ### Merits
 
-||__Merit__|__Price__
-Reserve(Mystic) x 15|15mp
-Reserve(Psionic)|1mp
-Mystic Level x 8|32mp
-Mystic 1/2 Level x 2|4mp
-Psionic Level|4mp
-Contact(Royals)|3mp
-Contact(Father)|2mp
-Dex +6|6mp
-Con +6|6mp
-Int +6|6mp
-Chr +6|6mp
-ER Acid 10|2mp
-ER Electricity 5|1mp
-ER Cold 10|2mp
-ER Sonic 10|2mp
-ER Fire 10|2mp
-Negative Resist 10| 5mp
-20/+1|4mp
-Immunity Nanites|10mp
-5 Action Points|10mp
-Total|119||
+|__Merit__|__Price__|
+|Reserve(Mystic) x 15|15mp|
+|Reserve(Psionic)|1mp|
+|Mystic Level x 8|32mp|
+|Mystic 1/2 Level x 2|4mp|
+|Psionic Level|4mp|
+|Contact(Royals)|3mp|
+|Contact(Father)|2mp|
+|Dex +6|6mp|
+|Con +6|6mp|
+|Int +6|6mp|
+|Chr +6|6mp|
+|ER Acid 10|2mp|
+|ER Electricity 5|1mp|
+|ER Cold 10|2mp|
+|ER Sonic 10|2mp|
+|ER Fire 10|2mp|
+|Negative Resist 10| 5mp|
+|20/+1|4mp|
+|Immunity Nanites|10mp|
+|5 Action Points|10mp|
+|Total|119|
 
 ### Feats
-#Mystic Charge
-#Improve Mystic Charge
-#Efficient Burst
-#Overdraw
-#Alternate Source(Self)
-#heoric Surge
-#Temporal Extension
-
+* Mystic Charge
+* Improve Mystic Charge
+* Efficient Burst
+* Overdraw
+* Alternate Source(Self)
+* Heroic Surge
+* Temporal Extension
 
 ### Traits
 *Quick
 
 ## Allotment
 ### Mystic Magic
-||Creation|0|0
-Destruction|5|15
-Displacement|5|15
-Divination|9|45
-Enhancement|10|55
-Healing|0|0
-Illusion|3|6
-Kinetics|1|1
-MindControl|5|15
-Pyrotechnics|3|6
-Transmutation|3|6
-Reserve|60|(15mp)
-Lvl=8+2*1/2|143||
+|Creation|0|0|
+|Destruction|5|15|
+|Displacement|5|15|
+|Divination|9|45|
+|Enhancement|10|55|
+|Healing|0|0|
+|Illusion|3|6|
+|Kinetics|1|1|
+|MindControl|5|15|
+|Pyrotechnics|3|6|
+|Transmutation|3|6|
+|Reserve|60|(15mp)|
+|Lvl=8+2*1/2|143|
 ### Psionic Magic
-||Creation|0|0
-Destruction|0|0
-Displacement|0|0
-Divination|0|0
-Enhancement|0|0
-Healing|1|1
-Illusion|0|0
-Kinetics|0|0
-MindControl|0|0
-Pyrotechnics|0|0
-Transmutation|0|0
-Reserve|9|(1mp)+5
-Lvl=1;2(!Lvl)+4Lvl|6||
+|Creation|0|0|
+|Destruction|0|0|
+|Displacement|0|0|
+|Divination|0|0|
+|Enhancement|0|0|
+|Healing|1|1|
+|Illusion|0|0|
+|Kinetics|0|0|
+|MindControl|0|0|
+|Pyrotechnics|0|0|
+|Transmutation|0|0|
+|Reserve|9|(1mp)+5|
+|Lvl=1;2(!Lvl)+4Lvl|6|
 ### Skills
-||Bluff|10
-Diplomacy|10
-Disguise|10
-Intimidate|10
-Knowledge(Alchemy)|10
-Sense Motive|10||
+|Bluff|10|
+|Diplomacy|10|
+|Disguise|10|
+|Intimidate|10|
+|Knowledge(Alchemy)|10|
+|Sense Motive|10|
 *Hebrew
 *Russian
 *Latin
@@ -269,36 +268,39 @@ I've been to hell and back, and I would say I have further to go.  I have enemie
 ## Planetary Metals
 Max's &quot;mystic&quot; abilities require that he touch the object or creature to be affected. He cannot ward mystic effects (he must &quot;reseed&quot; the target with more nanites each time he wants to renew the effect). In addition, Max himself must &quot;eat&quot; a number of sphere points (any sphere works, even Reserve) equal to his mystic level, each day. To refill any mystic sphere, including Reserve, he must absorb the proper planetary metal, as follows:
 
-||__Sphere__|__Metal__
-Reserve|Gold
-[Creation](http://restlesswarrior.com/gaming/mystic/creation.html)|Silver or Aluminum
-[Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html)|Mercury/Quicksilver
-[Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html)|Copper or Brass
-[Healing|](http://restlesswarrior.com/gaming/mystic/healing.html)|Tin
-[Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html)|Lead
-[Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html)|Radium or Uranium
-[Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html)|Lithium or Platinum
-[Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html)|Tungsten or Plutonium
-Unusable|Steel or Iron||
+|__Sphere__|__Metal__|
+|Reserve|Gold|
+|[Creation](http://restlesswarrior.com/gaming/mystic/creation.html)|Silver or Aluminum|
+|[Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html)|Mercury/Quicksilver|
+|[Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html)|Copper or Brass|
+|[Healing|](http://restlesswarrior.com/gaming/mystic/healing.html)|Tin|
+|[Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html)|Lead|
+|[Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html)|Radium or Uranium|
+|[Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html)|Lithium or Platinum|
+|[Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html)|Tungsten or Plutonium|
+|Unusable|Steel or Iron|
+
 Max may as a full round action use a free destruction effect to destroy any of the above metals without error.  One cubic foot of the material refills the relevant sphere completely (less refills a proportionate fraction thereof, linearly). Of course, the Occultum Lapidem trumps these rules, but using it has its own disadvantages...
+
 ## Sphere Changes
-;[Creation](http://restlesswarrior.com/gaming/mystic/creation.html):-
-;[Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html):The nanomagus is unable to use destruction to dispel magic, as well destruction damages undead just as it damages the living.  In the case of enchanted objects enough destruction must be spent to break the enchantment before it damages the object.  This still does not disenchant the object.  These changes are revoked when a nanomagus takes the magic machina feat
-;[Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html):It is unknown whether nanomagi can link as mystics can, but it is an unlikely event to occure seeing as there are only three nanomagi and they probably aren't friends.
-;[Healing](http://restlesswarrior.com/gaming/mystic/healing.html):The nanomagus can use healing to heal the undead just as well as the living and isn't even able to hurt the undead with it.  A nanomagus is also incapable of healing magical afflictions or any form of resurection.  These changes are revoked if the nanomagus takes the magic machina feat with the exception of the ability to resurect
-;[Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html):Illusions can only be placed on solid objects until the nanomagus takes the airborn colonies feat.   All powers are still touch range.
-;[Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html):Remember all powers are touch range.
-;[Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html):Remember all powers are touch range.
-;[Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html):-
+
+* [Creation](http://restlesswarrior.com/gaming/mystic/creation.html):-
+* [Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html):The nanomagus is unable to use destruction to dispel magic, as well destruction damages undead just as it damages the living.  In the case of enchanted objects enough destruction must be spent to break the enchantment before it damages the object.  This still does not disenchant the object.  These changes are revoked when a nanomagus takes the magic machina feat
+* [Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html):It is unknown whether nanomagi can link as mystics can, but it is an unlikely event to occure seeing as there are only three nanomagi and they probably aren't friends.
+* [Healing](http://restlesswarrior.com/gaming/mystic/healing.html):The nanomagus can use healing to heal the undead just as well as the living and isn't even able to hurt the undead with it.  A nanomagus is also incapable of healing magical afflictions or any form of resurection.  These changes are revoked if the nanomagus takes the magic machina feat with the exception of the ability to resurect
+* [Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html):Illusions can only be placed on solid objects until the nanomagus takes the airborn colonies feat.   All powers are still touch range.
+* [Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html):Remember all powers are touch range.
+* [Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html):Remember all powers are touch range.
+* [Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html):-
 
 ## Nanomagus Feats
 The following feats from the [The Mystic Guide](http://restlesswarrior.com/gaming/mystic/index.html) are available to a Nanomagus:
-*[Empower Sphere](http://restlesswarrior.com/gaming/mystic/feats.html#empowerSphere)
-*[Mystic Charge](http://restlesswarrior.com/gaming/mystic/feats.html#mysticCharge)
-*[Mystic Charge, Improved](http://restlesswarrior.com/gaming/mystic/feats.html#improvedMysticCharge)
-*[Overdraw](http://restlesswarrior.com/gaming/mystic/feats.html#overdraw)
-*[Overdraw Focus](http://restlesswarrior.com/gaming/mystic/feats.html#overdrawFocus)
-*[Steadfast Effect](http://restlesswarrior.com/gaming/mystic/feats.html#steadfastEffect)
+* [Empower Sphere](http://restlesswarrior.com/gaming/mystic/feats.html#empowerSphere)
+* [Mystic Charge](http://restlesswarrior.com/gaming/mystic/feats.html#mysticCharge)
+* [Mystic Charge, Improved](http://restlesswarrior.com/gaming/mystic/feats.html#improvedMysticCharge)
+* [Overdraw](http://restlesswarrior.com/gaming/mystic/feats.html#overdraw)
+* [Overdraw Focus](http://restlesswarrior.com/gaming/mystic/feats.html#overdrawFocus)
+* [Steadfast Effect](http://restlesswarrior.com/gaming/mystic/feats.html#steadfastEffect)
 
 In addition a Nanomagus has these feats available to him:
 ###  Eat and Run
@@ -321,15 +323,16 @@ With this feat the nanomagus' colonies now can ignore cover or obstacles, with t
 
 ### Object Saturation
 Well here is to thinking outside the box.  As a habit nanomagi tend to think of themselves as one solid object, however with this feat a nanomagus finally gets a hold of the fact that he is in fact many, many tiny machines just pretending to be one object.  With this new insite he can now integrate himself into simple objects with no more than a size catagory difference from himself.  To do this he must make a touch attack against the object, if the object is in someone's possession it then gets a Fort save using the possessor's save.  When he does this he shares the body of the object in question.  They both take half damage after seperate saves and resistances from anything that damages them.  Their weight is now equal to half the nanomagus' plus the object's.  The nanomagus can also make the object move while in it.  The movement rates for such are found in the chart below.  The nanomagus and object also now have a slam attack deal damage according to size.  Though this is a decent technique for hiding, a nanomagus still has telltale signs of his presence from a piece of the O.L..  In the case the nanomagus dies in the object, well, it doesn't matter to him at that point, and it wouldn't help him sleep at night if he new.
-||Fine|1|1+STR
-Diminutive|2|1d2+STR
-Tiny|5|1d3+STR
-small|10|1d4+STR
-medium|20|1d6+STR
-large|30|1d8+STR
-Huge|40|2d6+STR
-Gargantuan|50|3d6+STR
-Colossal|60|4d6+STR||
+
+|Fine|1|1+STR|
+|Diminutive|2|1d2+STR|
+|Tiny|5|1d3+STR|
+|small|10|1d4+STR|
+|medium|20|1d6+STR|
+|large|30|1d8+STR|
+|Huge|40|2d6+STR|
+|Gargantuan|50|3d6+STR|
+|Colossal|60|4d6+STR|
 
 ### Electromechanic Saturation
 __Prerequisite__:Object Saturation
@@ -385,33 +388,33 @@ With the knowledge of the energies present in the nanobots that make up the nano
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 1
 # Merits, Flaws, and Traits
 ## Flaws
-||__Flaw__|__Price__
-Sulphur Scent and warm around self|1mp
-Enemy(Board of Directors Merkabah Earth)|1mp
-Enemy(Adam Mclean)|3mp
-Enemy(Possesser of Mercury)|2mp
-Enemy(David Crowe)|1mp
-Enemy(Mclean's Surviving Experiments)|1mp
-Enemy(Living Planet)|3mp
-No sense of taste|1mp
-No Sense of touch|5mp
-Poor(2)|2mp
-Total|20mp||
+|__Flaw__|__Price__|
+|Sulphur Scent and warm around self|1mp|
+|Enemy(Board of Directors Merkabah Earth)|1mp|
+|Enemy(Adam Mclean)|3mp|
+|Enemy(Possesser of Mercury)|2mp|
+|Enemy(David Crowe)|1mp|
+|Enemy(Mclean's Surviving Experiments)|1mp|
+|Enemy(Living Planet)|3mp|
+|No sense of taste|1mp|
+|No Sense of touch|5mp|
+|Poor(2)|2mp|
+|Total|20mp|
 
 ## Merits
-||__Merit__|__Price__
-Fast Healing:1|Late Bought (2mp)
-Sulphur|3mp
-Soulmech|3mp
-No Need to Breath|5mp
-Immunity to Crits|3mp
-Nano-Magic|4mp
-Omniscient Whispers   [[Spelltouched]|2mp
-Live My Nightmare     [[Spelltouched]|2mp
-Controlled Immolation [[Spelltouched]|2mp
-Liquid Form|6mp
-Stats|20mp
-Total|50mp||
+|__Merit__|__Price__|
+|Fast Healing:1|Late Bought (2mp)|
+|Sulphur|3mp|
+|Soulmech|3mp|
+|No Need to Breath|5mp|
+|Immunity to Crits|3mp|
+|Nano-Magic|4mp|
+|Omniscient Whispers   [[Spelltouched]|2mp|
+|Live My Nightmare     [[Spelltouched]|2mp|
+|Controlled Immolation [[Spelltouched]|2mp|
+|Liquid Form|6mp|
+|Stats|20mp|
+|Total|50mp|
 
 ## Traits
 #Detached
@@ -584,11 +587,11 @@ Drive:35
 Demolitions:31
 Concentration:19
 
-||Standard SpellBreaker Sword(charged)|35/30/25/20|2d6+24|17-20/x2+1d6(Save DC32 or Die)|Slashing|5ft|1
-Gerald's Sword(Charged)|40/35/30/25|2d6+29|15-20/x2+1d6(Save DC32 or Die)|Slashing|5ft|1
-Pulse Rifle|25/19/14/9|3d10|20/x2|Fire|80ft|50
-Sonic Beam|25/19/14/9|2d6(Fort vs DC15 or shaken and deaf)|20/x2|Sonic|40ft|50
-Singularity Grenade|Refl DC15|15d6|-|Energy|5ft Burst|20||
+|Standard SpellBreaker Sword(charged)|35/30/25/20|2d6+24|17-20/x2+1d6(Save DC32 or Die)|Slashing|5ft|1|
+|Gerald's Sword(Charged)|40/35/30/25|2d6+29|15-20/x2+1d6(Save DC32 or Die)|Slashing|5ft|1|
+|Pulse Rifle|25/19/14/9|3d10|20/x2|Fire|80ft|50|
+|Sonic Beam|25/19/14/9|2d6(Fort vs DC15 or shaken and deaf)|20/x2|Sonic|40ft|50|
+|Singularity Grenade|Refl DC15|15d6|-|Energy|5ft Burst|20|
 
 # Talents and Class Abilities
 *Remain Conscious([Tough](http://www.12tomidnight.com/d20modernsrd/Tough.php))
@@ -606,29 +609,29 @@ Singularity Grenade|Refl DC15|15d6|-|Energy|5ft Burst|20||
 *All Spellbreaker Abilities
 
 # Merits, Feats, Flaws
-||Merits|90mp
-Feats|72mp
-Flaws|2mp
-Levels|135mp
-Starting|25mp
-total|0mp||
+|Merits|90mp|
+|Feats|72mp|
+|Flaws|2mp|
+|Levels|135mp|
+|Starting|25mp|
+|total|0mp|
 
 ## Merits
-||Str 25|22mp
-con 25|22mp
-dex 21|14mp
-int 12|2mp
-wis 14|4mp
-Darkvision|1mp
-Blindsense 10ft|2mp
-Immunity Magic Disease|5mp
-Immunity Energy Drain|5mp
-Immunity Fear|1mp
-Immunity Paralyzation|3mp
-Immunity Petrification|3mp
-Immunity Sickness|3mp
-Immunity Stunning|3mp
-total|90mp||
+|Str 25|22mp|
+|con 25|22mp|
+|dex 21|14mp|
+|int 12|2mp|
+|wis 14|4mp|
+|Darkvision|1mp|
+|Blindsense 10ft|2mp|
+|Immunity Magic Disease|5mp|
+|Immunity Energy Drain|5mp|
+|Immunity Fear|1mp|
+|Immunity Paralyzation|3mp|
+|Immunity Petrification|3mp|
+|Immunity Sickness|3mp|
+|Immunity Stunning|3mp|
+|total|90mp|
 
 ## Feats
 ### nonepic
@@ -687,7 +690,7 @@ total|90mp||
 *[Epic Toughnessx2](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic toughness)
 
 ## Flaws
-||Chr 8|2mp||
+|Chr 8|2mp|
 
 # Equipment
 *Standard Spellbreaker Sword
@@ -707,12 +710,12 @@ Also, the starting occupation the character selects can provide additional class
 
 Skill Points at Each Additional Level: 3 + Int modifier
 
-||lvl|BAB|Frt|Rfl|Wll|Def|Rep|Ability
-1|1|1|0|1|1|0|SR 10 + SB Lvl(Dwarves gain proficiency with greatsword)
-2|2|2|0|2|1|1|Spell Refelction(1)
-3|3|3|1|3|2|1|Slippery Mind, Evasion
-4|4|3|1|3|3|2|Mettle
-5|5|4|1|4|4|2|Spellbreak
-6|6|5|2|5|4|3|Spell Reflection(2), Improved Evasion(Dwarf Only)
-7|7|6|2|6|5|3|Free Energy (Dwarf Only)
-8|8|6|2|6|6|4|Smite Spe
+|lvl|BAB|Frt|Rfl|Wll|Def|Rep|Ability|
+|1|1|1|0|1|1|0|SR 10 + SB Lvl(Dwarves gain proficiency with greatsword)|
+|2|2|2|0|2|1|1|Spell Refelction(1)|
+|3|3|3|1|3|2|1|Slippery Mind, Evasion|
+|4|4|3|1|3|3|2|Mettle|
+|5|5|4|1|4|4|2|Spellbreak|
+|6|6|5|2|5|4|3|Spell Reflection(2), Improved Evasion(Dwarf Only)|
+|7|7|6|2|6|5|3|Free Energy (Dwarf Only)|
+|8|8|6|2|6|6|4|Smite Spe...|

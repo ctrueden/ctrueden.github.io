@@ -67,14 +67,14 @@ __Instantaneous effects:__
 1 LY (light year) = 9.4605284e15 m
 1 LY ~= 63,240 AU
 
-||__Jump distance__|__Time required__
-&lt;1 LY|1 hr + 1/2 s/AU
-1-10 LY|10 hrs + 1 hr/LY
-10-100 LY|20 hrs + 1/10 hr/LY beyond 10
-100-1000 LY|30 hrs + 1/100 hr/LY beyond 100
-1,000-10,000 LY|40 hrs + 1/1,000 hr/LY beyond 1,000
-10,000-100,000 LY|50 hrs + 1/10,000 hr/LY beyond 10,000
-etc.|etc.||
+|__Jump distance__|__Time required__|
+|&lt;1 LY|1 hr + 1/2 s/AU|
+|1-10 LY|10 hrs + 1 hr/LY|
+|10-100 LY|20 hrs + 1/10 hr/LY beyond 10|
+|100-1000 LY|30 hrs + 1/100 hr/LY beyond 100|
+|1,000-10,000 LY|40 hrs + 1/1,000 hr/LY beyond 1,000|
+|10,000-100,000 LY|50 hrs + 1/10,000 hr/LY beyond 10,000|
+|etc.|etc.|
 E.g., 0.2 LY = 12,648 AU ~= 9,924 s ~= 165 min ~= 2.8 hrs
 E.g., 7 LY = 10 + 7 = 17 hrs
 E.g., 400 LY = 20 + 1/100*300 ~= 23 hrs

@@ -30,12 +30,12 @@ category: deus
 
 ### Build
 #### Merit point Overview
-||Starting|25
-Flaws|+9
-Levels|+60
-Bonus|+8
-Total|102
-Spent|102||
+|Starting|25|
+|Flaws|+9|
+|Levels|+60|
+|Bonus|+8|
+|Total|102|
+|Spent|102|
 
 #### Merit point expenditure
 __Nanocomposite merits__: (+30)
@@ -127,13 +127,13 @@ __Class Skills__: Bluff (Cha), Computer Use (Int), Concentration (Con), Craft (I
 __Skill Points at each level__: 6 + Int (x4 at 1st level)
 __Weapon and Armor Proficiency__: Proficient with simple weapons.  Not proficient with armor.
 
-||Level|BA Bonus|Fort|Ref|Will|Class Features|Def Bonus|Rep Bonus
-1|+0|+0|+0|+2|Nanomagic, Familiar Colony|+1|+1
-2|+1|+0|+0|+3|Nanomagic|+1|+1
-3|+1|+1|+1|+3|Nanomagic, Bonus Feat|+2|+1
-4|+2|+1|+1|+4|Nanomagic|+2|+2
-5|+2|+1|+1|+4|Nanomagic|+3|+2
-6|+3|+2|+2|+5|Nanomagic, Bonus Feat|+3|+2||
+|Level|BA Bonus|Fort|Ref|Will|Class Features|Def Bonus|Rep Bonus|
+|1|+0|+0|+0|+2|Nanomagic, Familiar Colony|+1|+1|
+|2|+1|+0|+0|+3|Nanomagic|+1|+1|
+|3|+1|+1|+1|+3|Nanomagic, Bonus Feat|+2|+1|
+|4|+2|+1|+1|+4|Nanomagic|+2|+2|
+|5|+2|+1|+1|+4|Nanomagic|+3|+2|
+|6|+3|+2|+2|+5|Nanomagic, Bonus Feat|+3|+2|
 
 __Nanomagic__: The character uses mystic magic, casting as a Nanomagus.  This spellcasting is intelligence based.
 __Familiar Colony__: A Nanomagus with the ''Autonomous Colonies'' feat can produce a single longer-lived subcolony at any time to act as a familiar.  This subcolony has a movement rate of 10 across ground (and fly 10 (perfect) if the Nanomagus has the ''Airborne Colonies'' feat, and burrow 10 if the Nanomagus has the ''Piercing Colonies'' feat).  It has the same sensory abilities as the Nanomagus that produced it.  It is 1 inch in diameter for each level of the Nanomagus, and amorphous enough to squeeze through the smallest of cracks.  It has statistics equal to the Nanomagus, except for strength which is at a -8 penalty (minimum 1) and intelligence which is indicated on the familiar properties table.  It is considered tiny size.  It uses the Nanomagus's base attack bonus (attacks use dexterity to hit), base saves, and skill ranks.  It gains a bonus to natural armor, also indicated on the familiar properties table.  In addition, the Improved Evasion, Share Spells, and Touch properties apply at the appropriate levels.  The Nanomagus does not have an empathic link with his familiar colony and cannot speak with it, but the familiar colony can rejoin the Nanomagus at any point.  If the familiar reintegrates into the Nanomagus, the Nanomagus absorbs all sensory data experienced by the colony.  The Nanomagus may produce only one familiar colony at any given time.  The familiar colony has a number of wound points equal to half the Nanomagus's (rounded down).  The familiar colony can have any number of vitality points up to half the Nanomagus's total (rounded down, number decided upon manifestation); however, while the familiar colony is in existence, the Nanomagus's current and maximum vitality point totals are reduced by that number.  If the colony reintegrates into the Nanomagus, he regains a number of current vitality points equal to the colony's, and his full maximum.  If the familiar colony is destroyed, the Nanomagus remains at reduced vitality and is unable to manifest another familiar colony for one full day.  After the day passes, he regains his maximum vitality and can manifest a new familiar colony.  If the familiar colony is somehow prevented from returning to the Nanomagus, it dissipates after one full day, with the same effects. [Familiar Properties Table (scroll down)](http://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars)
@@ -145,24 +145,24 @@ __Hit Dice__: The Sun Cleric uses d8s as hit dice.
 __Class Skills__: Concentration (Con), Craft (Int), Diplomacy (Cha), Knowledge (current events, history, popular culture, theology and philosophy) (Int), Mysticraft (Int), Profession (Wis), Senses (Wis), Treat Injury (Wis)
 __Skill Points at each level__: 2 + Int
 
-||Level|BA Bonus|Fort|Ref|Will|Class Features|Def Bonus|Rep Bonus
-1|+0|+2|+0|+2|Searing Light|+1|+1
-2|+1|+3|+0|+3|Sun Resistance|+2|+1
-3|+2|+3|+1|+3|Sunbeam|+2|+1||
+|Level|BA Bonus|Fort|Ref|Will|Class Features|Def Bonus|Rep Bonus|
+|1|+0|+2|+0|+2|Searing Light|+1|+1|
+|2|+1|+3|+0|+3|Sun Resistance|+2|+1|
+|3|+2|+3|+1|+3|Sunbeam|+2|+1|
 
 __Searing Light__: A Sun Cleric can use the spell ''Searing Light'' once per day per Sun Cleric level, with a caster level equal to his class level.
 __Sun Resistance__: At 2nd level, a Sun Cleric gains immunity to light-based attacks and fire resistance 10.
 __Sunbeam__: At 3rd level, a Sun Cleric can cast ''Sunbeam'' once per day at a caster level equal to his Sun Cleric Level (minimum 4).  The save DC is Charisma-based.
 
 #### Hit Die Rolls
-||1|6
-2|1
-3|4
-4|1
-5|2
-6|1
-7|6
-8|7||
+|1|6|
+|2|1|
+|3|4|
+|4|1|
+|5|2|
+|6|1|
+|7|6|
+|8|7|
 
 Total Vitality: 51
 
@@ -184,31 +184,31 @@ Wealth: +4 -&gt; 12
 
 #### Mystic Spheres
 ##### Nanomagus
-||Creation|7|28bp
-Destruction|5|15bp
-Enhancement|6|21bp
-Healing|4|10bp
-Illusion|7|28bp
-Mind Control|5|15bp
-Pyrotechnics|7|28bp
-Transmutation|7|28bp
-Reserve|55|55bp
-Pocket|5|n/a||
+|Creation|7|28bp|
+|Destruction|5|15bp|
+|Enhancement|6|21bp|
+|Healing|4|10bp|
+|Illusion|7|28bp|
+|Mind Control|5|15bp|
+|Pyrotechnics|7|28bp|
+|Transmutation|7|28bp|
+|Reserve|55|55bp|
+|Pocket|5|n/a|
 Total bp: 228/228
 
 ##### Mystic
-||Creation|0|0bp
-Destruction|0|0bp
-Displacement|2|3bp
-Divination|4|10bp
-Enhancement|2|3bp
-Healing|2|3bp
-Illusion|0|0bp
-Kinetics|2|2bp
-Mind Control|0|0bp
-Pyrotechnics|0|0bp
-Transmutation|0|0bp
-Reserve|8|8bp||
+|Creation|0|0bp|
+|Destruction|0|0bp|
+|Displacement|2|3bp|
+|Divination|4|10bp|
+|Enhancement|2|3bp|
+|Healing|2|3bp|
+|Illusion|0|0bp|
+|Kinetics|2|2bp|
+|Mind Control|0|0bp|
+|Pyrotechnics|0|0bp|
+|Transmutation|0|0bp|
+|Reserve|8|8bp|
 Total bp: 30/30
 
 ## Eddie
