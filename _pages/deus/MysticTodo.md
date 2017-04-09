@@ -5,50 +5,86 @@ permalink: /deus/MysticTodo
 category: deus
 ---
 Mystic feat for &quot;toggling warding&quot; -- costs twice the normal reserve warding costs, but effect can be freely toggled until the warding wears off
+
 ------
+
 Another mystic feat for permanently infusing a warded ability (like Tenacious Spell sort of? Where the effect is only gone for 1d4 rounds when dispelled and then returns). Requires the *permanent* consumption of the Reserve though.
+
 ------
+
 Flight (perfect) - Kin 1 per 10 ft + 1 div for mental control (others only)
+
 ------
+
 By doubling the cost of a spell, it can penetrate twice as much of a barrier. (e.g., stone walls, etc.)
+
 ------
+
 Pyrotechnics elemental shield.
 Specify an element:
 Pyro 1 -&gt; protect against 2 damage per round of chosen type.
 +1 - +2 damage per round protection
+
 ------
+
 Optional rule: mystic bards need to make sound to do mystic effects, like real bards do. If this rule is in effect, they get to keep countersong as an ability.
+
 ------
+
 Improve Pyrotechnics ball &amp; remote explosion explanation to mention that you have to double the normal cost to turn it into an area effect of the desired type...
+
 ------
+
 Div 3: simple state triggers
 Sometimes, you want the trigger to detect things far away... use normal range modifiers
+
 ------
+
 Enh 2: grant lowlight vision (minutes)
+
 ------
+
 Enh 4: grant darkvision (minutes)
+
 ------
+
 Enh 4: raise flight by one type (average -&gt; good, good -&gt; perfect, etc.) (temporary [[minutes])
+
 ------
+
 Enh 5: make an object ghost touch (temporary [[minutes])
+
 ------
+
 Heal 2: cure 1 temp ability damage; +1 for 1 additional point of temp damage
+
 ------
+
 Heal 6: cure 1 negative level; +1 for 1 additional negative level
+
 ------
+
 Div 4, Enh 4, Mind 2, Port 1
 Put a sensor on an item so that you can continually determine its general location--distance &amp; direction. (Temporary [[minutes])
+
 ------
+
 Illus X - Undetectable aura - X is power of aura needing to be hidden (where &quot;power&quot; is the mystic level of the effect -- in the above case, that would be 4).
+
 ------
+
 Illusion costs double to do a lack of something, rather than a false something. (Thus, invisibility costs double.)
+
 ------
+
 Div cost is value squared in EP.  So, Div 5 question is 25 EP.
-Div 10 question is 100 EP.  Div 2 would only be 4 EP...
+<br>Div 10 question is 100 EP.  Div 2 would only be 4 EP...
+
 ------
+
 Maximum value of item is SP squared for creation.
-So, a 100 gp item would take a minimum of Creat 10 to make.
-But you don't pay EXTRA for more value... it's just a minimum cost.
+<br>So, a 100 gp item would take a minimum of Creat 10 to make.
+<br>But you don't pay EXTRA for more value... it's just a minimum cost.
 
 ------
 
@@ -84,9 +120,8 @@ damage from touching it?
 Last, I'd recommend that in a future revision, you give examples (like in the DMG)
 of mystic items that could be created, what they'd cost to create (both exp and gold,
 with a total market price).  Just as a partial list of what items you could include:
-&quot;Ralpho's Mug of Never-Ending Ale&quot;, &quot;Pocket Handkerchief of Hardiness&quot;, &quot;Trevin's
-Staff of Destructo-beams&quot;, &quot;Orcsicle&quot;, &quot;Anklet of Haste&quot;, &quot;Ellwood's Flask of Very
-Hot Acid&quot;, &quot;Pip's Cloak of Foolishness&quot;, and &quot;Sparky, the Friendly Fireball.&quot;
+
+&quot;Ralpho's Mug of Never-Ending Ale&quot;, &quot;Pocket Handkerchief of Hardiness&quot;, &quot;Trevin's Staff of Destructo-beams&quot;, &quot;Orcsicle&quot;, &quot;Anklet of Haste&quot;, &quot;Ellwood's Flask of Very Hot Acid&quot;, &quot;Pip's Cloak of Foolishness&quot;, and &quot;Sparky, the Friendly Fireball.&quot;
 
 ------
 
