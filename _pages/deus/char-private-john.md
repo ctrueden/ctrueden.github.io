@@ -16,28 +16,28 @@ He may have the ability to split his cognitive functions into several separate p
 His amazing dexterity has allowed him to become a security agent specializing in physically breaking into secure areas to test them. This job also requires a high intelligence to fully explore all aspects of the security, including physical, technological, electronic, and mystic security (all of which play a part in this age).
 
 Would your character (1=Never, 5=Always):
-#Lie to a friend to protect his feelings? 3
-#Help a frail old woman cross the street? 5
-#Tell anyone if he saw something widely believed to be impossible? 3
-#Give money to a beggar on the street? 5
-#Seek vengeance if wronged? 4
-#Steal if he thought he could get away with it? 3
+1. Lie to a friend to protect his feelings? 3
+1. Help a frail old woman cross the street? 5
+1. Tell anyone if he saw something widely believed to be impossible? 3
+1. Give money to a beggar on the street? 5
+1. Seek vengeance if wronged? 4
+1. Steal if he thought he could get away with it? 3
 
 Does your character believe in (1=Not at all, 5=Strongly):
-#Aliens? 2
-#Karma? 3
-#Free will (i.e., many possible futures)? 5
-#Time travel? 3
-#Equality for all sentient beings? 5
-#God or other supreme force? 3
+1. Aliens? 2
+1. Karma? 3
+1. Free will (i.e., many possible futures)? 5
+1. Time travel? 3
+1. Equality for all sentient beings? 5
+1. God or other supreme force? 3
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-#Now that machines are smarter than humans, biological life is obsolete. 1
-#The Caretaker has no business meddling in our affairs. 3
-#Those who can wield magic are obligated to use their power for the good of all Terrans. 4
-#No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 1
-#Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 3
-#Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 3
+1. Now that machines are smarter than humans, biological life is obsolete. 1
+1. The Caretaker has no business meddling in our affairs. 3
+1. Those who can wield magic are obligated to use their power for the good of all Terrans. 4
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 1
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 3
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 3
 
 ## M/F
 Flaws:

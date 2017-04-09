@@ -31,28 +31,28 @@ Lived on small outpost until finished high school; father was very ill by this p
 # Character Questionnaire 
 
 Would your character (1=Never, 5=Always):
-#Lie to a friend to protect his feelings?  ~~#C00080:2~~ 
-#Help a frail old woman cross the street?  ~~#C00080:5~~ 
-#Tell anyone if he saw something widely believed to be impossible?  ~~#C00080:5 -- But only my parents; they wouldn't be likely to judge. :)~~
-#Give money to a beggar on the street?  ~~#C00080:4 -- If they looked like they honestly needed it, I could afford to give them something.~~
-#Seek vengeance if wronged?  ~~#C00080:1.5 -- It'd have to be a pretty awful thing for me to even consider vengeance.~~ 
-#Steal if he thought he could get away with it? ~~#C00080:1 -- Besides it being wrong, why steal when if I REALLY wanted something I could ask Mom for it? :P~~
+1. Lie to a friend to protect his feelings?  ~~#C00080:2~~ 
+1. Help a frail old woman cross the street?  ~~#C00080:5~~ 
+1. Tell anyone if he saw something widely believed to be impossible?  ~~#C00080:5 -- But only my parents; they wouldn't be likely to judge. :)~~
+1. Give money to a beggar on the street?  ~~#C00080:4 -- If they looked like they honestly needed it, I could afford to give them something.~~
+1. Seek vengeance if wronged?  ~~#C00080:1.5 -- It'd have to be a pretty awful thing for me to even consider vengeance.~~ 
+1. Steal if he thought he could get away with it? ~~#C00080:1 -- Besides it being wrong, why steal when if I REALLY wanted something I could ask Mom for it? :P~~
 
 Does your character believe in (1=Not at all, 5=Strongly):
-#Aliens?  ~~#C00080:5~~ 
-#Karma?  ~~#C00080:3 -- I'd like to. . . .~~ 
-#Free will (i.e., many possible futures)?  ~~#C00080:4~~ 
-#Time travel?  ~~#C00080:5~~ 
-#Equality for all sentient beings?  ~~#C00080:5 -- It's something that's very important to me; I believe that anything that exhibits true sentience should be allowed to become master of its own fate.~~ 
-#God or other supreme force? ~~#C00080:3 -- I KNOW Gaia and Emmanuel existed and formed the Caretaker, but I'm not certain about their qualifications as &quot;supreme force&quot; or godliness in the Christian sense.  I assume there are probably other beings out there with similar powers to them.~~ 
+1. Aliens?  ~~#C00080:5~~ 
+1. Karma?  ~~#C00080:3 -- I'd like to. . . .~~ 
+1. Free will (i.e., many possible futures)?  ~~#C00080:4~~ 
+1. Time travel?  ~~#C00080:5~~ 
+1. Equality for all sentient beings?  ~~#C00080:5 -- It's something that's very important to me; I believe that anything that exhibits true sentience should be allowed to become master of its own fate.~~ 
+1. God or other supreme force? ~~#C00080:3 -- I KNOW Gaia and Emmanuel existed and formed the Caretaker, but I'm not certain about their qualifications as &quot;supreme force&quot; or godliness in the Christian sense.  I assume there are probably other beings out there with similar powers to them.~~ 
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-#Now that machines are smarter than humans, biological life is obsolete.  ~~#C00080:1 -- Intelligence isn't everything.  Machines still don't have the same &quot;creative spark&quot; or something.  Besides, there's beauty in all life.  A completely mechanical existence would lose the joy of diversity.~~ 
-#The Caretaker has no business meddling in our affairs.  ~~#C00080:3 -- Well, I've got mixed feelings on this.  It'd be nice if the Caretaker would only meddle with those who want meddling, but sometimes it's for the best in the long run.  (After all, I wouldn't be here without the events that led up to the Caretaker's creation, and no one much at the time thought the meddling was for the best. :P)  I'd be a real hypocrite if I said, &quot;No, the Caretaker should stay out of our lives,&quot; considering what I am and what my parents are, but I also feel that people should be left to make their own mistakes as much as possible.~~ 
-#Those who can wield magic are obligated to use their power for the good of all Terrans.  ~~#C00080:2 -- Woah, woah.  All TERRANS?  Screw you, hippie. :P  All sentient beings?  That I could agree with more, at least in principle.  But who decides what's best for all?  Saving a thousand lives by averting a spaceship crash?  Sure.  Of course a mystic in the right place at the right time (with sufficient power!) should do that.  But sacrificing one's own life to 'port a brillant scientist or the President to safety instead of yourself or your family?  Well . . . most people would say the &quot;important person&quot; would be more to the benefit of society, but I think decisions like that have to be left up to the individual.  It's the fear of society mandating what mystics are and aren't allowed to do that drove my parents away from Earth in the first place.  Mystics are people, with the right to live the lives of their choosing, just like any other.  I think any &quot;good&quot; person would try to use their talents to make the world better than they left it in SOME way, regardless of whether they have mystic potential or not.  How they choose to do that is their business, and no one else's.~~ 
-#No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  ~~#C00080:2 -- It would depend on the machine, I guess, how much I agree with that.  I haven't personally known well any robots who claim sentience, but if they are self-aware and have a desire to continue their existence, they should be given that freedom.~~ 
-#Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications.  ~~#C00080:4 -- It might have been better to wait until it was better understood, but it also has had many benefits.  Ideally, it should have been done on a smaller scale first, but what's done is done and can't be changed at this late date.~~ 
-#Technology is more dangerous than mystic energy, and is more likely to destroy us some day.  ~~#C00080:5 -- Mystic energy is limited by our capacity to wield it.  Yes, groups of people can combine to make things more powerful, but the threshold tends to be lower than technology.  Any nut can get his hands on tech that could blow up a much larger area than the average 5000 people could do with mystic energy.  I think it's a lot less likely that enough mystics will get together and destroy the world than that a lot of power-mad &quot;normal&quot; people would do the same with WMDs.~~ 
+1. Now that machines are smarter than humans, biological life is obsolete.  ~~#C00080:1 -- Intelligence isn't everything.  Machines still don't have the same &quot;creative spark&quot; or something.  Besides, there's beauty in all life.  A completely mechanical existence would lose the joy of diversity.~~ 
+1. The Caretaker has no business meddling in our affairs.  ~~#C00080:3 -- Well, I've got mixed feelings on this.  It'd be nice if the Caretaker would only meddle with those who want meddling, but sometimes it's for the best in the long run.  (After all, I wouldn't be here without the events that led up to the Caretaker's creation, and no one much at the time thought the meddling was for the best. :P)  I'd be a real hypocrite if I said, &quot;No, the Caretaker should stay out of our lives,&quot; considering what I am and what my parents are, but I also feel that people should be left to make their own mistakes as much as possible.~~ 
+1. Those who can wield magic are obligated to use their power for the good of all Terrans.  ~~#C00080:2 -- Woah, woah.  All TERRANS?  Screw you, hippie. :P  All sentient beings?  That I could agree with more, at least in principle.  But who decides what's best for all?  Saving a thousand lives by averting a spaceship crash?  Sure.  Of course a mystic in the right place at the right time (with sufficient power!) should do that.  But sacrificing one's own life to 'port a brillant scientist or the President to safety instead of yourself or your family?  Well . . . most people would say the &quot;important person&quot; would be more to the benefit of society, but I think decisions like that have to be left up to the individual.  It's the fear of society mandating what mystics are and aren't allowed to do that drove my parents away from Earth in the first place.  Mystics are people, with the right to live the lives of their choosing, just like any other.  I think any &quot;good&quot; person would try to use their talents to make the world better than they left it in SOME way, regardless of whether they have mystic potential or not.  How they choose to do that is their business, and no one else's.~~ 
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  ~~#C00080:2 -- It would depend on the machine, I guess, how much I agree with that.  I haven't personally known well any robots who claim sentience, but if they are self-aware and have a desire to continue their existence, they should be given that freedom.~~ 
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications.  ~~#C00080:4 -- It might have been better to wait until it was better understood, but it also has had many benefits.  Ideally, it should have been done on a smaller scale first, but what's done is done and can't be changed at this late date.~~ 
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day.  ~~#C00080:5 -- Mystic energy is limited by our capacity to wield it.  Yes, groups of people can combine to make things more powerful, but the threshold tends to be lower than technology.  Any nut can get his hands on tech that could blow up a much larger area than the average 5000 people could do with mystic energy.  I think it's a lot less likely that enough mystics will get together and destroy the world than that a lot of power-mad &quot;normal&quot; people would do the same with WMDs.~~ 
 
 # Some Notes on Names 
 
@@ -66,36 +66,36 @@ The name of the jealous ex-friend of my father's, the one who has decided that m
 # Elven Family Tree
 
 Sara Cassenti &amp; Janelle (Janus Ilaris)
-#Adana Cassenti (female, twins with Evan)
-#Evan Cassenti (male, twins with Adana)
+1. Adana Cassenti (female, twins with Evan)
+1. Evan Cassenti (male, twins with Adana)
 
 Adana &amp; Evan Cassenti
-#Aben Cassenti (male)
-#Cail Cassenti (male)
-#Seth Cassenti (male)
-#Astarte Cassenti (female, twins with Anat)
-#Anat Cassenti (female, twins with Astarte)
-#? (male)
-#? (female)
-#? (male)
-#Elana Connendeol (female)
-#? (male)
-#? (male)
-#Arthin Nightshade (male, twins with Tira)
-#Tira Nightshade (female, twins with Arthin)
-#Vondre Willowtree (female)
-#? (male)
-#? (female)
-#? (male)
-#Thalevar Starsong (male)
-#? (female)
-#? (female)
-#? (male)
-#? (male)
-#? (male)
+1. Aben Cassenti (male)
+1. Cail Cassenti (male)
+1. Seth Cassenti (male)
+1. Astarte Cassenti (female, twins with Anat)
+1. Anat Cassenti (female, twins with Astarte)
+1. ? (male)
+1. ? (female)
+1. ? (male)
+1. Elana Connendeol (female)
+1. ? (male)
+1. ? (male)
+1. Arthin Nightshade (male, twins with Tira)
+1. Tira Nightshade (female, twins with Arthin)
+1. Vondre Willowtree (female)
+1. ? (male)
+1. ? (female)
+1. ? (male)
+1. Thalevar Starsong (male)
+1. ? (female)
+1. ? (female)
+1. ? (male)
+1. ? (male)
+1. ? (male)
 
 Thalevar Starsong &amp; Erica Banyon (female celestial human)
-#Ariona Cassyon (female half-celestial, half-elf)
+1. Ariona Cassyon (female half-celestial, half-elf)
 
 
 ----- 

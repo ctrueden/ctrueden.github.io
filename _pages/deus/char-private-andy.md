@@ -71,28 +71,28 @@ The following is still quite rough.  For what I've writen so far, this is going 
 * __greatest failure or disappointment:__ Trying to fit in.
 
 Would your character (1=Never, 5=Always):
-#Lie to a friend to protect his feelings?  1 (unles a really good friend he is afraid to lose)
-#Help a frail old woman cross the street?  1  Not that he wouldn't like to help, but crossing the street isn't something that he's all that good at to begin with.
-#Tell anyone if he saw something widely believed to be impossible? 2  Would tell close friends or professors, but not anyone else.
-#Give money to a beggar on the street?  1  He has no spare money.  Also his father had to work hard, and he works hard.  Bumming is not hard work.
-#Seek vengeance if wronged?   2  He's gotten revenge on kids who have picked on him before, and while it was fun at the time, it was ultimatly a hollow act.  It didn't help his possition at all, and just created more tension.
-#Steal if he thought he could get away with it?  3  Depends.  He won't take something that was earned, but if someone was given but not appriciated, he has no qualms taking it.
+1. Lie to a friend to protect his feelings?  1 (unles a really good friend he is afraid to lose)
+1. Help a frail old woman cross the street?  1  Not that he wouldn't like to help, but crossing the street isn't something that he's all that good at to begin with.
+1. Tell anyone if he saw something widely believed to be impossible? 2  Would tell close friends or professors, but not anyone else.
+1. Give money to a beggar on the street?  1  He has no spare money.  Also his father had to work hard, and he works hard.  Bumming is not hard work.
+1. Seek vengeance if wronged?   2  He's gotten revenge on kids who have picked on him before, and while it was fun at the time, it was ultimatly a hollow act.  It didn't help his possition at all, and just created more tension.
+1. Steal if he thought he could get away with it?  3  Depends.  He won't take something that was earned, but if someone was given but not appriciated, he has no qualms taking it.
 
 Does your character believe in (1=Not at all, 5=Strongly):
-#Aliens?  Possible, even likely.
-#Karma?  He's either paying back a lot of karma, or he has a destiny ahead of him.
-#Free will (i.e., many possible futures)?  He didn't until recent events.
-#Time travel?  Backwards, not likely, but controling the rate forward should be possible.
-#Equality for all sentient beings?  Very much.
-#God or other supreme force?  See above.
+1. Aliens?  Possible, even likely.
+1. Karma?  He's either paying back a lot of karma, or he has a destiny ahead of him.
+1. Free will (i.e., many possible futures)?  He didn't until recent events.
+1. Time travel?  Backwards, not likely, but controling the rate forward should be possible.
+1. Equality for all sentient beings?  Very much.
+1. God or other supreme force?  See above.
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-#Now that machines are smarter than humans, biological life is obsolete.  2
-#The Caretaker has no business meddling in our affairs.  5
-#Those who can wield magic are obligated to use their power for the good of all Terrans.  2
-#No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 2 
-#Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 3 (I don't know how well it was tested before.)  He sees it as a way for the fortunate to become more fortunate, but it doesn't do much to help in general.
-#Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 2  Technology has the possiblity of helping everyone and being equitably distributed, while mystic engergy creates a favored class.
+1. Now that machines are smarter than humans, biological life is obsolete.  2
+1. The Caretaker has no business meddling in our affairs.  5
+1. Those who can wield magic are obligated to use their power for the good of all Terrans.  2
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 2 
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 3 (I don't know how well it was tested before.)  He sees it as a way for the fortunate to become more fortunate, but it doesn't do much to help in general.
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 2  Technology has the possiblity of helping everyone and being equitably distributed, while mystic engergy creates a favored class.
 
 
 ## Advanced Class: Netmind

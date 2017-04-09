@@ -78,9 +78,9 @@ A second warning: Each of three tasks before you is critically important. If any
 
 ## Outline
 __Three challenges:__
-#Vishnu -- Confrontation between Asmodeus and the Caretaker (Alfadir)
-#Shiva -- Prevention of the Destroyer devouring the Destiny Force
-#Brahma -- Jasmine in the Void redirecting Brice's portal to the big bang
+1. Vishnu -- Confrontation between Asmodeus and the Caretaker (Alfadir)
+1. Shiva -- Prevention of the Destroyer devouring the Destiny Force
+1. Brahma -- Jasmine in the Void redirecting Brice's portal to the big bang
 
 ## Scenario I -- Vishnu (Kelsey)
 This scenario deals with the Caretaker, and with the theme of subjective morality.
@@ -222,14 +222,14 @@ Potential GM destiny token uses:
 
 ## Story goals
 The party can:
-#Allow the Destroyer to devour the Destiny Force (but ultimately this is fated not to occur)
-#Assist Jasmine with the ultimate destruction (dual universe collapses in upon itself)
+1. Allow the Destroyer to devour the Destiny Force (but ultimately this is fated not to occur)
+1. Assist Jasmine with the ultimate destruction (dual universe collapses in upon itself)
     * She sees that she and Brice are fated to die.
     * Existence is meaningless if you don't have free will.
     * Testing whether or not free will exists is more important to Jasmine than whether she lives or dies.
     * There is only one way to test whether she really has free will: attempt to destroy the ouroboros.
     * If the party is convinced she will fail, then why not help her? she asks.
-#Prevent both scenarios, thus preserving the universe in its current form
+1. Prevent both scenarios, thus preserving the universe in its current form
     * Facilitate the inversion of the universe
 
 The ouroboros has 153 dimensions. Our universe has 57 dimensions. The antiverse has 60. (The other 36 dimensions are &quot;glue&quot; holding the universes together.)
@@ -334,11 +334,11 @@ Possible character involvements:
 If Asmodeus is slain, the Caretaker brings him back, saying that he is necessary.
 
 All three incidents relate to Emmanuel, the preserver (Vishnu). In all three, Emmanuel himself can lend aid of some kind.
-#The opening of the portal at the Deus Ex Machina
-#Noun &amp; Asmodeus destroying the Stairway to Heaven
-#6500 years ago - Emmanuel's arrival / fearful's flight - elegantly reveal human's origin - Cain's creation
-#Birth of the Caretaker - John Bishop
-#65 million years ago - creation of Dragonstar
+1. The opening of the portal at the Deus Ex Machina
+1. Noun &amp; Asmodeus destroying the Stairway to Heaven
+1. 6500 years ago - Emmanuel's arrival / fearful's flight - elegantly reveal human's origin - Cain's creation
+1. Birth of the Caretaker - John Bishop
+1. 65 million years ago - creation of Dragonstar
 
 ## GM goals
 Involve neglected characters:

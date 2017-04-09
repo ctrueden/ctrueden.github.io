@@ -200,28 +200,28 @@ Greatest Achievement: Altering himself as drastically as he has and still surviv
 Greatest Failure: Failing to give himself mystic abilities.
 
 Would your character (1=Never, 5=Always):
-#Lie to a friend to protect his feelings? ~~#7F007F:3-Depends on the lie/situation~~
-#Help a frail old woman cross the street? ~~#7F007F:2~~
-#Tell anyone if he saw something widely believed to be impossible? ~~#7F007F:4-In the form of insane ramblings~~
-#Give money to a beggar on the street? ~~#7F007F:1~~
-#Seek vengeance if wronged? ~~#7F007F:1~~
-#Steal if he thought he could get away with it? ~~#7F007F:3-Depends on the importance of the object/situation~~
+1. Lie to a friend to protect his feelings? ~~#7F007F:3-Depends on the lie/situation~~
+1. Help a frail old woman cross the street? ~~#7F007F:2~~
+1. Tell anyone if he saw something widely believed to be impossible? ~~#7F007F:4-In the form of insane ramblings~~
+1. Give money to a beggar on the street? ~~#7F007F:1~~
+1. Seek vengeance if wronged? ~~#7F007F:1~~
+1. Steal if he thought he could get away with it? ~~#7F007F:3-Depends on the importance of the object/situation~~
 
 Does your character believe in (1=Not at all, 5=Strongly):
-#Aliens? ~~#7F007F:4~~
-#Karma? ~~#7F007F:1~~
-#Free will (i.e., many possible futures)? ~~#7F007F:4~~
-#Time travel? ~~#7F007F:2~~
-#Equality for all sentient beings? ~~#7F007F:1~~
-#God or other supreme force? ~~#7F007F:5~~
+1. Aliens? ~~#7F007F:4~~
+1. Karma? ~~#7F007F:1~~
+1. Free will (i.e., many possible futures)? ~~#7F007F:4~~
+1. Time travel? ~~#7F007F:2~~
+1. Equality for all sentient beings? ~~#7F007F:1~~
+1. God or other supreme force? ~~#7F007F:5~~
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-#Now that machines are smarter than humans, biological life is obsolete. ~~#7F007F:1~~
-#The Caretaker has no business meddling in our affairs. ~~#7F007F:2~~
-#Those who can wield magic are obligated to use their power for the good of all Terrans. ~~#7F007F:3~~
-#No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. ~~#7F007F:2~~
-#Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. ~~#7F007F:1~~
-#Technology is more dangerous than mystic energy, and is more likely to destroy us some day. ~~#7F007F:3~~
+1. Now that machines are smarter than humans, biological life is obsolete. ~~#7F007F:1~~
+1. The Caretaker has no business meddling in our affairs. ~~#7F007F:2~~
+1. Those who can wield magic are obligated to use their power for the good of all Terrans. ~~#7F007F:3~~
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. ~~#7F007F:2~~
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. ~~#7F007F:1~~
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. ~~#7F007F:3~~
 
 Meechum pretty much believes whatever Divin tells him.  Divin thinks that most of what Meechum does is fairly effective in terms of survival, but if he needs extra guidance, Divin will give him pointers, or take over.
 
@@ -259,11 +259,11 @@ __Mystic Deflection BEM Field:__ As long as Meechum has a bioelectromagnetic fie
 __DNA Memory Gland:__ Meechum's body has come into contact with, and been altered by, numerous different DNA codes. Some of these codes have stayed, most have been changed or taken away.  All of them have been stored in this gland. Any DNA information that Meechum obtains (electronically installed, ingested, injected, etc) is recorded and may be accessed and used to alter Meechum's form or adaptations when leveling up. Additionally, given sufficient equipment and internal genetic information, this information can be accessed and used to create life: Animals, plants, insects, bacteria, etc. may all be created in a lab from this information. This allows Meechum to act as a sort of Noah's Ark.
 
 __Cellular Sentience:__ At sixth level, Meechum undergoes a drastic change, with each cell becoming sentient, part of a hive mind, similar to nanobots except biological. Meechum's body learns what adaptations are useful and choose to alter Meechum's body to fit the situation.  This merit replaces the MPD merit and old flaws in ability scores must be bought off.  Previously acquired merits based on Meechum's biology may be bought off and the merit points regained to use on something else.  The hive mind talks about itself using 'we','us', and 'our' instead of 'I','me', and 'my' etc.  It names itself &quot;Shattered&quot; or &quot;Unity&quot; because every aspect of it (mind, body, and soul) was broken or warped but now united in purpose.  It doesn't think of this negatively, but as an opportunity to rebuild itself better.  It is determined to become a god and perhaps even the ultimate being.  Empathy for other beings is gone.  It would not harm another unless it had more to gain from it than having allies.  &quot;We are Shattered, we are Unity, we are pleased to meet you.&quot;
-#MPD disorder is gone.  Meechum and Divin are gone.  'Unity' is in existence.  Merit points are regained.
-#Mental stats 'merge' and merit points gained from low ability scores must be bought off.
-#Unused special abilities may be bought off at lvl gain and merit points previously spent on them are recovered and can be used for other merits.
-#There will be some kind of limiting factor, either number of merit points shiftable per lvl or number of special abilities shiftable per lvl.
-#This merit itself will cost a certain number of merit points.
+1. MPD disorder is gone.  Meechum and Divin are gone.  'Unity' is in existence.  Merit points are regained.
+1. Mental stats 'merge' and merit points gained from low ability scores must be bought off.
+1. Unused special abilities may be bought off at lvl gain and merit points previously spent on them are recovered and can be used for other merits.
+1. There will be some kind of limiting factor, either number of merit points shiftable per lvl or number of special abilities shiftable per lvl.
+1. This merit itself will cost a certain number of merit points.
 
 __Enforced Mutation:__ Sometimes things are just not well adapted to the situations they find themselves in.  When Meechum and Divin shattered, their consciousness was spread to every cell of the body and became a hive mind calling itself &quot;Unity.&quot; Being a Hive mind has sky-rocketed control over the body to such an extent that it can now alter its form mind-bogglingly fast and adapt itself to current situations. By spending an action point, Unity can enforce a mutation upon itself. The change is a full round action and Unity is &quot;permanently&quot; altered. To mutate, Unity selects any number of existing mutations to be dropped. Unity then acquires a new mutation stored in its DNA memory gland, with maximum merit point cost equal to the sum of the dropped mutations. (Any extra mp are placed in reserve, and available for use during the next enforced mutation.)
 

@@ -65,28 +65,28 @@ It is assumed that, as Noun progresses as a character, his art will become more 
 Answering the following specific questions will help you to flesh out your character. Please answer each one with a number between 1 and 5, inclusive. Feel free to provide additional comments if you think your answer to a particular question is misleading or needs further clarification. And remember: there is no requirement for your character to be &quot;good&quot; or &quot;evil&quot; -- such choices are entirely up to you.
 
 Would your character (1=Never, 5=Always):
-#Lie to a friend to protect his feelings?   1
-#Help a frail old woman cross the street?  3 - Maybe, if he didn't have anything pressing to do
-#Tell anyone if he saw something widely believed to be impossible?  1 - Probably not, given the barriers to &quot;telling,&quot; and his general lack of trust in people.
-#Give money to a beggar on the street?  2 - There's a decent chance he wouldn't notice the begger
-#Seek vengeance if wronged?  2 
-#Steal if he thought he could get away with it? 3, 1 - Noun has stolen in the past, and doesn't have any real compunctions about doing it again if he needs to; however, if there's no need, he won't steal.  On the other hand, what he considers a &quot;need&quot; is not necessarilly what others might consider a need.  For instance, the afformentioned shopping carts.
+1. Lie to a friend to protect his feelings?   1
+1. Help a frail old woman cross the street?  3 - Maybe, if he didn't have anything pressing to do
+1. Tell anyone if he saw something widely believed to be impossible?  1 - Probably not, given the barriers to &quot;telling,&quot; and his general lack of trust in people.
+1. Give money to a beggar on the street?  2 - There's a decent chance he wouldn't notice the begger
+1. Seek vengeance if wronged?  2 
+1. Steal if he thought he could get away with it? 3, 1 - Noun has stolen in the past, and doesn't have any real compunctions about doing it again if he needs to; however, if there's no need, he won't steal.  On the other hand, what he considers a &quot;need&quot; is not necessarilly what others might consider a need.  For instance, the afformentioned shopping carts.
 
 Does your character believe in (1=Not at all, 5=Strongly):
-#Aliens?  3 - Not really something he thinks about.
-#Karma?  1 - No.  People trample on you, and it's up to you to stand up for yourself.
-#Free will (i.e., many possible futures)?  5 - See the previous.
-#Time travel?  3 - Not something he really thinks about, either.
-#Equality for all sentient beings?  This is another thing Noun doesn't think too much about, since he thinks more in &quot;ises and isn'ts,&quot; rather than &quot;shoulds and shouldn'ts.&quot;  He resists generalizing against a large group based on a few members, and thus could be said to be in favor of equality.  However, if his common sense dictates he will generalize, he will do so.  Overall, though, he generall thinks that each race has its own good guys and bad guys, and he's bound to meet some of each if he meets enough of them.  In terms of robots, he generally thinks of them as very powerful computers, but not quite the same as human.  It's not a violent hatred, it's just a general assumption that he has.
-#God or other supreme force? 1, 5 - Noun could be considered a heroic atheist.  He &quot;says&quot; very loudly that he does not believe in God, that he distrusts religion, and believes himself when he says so.  However, there's a very real element of fear here, where there wouldn't be fear if he didn't believe in their existence.  This fear arises from both his early life, and from the fact that the divine noun is terribly afraid of being caught and removed from reality.
+1. Aliens?  3 - Not really something he thinks about.
+1. Karma?  1 - No.  People trample on you, and it's up to you to stand up for yourself.
+1. Free will (i.e., many possible futures)?  5 - See the previous.
+1. Time travel?  3 - Not something he really thinks about, either.
+1. Equality for all sentient beings?  This is another thing Noun doesn't think too much about, since he thinks more in &quot;ises and isn'ts,&quot; rather than &quot;shoulds and shouldn'ts.&quot;  He resists generalizing against a large group based on a few members, and thus could be said to be in favor of equality.  However, if his common sense dictates he will generalize, he will do so.  Overall, though, he generall thinks that each race has its own good guys and bad guys, and he's bound to meet some of each if he meets enough of them.  In terms of robots, he generally thinks of them as very powerful computers, but not quite the same as human.  It's not a violent hatred, it's just a general assumption that he has.
+1. God or other supreme force? 1, 5 - Noun could be considered a heroic atheist.  He &quot;says&quot; very loudly that he does not believe in God, that he distrusts religion, and believes himself when he says so.  However, there's a very real element of fear here, where there wouldn't be fear if he didn't believe in their existence.  This fear arises from both his early life, and from the fact that the divine noun is terribly afraid of being caught and removed from reality.
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-#Now that machines are smarter than humans, biological life is obsolete.  2 - He's an artist.  Machines don't art well.
-#The Caretaker has no business meddling in our affairs.  4 - He'd rather the Caretaker didn't meddle in his affairs.  The Caretaker is a god, and he doesn't like gods.  He'd really rather they all just leave him be in peace.  That said, he doesn't really seperate things into &quot;rights&quot;.  The Caretaker CAN meddle in our affairs, and Noun doesn't LIKE it.  Whether the Caretaker SHOULD or not is not really ever considered.  
-#Those who can wield magic are obligated to use their power for the good of all Terrans.  1 - See free will/Karma
-#No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  3 - He doesn't really think about what &quot;actual&quot; intelligence is versus &quot;seeming&quot; intelligence.  He just knows that machines don't art good, so they can't be the quite the same as people.  However, that don't mean they're not good at other things.
-#Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications.  3 - Not something he thinks about.
-#Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 2 - No, technology seems pretty nice.
+1. Now that machines are smarter than humans, biological life is obsolete.  2 - He's an artist.  Machines don't art well.
+1. The Caretaker has no business meddling in our affairs.  4 - He'd rather the Caretaker didn't meddle in his affairs.  The Caretaker is a god, and he doesn't like gods.  He'd really rather they all just leave him be in peace.  That said, he doesn't really seperate things into &quot;rights&quot;.  The Caretaker CAN meddle in our affairs, and Noun doesn't LIKE it.  Whether the Caretaker SHOULD or not is not really ever considered.  
+1. Those who can wield magic are obligated to use their power for the good of all Terrans.  1 - See free will/Karma
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  3 - He doesn't really think about what &quot;actual&quot; intelligence is versus &quot;seeming&quot; intelligence.  He just knows that machines don't art good, so they can't be the quite the same as people.  However, that don't mean they're not good at other things.
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications.  3 - Not something he thinks about.
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 2 - No, technology seems pretty nice.
 
 
 ## Enlightened (Chronomancer)

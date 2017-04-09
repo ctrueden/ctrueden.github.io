@@ -5,28 +5,28 @@ permalink: /deus/wednesday-10
 category: deus
 ---
 Order of events:
-#The Tenacious Devil appears and Strife greets the party.
-#Dorian's ship appears, and Strife orders them to dock with it
-#They are ordered to allow Dorian's crew to board the vessel, and ordered to turn over details on the unique technology that Serra possesses
-#Ponce Dorian monologues, bringing out the five adult hostages visibly while keeping them under guard; explains how the nanites work; threatens to kill them (by gesturing at a large red button on the wall) if the information they have provided proves inaccurate
-#If the information proves accurate, Dorian explains that they don't just want the information, but also want their body parts to harvest, and then orders his men to attack; if the information is discovered to be inaccurate, Dorian declares that they have made a fatal mistake, and orders his men to attack
-#Assuming the party survives and resists, and kill some of Dorian's men, he pulls out a dead-man's switch and pushes the button; however, instead of killing the hostages, it kills his men, and he falls down, wracked in pain
-#Meanwhile, Strife has been monitoring the situation, and &quot;flees&quot; once Dorian pushes the ill-fated button
-#Knowing that there are two more hostages (the children), hopefully the PCs interrogate Dorian, who is still being wracked with pain from the subcutaneous nanitic explosions
-#He spills his guts, telling them about the Boneyard 47 asteroid base and begs for them to have mercy, saying he was just working under contract, &quot;nuthin' personal, guv&quot;
-#At the asteroid base, they are contacted by Cap'n Blacksoul, who apologizes for the incompetence of his associate, and attempts to charm them, telling them that his crew normally does not engage in such despicable acts, but... well, actually, they do, he says, as he pulls one of the children into view with a laser pistol at his head, and he's not making any excuses. He admits it -- they're bastards. But he promises to let the children go if -- well, you know I'll be lying no matter what the conditions. &quot;So why don't you just come aboard my starship and have a drink with me?&quot; (Allows them to refuse.) &quot;Allow me clarify: have a drink, or Junior here gets it.&quot;
-#The PCs board the Obsidian Teknokon, leaving behind Ridge's family
-#The five recently &quot;liberated&quot; hostages disable the Perseverance from within
-#The Tenacious Devil, invisible, docks with Perseverence from the other side and drills through the hull
-#The &quot;real&quot; attack commences, a pincer attack from both sides; the pirates are armed with chemical guns that fire a silly-string-like substance; they also throw grenades like tanglefoot bags, but drugged; Fort save DC 20 every round until junk is scraped off and for at least one minute, proceeding to fatigued, then exhausted, then unconscious
-#If the entire party is killed or subdued, the session ends
-#If the party kills enough of their crew, Blacksoul and Strife flee:
+1. The Tenacious Devil appears and Strife greets the party.
+1. Dorian's ship appears, and Strife orders them to dock with it
+1. They are ordered to allow Dorian's crew to board the vessel, and ordered to turn over details on the unique technology that Serra possesses
+1. Ponce Dorian monologues, bringing out the five adult hostages visibly while keeping them under guard; explains how the nanites work; threatens to kill them (by gesturing at a large red button on the wall) if the information they have provided proves inaccurate
+1. If the information proves accurate, Dorian explains that they don't just want the information, but also want their body parts to harvest, and then orders his men to attack; if the information is discovered to be inaccurate, Dorian declares that they have made a fatal mistake, and orders his men to attack
+1. Assuming the party survives and resists, and kill some of Dorian's men, he pulls out a dead-man's switch and pushes the button; however, instead of killing the hostages, it kills his men, and he falls down, wracked in pain
+1. Meanwhile, Strife has been monitoring the situation, and &quot;flees&quot; once Dorian pushes the ill-fated button
+1. Knowing that there are two more hostages (the children), hopefully the PCs interrogate Dorian, who is still being wracked with pain from the subcutaneous nanitic explosions
+1. He spills his guts, telling them about the Boneyard 47 asteroid base and begs for them to have mercy, saying he was just working under contract, &quot;nuthin' personal, guv&quot;
+1. At the asteroid base, they are contacted by Cap'n Blacksoul, who apologizes for the incompetence of his associate, and attempts to charm them, telling them that his crew normally does not engage in such despicable acts, but... well, actually, they do, he says, as he pulls one of the children into view with a laser pistol at his head, and he's not making any excuses. He admits it -- they're bastards. But he promises to let the children go if -- well, you know I'll be lying no matter what the conditions. &quot;So why don't you just come aboard my starship and have a drink with me?&quot; (Allows them to refuse.) &quot;Allow me clarify: have a drink, or Junior here gets it.&quot;
+1. The PCs board the Obsidian Teknokon, leaving behind Ridge's family
+1. The five recently &quot;liberated&quot; hostages disable the Perseverance from within
+1. The Tenacious Devil, invisible, docks with Perseverence from the other side and drills through the hull
+1. The &quot;real&quot; attack commences, a pincer attack from both sides; the pirates are armed with chemical guns that fire a silly-string-like substance; they also throw grenades like tanglefoot bags, but drugged; Fort save DC 20 every round until junk is scraped off and for at least one minute, proceeding to fatigued, then exhausted, then unconscious
+1. If the entire party is killed or subdued, the session ends
+1. If the party kills enough of their crew, Blacksoul and Strife flee:
     * Strife returns to her ship using project image and mislead, then uses mislead to get her ship away; she has stolen the &quot;black box&quot; containing the Miller 2 algorithm
     * &quot;Goodbye!&quot; says Blacksoul as he jettisons the hostages into space, with obvious mines attached; upon further inspection, some are subcutaneous; also, he stops sending the refresh signal to the nanites, meaning that the people will die within 60 seconds
     * Blacksoul waves his hand impatiently: &quot;Go! Get off my ship! Not much time now!&quot;
-#Blacksoul, in his escape, launches four probes that emanate ion trails identical to his. They take off in four different directions. Each, is painted brown hues matching the asteroids in the belt. Once they go a ways, they land on a suitable asteroid, cut their engines, and power down, making it very difficult to determine where they went. Blacksoul's ship itself is painted black, and he cuts his engines in space after a circuitous route through the asteroid belt.
-#Blacksoul and Strife return to the secret Boneyard 47 asteroid base; the party could conceivably track them there, but it is heavily armed; also, they must first repair the damage done by Ridge's family; and unbrainwash the family members themselves
-#Dorian does not know about Boneyard 47 at all
+1. Blacksoul, in his escape, launches four probes that emanate ion trails identical to his. They take off in four different directions. Each, is painted brown hues matching the asteroids in the belt. Once they go a ways, they land on a suitable asteroid, cut their engines, and power down, making it very difficult to determine where they went. Blacksoul's ship itself is painted black, and he cuts his engines in space after a circuitous route through the asteroid belt.
+1. Blacksoul and Strife return to the secret Boneyard 47 asteroid base; the party could conceivably track them there, but it is heavily armed; also, they must first repair the damage done by Ridge's family; and unbrainwash the family members themselves
+1. Dorian does not know about Boneyard 47 at all
 
 Scorpio is at the nearby Boneyard 47 base. It escaped from Magitech several years ago when Magitech finally decided to destroy the &quot;evil&quot; Zodiacs: Capricorn, Aries and Scorpio. The three Zodiacs, when released from containment, quickly hacked into an AI and took it over. Scorpio betrayed the others, leaving them to die, while the AI spirited him away.
 

@@ -363,29 +363,29 @@ With the knowledge of the energies present in the nanobots that make up the nano
 # Questionnaire
 ## Would your character:
 (1=Never, 5=Always)
-#Lie to a friend to protect his feelings? 4
-#Help a frail old woman cross the street? 2
-#Tell anyone if he saw something widely believed to be impossible? 2
-#Give money to a beggar on the street? 4
-#Seek vengeance if wronged? 5
-#Steal if he thought he could get away with it? 3
+1. Lie to a friend to protect his feelings? 4
+1. Help a frail old woman cross the street? 2
+1. Tell anyone if he saw something widely believed to be impossible? 2
+1. Give money to a beggar on the street? 4
+1. Seek vengeance if wronged? 5
+1. Steal if he thought he could get away with it? 3
 ## Does your character believe in:
 (1=Not at all, 5=Strongly)
-#Aliens? 2
-#Karma? 3
-#Free will (i.e., many possible futures)? 4
-#Time travel? 3
-#Equality for all sentient beings? 4
-#God or other supreme force? 3
+1. Aliens? 2
+1. Karma? 3
+1. Free will (i.e., many possible futures)? 4
+1. Time travel? 3
+1. Equality for all sentient beings? 4
+1. God or other supreme force? 3
 ## What does your character think about the following statements:
 (1=Strongly disagree, 3=Neutral, 5=Strongly agree)
-#Now that machines are smarter than humans, biological life is obsolete. 1
-#The Caretaker has no business meddling in our affairs. 4
-#Those who can wield magic are obligated to use their power for the good of all Terrans. 3
-#No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 4
+1. Now that machines are smarter than humans, biological life is obsolete. 1
+1. The Caretaker has no business meddling in our affairs. 4
+1. Those who can wield magic are obligated to use their power for the good of all Terrans. 3
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 4
 
-#Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 4
-#Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 1
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 4
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 1
 # Merits, Flaws, and Traits
 ## Flaws
 |__Flaw__|__Price__|
@@ -417,11 +417,11 @@ With the knowledge of the energies present in the nanobots that make up the nano
 |Total|50mp|
 
 ## Traits
-#Detached
-#Distinctive
-#Quick
-#Suspicious
-#Skinny
+1. Detached
+1. Distinctive
+1. Quick
+1. Suspicious
+1. Skinny
 
 ## Feats
 * Omniscient Whispers
@@ -642,44 +642,44 @@ Concentration:19
 * [Armor Proficiency(Light)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(light))
 * [Armor Proficiency(Medium)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(medium))
 
-#Armor Proficiency(Powered)
-#[Endurance](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#endurance)
-#[Combat Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#combat-reflexes)
-#[Improved Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-critical)
-#[Cleave](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#cleave)
-#[Great Cleave](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-cleave)
-#[Improved Bull Rush](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-bull-rush)
-#[Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-focus)
-#[Weapon Specialization(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-specialization)
-#[Improved Initiative](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-intiative)
-#[Point Blank Shot](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#point-blank-shot)
-#[Precise Shot](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#precise-shot)
-#[Surface Vehicle Operation](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Surface+Vehicle+Operation)
-#[Aircraft](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Aircraft+Operation)
-#[Burst Fire](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Burst+Fire)
-#[Dodge](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#dodge)
-#[Sidestep Charge](http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#sidestep-charge)
-#[Agile Riposte](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Agile+Riposte)
-#[Standstill](http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#standstill)
-#[Quick Draw](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Draw)
-#[Quick Reload](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Reload)
-#[Heoric Surge](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Heoric+Surge)
-#[Sunder](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Sunder)
-#[Lightning Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#lightning-reflexes)
-#[Great Fortitude](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-fortitude)
+1. Armor Proficiency(Powered)
+1. [Endurance](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#endurance)
+1. [Combat Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#combat-reflexes)
+1. [Improved Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-critical)
+1. [Cleave](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#cleave)
+1. [Great Cleave](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-cleave)
+1. [Improved Bull Rush](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-bull-rush)
+1. [Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-focus)
+1. [Weapon Specialization(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-specialization)
+1. [Improved Initiative](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-intiative)
+1. [Point Blank Shot](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#point-blank-shot)
+1. [Precise Shot](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#precise-shot)
+1. [Surface Vehicle Operation](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Surface+Vehicle+Operation)
+1. [Aircraft](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Aircraft+Operation)
+1. [Burst Fire](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Burst+Fire)
+1. [Dodge](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#dodge)
+1. [Sidestep Charge](http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#sidestep-charge)
+1. [Agile Riposte](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Agile+Riposte)
+1. [Standstill](http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#standstill)
+1. [Quick Draw](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Draw)
+1. [Quick Reload](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Reload)
+1. [Heoric Surge](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Heoric+Surge)
+1. [Sunder](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Sunder)
+1. [Lightning Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#lightning-reflexes)
+1. [Great Fortitude](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-fortitude)
 
 ### epic
-#[Improved Combat Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-combat-reflexes)
-#[Spellcasting Harrier](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#spellcasting-harrier)
-#[Superior Initiative](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#superior-initiative)
-#[Epic Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-focus)
-#[Epic Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-specialization)
-#[Overwhelming Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#overwhelming-critical)
-#[Devastating Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#devastating-critical)
-#[Perfect Health](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#perfect-health)
-#[Epic Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-reflexes)
-#[Epic Fortitude](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-fortitude)
-#[Epic Will](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-will)
+1. [Improved Combat Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-combat-reflexes)
+1. [Spellcasting Harrier](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#spellcasting-harrier)
+1. [Superior Initiative](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#superior-initiative)
+1. [Epic Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-focus)
+1. [Epic Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-specialization)
+1. [Overwhelming Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#overwhelming-critical)
+1. [Devastating Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#devastating-critical)
+1. [Perfect Health](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#perfect-health)
+1. [Epic Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-reflexes)
+1. [Epic Fortitude](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-fortitude)
+1. [Epic Will](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-will)
 * [Energy Reistance(Fire)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
 * [Energy Reistance(Cold)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
 * [Energy Reistance(Electricity)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)

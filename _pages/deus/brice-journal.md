@@ -26,14 +26,14 @@ I followed the girl on the satalite system.  There's another group of people fol
 The same taxi that took me to the back of the clinic came to take me to the forrest where the lady fled.
 
 Questions:
-#who wrote the virus and why?
-#What happened to the colony.
-#Why did I feel same feeling of loss that the colony survivors did?
-#Who is the girl, and how did she learn to do the magic that she did?
-#Who is the gentleman who helped me in, and why was he so confused?
-#Who sent and controlled the taxi?
-#Who was chacing after the girl, and why?
-#What all can this survailence system do?
+1. who wrote the virus and why?
+1. What happened to the colony.
+1. Why did I feel same feeling of loss that the colony survivors did?
+1. Who is the girl, and how did she learn to do the magic that she did?
+1. Who is the gentleman who helped me in, and why was he so confused?
+1. Who sent and controlled the taxi?
+1. Who was chacing after the girl, and why?
+1. What all can this survailence system do?
 
 ### 2nd Session 
 The taxi dropped me off by the arobreetum.  I quickly found the group of people who had run out of the clinic.  They were also looking for the girl (jasmine Devide).  Apparently she was the one who kidnapped the professor.  I reviewed the survailence records to see that she did in fact do it.  I also found out there she had just ported into town the day before.  We met up and got a small change to talk to her.  She pulled the same teleporting trick with several of the party members as she did with the guards leaving the clinic.  The ghost played like he was someone important, and Jasmine responded to that.  We found out that she was doing the job for Strat-Co, and they were hoping to pin it on Magitek.  She handed over a data crystal to us.  I 'messaged' her and she reponded when she was leaving.  She emailed me her contact info, and she left.  
@@ -75,14 +75,14 @@ I started working my way into Stract-Co's network.  I found the main communicati
 Ron Davis is a 'Mystic Consultant', and lives in Germany.
 
 Questions:
-#What happened to Percepi?  
-#What happened to Mercury?  It's still physically there, but there's no responce.
-#Who is the ghost?  Who is the man on the table, and how are they related?
-#How are we going to get the professor back?
-#Am I the 'ball of light' that drew the ghost hear?  What does that mean?  Does it have something to do with my magic?
-#Who all knows about the research, and what will they do with it, specificly StratCo?
-#What is the medal hand that Moss is holding, and who is the android?
-#Why am I involved in any of this.  I know how I got involved, and I can be useful, and it sure is more interesting that school at the moment, but is there some cosmic reason I ended up with this group.  If my arm hadn't fallen asleep, I would know about any of this.
+1. What happened to Percepi?  
+1. What happened to Mercury?  It's still physically there, but there's no responce.
+1. Who is the ghost?  Who is the man on the table, and how are they related?
+1. How are we going to get the professor back?
+1. Am I the 'ball of light' that drew the ghost hear?  What does that mean?  Does it have something to do with my magic?
+1. Who all knows about the research, and what will they do with it, specificly StratCo?
+1. What is the medal hand that Moss is holding, and who is the android?
+1. Why am I involved in any of this.  I know how I got involved, and I can be useful, and it sure is more interesting that school at the moment, but is there some cosmic reason I ended up with this group.  If my arm hadn't fallen asleep, I would know about any of this.
 
 ### 3rd Session
 Life is crazy.  The reports say that something called the grey goo took over Mercury.  It is apparently made up of nanites that self replicate out of any matter they find.  The planet was sent into the sun to prevent it from spreading.  The sun should easily burn them up, but the fact that such technology exists and could be accidently release is a little scary.
@@ -101,11 +101,11 @@ Stratco released some BS press release about the kidnapping being a publicity st
 We met a strange andriod that had a ship that will be taking us to Earth.  Someone from the group offered to pay him, so he's helping.  Apparently he was also involved with retrieving the hand of Cain (now encased in unstable metal) for Moss.  He had help from someone the Ghost claimed shot him in the back.  I don't know what the story is there.  Though I have to admit that I don't know how much I care.
 
 Questions:
-#What does the Caretaker really want and why does he want it?
-#What is really going on inside Moss's head?
-#What can the hand of Cain do, or the whole body?
-#Why does Magitek currently have it?
-#How will thinkgs work out with Jasmine?
+1. What does the Caretaker really want and why does he want it?
+1. What is really going on inside Moss's head?
+1. What can the hand of Cain do, or the whole body?
+1. Why does Magitek currently have it?
+1. How will thinkgs work out with Jasmine?
 
 ### 4th Session
 We raided Magitek!  We actually went through with it.  It didn't turn out as well as could be hoped, but well enough.  But that's getting ahead of myself.
@@ -129,10 +129,10 @@ So on to the break in.  I managed to get into their network and remotely shut do
 We ran into the head of Magitek on our way out.  I guess we weren't completely unnoticed.  She agreed to let us go as long as we asked Moss to vacate the grove.  She didn't approve of his actions, and wanted him out.  We agreed to ask him.  I hope he abides by her wishes, I don't want to get in the middle of that fight.
 
 Questions:
-#What is this potential that the Caretaker was talking about?
-#Is creating another caretaker on Luna a good thing.  I know opinions about the caretaker on Earth were split, but I don't know much about them.
-#What really caused the collony to disappear.
-#How do cain and the machine work?  Maybe if I learn more about the Caretaker, I could figure it out.
+1. What is this potential that the Caretaker was talking about?
+1. Is creating another caretaker on Luna a good thing.  I know opinions about the caretaker on Earth were split, but I don't know much about them.
+1. What really caused the collony to disappear.
+1. How do cain and the machine work?  Maybe if I learn more about the Caretaker, I could figure it out.
 
 ### 5th session
 I hate lightning.  I also hate vampires.  I'm not sure which I hate worse.

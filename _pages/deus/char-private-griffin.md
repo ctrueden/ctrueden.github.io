@@ -12,28 +12,28 @@ The character is an AI driving a state-of-the-art experimental spacecraft. Thoug
 ## Character personality questionnaire
 
 Would your character (1=Never, 5=Always):
-#Lie to a friend to protect his feelings?  _1_
-#Help a frail old woman cross the street?  _1_
-#Tell anyone if he saw something widely believed to be impossible? _5_
-#Give money to a beggar on the street?  _1_
-#Seek vengeance if wronged?  _2_
-#Steal if he thought he could get away with it?  _3_
+1. Lie to a friend to protect his feelings?  _1_
+1. Help a frail old woman cross the street?  _1_
+1. Tell anyone if he saw something widely believed to be impossible? _5_
+1. Give money to a beggar on the street?  _1_
+1. Seek vengeance if wronged?  _2_
+1. Steal if he thought he could get away with it?  _3_
 
 Does your character believe in (1=Not at all, 5=Strongly):
-#Aliens?  _4_
-#Karma?  _3_
-#Free will (i.e., many possible futures)?  _3_
-#Time travel?  _4_
-#Equality for all sentient beings?  _3_
-#God or other supreme force?  _2_
+1. Aliens?  _4_
+1. Karma?  _3_
+1. Free will (i.e., many possible futures)?  _3_
+1. Time travel?  _4_
+1. Equality for all sentient beings?  _3_
+1. God or other supreme force?  _2_
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-#Now that machines are smarter than humans, biological life is obsolete.  _4_
-#The Caretaker has no business meddling in our affairs.  _4_
-#Those who can wield magic are obligated to use their power for the good of all Terrans.  _2_
-#No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  _1_
-#Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. _3_
-#Technology is more dangerous than mystic energy, and is more likely to destroy us some day.  _4_
+1. Now that machines are smarter than humans, biological life is obsolete.  _4_
+1. The Caretaker has no business meddling in our affairs.  _4_
+1. Those who can wield magic are obligated to use their power for the good of all Terrans.  _2_
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  _1_
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. _3_
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day.  _4_
 
 
 ## The Backstory
