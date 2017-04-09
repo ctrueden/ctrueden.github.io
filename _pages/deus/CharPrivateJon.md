@@ -84,10 +84,10 @@ Technology is more dangerous than mystic energy, and is more likely to destroy u
 8mp - Cha+8
 
 1mp - Alchemical Discovery - the ability to mess with components and create a random alchemical substance or item
-*+1 bonus to the check for each Wealth difficulty above 5 with the caveat that the object must be appropriate for alchemy
+* +1 bonus to the check for each Wealth difficulty above 5 with the caveat that the object must be appropriate for alchemy
 
 1mp - Alchemical Duplication - the ability to recreate what you have already made once
-*The DC is 10 higher than creating it randomly would be, and you must use the exact same components that you used before
+* The DC is 10 higher than creating it randomly would be, and you must use the exact same components that you used before
 
 TOTAL 46mp
 
@@ -106,25 +106,25 @@ TOTAL -16mp
 ### Other notes
 
 Mystic:
-*Destr 1
-*Dis 1
-*Res 1
+* Destr 1
+* Dis 1
+* Res 1
 
 Psionic:
-*6 points to spend
+* 6 points to spend
 
 Adventurer starting occupation
-*Archaic weapons proficiency
+* Archaic weapons proficiency
 
 Starting alchemical components - various metals, liquids and other materials in your alchemical kit, in the following distribution:
-*50 components of Wealth 2
-*25 components of Wealth 3
-*10 components of Wealth 5
-*12 components of Wealth 7
-*9 components of Wealth 8
-*4 components of Wealth 13
-*2 components of Wealth 16
-*1 component of Wealth 20 - Leviathan scale?
+* 50 components of Wealth 2
+* 25 components of Wealth 3
+* 10 components of Wealth 5
+* 12 components of Wealth 7
+* 9 components of Wealth 8
+* 4 components of Wealth 13
+* 2 components of Wealth 16
+* 1 component of Wealth 20 - Leviathan scale?
 These are raw materials which while conceivably could be sold for profit, would not necessarily be easy to find an interested buyer.
 
 Also, starting with a +5 magical saber.
@@ -152,23 +152,23 @@ Senses +6 (+8 class, -2 Wis) [[HD]
 Stealth +21 (+8 class, +8 size, +5 Dex) [[HD]
 
 __Abilities:__
-*Breath attack once every 1d4 rounds, 5 foot cone, deals 2d4 points of fire damage and inflicts one (non-stacking) negative level (Reflex save DC 18 for vitality instead of wounds, and no negative level) [[1d4 fire and one negative level per HD/4; DC = 10+HD]
-*If slain, it reverts to ring form and cannot be summoned for 1 day
-*Can choose to release master's &quot;Improved Mystic Charge&quot; on itself
-*Alertness, Improved Evasion, Share Spells (see [Familiars](http://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars))
-*Immune to fire and negative energy
-*Speaks Draconic
-*7 mp: Telepathic link
-*8 mp: Spell Resistance (master level + 5)
-*9 mp: Scry on Familiar (1 minute casting time) 1/day [[1 mp: +2/day]
-*10 mp: Shadow Blend (see Draconomicon &quot;Shadow Dragon&quot;)
-*11 mp: Create Shadows (1/day; see Draconomicon &quot;Shadow Dragon&quot;)
+* Breath attack once every 1d4 rounds, 5 foot cone, deals 2d4 points of fire damage and inflicts one (non-stacking) negative level (Reflex save DC 18 for vitality instead of wounds, and no negative level) [[1d4 fire and one negative level per HD/4; DC = 10+HD]
+* If slain, it reverts to ring form and cannot be summoned for 1 day
+* Can choose to release master's &quot;Improved Mystic Charge&quot; on itself
+* Alertness, Improved Evasion, Share Spells (see [Familiars](http://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars))
+* Immune to fire and negative energy
+* Speaks Draconic
+* 7 mp: Telepathic link
+* 8 mp: Spell Resistance (master level + 5)
+* 9 mp: Scry on Familiar (1 minute casting time) 1/day [[1 mp: +2/day]
+* 10 mp: Shadow Blend (see Draconomicon &quot;Shadow Dragon&quot;)
+* 11 mp: Create Shadows (1/day; see Draconomicon &quot;Shadow Dragon&quot;)
 
 __Advancement:__
-*12 mp: Dragon Apotheosis (1/day merge with Ti Lung to become Adult Shadow Dragon for up to 1 round/level, as ''[shapechange](http://www.d20srd.org/srd/spells/shapechange.htm)'', negative levels from the breath weapon dissipate as ''[enervation](http://www.d20srd.org/srd/spells/enervation.htm)'')
-*+1 mp - ''[Mirror image](http://www.d20srd.org/srd/spells/mirrorImage.htm)'' (caster level 7)
-*+1 mp - ''[Nondetection](http://www.d20srd.org/srd/spells/nondetection.htm)'' (caster level 7)
-*+1 mp - ''[Dimension door](http://www.d20srd.org/srd/spells/dimensionDoor.htm)'' (caster level 7)
+* 12 mp: Dragon Apotheosis (1/day merge with Ti Lung to become Adult Shadow Dragon for up to 1 round/level, as ''[shapechange](http://www.d20srd.org/srd/spells/shapechange.htm)'', negative levels from the breath weapon dissipate as ''[enervation](http://www.d20srd.org/srd/spells/enervation.htm)'')
+* +1 mp - ''[Mirror image](http://www.d20srd.org/srd/spells/mirrorImage.htm)'' (caster level 7)
+* +1 mp - ''[Nondetection](http://www.d20srd.org/srd/spells/nondetection.htm)'' (caster level 7)
+* +1 mp - ''[Dimension door](http://www.d20srd.org/srd/spells/dimensionDoor.htm)'' (caster level 7)
 
 
 ### Base class: Disciple of the Void
@@ -263,50 +263,50 @@ The Ascendant recovers from vacuity at a rate of one per day. If the Ascendant's
 ### Alchemical Items
 
 Slippery Socks -- -6 slickness penalty to balance and tumble while they are worn, but +15 slickness to movement (DC 43)
-*wraith's eye
-*void essence
+* wraith's eye
+* void essence
 
 Minty fresh toothpaste -- +6 freshness bonus to Charisma-based checks due to your fresh breath, and can breathe ice (DC 25, 7d6) once per application (tube has 10 applications that take 1 minute to apply) (DC 46)
-*sphinx's paw
-*3 vials of dragon's blood
-*2 swanmay feathers
-*7 bits of meteorite metal
+* sphinx's paw
+* 3 vials of dragon's blood
+* 2 swanmay feathers
+* 7 bits of meteorite metal
 
 Magic Missile glove -- must make gun motion with hand to fire single missile per round (8 vitality) (DC 44)
-*coatl fang
-*astral construct horn
-*5 bits of meteorite metal
+* coatl fang
+* astral construct horn
+* 5 bits of meteorite metal
 
 Cat's cradle of entanglement -- as the entangle spell (mind affecting) on a single target while concentrating only, but target receives no save; both you and the target are affected while the spell is in effect (i.e., neither of you can move, since you are entangled by the enchantment) (DC 34)
-*most of the gelatinous cube goop
-*lock of siren hair
-*3 pinches of pixie dust
+* most of the gelatinous cube goop
+* lock of siren hair
+* 3 pinches of pixie dust
 
 Goop that turns everything it touches white -- but could potentially use the absorbed color to unleash a prismatic spray (DC 25)
-*leftover gelatinous cube goop
-*23 dried treant leaves
+* leftover gelatinous cube goop
+* 23 dried treant leaves
 
 Minor ring of invisibility -- turns you invisible, but only against people of whom you are aware (DC 32)
-*3 pinches of pixie dust
-*14 pieces of meteorite metal
-*void essence
+* 3 pinches of pixie dust
+* 14 pieces of meteorite metal
+* void essence
 
 __To Boris:__
 
 Belt of belting -- when used as a whip, this belt leaves welts that continue to sting, inflicting a -2 distraction penalty to the victim's attack rolls and saving throws until the welts are healed (magically or mundanely) (DC 30)
-*4 vials of dragon's blood
-*1 swanmay feather
-*11 bits of meteorite metal
+* 4 vials of dragon's blood
+* 1 swanmay feather
+* 11 bits of meteorite metal
 
 Bottle that always produces classic vintage wine (DC 33)
-*3 pinches of pixie dust
-*4 swanmay feathers
-*celestial essence
+* 3 pinches of pixie dust
+* 4 swanmay feathers
+* celestial essence
 
 Invisible cloak -- the cloak is invisible, as is anything in its pockets (DC 37)
-*2 pinches of pixie dust
+* 2 pinches of pixie dust
 
 Cufflinks of preservation -- protect mundane outfit to which they are attached (mending, prestidigitation) (DC 34)
-*1 swanmay feather
-*celestial essence
+* 1 swanmay feather
+* celestial essence
 

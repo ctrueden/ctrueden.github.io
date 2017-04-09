@@ -5,9 +5,9 @@ permalink: /deus/Wednesday06
 category: deus
 ---
 Events:
-*Visit dragon planet.
-*Get a lead on Cain's location -- the UNF has intelligence indicating a lightning-class frigate blasted a hole in the Pax Artificium dome while tractoring a humanoid body. The ship blasted the hole to avoid the body colliding with it directly. According to the ship's AI, the body is headed for Mars and will arrive in 10-14 days.
-*The UNF sends the PCs to Mars to confront Cain!
+* Visit dragon planet.
+* Get a lead on Cain's location -- the UNF has intelligence indicating a lightning-class frigate blasted a hole in the Pax Artificium dome while tractoring a humanoid body. The ship blasted the hole to avoid the body colliding with it directly. According to the ship's AI, the body is headed for Mars and will arrive in 10-14 days.
+* The UNF sends the PCs to Mars to confront Cain!
 
 
 ### Involve Ridge more

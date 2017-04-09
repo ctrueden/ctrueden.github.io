@@ -5,11 +5,11 @@ permalink: /deus/Wednesday15
 category: deus
 ---
 __[[Wed 15]:__
-*Ascend the stairway to heaven (Noun, Malcolm)
-*Rescue Fey and Bullettrain on Arcadia
-*Expose the Brotherhood/Pandora connection (Trenton)
-*Bounty hunters after Laiden (Laiden)
-*Stop Strife's revenge (Trenton)
+* Ascend the stairway to heaven (Noun, Malcolm)
+* Rescue Fey and Bullettrain on Arcadia
+* Expose the Brotherhood/Pandora connection (Trenton)
+* Bounty hunters after Laiden (Laiden)
+* Stop Strife's revenge (Trenton)
 
 Jason will not be present for this session. Figure out how to handle this -- Write out the character? Kill him? Have the bounty hunters abduct him?
 

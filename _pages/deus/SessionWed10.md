@@ -62,14 +62,14 @@ Laiden gets from Brains how he tied in multiple clusters of computers from vario
 Laiden and Ridge and Serra have a forged document with some truth in it to fake Dorian out.
 
 Some more possibilities are discussed:
-*Fey can sneak around to other locations on ship
-*Mind control darts
-*Make friends with Dorian
-*Convince something is a good idea.
-*Render someone stupid
-*Make a person disappear for 15 minutes
-*Dominate Dorian
-*Locate person
+* Fey can sneak around to other locations on ship
+* Mind control darts
+* Make friends with Dorian
+* Convince something is a good idea.
+* Render someone stupid
+* Make a person disappear for 15 minutes
+* Dominate Dorian
+* Locate person
 
 Brains is sent to do the computer work, but asks for help from Laiden.  Dorian insults Brains, but lets Laiden go help out.
 

@@ -12,23 +12,23 @@ Please complete the following requirements when developing your character concep
 Please provide a detailed overview of your character. I've listed some ideas for discussion topics below, but please don't feel limited by them in any way. Write about the things that make your character interesting and worth playing.
 
 Ideas:
-*character name
-*family history and relations
-*physical description
-*identifying characteristics
-*personality
-*religious views
-*daily habits
-*quirks
-*likes &amp; dislikes
-*occupation
-*schooling
-*job satisfaction
-*hobbies
-*friends
-*enemies
-*greatest achievement
-*greatest failure or disappointment
+* character name
+* family history and relations
+* physical description
+* identifying characteristics
+* personality
+* religious views
+* daily habits
+* quirks
+* likes &amp; dislikes
+* occupation
+* schooling
+* job satisfaction
+* hobbies
+* friends
+* enemies
+* greatest achievement
+* greatest failure or disappointment
 
 
 ### Character personality questionnaire

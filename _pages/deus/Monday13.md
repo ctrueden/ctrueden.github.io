@@ -6,50 +6,50 @@ category: deus
 ---
 ## What happens to Cain
 
-*Cain in floating in space, on the far side of the Sun from Earth (4 hours from the Boneyard).
-*Unfortunately, Aben's ward to learn of Cain's location was triggered, and he learned where (when Eddie came on board).
-*Adana ordered Seth (the shipmaster) to take two of their new prototypes to stop DEE without destroying the vessel.
-*DEE destroyed Seth's ships and killed him, then went on a rampage in Pax Artificium, but not before ejecting Cain into space.
-*Before he left, Seth told his love, Selena, where he was going.
-*Selena then informed Scorpio (her pirate connection via Pandora's Children) about the coordinates.
-*At this point, Scorpio is occupying another of his three asteroid bases, the Hive. Its defenses include a huge number of tiny robot space drones that fire tiny projectile at a rapid rate (bees with machine guns). They also carry poison, which they inject into ships' hulls to weaken them.
-*Scorpio sends spy drones to those coordinates to watch the ship, and feed information back to him.
-*Once Seth's operation fails and DEE ejects the cargo, Scorpio takes a ship himself to recover Cain. His bodyguard, Bruce Freeman, the android who the evil Zodiacs hacked and who helped Scorpio escape from Magitech, goes with him. He still wears his Magitech uniform, since Scorpio finds it amusing, but it utterly loyal to Scorpio. However, his LORE chip prevents him from doing certain really egregious things. Scorpio finds these limitations annoying. In addition, he wants to hook up with Cain, who he knows is incredibly powerful, and potentially vulnerable to his mental powers.
-*Scorpio arrives 44 hours after DEE dumps the body. He takes the chamber on board his ship, realizes it is no longer functioning (it has been damaged by micrometeorites), and opens it up. Cain awakens, and Scorpio strikes a bargain with him (with help from mind control coupled with Cain's still-weakened mental state), and dumps the now-useless chamber back into space.
-*Since the UNF has ships searching for him (possibly including Claire's ship, the Reliant, and Waterton's ship, the Behemoth), Scorpio has rigged Boneyard 47 to explode with antimatter bombs obtained from the defunct Volokhov administration. (This fact, however, is more relevant to the Wednesday group.)
-*Cain agrees to become Scorpio's vessel, since is floating in space, with nowhere to go, and figures if things go wrong he can just devour Scorpio. Scorpio believes he has the upper hand.
-*Cain/Scorpio travels to Arcadia to get cybernetic implants, and pursue some of Scorpio's shady business goals. He is currently lying low, while Freeman has been sent to Laboro to purchase slaves with technical knowledge and bring them back for Cain to devour. (Officially, there are no slaves, but children are sold into indentured servitude under the table. Cain/Scorpio reasons that these types of people are the least likely to missed en masse.) He may also devour a criminal or two locally.
+* Cain in floating in space, on the far side of the Sun from Earth (4 hours from the Boneyard).
+* Unfortunately, Aben's ward to learn of Cain's location was triggered, and he learned where (when Eddie came on board).
+* Adana ordered Seth (the shipmaster) to take two of their new prototypes to stop DEE without destroying the vessel.
+* DEE destroyed Seth's ships and killed him, then went on a rampage in Pax Artificium, but not before ejecting Cain into space.
+* Before he left, Seth told his love, Selena, where he was going.
+* Selena then informed Scorpio (her pirate connection via Pandora's Children) about the coordinates.
+* At this point, Scorpio is occupying another of his three asteroid bases, the Hive. Its defenses include a huge number of tiny robot space drones that fire tiny projectile at a rapid rate (bees with machine guns). They also carry poison, which they inject into ships' hulls to weaken them.
+* Scorpio sends spy drones to those coordinates to watch the ship, and feed information back to him.
+* Once Seth's operation fails and DEE ejects the cargo, Scorpio takes a ship himself to recover Cain. His bodyguard, Bruce Freeman, the android who the evil Zodiacs hacked and who helped Scorpio escape from Magitech, goes with him. He still wears his Magitech uniform, since Scorpio finds it amusing, but it utterly loyal to Scorpio. However, his LORE chip prevents him from doing certain really egregious things. Scorpio finds these limitations annoying. In addition, he wants to hook up with Cain, who he knows is incredibly powerful, and potentially vulnerable to his mental powers.
+* Scorpio arrives 44 hours after DEE dumps the body. He takes the chamber on board his ship, realizes it is no longer functioning (it has been damaged by micrometeorites), and opens it up. Cain awakens, and Scorpio strikes a bargain with him (with help from mind control coupled with Cain's still-weakened mental state), and dumps the now-useless chamber back into space.
+* Since the UNF has ships searching for him (possibly including Claire's ship, the Reliant, and Waterton's ship, the Behemoth), Scorpio has rigged Boneyard 47 to explode with antimatter bombs obtained from the defunct Volokhov administration. (This fact, however, is more relevant to the Wednesday group.)
+* Cain agrees to become Scorpio's vessel, since is floating in space, with nowhere to go, and figures if things go wrong he can just devour Scorpio. Scorpio believes he has the upper hand.
+* Cain/Scorpio travels to Arcadia to get cybernetic implants, and pursue some of Scorpio's shady business goals. He is currently lying low, while Freeman has been sent to Laboro to purchase slaves with technical knowledge and bring them back for Cain to devour. (Officially, there are no slaves, but children are sold into indentured servitude under the table. Cain/Scorpio reasons that these types of people are the least likely to missed en masse.) He may also devour a criminal or two locally.
 
 
 ## Cain's powers
 
-*Stats: Str 8/10, Dex 8/10, Con 8/10, Int 30, Wis 20, Cha 20
-*Read minds (DC 22)
-*Devour souls and absorb their memories
-*Magic used on or near Cain does nothing, but instead backlashes 100% -- Cain may choose to rejuvenate himself 1d6 per mystic sphere instead of &quot;releasing&quot; the backlash
-*50 foot aura canceling all active mystic effects, converting them to backlash as above
-*He possesses memories from the pre-undead-lives of all undead he personally turned; since he cropped up several times throughout history, he remembers certain eras, including the most current one, due to the Mars incident
-*Pseudonatural touch
+* Stats: Str 8/10, Dex 8/10, Con 8/10, Int 30, Wis 20, Cha 20
+* Read minds (DC 22)
+* Devour souls and absorb their memories
+* Magic used on or near Cain does nothing, but instead backlashes 100% -- Cain may choose to rejuvenate himself 1d6 per mystic sphere instead of &quot;releasing&quot; the backlash
+* 50 foot aura canceling all active mystic effects, converting them to backlash as above
+* He possesses memories from the pre-undead-lives of all undead he personally turned; since he cropped up several times throughout history, he remembers certain eras, including the most current one, due to the Mars incident
+* Pseudonatural touch
 
 
 ## Arcadia NPCs
 
-*Boris, Josef &amp; Annika
-*Lincoln Evans -- drug dealer; big muscly guy, wears lots of jewelry; crosses his arms a lot; outgoing, says &quot;Ayup&quot; and &quot;Nope&quot; a lot
-*Norris Harrison -- runs the &quot;pawn shop&quot; (huge block of warehouses; largest concentration of stolen goods in the galaxy); wears a felt hat over his shaved head and constantly adjusts it; reserved, says &quot;Hmm&quot; and &quot;I'll see what I can do&quot; a lot
-*Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot
+* Boris, Josef &amp; Annika
+* Lincoln Evans -- drug dealer; big muscly guy, wears lots of jewelry; crosses his arms a lot; outgoing, says &quot;Ayup&quot; and &quot;Nope&quot; a lot
+* Norris Harrison -- runs the &quot;pawn shop&quot; (huge block of warehouses; largest concentration of stolen goods in the galaxy); wears a felt hat over his shaved head and constantly adjusts it; reserved, says &quot;Hmm&quot; and &quot;I'll see what I can do&quot; a lot
+* Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot
 
 
 ## How they can learn what happened
 
-*Nikolai can make a Navigate check to remember the star configuration properly, and determine the location using star charts and computer-assisted bullshit. If Nikolai fails this roll, the droid knows the general area, which can be searched.
-*It takes 18 hours to reach the location from Arcadia, assuming no extensive searching is required.
-*The droid has some sensor logs of some asteroids in the area. It can use its memory of individual asteroids and their projected paths to narrow down the location, but only to a certain extent. If Griffin does well enough on a navigate roll, the droid realizes that something was there and disrupted the asteroid pattern. The gravitic pattern leads in the direction of Arcadia.
-*Cain's empty stasis chamber has a computer monitoring its status, and logs activity, such as when it is opened, and how (e.g., from inside vs outside). The micrometeorites damaged it, but it can be repaired.
-*The slaves are being purchased with Scorpio's bankroll, which is in stolen mechanical goods. But the mystic transports must be paid for with credits, which Brice could trace. (Though Freeman does not in actuality return to the Lunar station, the tickets were purchased.)
-*Once they return to Arcadia, they hear from Boris that some residents have gone missing.
-*They also hear about machines &quot;coming to life&quot; on Laboro.
-*Some of their more valuable stuff was sold on the black market in Arcadia. If the characters are clever enough, they may be able to retrieve it, and even trace it back to Cain/Scorpio's hiding place.
+* Nikolai can make a Navigate check to remember the star configuration properly, and determine the location using star charts and computer-assisted bullshit. If Nikolai fails this roll, the droid knows the general area, which can be searched.
+* It takes 18 hours to reach the location from Arcadia, assuming no extensive searching is required.
+* The droid has some sensor logs of some asteroids in the area. It can use its memory of individual asteroids and their projected paths to narrow down the location, but only to a certain extent. If Griffin does well enough on a navigate roll, the droid realizes that something was there and disrupted the asteroid pattern. The gravitic pattern leads in the direction of Arcadia.
+* Cain's empty stasis chamber has a computer monitoring its status, and logs activity, such as when it is opened, and how (e.g., from inside vs outside). The micrometeorites damaged it, but it can be repaired.
+* The slaves are being purchased with Scorpio's bankroll, which is in stolen mechanical goods. But the mystic transports must be paid for with credits, which Brice could trace. (Though Freeman does not in actuality return to the Lunar station, the tickets were purchased.)
+* Once they return to Arcadia, they hear from Boris that some residents have gone missing.
+* They also hear about machines &quot;coming to life&quot; on Laboro.
+* Some of their more valuable stuff was sold on the black market in Arcadia. If the characters are clever enough, they may be able to retrieve it, and even trace it back to Cain/Scorpio's hiding place.
 
 
 ## Sartus Morningdew

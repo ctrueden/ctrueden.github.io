@@ -5,8 +5,8 @@ permalink: /deus/Wednesday17
 category: deus
 ---
 __[[Wed 17]:__
-*Technofearful move on to Mars
-*Moss, Nyx &amp; Aries
+* Technofearful move on to Mars
+* Moss, Nyx &amp; Aries
 
 ## Trenton's Time Stop ability
 For a 10 mp cost, Trenton can manifest ''[time stop](http://www.d20srd.org/srd/spells/timeStop.htm)'' at will. However, he must be in his state of improved consciousness first. During the time stop, he must pay the 3 vitality per round to maintain the state of improved consciousness, or the time stop ends.

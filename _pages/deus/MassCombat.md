@@ -12,42 +12,42 @@ These mass battle rules have been adapted from Savage  Worlds (starting on page 
 __Inside:__ Saturday group, Cain, Alfadir, Merlin, Adana, Elana, Liza, Seeker (first half), Ariona
 
 __Heroes:__
-*V, Adam, Unity, Nikolai
-*Gerald, Sledge, Lefty
-*Seeker (once Mordred appears)
-*Brice (turn when Mordred appears only, to lay down fireballs to pave Gerald's way)
+* V, Adam, Unity, Nikolai
+* Gerald, Sledge, Lefty
+* Seeker (once Mordred appears)
+* Brice (turn when Mordred appears only, to lay down fireballs to pave Gerald's way)
 
 __Villains:__
-*Selena, Meera
-*Hunter, Kimi, Petrov
-*Mordred
+* Selena, Meera
+* Hunter, Kimi, Petrov
+* Mordred
 
 __Heroic Units:__
-*Gerald: Midgardian dwarven/gnomish contingent
-*Sledge: Gaians
-*Lefty: elite mystic unit (battle mages)
+* Gerald: Midgardian dwarven/gnomish contingent
+* Sledge: Gaians
+* Lefty: elite mystic unit (battle mages)
 
 __Villainous Units:__
-*Selena Sharptooth: New Lunar Order (with StratCo  augmentations)
-*Mordred: the corrupted
+* Selena Sharptooth: New Lunar Order (with StratCo  augmentations)
+* Mordred: the corrupted
 
 __Events:__
-*Meera unleashed
-*Mordred appearance
-*Brice fireballs
-*DEO's wrath
-*Lefty's arrival
-*Selena switches sides
+* Meera unleashed
+* Mordred appearance
+* Brice fireballs
+* DEO's wrath
+* Lefty's arrival
+* Selena switches sides
 
 
 ## Setup (pre-battle)
 
 Assign tokens to each unit:
-*Gerald -- 5
-*Sledge -- 6
-*Lefty -- 5 (starting on the third round after they  enter, they lose one token per round, till they're down  to 1)
-*Selena -- 12
-*Mordred -- 20
+* Gerald -- 5
+* Sledge -- 6
+* Lefty -- 5 (starting on the third round after they  enter, they lose one token per round, till they're down  to 1)
+* Selena -- 12
+* Mordred -- 20
 
 Heroes decide with which unit they are initially affiliated, and with which other heroes they are teaming.
 
@@ -63,49 +63,49 @@ Each general (Gerald, Sledge, Lefty, Selena, Mordred) simultaneously and secretl
 ### Decide Actions
 
 Heroes and Generals decide their actions for the turn. Possible actions include:
-*Command army (general only -- Tactics roll)
-*Change position/team (change your unit or team members)
-*Fight (roll on Hero Combat table below)
-*Defend/retreat/hide (avoid combat this turn; incur -2 morale penalty for associated unit)
-*Other
+* Command army (general only -- Tactics roll)
+* Change position/team (change your unit or team members)
+* Fight (roll on Hero Combat table below)
+* Defend/retreat/hide (avoid combat this turn; incur -2 morale penalty for associated unit)
+* Other
 
 __Hero Combat table:__
 When fighting, roll 2d6, and use the result as follows:
-*Ferocious Battle (2-4): Same as normal battle, but hero takes double damage.
-*Normal Battle (5-8): Character contributes to the battle roll. See &quot;Determine Modifiers&quot; section below.
-*Deadly Combat (9-10): Character encounters a powerful foe, and has individual combat (ten round limit). (First foes are the general's lieutenants, followed by  the general himself.) This result prevents the  character and foe from contributing to this turn's battle roll.
-*Valorous Deed (11-12): Character gets an opportunity to accomplish a great task. As normal battle, but character's bonus to the battle roll this turn is doubled. (Add flavor text when possible.)
+* Ferocious Battle (2-4): Same as normal battle, but hero takes double damage.
+* Normal Battle (5-8): Character contributes to the battle roll. See &quot;Determine Modifiers&quot; section below.
+* Deadly Combat (9-10): Character encounters a powerful foe, and has individual combat (ten round limit). (First foes are the general's lieutenants, followed by  the general himself.) This result prevents the  character and foe from contributing to this turn's battle roll.
+* Valorous Deed (11-12): Character gets an opportunity to accomplish a great task. As normal battle, but character's bonus to the battle roll this turn is doubled. (Add flavor text when possible.)
 
 ### Determine Modifiers
 
 Before each unit makes its battle roll, the appropriate modifiers must be decided. These include:
 
-*__Token differential:__ penalty to losing side equal to number of tokens
+* __Token differential:__ penalty to losing side equal to number of tokens
 
-*__Hero contribution:__ Character rolls an attack roll (based on style of attack they are using), with a DC of 20. (Action points are allowed.)
-**Less than 20: No bonus, 4d6 vitality damage.
-**20-24: +1 bonus, 3d6 vitality damage.
-**25-29: +2 bonus, 2d6 vitality damage.
-**30+: +2 bonus, no damage.
+* __Hero contribution:__ Character rolls an attack roll (based on style of attack they are using), with a DC of 20. (Action points are allowed.)
+    * Less than 20: No bonus, 4d6 vitality damage.
+    * 20-24: +1 bonus, 3d6 vitality damage.
+    * 25-29: +2 bonus, 2d6 vitality damage.
+    * 30+: +2 bonus, no damage.
 
 Note 1: A hero may opt to use mystic energy as his attack form for a turn. To do so, he pays any amount of mystic sphere points up to your mystic level. For every 5 points spent, a +1 bonus is granted to the battle roll. In this case, no roll need be made, and thus no vitality damage is taken.
 
 Note 2: For teaming heroes, for every member of the team beyond the first, a -1 penalty is incurred (so for a team of three, if the three members each grant a +2 bonus, their total bonus will be only +4, not +6, due to the extra members). This penalty represents the more limited opportunities available when multiple heroes battle the same opponents.
 
-*__Tactics check:__ General rolls a Knowledge (tactics) check against DC 20. Success grants a +1. For every 5 above 20, an additional +1 is granted. Note that the general must use his action for the turn on tactics, rather than fighting, to grant this bonus.
+* __Tactics check:__ General rolls a Knowledge (tactics) check against DC 20. Success grants a +1. For every 5 above 20, an additional +1 is granted. Note that the general must use his action for the turn on tactics, rather than fighting, to grant this bonus.
 
-*__Terrain/preparation:__
-**Higher ground: -2 (enemy)
-**Fortifications or trenches: -2 (enemy)
-**Major advantage (e.g., a castle): -6 (enemy)
+* __Terrain/preparation:__
+    * Higher ground: -2 (enemy)
+    * Fortifications or trenches: -2 (enemy)
+    * Major advantage (e.g., a castle): -6 (enemy)
 
-*__Artillery or air support:__
-**Light: +2
-**Medium: +4
-**Heavy: +6
+* __Artillery or air support:__
+    * Light: +2
+    * Medium: +4
+    * Heavy: +6
 
-*Other modifiers (GM discretion):
-**Gerald has set traps that grant a +2 on the first turn of battle.
+* Other modifiers (GM discretion):
+    * Gerald has set traps that grant a +2 on the first turn of battle.
 
 ### Resolve Deadly Combats
 

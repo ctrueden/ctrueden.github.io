@@ -58,14 +58,14 @@ The easiest way to track down Cain's current location within the zombie horde is
 -----
 
 Battle with Cain. Must happen on the 25th or later. MORE PLANNING NEEDED.
-*Cain's abilities
-*Moss's mystic spheres, stats, etc.
-*Nyx's abilities, and actions during the battle
-*Military presence, weapons being used, etc.
-*Effect of the rosary
-*Effect of the Longinus Spear
-*Location of the combat
-*Who has been turned
+* Cain's abilities
+* Moss's mystic spheres, stats, etc.
+* Nyx's abilities, and actions during the battle
+* Military presence, weapons being used, etc.
+* Effect of the rosary
+* Effect of the Longinus Spear
+* Location of the combat
+* Who has been turned
 
 -----
 

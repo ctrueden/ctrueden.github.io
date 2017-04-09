@@ -10,8 +10,8 @@ Preferred gaming slot:
 |__2nd choice__|Monday 6:30pm|
 |__3rd choice__|Can't do Saturday|
 ### Ridge Kilgerren
-*[Character description](CharPublicAthena){GROUP(groups=&gt;athena|GMs)}
-*[Private page](CharPrivateAthena)
-*[Experience tally and announcements](AnnounceAthena){GROUP}{GROUP(groups=&gt;GMs)}
-*[Character secrets](CharSecretsAthena){GROUP}
+* [Character description](CharPublicAthena){GROUP(groups=&gt;athena|GMs)}
+* [Private page](CharPrivateAthena)
+* [Experience tally and announcements](AnnounceAthena){GROUP}{GROUP(groups=&gt;GMs)}
+* [Character secrets](CharSecretsAthena){GROUP}
 

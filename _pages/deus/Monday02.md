@@ -7,52 +7,52 @@ category: deus
 ### Questions
 
 Where did Bernstein go?
-*[Rudolf Bernstein](NPCBernstein), the scientist who was abducted, worked for [StratCo](OrgStratCo). Once he notified them of his breakthrough, they arranged for his abduction to keep him from ever revealing the results of his research to anyone. But they can't kill him, or else Divination will work on the knowledge (from the [Caretaker](NPCCaretaker)). So he's locked in a padded cell somewhere, warded against Divination.
-*Jasmine brought him to room 101, where Ron Davis (a mystic) was waiting. He then transported Bernstein to a StratCo ship in Europe. From there, Bernstein was handed off to AIs who took him to his cell, so that his location could not be divined. The AIs took him to the Glacialis branch, where he is being held in stasis.
+* [Rudolf Bernstein](NPCBernstein), the scientist who was abducted, worked for [StratCo](OrgStratCo). Once he notified them of his breakthrough, they arranged for his abduction to keep him from ever revealing the results of his research to anyone. But they can't kill him, or else Divination will work on the knowledge (from the [Caretaker](NPCCaretaker)). So he's locked in a padded cell somewhere, warded against Divination.
+* Jasmine brought him to room 101, where Ron Davis (a mystic) was waiting. He then transported Bernstein to a StratCo ship in Europe. From there, Bernstein was handed off to AIs who took him to his cell, so that his location could not be divined. The AIs took him to the Glacialis branch, where he is being held in stasis.
 
 What did StratCo do with the knowledge the gained from dissecting Zee?
-*StratCo scientists (some necrophages) dissected Zee and were able to glean some important techniques from his brain (there will be evil Zee clones or something even more disturbing later in the campaign).
-*Ron Davis is one of the StratCo guys. But not the head guy.
-*StratCo has fallen into the Syndicate's grasp -- a fact that Evan knows, and is using to his advantage somehow.
-*The Syndicate is interested in the necrophage technologies.
-*Did Evan order the study of Zee? Why? Is StratCo responsible for Zee's creation in the first place? Do they know about his soul?
+* StratCo scientists (some necrophages) dissected Zee and were able to glean some important techniques from his brain (there will be evil Zee clones or something even more disturbing later in the campaign).
+* Ron Davis is one of the StratCo guys. But not the head guy.
+* StratCo has fallen into the Syndicate's grasp -- a fact that Evan knows, and is using to his advantage somehow.
+* The Syndicate is interested in the necrophage technologies.
+* Did Evan order the study of Zee? Why? Is StratCo responsible for Zee's creation in the first place? Do they know about his soul?
 
 What is the deal with room 101?
-*It is StratCo's secret room, mobile and untraceable -- what more is necessary to explain? =P
+* It is StratCo's secret room, mobile and untraceable -- what more is necessary to explain? =P
 
 What has Moss been doing?
-*Adana and Evan believe that Moss has gone crazy (which he has, a little). He's been using dangerous levels of Forterol to enhance himself, and concentrating on his latest project with no regard for his own safety or health -- a project that Adana and Evan believe threatens them. They decide that he must be stopped, and are using Jasmine to convince the party to find Moss. At the least, they and Nyx want to boot him out of the Luna Great Forest.
-*Ian knows Moss's current location (he is treating him with his mystic treatments as of now), so he could lead them to Moss. If this option is discussed after befriending Jasmine, then she pushes for it, because if Moss and StratCo were both funding Bernstein's research, then Moss probably would almost certainly be willing to help discover what happened to Bernstein and his extraordinary results.
-*Moss is studying the vampires to find a way to purge their corruption manually (i.e., without the sun's power). However, this is taking a huge toll on him. Coupled with this strain is the fact that in return for allowing Moss to experiment upon them, the vampires are demanding regular feedings from him, because of his powerful mystic abilities and Gaian nature.
-*The vampires are associated with the Syndicate. Moss may have called in other favors from them as well (to be specified later, perhaps).
-*Moss was funding Bernstein in the hopes that his research would unlock additional mystic genetic knowledge, that could be used to boost his mystic abilities further.
+* Adana and Evan believe that Moss has gone crazy (which he has, a little). He's been using dangerous levels of Forterol to enhance himself, and concentrating on his latest project with no regard for his own safety or health -- a project that Adana and Evan believe threatens them. They decide that he must be stopped, and are using Jasmine to convince the party to find Moss. At the least, they and Nyx want to boot him out of the Luna Great Forest.
+* Ian knows Moss's current location (he is treating him with his mystic treatments as of now), so he could lead them to Moss. If this option is discussed after befriending Jasmine, then she pushes for it, because if Moss and StratCo were both funding Bernstein's research, then Moss probably would almost certainly be willing to help discover what happened to Bernstein and his extraordinary results.
+* Moss is studying the vampires to find a way to purge their corruption manually (i.e., without the sun's power). However, this is taking a huge toll on him. Coupled with this strain is the fact that in return for allowing Moss to experiment upon them, the vampires are demanding regular feedings from him, because of his powerful mystic abilities and Gaian nature.
+* The vampires are associated with the Syndicate. Moss may have called in other favors from them as well (to be specified later, perhaps).
+* Moss was funding Bernstein in the hopes that his research would unlock additional mystic genetic knowledge, that could be used to boost his mystic abilities further.
 
 What happened to Everlily Nyx, and what has she been up to?
-*She has been the primary architect of Luna's Great Forest. She created the private sanctum that Moss is currently using.
-*She has her own sanctum as well, unknown even to Moss. But she wants Moss out.
-*Right now, she is devising her own plan to stop the Caretaker from succeeding with the Cain/Luna plan.
+* She has been the primary architect of Luna's Great Forest. She created the private sanctum that Moss is currently using.
+* She has her own sanctum as well, unknown even to Moss. But she wants Moss out.
+* Right now, she is devising her own plan to stop the Caretaker from succeeding with the Cain/Luna plan.
 
 Why is Jasmine immune to Divination?
-*It's a characteristic of the Divine Operator.
+* It's a characteristic of the Divine Operator.
 
 What is Magitech up to? What are Adana and Evan's goals?
-*Magitech resists the Syndicate's attempts to control it (although there are spies, most of them known) by pretending to be rivals with StratCo, rather than working hand in hand.
+* Magitech resists the Syndicate's attempts to control it (although there are spies, most of them known) by pretending to be rivals with StratCo, rather than working hand in hand.
 
 What are the limitations on the Pax Artificium sensor grid? Do they extend into the Great Forest? Can they still be used as a weapon?
-*StratCo has found a way to avoid being detected by the sensor grid. So room 101 is not visible at all, ever.
-*The Great Forest is not visible on the sensor grid.
-*The weapon functionality exists but is inaccessible remotely -- you must be at the main control station in Magitech HQ.
-*The sensor grid has footaged accessible from up to one week ago.
+* StratCo has found a way to avoid being detected by the sensor grid. So room 101 is not visible at all, ever.
+* The Great Forest is not visible on the sensor grid.
+* The weapon functionality exists but is inaccessible remotely -- you must be at the main control station in Magitech HQ.
+* The sensor grid has footaged accessible from up to one week ago.
 
 How can Jasmine be tracked into the Great Forest?
-*Nikolai can sense her general direction as long as she is within his sphere of influence (only a meager 10 feet right now), but that's probably not too useful yet.
-*Brice cannot use computers to follow, because the sensor network does not extend into the arboretum.
-*So they'll have to find her the old-fashioned way: by searching.
-*Brice could still get &quot;lucky&quot; and find her -- he could feel when she uses any Void abilities within Medium range.
-*The ghost feels stronger when they meet with Jasmine. He may also be able to feel her direction, somewhat, in this fashion.
+* Nikolai can sense her general direction as long as she is within his sphere of influence (only a meager 10 feet right now), but that's probably not too useful yet.
+* Brice cannot use computers to follow, because the sensor network does not extend into the arboretum.
+* So they'll have to find her the old-fashioned way: by searching.
+* Brice could still get &quot;lucky&quot; and find her -- he could feel when she uses any Void abilities within Medium range.
+* The ghost feels stronger when they meet with Jasmine. He may also be able to feel her direction, somewhat, in this fashion.
 
 Did Jasmine make a second copy of Bernstein's research results before wiping it?
-*Yes, she has a data crystal containing the formulas. She won't hand it over unless she is damn sure she can trust these people, however. Which won't be right away, no matter what they say. She also gave one copy to Davis.
+* Yes, she has a data crystal containing the formulas. She won't hand it over unless she is damn sure she can trust these people, however. Which won't be right away, no matter what they say. She also gave one copy to Davis.
 
 
 ### Meeting with William Moss

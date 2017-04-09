@@ -10,9 +10,9 @@ Preferred gaming slot:
 |__2nd choice__|Wednesday 6:30pm|
 |__3rd choice__|Do Your Worst.|
 ### Matt Smith
-*[Character description](CharPublicJohn){GROUP(groups=&gt;john|GMs)}
-*[Private page](CharPrivateJohn)
-*[Experience tally and announcements](AnnounceJohn){GROUP}{GROUP(groups=&gt;GMs)}
-*[Character secrets](CharSecretsJohn){GROUP}
+* [Character description](CharPublicJohn){GROUP(groups=&gt;john|GMs)}
+* [Private page](CharPrivateJohn)
+* [Experience tally and announcements](AnnounceJohn){GROUP}{GROUP(groups=&gt;GMs)}
+* [Character secrets](CharSecretsJohn){GROUP}
 Pax Artificium character: [Zuul](/pax/pcs/zuul.html)
 

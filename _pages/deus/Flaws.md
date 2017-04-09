@@ -4,17 +4,17 @@ title: Flaws
 permalink: /deus/Flaws
 category: deus
 ---
-*__Bad ability scores:__ 1mp per -1 to a stat (minimum 3)
-*__Halfling:__ 2mp
-*__Unskilled:__ 1mp per 4 skill point penalty at 1st level
-*__Poor:__ 1mp per -1 to Wealth
-*__Enemy:__ 1mp for an occasionally relevant annoyance; 2mp for a serious enemy; 3mp for a powerful nemesis
-*__Mute:__ 1mp
-*__No sense of taste:__ 1mp
-*__No sense of touch:__ 5mp
-*__No manipulable digits:__ 3mp
-*__Blind:__ 5mp
-*__Deaf:__ 5mp
+* __Bad ability scores:__ 1mp per -1 to a stat (minimum 3)
+* __Halfling:__ 2mp
+* __Unskilled:__ 1mp per 4 skill point penalty at 1st level
+* __Poor:__ 1mp per -1 to Wealth
+* __Enemy:__ 1mp for an occasionally relevant annoyance; 2mp for a serious enemy; 3mp for a powerful nemesis
+* __Mute:__ 1mp
+* __No sense of taste:__ 1mp
+* __No sense of touch:__ 5mp
+* __No manipulable digits:__ 3mp
+* __Blind:__ 5mp
+* __Deaf:__ 5mp
 
 Flaws from Unearthed Arcana cost 1mp each, and are listed below.
 

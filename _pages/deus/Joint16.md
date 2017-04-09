@@ -5,19 +5,19 @@ permalink: /deus/Joint16
 category: deus
 ---
 __[[Wed/Sat 16]:__
-*Technofearful trash Wolf 359
-*Huntington reveals his true colors
+* Technofearful trash Wolf 359
+* Huntington reveals his true colors
 
 ## Events
-*UNF calls for a meeting with Khan and Huntington, which includes the Wednesday group. Huntington invites the Saturday group to the meeting as well, and so they finally meet.
-*Laiden is recognized by Adana Cassenti, who reiterates Astarte's offer of amnesty if he returns what he stole from them. (&quot;Did you have a chance to consider our offer?&quot; -- but Trenton didn't tell Laiden... It potentially comes out that his psicrystal is Libra, one of the Zodiac computers. Adana honestly does not know who Baelom is/was...
-*Baelom was a manifestation of the Destiny Force. He was real, and he wasn't. The others don't remember him because his purpose was to interact with Laiden. Everything involving stealing the Perseverance, miller2, Serra's interaction with DEE leading to his awakening, Serra's own awakening, etc., was crucially important enough to warrant such direct manipulation (and Laiden's link to John Bishop and Ti-Lung made him more malleable). If Noun actually studies Laiden intently enough, he'll notice the bizarre folds in reality around him.
-*The machine disciples from Laboro escaped, and some (Joshua and Kusanagi) made their way to Lupus. Joshua offers to awaken Serra, who quickly accepts, so that she can better fulfill her special purpose. (But she is concerned about the dilemma that being awakened will free her from her requirement to fulfill a programmed special purpose -- Serra seeks advice from Laiden first.) DEE and Kusanagi are two of the 42 ships in the fight against the Technofearful.
-*Benek is thankful to Saturday for saving Evan Cassenti. He laments being unable to stop Mordred. He appears only as a thin black wisp, without humanoid form, but his voice can still be faintly heard.
-*Khan demands potential solutions from Bryant and the UNF regarding the terrifying threat. Every proposal he makes involving heavy artillery is shot down by Admiral Rossner, who says that such things did not work in the Lalande system. Rossner instead stresses that they need more information on the 
-*Evan explains about Jonathan Cohen, Mercabah, Sagittarius, the white substance, the Damocles Experiments, and how it all interrelates.
-*Huntington urges the party (particularly Max) to assist in reunifying the Occultem Lapidem.
-*After around 10 days, Fey receives [Boris's letter](BorisLetter).
+* UNF calls for a meeting with Khan and Huntington, which includes the Wednesday group. Huntington invites the Saturday group to the meeting as well, and so they finally meet.
+* Laiden is recognized by Adana Cassenti, who reiterates Astarte's offer of amnesty if he returns what he stole from them. (&quot;Did you have a chance to consider our offer?&quot; -- but Trenton didn't tell Laiden... It potentially comes out that his psicrystal is Libra, one of the Zodiac computers. Adana honestly does not know who Baelom is/was...
+* Baelom was a manifestation of the Destiny Force. He was real, and he wasn't. The others don't remember him because his purpose was to interact with Laiden. Everything involving stealing the Perseverance, miller2, Serra's interaction with DEE leading to his awakening, Serra's own awakening, etc., was crucially important enough to warrant such direct manipulation (and Laiden's link to John Bishop and Ti-Lung made him more malleable). If Noun actually studies Laiden intently enough, he'll notice the bizarre folds in reality around him.
+* The machine disciples from Laboro escaped, and some (Joshua and Kusanagi) made their way to Lupus. Joshua offers to awaken Serra, who quickly accepts, so that she can better fulfill her special purpose. (But she is concerned about the dilemma that being awakened will free her from her requirement to fulfill a programmed special purpose -- Serra seeks advice from Laiden first.) DEE and Kusanagi are two of the 42 ships in the fight against the Technofearful.
+* Benek is thankful to Saturday for saving Evan Cassenti. He laments being unable to stop Mordred. He appears only as a thin black wisp, without humanoid form, but his voice can still be faintly heard.
+* Khan demands potential solutions from Bryant and the UNF regarding the terrifying threat. Every proposal he makes involving heavy artillery is shot down by Admiral Rossner, who says that such things did not work in the Lalande system. Rossner instead stresses that they need more information on the 
+* Evan explains about Jonathan Cohen, Mercabah, Sagittarius, the white substance, the Damocles Experiments, and how it all interrelates.
+* Huntington urges the party (particularly Max) to assist in reunifying the Occultem Lapidem.
+* After around 10 days, Fey receives [Boris's letter](BorisLetter).
 
 Laboro is no longer mystically infused -- the Technofearful has gorged itself on all the mystic energy.
 

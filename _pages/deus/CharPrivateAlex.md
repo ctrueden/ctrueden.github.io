@@ -244,8 +244,8 @@ Mystic Magic User (Half): level 1 (2)
 ~~#808080:''Parents are second-level (often relevant and useful) contacts''~~ 
 
 Permanent Illusions 
-*Illusion 2, to appear completely human, to sight and touch -- Permanently warded, dampened -- 3 permanent Reserve points 
-*Enhancement 3, to give a +2 enhancement bonus to Int -- Permanently warded, dampened -- 5 permanent Reserve points 
+* Illusion 2, to appear completely human, to sight and touch -- Permanently warded, dampened -- 3 permanent Reserve points 
+* Enhancement 3, to give a +2 enhancement bonus to Int -- Permanently warded, dampened -- 5 permanent Reserve points 
 
 ----- 
 # Mystic Researcher
@@ -321,8 +321,8 @@ __Natural Dampening:__ Upon completing this class, the Mystic Researcher's under
 
 __Silk Feathered Cloak__ 
 ''made from a Coatl feather, Siren's hair, and a Swanmee feather'' 
-*Deflection bonus to AC equal to Charisma modifier
-*Depending on wearer's Charisma, grants additional abilities:
+* Deflection bonus to AC equal to Charisma modifier
+* Depending on wearer's Charisma, grants additional abilities:
 |Cha Bonus|Ability|
 |+2|Immunity to natural disease|
 |+3|Immunity to natural poison|

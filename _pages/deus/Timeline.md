@@ -40,11 +40,11 @@ __2020:__
 #Feingold's third term
 #Huge increase of large corporate power
 #Government Efficiency &amp; Reduction Act of 2020 -- many government functions handed over to corporate contractors, and many monopolies arise (antitrust issues are largely ignored, in the name of efficiency):
-**StratCo is contracted for the military
-**Magitech contracted for infrastructure
-**Time Warner takes over FCC &amp; media infrastructure duties
-**NSF &amp; NIH are eliminated in favor of private corporate grants from companies like Microsoft, IBM, etc. New technologies are patented/copyrighted by the companies that gave out the grants for it.
-**The IRS is outsourced as well, to a company called Money Management Solutions
+    * StratCo is contracted for the military
+    * Magitech contracted for infrastructure
+    * Time Warner takes over FCC &amp; media infrastructure duties
+    * NSF &amp; NIH are eliminated in favor of private corporate grants from companies like Microsoft, IBM, etc. New technologies are patented/copyrighted by the companies that gave out the grants for it.
+    * The IRS is outsourced as well, to a company called Money Management Solutions
 
 __2024:__
 #Feingold's fourth term
@@ -155,9 +155,9 @@ __2125:__
 #Midgard announces that they have created antimatter reactors, capable of producing vast quantities of energy. But they are more dangerous, and thus only deployed in secure facilities used to power major cities.
 #Before total war between the Earth and the moon escalates further, the Caretaker once again speaks directly into the minds of all those on Earth: ''&quot;You have strayed from the path laid out for you. This war you wage will destroy the very thing for which you fight. It must end. On this day, I send a scion, an emissary by the name of Seeker, to forge the terms of peace.&quot;''
 #Seeker negotiates terms to which all involved parties eventually grudgingly agree:
-**The moon is declared independent from all nations of Earth.
-**A galactic constitution guaranteeing new colonies their own governance according to intergalactic law is created.
-**Magitech, due to heavy mistrust from the Terran countries over the early events of the war, agrees to cease all business activities on Earth. Moss &amp; Nyx disappear from view.
+    * The moon is declared independent from all nations of Earth.
+    * A galactic constitution guaranteeing new colonies their own governance according to intergalactic law is created.
+    * Magitech, due to heavy mistrust from the Terran countries over the early events of the war, agrees to cease all business activities on Earth. Moss &amp; Nyx disappear from view.
 
 __2146:__ Yet another race makes its presence known: a strange race living with the dwarves and gnomes, said to be of &quot;royal blood,&quot; called simply &quot;the Royals&quot; by the dwarvish and gnomish peoples. Although one rumor says they are crossbreeds of dwarves and gnomes, they do not appear to possess a mixture of gnomish and dwarven features. Rather, they are taller and thinner than humans, and have bluish tinged skin and elongated fingers. The members of this race pursue science, and make progress toward genetic engineering goals as well as strides in artificial intelligence.
 
@@ -190,8 +190,8 @@ __2280:__ Mercury is infused with mystic energy and colonized.
 __2286:__ A group of reclusive druids known as Gaia's Ancient Order offers to assist the various colonies in the creation of an arboretum on each colony. Each arboretum is enclosed in its own massive biosphere, with a &quot;heart tree&quot; at its center. This tree is heavily guarded by the druids of the Order.
 
 __2299:__ 265 years have passed since the world changed, and so much is different now:
-*People are engineered to their parents' specifications, and women no longer need to go through pregnancy.
-*Superintelligent machines perform whatever tasks humans wish them to do, leaving the biological races with more leisure time than ever; people pursue only those things for which they truly have a passion.
-*Nearly everyone has at least one cybernetic implant, and the vast majority of people are permanently interfaced with computers somehow. Wireless technology has made the neural jack from the era of Pax obsolete; computers are so advanced that communication is essentially telepathic.
-*Machines are nearly indistinguishable from biological life: android bodies look and feel just like organics' bodies, and nanotechnology allows them to consume matter like organics do and self-heal more efficiently than organics can.
+* People are engineered to their parents' specifications, and women no longer need to go through pregnancy.
+* Superintelligent machines perform whatever tasks humans wish them to do, leaving the biological races with more leisure time than ever; people pursue only those things for which they truly have a passion.
+* Nearly everyone has at least one cybernetic implant, and the vast majority of people are permanently interfaced with computers somehow. Wireless technology has made the neural jack from the era of Pax obsolete; computers are so advanced that communication is essentially telepathic.
+* Machines are nearly indistinguishable from biological life: android bodies look and feel just like organics' bodies, and nanotechnology allows them to consume matter like organics do and self-heal more efficiently than organics can.
 

@@ -5,9 +5,9 @@ permalink: /deus/Monday16
 category: deus
 ---
 __[[Mon 16]__
-*Stop Mordred and the New Lunar Order from disrupting the Deus rite
-*The appearance of Damocles Experiment Omega
-*The impact of the Destroyer's appearance on Jasmine
+* Stop Mordred and the New Lunar Order from disrupting the Deus rite
+* The appearance of Damocles Experiment Omega
+* The impact of the Destroyer's appearance on Jasmine
 
 Joey will not be present for this session.
 
@@ -198,12 +198,12 @@ Kelsey is working on it.
 
 Vondre' Willowtree makes an attempt on Ariona's life, since they are both at the rite, on opposing sides.
 
-*The Destroyer arrives at Deus rite
-**Echoes resonate with Nikolai somehow?
-**Echoes affect Jasmine very profoundly?
-*How do Nikolai and Jasmine end up opening a portal to the end of time?
-*Do they travel to near Pluto to investigate the Destroyer more thoroughly?
-*Or perhaps Jasmine runs off there?
+* The Destroyer arrives at Deus rite
+    * Echoes resonate with Nikolai somehow?
+    * Echoes affect Jasmine very profoundly?
+* How do Nikolai and Jasmine end up opening a portal to the end of time?
+* Do they travel to near Pluto to investigate the Destroyer more thoroughly?
+* Or perhaps Jasmine runs off there?
 
 Does Gaddelsmocks tip off Ariona about DEO? If she dug deeply enough at StratCo, maybe she found out about it? But then maybe StratCo silences her before she can say anything else to incriminate them?
 

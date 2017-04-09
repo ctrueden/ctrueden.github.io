@@ -13,10 +13,10 @@ Unbenownst to everyone for the entire campaign, once the Destroyer is gone, ever
 -----
 
 ## Brice's color vision
-*white -- organic presence in the digital realm
-*yellow -- wireless communication
-*pink -- positive mystic energies
-*navy -- negative mystic energies
-*blue -- electronic things
-*red -- life forms in the real world (invisible or otherwise)
-*green -- soul in a digital media (such as a soulmech)
+* white -- organic presence in the digital realm
+* yellow -- wireless communication
+* pink -- positive mystic energies
+* navy -- negative mystic energies
+* blue -- electronic things
+* red -- life forms in the real world (invisible or otherwise)
+* green -- soul in a digital media (such as a soulmech)

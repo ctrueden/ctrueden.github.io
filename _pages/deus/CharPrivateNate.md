@@ -103,14 +103,14 @@ __Dissolute Nature:__None, however upon use of this power an area 50ft in radius
 
 # Character Build
 ## Hit Die Rolls
-*4
-*8
-*5
-*3
-*5
-*4
-*4
-*1
+* 4
+* 8
+* 5
+* 3
+* 5
+* 4
+* 4
+* 1
 ## Flaws, Merits, Feats, and traits
 |Start|+45mp|
 |Levels x 13|+65mp|
@@ -164,7 +164,7 @@ __Dissolute Nature:__None, however upon use of this power an area 50ft in radius
 * Temporal Extension
 
 ### Traits
-*Quick
+* Quick
 
 ## Allotment
 ### Mystic Magic
@@ -202,12 +202,12 @@ __Dissolute Nature:__None, however upon use of this power an area 50ft in radius
 |Intimidate|10|
 |Knowledge(Alchemy)|10|
 |Sense Motive|10|
-*Hebrew
-*Russian
-*Latin
-*English
-*Gnomish
-*Dwarven
+* Hebrew
+* Russian
+* Latin
+* English
+* Gnomish
+* Dwarven
 
 # Proposed Feats
 ## Persitant Effect
@@ -245,15 +245,15 @@ I need to get my fathers company back together and correct the mistakes I made. 
 I've been to hell and back, and I would say I have further to go.  I have enemies abound and no allies.  I need people's help, though everyone I have met as of yet seems mildly unhinged by my presence.  It is easy to tell that the marks of sulphur color me the devil to some eyes.  I guess if the suit fits wear it.
 
 ## Quirks
-*Consumes tobacco, fluid, and food in a neurotic fashion with the fleeting hope of  refinding his taste for such things again and thus rekindle his &quot;lost&quot; humanity
-*Dislikes and fears &quot;Royals&quot; for two reasons or pet theories: &quot;Royals&quot; share knowledge and colaberate and That if his nanomachines came in contact with a &quot;Royal&quot; it would create a new O.L.
-*Does not like or use guns
-*Absolute moral convictions against killing sentient beings
-*If you can't convince them, con them
-*If you can't con them, scare them
-*If you can't scare them, neutralize them
-*if you can't neutralize them, work around them or run.
-*Dislikes any technology that moves humanity away from a more natural existance mainly cybernetic implants, genetech, and some aspects of cloning
+* Consumes tobacco, fluid, and food in a neurotic fashion with the fleeting hope of  refinding his taste for such things again and thus rekindle his &quot;lost&quot; humanity
+* Dislikes and fears &quot;Royals&quot; for two reasons or pet theories: &quot;Royals&quot; share knowledge and colaberate and That if his nanomachines came in contact with a &quot;Royal&quot; it would create a new O.L.
+* Does not like or use guns
+* Absolute moral convictions against killing sentient beings
+* If you can't convince them, con them
+* If you can't con them, scare them
+* If you can't scare them, neutralize them
+* if you can't neutralize them, work around them or run.
+* Dislikes any technology that moves humanity away from a more natural existance mainly cybernetic implants, genetech, and some aspects of cloning
 
 ## Character Notes
 
@@ -424,14 +424,14 @@ With the knowledge of the energies present in the nanobots that make up the nano
 #Skinny
 
 ## Feats
-*Omniscient Whispers
-*Live My Nightmare
-*Controlled Immolation
-*Consumptive Memory
-*Autonomous Colonies
-*Efficient Regurgitation
-*Object Saturation
-*Electromechanic Saturation
+* Omniscient Whispers
+* Live My Nightmare
+* Controlled Immolation
+* Consumptive Memory
+* Autonomous Colonies
+* Efficient Regurgitation
+* Object Saturation
+* Electromechanic Saturation
 
 # Timeline
 ;August 4th, 2219:Daniel Cohen born in the country of Israel
@@ -594,19 +594,19 @@ Concentration:19
 |Singularity Grenade|Refl DC15|15d6|-|Energy|5ft Burst|20|
 
 # Talents and Class Abilities
-*Remain Conscious([Tough](http://www.12tomidnight.com/d20modernsrd/Tough.php))
-*Robust([Tough](http://www.12tomidnight.com/d20modernsrd/Tough.php))
-*Fearless([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
-*Nip Up([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
-*Adrenaline(Two Ability Scores)([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
-*Action Boost([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
-*Delay Damage([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
-*Damage Threshhold([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
-*Unstoppable 1/day([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
-*Unmovable 1/day([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
-*Shrug Off Punishment([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
-*Thick Skinned([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
-*All Spellbreaker Abilities
+* Remain Conscious([Tough](http://www.12tomidnight.com/d20modernsrd/Tough.php))
+* Robust([Tough](http://www.12tomidnight.com/d20modernsrd/Tough.php))
+* Fearless([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+* Nip Up([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+* Adrenaline(Two Ability Scores)([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+* Action Boost([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+* Delay Damage([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+* Damage Threshhold([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+* Unstoppable 1/day([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
+* Unmovable 1/day([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
+* Shrug Off Punishment([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
+* Thick Skinned([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
+* All Spellbreaker Abilities
 
 # Merits, Feats, Flaws
 |Merits|90mp|
@@ -635,12 +635,12 @@ Concentration:19
 
 ## Feats
 ### nonepic
-*[Personal Fire Arms Proficiency](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Persoal+Firearms+Proficiency)
-*[Simple Weapons Proficiency](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Simple+Weapons+Proficiency)
-*Greatsword Proficiency
-*[Power Attack](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#power-attack)
-*[Armor Proficiency(Light)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(light))
-*[Armor Proficiency(Medium)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(medium))
+* [Personal Fire Arms Proficiency](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Persoal+Firearms+Proficiency)
+* [Simple Weapons Proficiency](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Simple+Weapons+Proficiency)
+* Greatsword Proficiency
+* [Power Attack](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#power-attack)
+* [Armor Proficiency(Light)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(light))
+* [Armor Proficiency(Medium)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(medium))
 
 #Armor Proficiency(Powered)
 #[Endurance](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#endurance)
@@ -680,24 +680,24 @@ Concentration:19
 #[Epic Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-reflexes)
 #[Epic Fortitude](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-fortitude)
 #[Epic Will](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-will)
-*[Energy Reistance(Fire)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
-*[Energy Reistance(Cold)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
-*[Energy Reistance(Electricity)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
-*[Energy Reistance(Acid)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
-*[Energy Reistance(Sonic)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
-*[ Improved Spell Resistancex10](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-spell-resistance)
-*[Damage Resistancex9](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#damagel-resistance)
-*[Epic Toughnessx2](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic toughness)
+* [Energy Reistance(Fire)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+* [Energy Reistance(Cold)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+* [Energy Reistance(Electricity)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+* [Energy Reistance(Acid)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+* [Energy Reistance(Sonic)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+* [ Improved Spell Resistancex10](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-spell-resistance)
+* [Damage Resistancex9](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#damagel-resistance)
+* [Epic Toughnessx2](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic toughness)
 
 ## Flaws
 |Chr 8|2mp|
 
 # Equipment
-*Standard Spellbreaker Sword
-*Gerald's Sword
-*Boost Armor -Neg Grav Harness -Morphic Metal Alloy -Grav Anchor -Ultrlight Comp -Jetpack -Integrated Particle shield
-*Pulse Rifle -integrated Sonic Beam(-autofire) -Integrated Grappling Tether -Stun module -Variable Charge -Video Scope -range finder laser scope -integrated HUD
-*Hud -Piercing Visor -Motion Sensor -Biosensor -Ammunition Tracker -vehicle link -sensor link -Targetting
+* Standard Spellbreaker Sword
+* Gerald's Sword
+* Boost Armor -Neg Grav Harness -Morphic Metal Alloy -Grav Anchor -Ultrlight Comp -Jetpack -Integrated Particle shield
+* Pulse Rifle -integrated Sonic Beam(-autofire) -Integrated Grappling Tether -Stun module -Variable Charge -Video Scope -range finder laser scope -integrated HUD
+* Hud -Piercing Visor -Motion Sensor -Biosensor -Ammunition Tracker -vehicle link -sensor link -Targetting
 
 # SpellBreaker
 Hit Die: d10

@@ -93,16 +93,16 @@ The satellites brought on board that were orbiting the colony will have captured
 
 ### Doomed/ancient city names (for colonies)
 
-*Sodom &amp; Gomorrah need to appear somehow
-*Atlantis maybe; Paul declares this cheesy
-*Chorazin, Bethsaida, and Capernaum.
-*Tyre and Sidon
-*Babylon, Babel, Babylonia
-*Tikal (Mayan ruins in Guatemala)
-*Pompei (volcano)
-*[Laodicea](http://eis.net.au/~paulh/rn107lla.htm)
-*Carthage
-*Olympus
-*[Elysium](http://en.wikipedia.org/wiki/Elysium)
-*Athens
-*[El Dorado](http://en.wikipedia.org/wiki/El_Dorado_%28myth%29)
+* Sodom &amp; Gomorrah need to appear somehow
+* Atlantis maybe; Paul declares this cheesy
+* Chorazin, Bethsaida, and Capernaum.
+* Tyre and Sidon
+* Babylon, Babel, Babylonia
+* Tikal (Mayan ruins in Guatemala)
+* Pompei (volcano)
+* [Laodicea](http://eis.net.au/~paulh/rn107lla.htm)
+* Carthage
+* Olympus
+* [Elysium](http://en.wikipedia.org/wiki/Elysium)
+* Athens
+* [El Dorado](http://en.wikipedia.org/wiki/El_Dorado_%28myth%29)

@@ -35,6 +35,6 @@ Why would Lupus disable Canis's mysticport? One reason is if they thought weapon
 Anyway, in light of the attack on the mysticport, Volokhov has decided to move his collection from his mansion, where the items were on display, to a secret bunker somewhere in the city. The Volokhov brothers have set up several such bunkers, each warded against Displacement 20 (which four people each with Dis 10 can achieve by linking). However, only one such bunker contains Volokhov's collection. Another contains a number of antimatter bombs for use against Khan.
 
 Other ideas:
-*Canis has Div 12 + Dis 10 wards for detecting a threat and porting it away before it can do any harm.
-*To destroy the mysticport, Huntington dispeled the wards over it immediately before porting in the bomb.
-*Khan is distrustful of mystic energy, having more faith in technology, but he knows he must rely on it somewhat for his ends. He is porting in bits and pieces of an &quot;orbital death ray&quot; device, which he plans to launch into space from Canis. Huntington might want the party to assist in the construction of this ray, saying that it would assure Lupus's swift victory and minimize loss of life. But of course after the thing is assembled, he's going to fire it and destroy everyone.
+* Canis has Div 12 + Dis 10 wards for detecting a threat and porting it away before it can do any harm.
+* To destroy the mysticport, Huntington dispeled the wards over it immediately before porting in the bomb.
+* Khan is distrustful of mystic energy, having more faith in technology, but he knows he must rely on it somewhat for his ends. He is porting in bits and pieces of an &quot;orbital death ray&quot; device, which he plans to launch into space from Canis. Huntington might want the party to assist in the construction of this ray, saying that it would assure Lupus's swift victory and minimize loss of life. But of course after the thing is assembled, he's going to fire it and destroy everyone.

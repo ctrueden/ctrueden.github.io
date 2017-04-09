@@ -33,30 +33,30 @@ __Soulmechs:__ Organics may choose to continue their existence by having their s
 __Cybernetics:__ Nearly everyone has cybernetic implants of some sort. These implants can be for a wide variety of applications -- any task relating to interaction between machines and biological structures could potentially be accomplished through the use of cybernetics.
 
 __Medical:__
-*We can cure cancer more often.
-*We can reattach lost limbs more easily (or use artificial limbs).
-*Life extension techniques have allowed organic beings to survive for much longer -- the oldest living human is currently over 200 years old.
-*Cloning can regrow limbs that can then be reattached.
-*Everyone on Earth has basic health care.
-*&quot;Natural&quot; pregnancy and births are rare.
-*Your health plan gives you the ability to have children grown at the facility for you, based on your DNA, up to your quota (usually 2, sometimes 3).
-*One of the standard body modications is a &quot;perfect birth control&quot; module -- i.e., you do not get pregnant unless both partners want to.
+* We can cure cancer more often.
+* We can reattach lost limbs more easily (or use artificial limbs).
+* Life extension techniques have allowed organic beings to survive for much longer -- the oldest living human is currently over 200 years old.
+* Cloning can regrow limbs that can then be reattached.
+* Everyone on Earth has basic health care.
+* &quot;Natural&quot; pregnancy and births are rare.
+* Your health plan gives you the ability to have children grown at the facility for you, based on your DNA, up to your quota (usually 2, sometimes 3).
+* One of the standard body modications is a &quot;perfect birth control&quot; module -- i.e., you do not get pregnant unless both partners want to.
 
 __Trainers:__ Educational trainers exist that provide accelerated experiences (similar to those in the Matrix, but not as quick) training you for a skill or knowledge. They require several days, a few hours at a time, bombarding your brain with signals. You must interacts with an advanced AI program that controls the information (it's not simply a mindless flow of data), so in a sense, a computer program really is teaching you. These trainers are expensive to develop, and so for now, people have been concentrating on creating them for core secondary educational information (everything from learning to crawl through high school subject material). Thus, students are expected to be equipped with a neural interface as soon as they are old enough to begin schooling. The option exists (and most people do this now) to have the neural interface implanted very shortly after birth. This allows the baby to immediately begin absorbing things like how to crawl, how to walk, how to talk, how to read, potty training, and other basic skills. However, children do need to be monitored medically to ensure their neural interfaces remain properly connected to their growing brains.
 
 __Gravtech:__
-*Gravitic drives are capable of generating gravity fields near the device. These fields can either increase or decrease the effective weight of matter within the field.
-*A gravitic drive transmits gravity waves at a specific frequency; a gravitic lens works by collimating those frequencies at a specific nearby point. This technology is essentially a gravitic laser -- a large enough one of which could actually effect tidal forces.
-*Math for relativistic weapons is so complex that not even the smartest AIs or the fastest computers can solve the equations necessary to throw a relativistic projectile accurately enough to destroy a specific target.
-*The two-body problem has been solved, so you can use gravitic technology to throw things extremely quickly, but not relativistically quickly (i.e., the gravitic railgun in the book works).
-*Gravitic drives are not yet strong enough to fold space or create a point singularity.
-*Gravitic drives can be powered by either fusion or antimatter. For ships, antimatter provides the necessary power for near-light travel, and for storing enough mystic energy; for personal use, fusion batteries can power a gravitic drive for things like personal flight.
+* Gravitic drives are capable of generating gravity fields near the device. These fields can either increase or decrease the effective weight of matter within the field.
+* A gravitic drive transmits gravity waves at a specific frequency; a gravitic lens works by collimating those frequencies at a specific nearby point. This technology is essentially a gravitic laser -- a large enough one of which could actually effect tidal forces.
+* Math for relativistic weapons is so complex that not even the smartest AIs or the fastest computers can solve the equations necessary to throw a relativistic projectile accurately enough to destroy a specific target.
+* The two-body problem has been solved, so you can use gravitic technology to throw things extremely quickly, but not relativistically quickly (i.e., the gravitic railgun in the book works).
+* Gravitic drives are not yet strong enough to fold space or create a point singularity.
+* Gravitic drives can be powered by either fusion or antimatter. For ships, antimatter provides the necessary power for near-light travel, and for storing enough mystic energy; for personal use, fusion batteries can power a gravitic drive for things like personal flight.
 
 __Space travel:__ The gravitic drive is a key component of space travel. The drive accomplishes three important tasks: first, it focuses a gravitic lens directly in front of the ship, accelerating it to near-light speeds; second, it creates a powerfully repellent gravitic field around the ship to deflect any debris encountered during travel; lastly, for colony missions, it generates a gravitational bubble at its center to contain a large quantity of mystic energy for use in seeding the destination world. Due to the relativistic effects of near-light-speed travel, journeying to a far-off world takes only a few days or weeks for those inside the ship, but potentially many years, depending on how many light-years away it is. Once the world has been mystically seeded and reaches a state of mystic equilibrium, mystics can teleport back and forth from Earth easily.
 
 __Mystic travel:__
-*By weaving a mystic net around a large area, mystic energy can be channeled across the net and encompass the entire area for a fraction of the normal cost. When this netting technique is coupled with a gravitic drive that reduces the effective weight of everything in the area, even a relatively nonpowerful mystic can port large structures full of people and cargo between designated areas. Much like airports today, these mysticports provide people with the most efficient means of travel, no matter how far away the destination.
-*Still, not everyone can afford to travel by mysticport. Cargo ships do still exist that travel without the aid of mystic energy. Prices are cheaper (partially due to the World Mystics' Union's sole control of mysticports' &quot;pilots&quot;), but travel times are years longer (at least, years pass relative to the transport).
+* By weaving a mystic net around a large area, mystic energy can be channeled across the net and encompass the entire area for a fraction of the normal cost. When this netting technique is coupled with a gravitic drive that reduces the effective weight of everything in the area, even a relatively nonpowerful mystic can port large structures full of people and cargo between designated areas. Much like airports today, these mysticports provide people with the most efficient means of travel, no matter how far away the destination.
+* Still, not everyone can afford to travel by mysticport. Cargo ships do still exist that travel without the aid of mystic energy. Prices are cheaper (partially due to the World Mystics' Union's sole control of mysticports' &quot;pilots&quot;), but travel times are years longer (at least, years pass relative to the transport).
 
 __Genetech__: Advancements in genetics have eliminated once-common physical and mental defects, and allow for nearly endless creativity in body modification and offspring design. Kelsey will write more.
 

@@ -5,28 +5,28 @@ permalink: /deus/Saturday02
 category: deus
 ---
 Goals:
-*Get Zee from the Monday group to the Saturday group
-**Not so tough -- McLean is looking for Zee already -- he just needs to capture him -- but to do so we need to get Zee away from the rest of the Monday group temporarily
-*Get DEE from the Saturday group to the Monday group
-**Harder -- maybe McLean hires DEE to spy on the Monday group (since they interfered with his acquisition of Zee) and report back to him?
+* Get Zee from the Monday group to the Saturday group
+    * Not so tough -- McLean is looking for Zee already -- he just needs to capture him -- but to do so we need to get Zee away from the rest of the Monday group temporarily
+* Get DEE from the Saturday group to the Monday group
+    * Harder -- maybe McLean hires DEE to spy on the Monday group (since they interfered with his acquisition of Zee) and report back to him?
 
 The creature is in the cargo bay, and they will probably flush it into space. Bryant objects, but hopefully DEE does not listen to him. Or if he does, the creature begins to tear shit up. Bryant refuses to leave the cargo bay when DEE suggests evacuation.
 
 Regardless, Bryant will have to show his true form to fight the creature (in the cargo bay or in space). That is, he will call on his piece of the Occultem Lapidem to consume the creature, except for the Hand. Max feels his piece of the O.L. flair up in response (Will save DC 20 to avoid losing control of it). Afterwards, McLean consumes a large quantity of the metals he brought along.
 
 When questioned, Bryant is very candid:
-*His job at Mercabah is only a cover.
-*&quot;You know who I really am,&quot; he tells Max.
-*He is actually serving the Caretaker.
-*The Caretaker gave him the coordinates of the Hand, and told him to retrieve it, and also that it would be dangerous.
+* His job at Mercabah is only a cover.
+* &quot;You know who I really am,&quot; he tells Max.
+* He is actually serving the Caretaker.
+* The Caretaker gave him the coordinates of the Hand, and told him to retrieve it, and also that it would be dangerous.
 
 Each of the PCs was brought along for a reason:
-*Vadril is being groomed to assist the Caretaker in creating a great machine. (Yes he's smart, and yes he's a royal, and yes this is his field of expertise, and yes he was on the verge of a breakthrough... any other reasons it must be him, and not anyone else? How is Vadril related to Noonian Soong, if at all? Whatever it is, McLean doesn't know -- the Caretaker demanded that Korlax be the one to program the machine.)
-*DEE has FTL travel, and is one of the most advanced AI programs in the galaxy. Bryant wants him to allow Korlax to study his inner workings, so that he might learn from his design. Perhaps DEE is the physical basis upon which the Deus Ex Machina will be built (infused with souls), and thus DEE is even more important.
-*Rae was invited because she is an alien who might be responsible for Percepi's destruction, and McLean wanted to observe her. He has a hunch that she is not dangerous, but definitely important somehow.
-*McLean can sense the nanites burning within Matt. Max can feel them too, once McLean points it out. McLean wanted to rule out the possibility that Matt was the holder of the third piece of the Occultem Lapidem. But Matt is obviously still primarily organic. Also, McLean hoped that Matt's unique cerebral structure might be able to offer insight into Vadril's research.
-*Max was invited so that McLean could try to make amends for what has happened in the past, and explain that they should not be enemies. McLean tells Max that he is one of the Three prophecied.
-*Zee was supposed to be delivered into Bryant's hands and brought along on the trip, but Bryant's allies failed to produce him on Thursday (June 8) as scheduled, saying that he escaped into the Great Forest with others.
+* Vadril is being groomed to assist the Caretaker in creating a great machine. (Yes he's smart, and yes he's a royal, and yes this is his field of expertise, and yes he was on the verge of a breakthrough... any other reasons it must be him, and not anyone else? How is Vadril related to Noonian Soong, if at all? Whatever it is, McLean doesn't know -- the Caretaker demanded that Korlax be the one to program the machine.)
+* DEE has FTL travel, and is one of the most advanced AI programs in the galaxy. Bryant wants him to allow Korlax to study his inner workings, so that he might learn from his design. Perhaps DEE is the physical basis upon which the Deus Ex Machina will be built (infused with souls), and thus DEE is even more important.
+* Rae was invited because she is an alien who might be responsible for Percepi's destruction, and McLean wanted to observe her. He has a hunch that she is not dangerous, but definitely important somehow.
+* McLean can sense the nanites burning within Matt. Max can feel them too, once McLean points it out. McLean wanted to rule out the possibility that Matt was the holder of the third piece of the Occultem Lapidem. But Matt is obviously still primarily organic. Also, McLean hoped that Matt's unique cerebral structure might be able to offer insight into Vadril's research.
+* Max was invited so that McLean could try to make amends for what has happened in the past, and explain that they should not be enemies. McLean tells Max that he is one of the Three prophecied.
+* Zee was supposed to be delivered into Bryant's hands and brought along on the trip, but Bryant's allies failed to produce him on Thursday (June 8) as scheduled, saying that he escaped into the Great Forest with others.
 
 At any rate, McLean believes that by bringing together these people, something crucial is going to occur.
 

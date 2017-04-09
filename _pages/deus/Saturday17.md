@@ -5,8 +5,8 @@ permalink: /deus/Saturday17
 category: deus
 ---
 __[[Sat 17]:__
-*Huntington taken into custody by the Arcane Order
-*The party is called to testify as witnesses
+* Huntington taken into custody by the Arcane Order
+* The party is called to testify as witnesses
 
 ## Status
 __Evan Cassenti:__ Going with the Wednesday group to work with Ridge on outfitting the Obsidian Teknokon with miller2 and mystic countering ability.

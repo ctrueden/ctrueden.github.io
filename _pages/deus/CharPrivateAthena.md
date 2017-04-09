@@ -93,7 +93,7 @@ Another idea is that you are not a mystic, but have some kind of mystic portatio
 ## Sable's Miller 2 abilities (16 mp)
 Sable has 20000 power and 200 cpu/round.
 
-*__FTL Teleport:__ (100 power) Sable instantly transports itself somewhere. CPU time required is as outlined in the table below
+* __FTL Teleport:__ (100 power) Sable instantly transports itself somewhere. CPU time required is as outlined in the table below
 
 1 AU (Astronomical Unit) = 1.49598e11 m
 1 LY (light year) = 9.4605284e15 m
@@ -112,6 +112,6 @@ E.g., 7 LY = 10 + 7 = 17 hrs
 E.g., 400 LY = 20 + 1/100*300 ~= 23 hrs
 E.g., 70,000 LY = 50 + 1/10,000*60,000 = 56 hrs
 
-*__The Logic of Dust:__ By spending power to create a multidimensional computing space, Sable can increase his computing power for a single action (each 100 power yields 100 extra cpu, or a 5 hour reduction to an FTL Transport); the Logic of Dust is not an action, but rather happens as part of the target action
-*__Instant Teleport:__ (5*X power, 100+10*(X+Y) cpu) Transports something of X feet in size either to or from Sable, up to Y miles.
+* __The Logic of Dust:__ By spending power to create a multidimensional computing space, Sable can increase his computing power for a single action (each 100 power yields 100 extra cpu, or a 5 hour reduction to an FTL Transport); the Logic of Dust is not an action, but rather happens as part of the target action
+* __Instant Teleport:__ (5*X power, 100+10*(X+Y) cpu) Transports something of X feet in size either to or from Sable, up to Y miles.
 

@@ -10,8 +10,8 @@ Preferred gaming slot:
 |__2nd choice__|Thursday 6:30pm|
 |__3rd choice__|Monday 6:30pm|
 ### Fey Arius
-*[Character description](CharPublicDanielle){GROUP(groups=&gt;danielle|GMs)}
-*[Private page](CharPrivateDanielle)
-*[Experience tally and announcements](AnnounceDanielle){GROUP}{GROUP(groups=&gt;GMs)}
-*[Character secrets](CharSecretsDanielle){GROUP}
+* [Character description](CharPublicDanielle){GROUP(groups=&gt;danielle|GMs)}
+* [Private page](CharPrivateDanielle)
+* [Experience tally and announcements](AnnounceDanielle){GROUP}{GROUP(groups=&gt;GMs)}
+* [Character secrets](CharSecretsDanielle){GROUP}
 

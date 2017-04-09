@@ -52,23 +52,23 @@ The character possesses a heretofore unknown type of mystical abilities, a kind 
 
 The following is still quite rough.  For what I've writen so far, this is going to be an int based character.  I was also thinking of having him be involved in an undergound society that aims to level the playing field between the classes, and between the races and mystic/non-mystics.  I'll try to review this again soon to see if I can make this fit any better.  If anyone else reading this has any sugestions, please let me know.
 
-*__character name:__ &lt;work in progress&gt;
-*__family history and relations:__ He had gotten very ill as a child.  This left him frail and weak, and damaged most of his senses.  He was raised by his father.  He's not sure what happened to his mother, but he never knew her.  His father was poor and had to work to support them.  Consequently &lt;pc name&gt; spent a lot of time alone, or in school or school programs.
-*__physical description:__ Small and frail.  Think glasses.  More coming.
-*__identifying characteristics:__ ...
-*__personality:__ Persistant.  He made it into a prestigous university on a scholarship even though he grew up going to poorer schools.
-*__religious views:__ If there is a god, then there must be a reason he is as afflicted as he is.  If not, then he must have been really horrible in his past lives.
-*__daily habits:__ The equivalent of checking many websites.
-*__quirks:__ Poor health, vegetarian.
-*__likes &amp; dislikes:__ He likes when he can relate to people, otherwise he likes playing on the computer.
-*__occupation:__ student
-*__schooling:__ In a high class univerity even though he's from a poor background.
-*__job satisfaction:__ He enjoys the learning part of school, but hates/ignores the social aspects.
-*__hobbies:__ computers
-*__friends:__ He's more of a loaner.  No one else is aflicted like him, and few people want to deal with it.  He has created several AIs to keep him company though.  One of them tries to see things from a normal persons point of view, the other sees things from the point of view of someone who has gotten the shaft all their lives.
-*__enemies:__ Enhanced rich kids.
-*__greatest achievement:__ Getting into the university.
-*__greatest failure or disappointment:__ Trying to fit in.
+* __character name:__ &lt;work in progress&gt;
+* __family history and relations:__ He had gotten very ill as a child.  This left him frail and weak, and damaged most of his senses.  He was raised by his father.  He's not sure what happened to his mother, but he never knew her.  His father was poor and had to work to support them.  Consequently &lt;pc name&gt; spent a lot of time alone, or in school or school programs.
+* __physical description:__ Small and frail.  Think glasses.  More coming.
+* __identifying characteristics:__ ...
+* __personality:__ Persistant.  He made it into a prestigous university on a scholarship even though he grew up going to poorer schools.
+* __religious views:__ If there is a god, then there must be a reason he is as afflicted as he is.  If not, then he must have been really horrible in his past lives.
+* __daily habits:__ The equivalent of checking many websites.
+* __quirks:__ Poor health, vegetarian.
+* __likes &amp; dislikes:__ He likes when he can relate to people, otherwise he likes playing on the computer.
+* __occupation:__ student
+* __schooling:__ In a high class univerity even though he's from a poor background.
+* __job satisfaction:__ He enjoys the learning part of school, but hates/ignores the social aspects.
+* __hobbies:__ computers
+* __friends:__ He's more of a loaner.  No one else is aflicted like him, and few people want to deal with it.  He has created several AIs to keep him company though.  One of them tries to see things from a normal persons point of view, the other sees things from the point of view of someone who has gotten the shaft all their lives.
+* __enemies:__ Enhanced rich kids.
+* __greatest achievement:__ Getting into the university.
+* __greatest failure or disappointment:__ Trying to fit in.
 
 Would your character (1=Never, 5=Always):
 #Lie to a friend to protect his feelings?  1 (unles a really good friend he is afraid to lose)

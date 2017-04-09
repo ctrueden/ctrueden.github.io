@@ -6,11 +6,11 @@ category: deus
 ---
 ## Events
 
-*Visit the Arcane Order (Trenton)
-*Ascend the stairway to heaven (Malcolm)
-*Expose the Brotherhood/Pandora connection (Trenton)
-*Stop Strife's revenge (Trenton)
-*Stop Nyx from disrupting the Deus rite (Fey)
+* Visit the Arcane Order (Trenton)
+* Ascend the stairway to heaven (Malcolm)
+* Expose the Brotherhood/Pandora connection (Trenton)
+* Stop Strife's revenge (Trenton)
+* Stop Nyx from disrupting the Deus rite (Fey)
 
 See [CharSecretsMark](CharSecretsMark) for a full history of Pandora's Box, and Trenton's relationship to the Arcane Order.
 

@@ -10,21 +10,21 @@ This page will provide private details of Jason's character, for Jason and the G
 ## [Half-Dragon](http://www.d20srd.org/srd/monsters/halfDragon.htm) Template
 
 Level 1 (subtle changes):
-*Immunity to sleep and paralysis
-*Fire Resistance 10
-*Low-light vision
-*+2 Str
-*+2 Con
-*+2 Int
+* Immunity to sleep and paralysis
+* Fire Resistance 10
+* Low-light vision
+* +2 Str
+* +2 Con
+* +2 Int
 
 Level 2 (physical manifestations and larger changes):
-*Immunity to fire
-*Dark Vision
-*+6 Str
-*+2 Cha
-*Breath weapon (30 foot cone, fire, 6d8, save for half)
-*+4 Defense (natural armor)
-*Claw/Claw/Bite attack (1d4/1d4/1d6)
+* Immunity to fire
+* Dark Vision
+* +6 Str
+* +2 Cha
+* Breath weapon (30 foot cone, fire, 6d8, save for half)
+* +4 Defense (natural armor)
+* Claw/Claw/Bite attack (1d4/1d4/1d6)
 
 
 ## Miller 2 powers
@@ -35,12 +35,12 @@ Creat 1 refills 1 power.
 The Perseverance has 5000 power and 100 cpu/round.
 
 __Continuous effects:__
-*__Cloaking:__ (1 power/round, 25 cpu/round) The cloak renders the ship completely invisible.
-*__Phasing:__ (3 power/round, 70 cpu/round) By phasing, the ship is shunted slightly out of sync with the space-time continuum, allowing it to overlap with solid objects in &quot;normal&quot; space.
-*__Shields:__ (1 power/hour, 90 cpu/round) This solid green shield prevents any matter from passing through.
+* __Cloaking:__ (1 power/round, 25 cpu/round) The cloak renders the ship completely invisible.
+* __Phasing:__ (3 power/round, 70 cpu/round) By phasing, the ship is shunted slightly out of sync with the space-time continuum, allowing it to overlap with solid objects in &quot;normal&quot; space.
+* __Shields:__ (1 power/hour, 90 cpu/round) This solid green shield prevents any matter from passing through.
 
 __Instantaneous effects:__
-*__Object transport:__ (5*X power) Teleport an object X feet^3 in volume. For time required, use the distance table below, multiplying the result times X. Distances less than 1 AU require X minutes.
+* __Object transport:__ (5*X power) Teleport an object X feet^3 in volume. For time required, use the distance table below, multiplying the result times X. Distances less than 1 AU require X minutes.
 
 1 AU (Astronomical Unit) = 1.49598e11 m
 1 LY (light year) = 9.4605284e15 m
@@ -59,8 +59,8 @@ E.g., 7 LY = 10 + 7 = 17 hrs
 E.g., 400 LY = 20 + 1/100*300 ~= 23 hrs
 E.g., 70,000 LY = 50 + 1/10,000*60,000 = 56 hrs
 
-*__Phase import:__ (5*X power, 5000+100*X cpu) While phased, an object (X feet in size) in normal space overlapping the phased area can be &quot;phased in&quot; to phased space.
-*__Phase export:__ (5*X power, 5000+100*X cpu) While phased, an object (X feet in size) in phased space can be &quot;phased back out&quot; to normal space.
+* __Phase import:__ (5*X power, 5000+100*X cpu) While phased, an object (X feet in size) in normal space overlapping the phased area can be &quot;phased in&quot; to phased space.
+* __Phase export:__ (5*X power, 5000+100*X cpu) While phased, an object (X feet in size) in phased space can be &quot;phased back out&quot; to normal space.
 
 
 ## Backstory
@@ -89,7 +89,7 @@ tAbout five years ago I stumbled across one thing that I don't think that they n
 tThrough some clever social engineering and a little creative hacking I managed to get access to some of Baelom's personal files.  I had always wanted to know what he really did there.  I knew he was a teacher but he had always been very vague about what exactly he taught.  That day I knew.  I also knew for the first time that there was a way that I could have that thing that I had longed for for so long.
 tI never held it against him that he never told me, it was clear that this was one of those secrets, the kind that you never tell anyone, not your best friend, not your wife, not your parents, not even your doctor.
 
-*outline*
+* outline*
 
 -convincing Baelom to teach me psionics
 -changing jobs to covert sorts of operations

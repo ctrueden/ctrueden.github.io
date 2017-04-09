@@ -6,17 +6,17 @@ category: deus
 ---
 ## Events
 
-*Travel to Arcadia, meet Boris, join the Silent Syndicate, uncover Josef's plot to kill Boris
-*Learn more about necrophagic grafts, Pandora's Children, the Brotherhood, and Trenton's past
+* Travel to Arcadia, meet Boris, join the Silent Syndicate, uncover Josef's plot to kill Boris
+* Learn more about necrophagic grafts, Pandora's Children, the Brotherhood, and Trenton's past
 
 
 ## News
 
 Double-check news at [Events](Events) page. Fill in players if they go anywhere with news access.
-*See [Talk20060205](Talk20060205) for details on how Pandora's Children have organized a smear campaign against Ridge and soulmechs in general.
-*On the 12th, &quot;fortune cookie&quot; emails are received:
+* See [Talk20060205](Talk20060205) for details on how Pandora's Children have organized a smear campaign against Ridge and soulmechs in general.
+* On the 12th, &quot;fortune cookie&quot; emails are received:
 
-**__Noun__:
+    * __Noun__:
 
 From near to far he walked alone
 No sign of what he sought
@@ -33,15 +33,15 @@ The answer crystal clear
 The final words he ever thought
 &quot;I am not really here&quot;
 
-**__Serra__: &quot;A blessing on those who give ear to the prophet's words, and keep the things which he has put in the book, for the time is near.&quot; (Revelation 1:3)
+    * __Serra__: &quot;A blessing on those who give ear to the prophet's words, and keep the things which he has put in the book, for the time is near.&quot; (Revelation 1:3)
 
-**__Malcolm__: &quot;The path of humble penitence reveals two roads to heaven: one of absolution, one of disillusion. Heaven and earth shall pass away, but my words shall not pass away.&quot; (final sentence: Matthew 24:35)
+    * __Malcolm__: &quot;The path of humble penitence reveals two roads to heaven: one of absolution, one of disillusion. Heaven and earth shall pass away, but my words shall not pass away.&quot; (final sentence: Matthew 24:35)
 
 
 ## What Dorian knows
 
-*The other two captains are members of Pandora's Children, an anti-soulmech order. They were both taking orders from someone else at the base. Dorian, however, is not a member, but performed his end of the bargain in exchange for a necrophagic graft.
-*Ponce Dorian knows only the name of his contact on Arcadia: &quot;Butler.&quot; Butler is an AI, who manages preparing the individuals for surgery. He also handles negotiation and payment.
+* The other two captains are members of Pandora's Children, an anti-soulmech order. They were both taking orders from someone else at the base. Dorian, however, is not a member, but performed his end of the bargain in exchange for a necrophagic graft.
+* Ponce Dorian knows only the name of his contact on Arcadia: &quot;Butler.&quot; Butler is an AI, who manages preparing the individuals for surgery. He also handles negotiation and payment.
 
 
 ## Malcolm loses his powers
@@ -72,14 +72,14 @@ They need to be examined to determine how they were brainwashed, and hopefully c
 
 ## Arcadia
 
-*Boris Derrota -- kingpin and economic superpower; suspects his brother's agenda and is monitoring him closely; asks the party to watch Josef in exchange for information about Pandora's Children &amp; the Brotherhood
-*Annika Derrota -- mysterious and reclusive; __TODO__
-*Josef Derrota -- recently joined Boris's organization; covertly working to topple his brother's empire
-*Lincoln Evans -- drug dealer; big muscly guy, wears lots of jewelry; crosses his arms a lot; outgoing, says &quot;Ayup&quot; and &quot;Nope&quot; a lot
-*Norris Harrison -- runs the &quot;pawn shop&quot; (huge block of warehouses; largest concentration of stolen goods in the galaxy); wears a felt hat over his shaved head and constantly adjusts it; reserved, says &quot;Hmm&quot; and &quot;I'll see what I can do&quot; a lot
-*Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot 
-*Strife (Laura Morningbird) -- travels to Arcadia to continue the Pandora's Children agenda
-*Maxim Signaevsky -- __TODO__
+* Boris Derrota -- kingpin and economic superpower; suspects his brother's agenda and is monitoring him closely; asks the party to watch Josef in exchange for information about Pandora's Children &amp; the Brotherhood
+* Annika Derrota -- mysterious and reclusive; __TODO__
+* Josef Derrota -- recently joined Boris's organization; covertly working to topple his brother's empire
+* Lincoln Evans -- drug dealer; big muscly guy, wears lots of jewelry; crosses his arms a lot; outgoing, says &quot;Ayup&quot; and &quot;Nope&quot; a lot
+* Norris Harrison -- runs the &quot;pawn shop&quot; (huge block of warehouses; largest concentration of stolen goods in the galaxy); wears a felt hat over his shaved head and constantly adjusts it; reserved, says &quot;Hmm&quot; and &quot;I'll see what I can do&quot; a lot
+* Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot 
+* Strife (Laura Morningbird) -- travels to Arcadia to continue the Pandora's Children agenda
+* Maxim Signaevsky -- __TODO__
 
 ## Magitech's bounty on Laiden
 
@@ -103,11 +103,11 @@ Wounds 14, Vit 40
 ## Moss and Nyx on Mars
 
 Fey, if she inquires as to William Moss on Earth, learns that things spiraled out of control:
-*William Moss makes it back to Earth
-*Gaia's Order agrees to help Moss
-*But some of them -- those who are more close-minded or had family killed in the Cain incident on Mars, led by a basilisk called Calum (Gaelic for &quot;hardness on the skin&quot;) -- feel Moss should be confined or even destroyed
-*Moss is attacked, and he fights back, killing everyone nearby and raising them as undead
-*There is no turning back for him after that; he moves to Mars at Nyx's behest to build his necropolis
+* William Moss makes it back to Earth
+* Gaia's Order agrees to help Moss
+* But some of them -- those who are more close-minded or had family killed in the Cain incident on Mars, led by a basilisk called Calum (Gaelic for &quot;hardness on the skin&quot;) -- feel Moss should be confined or even destroyed
+* Moss is attacked, and he fights back, killing everyone nearby and raising them as undead
+* There is no turning back for him after that; he moves to Mars at Nyx's behest to build his necropolis
 
 
 ## Brotherhood/Pandora's Children plotline, relation to Trenton
@@ -117,5 +117,5 @@ See [Talk20060205](Talk20060205) for details.
 
 ## Technofearful
 
-*Ordered by the UNF to travel to Wolf 359 (as one of the 42 ships) to oppose the Technofearful; Trenton can act as an intermediary between opposing forces; possible joint session with Saturday 
+* Ordered by the UNF to travel to Wolf 359 (as one of the 42 ships) to oppose the Technofearful; Trenton can act as an intermediary between opposing forces; possible joint session with Saturday 
 

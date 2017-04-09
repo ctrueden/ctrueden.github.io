@@ -5,7 +5,7 @@ permalink: /deus/Saturday15-2
 category: deus
 ---
 __[[Sat E1]:__
-*Storm StratCo headquarters
+* Storm StratCo headquarters
 
 Bryant shows up to talk them out of it. Where has Bryant been? Perhaps he was on Laboro, investigating a coming plague predicted by the Caretaker shortly before the rite.
 

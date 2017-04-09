@@ -10,9 +10,9 @@ Preferred gaming slot:
 |__2nd choice__|Saturday 2:00pm|
 |__3rd choice__|Not Friday or Sunday|
 ### Malcolm Biggs
-*[Character description](CharPublicOzzyie){GROUP(groups=&gt;ozzyie|GMs)}
-*[Private page](CharPrivateOzzyie)
-*[Experience tally and announcements](AnnounceOzzyie){GROUP}{GROUP(groups=&gt;GMs)}
-*[Character secrets](CharSecretsOzzyie){GROUP}
+* [Character description](CharPublicOzzyie){GROUP(groups=&gt;ozzyie|GMs)}
+* [Private page](CharPrivateOzzyie)
+* [Experience tally and announcements](AnnounceOzzyie){GROUP}{GROUP(groups=&gt;GMs)}
+* [Character secrets](CharSecretsOzzyie){GROUP}
 Pax Artificium character: [Matt Jones](/pax/pcs/matt.html)
 

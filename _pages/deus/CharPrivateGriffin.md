@@ -55,13 +55,13 @@ Creat 1 refills 1 power.
 DEE has 20000 power and 100 cpu/round.
 
 __Continuous effects:__
-*__Cloaking:__ (4 power/round) The cloak renders the ship completely invisible.
-*__Phasing:__ (20 power/round) By phasing, the ship is shunted slightly out of sync with the space-time continuum, allowing it to overlap with solid objects in &quot;normal&quot; space.
-*__Shields:__ (4 power/hour) This solid green shield prevents any matter from passing through.
-*__Teleport Bounce:__ (10 power/round) Blocks incoming teleports onto the ship. When an attempt occurs, DEE senses the identity of the persons and objects being teleported, and may choose to allow them in if desired.
+* __Cloaking:__ (4 power/round) The cloak renders the ship completely invisible.
+* __Phasing:__ (20 power/round) By phasing, the ship is shunted slightly out of sync with the space-time continuum, allowing it to overlap with solid objects in &quot;normal&quot; space.
+* __Shields:__ (4 power/hour) This solid green shield prevents any matter from passing through.
+* __Teleport Bounce:__ (10 power/round) Blocks incoming teleports onto the ship. When an attempt occurs, DEE senses the identity of the persons and objects being teleported, and may choose to allow them in if desired.
 
 __Instantaneous effects:__
-*__FTL Teleport:__ (100 power) DEE instantly transports itself somewhere. CPU time required is as outlined in the table below
+* __FTL Teleport:__ (100 power) DEE instantly transports itself somewhere. CPU time required is as outlined in the table below
 
 1 AU (Astronomical Unit) = 1.49598e11 m
 1 LY (light year) = 9.4605284e15 m
@@ -80,9 +80,9 @@ E.g., 7 LY = 10 + 7 = 17 hrs
 E.g., 400 LY = 20 + 1/100*300 ~= 23 hrs
 E.g., 70,000 LY = 50 + 1/10,000*60,000 = 56 hrs
 
-*__Instant Teleport:__ (5*X power, 100+10*(X+Y) cpu) Transports something of X feet in size either to or from DEE, up to Y miles.
-*__Wake the Ghost:__ (100 power, 10000 cpu) Awakens an android's true consciousness.
-*__Location swap:__ (10*X power, 100+10*(X+Y+Z) cpu) Switch the positions of two objects, of X total feet in size, initially Y total miles away and Z miles from one another.
+* __Instant Teleport:__ (5*X power, 100+10*(X+Y) cpu) Transports something of X feet in size either to or from DEE, up to Y miles.
+* __Wake the Ghost:__ (100 power, 10000 cpu) Awakens an android's true consciousness.
+* __Location swap:__ (10*X power, 100+10*(X+Y+Z) cpu) Switch the positions of two objects, of X total feet in size, initially Y total miles away and Z miles from one another.
 
 
 ## Proposed Class progression

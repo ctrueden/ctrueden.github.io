@@ -91,39 +91,39 @@ Hot Acid&quot;, &quot;Pip's Cloak of Foolishness&quot;, and &quot;Sparky, the Fr
 ------
 
 Next revision
-*Gravitational effects &amp; magnetism
-*Shields to block mystic effects of certain spheres, or block physical attacks
-*Pyrotechnic shields of energy
-*Kinetic walls &amp; shields of air
-*Flight w/ Kinetics (should be covered, but give as an example?)
-*Optional Div rule: 2% chance per Div rank to do a knowledge acquisition for no EP
-*Healing + Transmutation to correct a permanently petrified individual (e.g.)
-*Linking for wish-level: how does the EP split?
+* Gravitational effects &amp; magnetism
+* Shields to block mystic effects of certain spheres, or block physical attacks
+* Pyrotechnic shields of energy
+* Kinetic walls &amp; shields of air
+* Flight w/ Kinetics (should be covered, but give as an example?)
+* Optional Div rule: 2% chance per Div rank to do a knowledge acquisition for no EP
+* Healing + Transmutation to correct a permanently petrified individual (e.g.)
+* Linking for wish-level: how does the EP split?
 
 Notes from Curt:
-*Add mystic cantrips: DM discretion for small effects being free to use.
-**maybe a feat focusing on a specific sphere? (Mystic Cantrip)
-**allows minimized level 1 effects for free
-**perhaps exclude Healing damage &amp; certain other effects or spheres
-*Mention optional rules:
-**time traveling with Displacement
-**linking
-**wish-level magic cap (discuss in relation to Epic rules)
-**different ways to do resurrection
-**stat-burning - each sphere has a tied stat that can be hit with ability damage to gain extra mystic power in a hurry:
-***Creation = Con
-***Destruction = Str
-***Displacement = Dex
-***Divination = Wis
-***Enhancement = Int
-***Healing = Wis
-***Illusion = Cha
-***Kinetics = Dex
-***Mind Control = Cha
-***Pyrotechnics = Str
-***Transmutation = Con
-***Reserve = Int (note this trumps Enh... maybe 1/2 rate?)
-*When two or more people are fighting for an item, and someone attempts to use Mystic on the item, anyone who doesn't want the item to be affected can still make a Will save to avoid the effect, but others can make opposing Will saves to will the item to *be* affected.  Basically, whoever's Will save wins, gets to choose if the item is affected (unless all Will saves fail the Mystic DC, in which case it is affected regardless).
-*Alter/clarify level cap for primary sphere level -- only maximum primary sphere is affected by cap, not mixed in spheres. Thus, a 5th level caster can do a Pyro 5 + Div 1 fireball just fine, and that caster could also do a Mind 5 + Div 5 dual primary sphere effect (since neither primary is greater than 5).
-*Mention again in Warding section that converted temporary effects cannot be warded.
-*Work on Illusion... static Illusions versus mutable Illusions versus movable Illusions... how broken is it to have a permanent, warded &quot;pet&quot; illusion that is movable &amp; mutable?
+* Add mystic cantrips: DM discretion for small effects being free to use.
+    * maybe a feat focusing on a specific sphere? (Mystic Cantrip)
+    * allows minimized level 1 effects for free
+    * perhaps exclude Healing damage &amp; certain other effects or spheres
+* Mention optional rules:
+    * time traveling with Displacement
+    * linking
+    * wish-level magic cap (discuss in relation to Epic rules)
+    * different ways to do resurrection
+    * stat-burning - each sphere has a tied stat that can be hit with ability damage to gain extra mystic power in a hurry:
+        * Creation = Con
+        * Destruction = Str
+        * Displacement = Dex
+        * Divination = Wis
+        * Enhancement = Int
+        * Healing = Wis
+        * Illusion = Cha
+        * Kinetics = Dex
+        * Mind Control = Cha
+        * Pyrotechnics = Str
+        * Transmutation = Con
+        * Reserve = Int (note this trumps Enh... maybe 1/2 rate?)
+* When two or more people are fighting for an item, and someone attempts to use Mystic on the item, anyone who doesn't want the item to be affected can still make a Will save to avoid the effect, but others can make opposing Will saves to will the item to *be* affected.  Basically, whoever's Will save wins, gets to choose if the item is affected (unless all Will saves fail the Mystic DC, in which case it is affected regardless).
+* Alter/clarify level cap for primary sphere level -- only maximum primary sphere is affected by cap, not mixed in spheres. Thus, a 5th level caster can do a Pyro 5 + Div 1 fireball just fine, and that caster could also do a Mind 5 + Div 5 dual primary sphere effect (since neither primary is greater than 5).
+* Mention again in Warding section that converted temporary effects cannot be warded.
+* Work on Illusion... static Illusions versus mutable Illusions versus movable Illusions... how broken is it to have a permanent, warded &quot;pet&quot; illusion that is movable &amp; mutable?

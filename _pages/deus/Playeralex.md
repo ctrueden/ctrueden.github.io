@@ -13,9 +13,9 @@ Preferred gaming slot:
 |__5th choice__|Saturday 2:00pm|
 |__6th choice__|Friday 6:30pm|
 ### Ariona Cassyon
-*[Character description](CharPublicAlex){GROUP(groups=&gt;alex|GMs)}
-*[Private page](CharPrivateAlex)
-*[Experience tally and announcements](AnnounceAlex){GROUP}{GROUP(groups=&gt;GMs)}
-*[Character secrets](CharSecretsAlex){GROUP}
+* [Character description](CharPublicAlex){GROUP(groups=&gt;alex|GMs)}
+* [Private page](CharPrivateAlex)
+* [Experience tally and announcements](AnnounceAlex){GROUP}{GROUP(groups=&gt;GMs)}
+* [Character secrets](CharSecretsAlex){GROUP}
 Pax Artificium character: [Erica Banyon](/pax/pcs/erica.html)
 

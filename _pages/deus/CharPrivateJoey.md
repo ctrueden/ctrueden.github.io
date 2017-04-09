@@ -52,36 +52,36 @@ As far as abilities go, I have a huge list of possible traits I could see him ha
 Among these include:
 
 __Passive Abilities/Traits__
-*Regeneration/Fast Healing
-*Permanent +1 con and -1int/wis/cha (whichever is highest at the time) per lvl
-*Damage reduction/increase for many different types of damage (physcial, fire, cold, electrical, etc.)
-*Immunities/weaknesses-stun, paralyze, ability drain, mind-effects, slowing effects, poison, disease, magic, radiation, etc.
-*Spell resistance
-*Natural skill enhancements/reductions-Jump, swim, climb, hide, move silent, listen, spot, etc.
-*New skill enhancements-Smell, Gliding fall, etc.
-*Danger sense
-*Dead reckoning (ability to never be lost due to constant unconscious vector calculations-some ants do this)
-*Natural armor-scales, shell, thick skin
-*Photosynthesis (gain hp from sunlight?)
-*Water breathing (gills)
-*Natural weapons-Claws, teeth, horns, spines, venom
-*Void survival (live longer/indefinately in space)
-*Increased/Decreased necessity for food and water
-*Increased Pheromone production (sexual attraction, charisma?)
-*Adrenaline rush
-*Reflex enhancement
-*Acidic blood
+* Regeneration/Fast Healing
+* Permanent +1 con and -1int/wis/cha (whichever is highest at the time) per lvl
+* Damage reduction/increase for many different types of damage (physcial, fire, cold, electrical, etc.)
+* Immunities/weaknesses-stun, paralyze, ability drain, mind-effects, slowing effects, poison, disease, magic, radiation, etc.
+* Spell resistance
+* Natural skill enhancements/reductions-Jump, swim, climb, hide, move silent, listen, spot, etc.
+* New skill enhancements-Smell, Gliding fall, etc.
+* Danger sense
+* Dead reckoning (ability to never be lost due to constant unconscious vector calculations-some ants do this)
+* Natural armor-scales, shell, thick skin
+* Photosynthesis (gain hp from sunlight?)
+* Water breathing (gills)
+* Natural weapons-Claws, teeth, horns, spines, venom
+* Void survival (live longer/indefinately in space)
+* Increased/Decreased necessity for food and water
+* Increased Pheromone production (sexual attraction, charisma?)
+* Adrenaline rush
+* Reflex enhancement
+* Acidic blood
 
 __Active Abilities/Traits__
-*Camoflauge (chameleon-like)
-*Bio-luminescence (light source, temporary charisma bonus)
-*Ki-Strike (maybe his crazy biology allows him to have more life force with which to use)
-*Electrical discharge (eel)
-*Paralyzing sting (jelly fish)
-*Vile stench emission (skunk)
-*Jelly Form (Change composition of body so drastically that he gains some abilities of slimes, resistance to piercing/slashing damage, etc.)
-*Fake death
-*Deafening screech
+* Camoflauge (chameleon-like)
+* Bio-luminescence (light source, temporary charisma bonus)
+* Ki-Strike (maybe his crazy biology allows him to have more life force with which to use)
+* Electrical discharge (eel)
+* Paralyzing sting (jelly fish)
+* Vile stench emission (skunk)
+* Jelly Form (Change composition of body so drastically that he gains some abilities of slimes, resistance to piercing/slashing damage, etc.)
+* Fake death
+* Deafening screech
 
 This is not a complete list and I'm not exactly sure what I'd like him to be able to do, or what his goals are.  Perhaps if I talked to you in person a bit more on a later date, and found out about plot, we could make him work somehow.  The closest thing I can think of is a mongrelman from some 2nd ed monster character creation book I used to have/use.
 
@@ -95,37 +95,37 @@ Last time we talked, we seemed to agree that it might be cool to combine these i
 
 Well, I had written a whole lot about the combined character's backstory, but some horrible timeout thing happened and all the info was lost (note to self: type in a word processing program first, copy, paste).  I don't want to type it all again, so here are the highlights:
 
-*Character's name is Devon Merrideth.  However, his personality was shattered by the experiment so now there are only Meechum and Divin.  Meechum is a cowering, paranoid, animalistic personality that just wants to survive.  Divin is a proud, demanding personality, who still wants to attain godhood.  Due to the constant pain the personality feels when in control of the body, Divin usually allows Meechum to control the body.
+* Character's name is Devon Merrideth.  However, his personality was shattered by the experiment so now there are only Meechum and Divin.  Meechum is a cowering, paranoid, animalistic personality that just wants to survive.  Divin is a proud, demanding personality, who still wants to attain godhood.  Due to the constant pain the personality feels when in control of the body, Divin usually allows Meechum to control the body.
 
-*Devon used to be a well respected genetic engineer for a medical institution designed to alter fetuses.  As a result of his years of experience with all sciences relating to life (and a good deal relating to mystic magic), he thought he saw a pattern and figured he could give himself mystic powers and possibly even godlike powers.  He experimented and altered himself genetically, with radiation, drugs, and nanobots.  He infused various DNA from other animals and gaian creatures with his own.  The experiments failed and he is now an insane mutant with strange biological powers.
+* Devon used to be a well respected genetic engineer for a medical institution designed to alter fetuses.  As a result of his years of experience with all sciences relating to life (and a good deal relating to mystic magic), he thought he saw a pattern and figured he could give himself mystic powers and possibly even godlike powers.  He experimented and altered himself genetically, with radiation, drugs, and nanobots.  He infused various DNA from other animals and gaian creatures with his own.  The experiments failed and he is now an insane mutant with strange biological powers.
 
-*He is still officially &quot;Devon Merrideth&quot; according to his personal information, however everyone who knows him now calls him Meechum, and for purposes of gaming, the other characters will know him as Meechum (although the ones who have access to his personal info will know his true name).  Meechum will refer to Divin in speech occasionally, but no one will know who Divin actually is until he takes control, orders people around then gives control back to Meechum and Meechum then says, &quot;Everyone listen to Divin, Divin smart&quot;.
+* He is still officially &quot;Devon Merrideth&quot; according to his personal information, however everyone who knows him now calls him Meechum, and for purposes of gaming, the other characters will know him as Meechum (although the ones who have access to his personal info will know his true name).  Meechum will refer to Divin in speech occasionally, but no one will know who Divin actually is until he takes control, orders people around then gives control back to Meechum and Meechum then says, &quot;Everyone listen to Divin, Divin smart&quot;.
 
-*In order to get Meechum into a party, perhaps some powerful organization recruits Meechum due to his unique (and hopefully useful) capabilities.  Although unrealiable at times, Meechum's abilities make him a useful addition to any group going on dangerous missions and the like.  Also, due to his interest in becoming a god, Divin tells Meechum to follow anyone with mystic powers, and Meechum obeys.  Over time, both Meechum has developed an instinctual urge to be near anything with mystical abilities.  Although he doesn't NEED to be around mystics, something just &quot;feels right&quot; about it.  The instinct is enough to get Meechum to follow mystics around trying to gain their favor and protecting them from harm.
+* In order to get Meechum into a party, perhaps some powerful organization recruits Meechum due to his unique (and hopefully useful) capabilities.  Although unrealiable at times, Meechum's abilities make him a useful addition to any group going on dangerous missions and the like.  Also, due to his interest in becoming a god, Divin tells Meechum to follow anyone with mystic powers, and Meechum obeys.  Over time, both Meechum has developed an instinctual urge to be near anything with mystical abilities.  Although he doesn't NEED to be around mystics, something just &quot;feels right&quot; about it.  The instinct is enough to get Meechum to follow mystics around trying to gain their favor and protecting them from harm.
 
-*Any of the time slots will work for me, my only real concern is that I would like to be grouped with at least one person who is playing some form of mystic, psion, or other thing that uses magic in some way (like a gaian).  Of course, the more the merrier.
+* Any of the time slots will work for me, my only real concern is that I would like to be grouped with at least one person who is playing some form of mystic, psion, or other thing that uses magic in some way (like a gaian).  Of course, the more the merrier.
 
-*I still haven't decided what I want Meechum to look like as such a decision would vary greatly with what abilities he would have.  His physical description and personality will be somewhat of a cross between Gollum, Dr. Jekyl and Mr. Hyde, the Hulk, and a mongrelman or shattered one from D&amp;D.  I'll think about it some and get back to you later.
+* I still haven't decided what I want Meechum to look like as such a decision would vary greatly with what abilities he would have.  His physical description and personality will be somewhat of a cross between Gollum, Dr. Jekyl and Mr. Hyde, the Hulk, and a mongrelman or shattered one from D&amp;D.  I'll think about it some and get back to you later.
 
-*I'd like him to have at least 1 ability representing each of the following life forms: Mammal, reptile, amphibian, insect, and plant.  He will also have some troll DNA from the genetic manipulation.  Hence, his &quot;natural&quot; skin color will probably be grass green.  That's as far as I am now, but I will get back to you when I determine what other features he'll possess.
+* I'd like him to have at least 1 ability representing each of the following life forms: Mammal, reptile, amphibian, insect, and plant.  He will also have some troll DNA from the genetic manipulation.  Hence, his &quot;natural&quot; skin color will probably be grass green.  That's as far as I am now, but I will get back to you when I determine what other features he'll possess.
 
 
 ### MP for merits
 
-*Regeneration/Fast Healing ~~#FF0000:2mp per 1 point of fast healing~~
-*Gliding Fall/Slow Fall ~~#FF0000:2mp for unlimited distance~~
-*Dead reckoning (ability to never be lost due to constant unconscious vector calculations-some ants do this) ~~#FF0000:1mp to always know north; 3mp to have a complete understanding of the path you have followed and be able to retrace your steps without fail~~
-*Natural weapons
-**Claws ~~#FF0000:1mp for two claws dealing 1d6 damage each~~
-**teeth ~~#FF0000:1mp for a bite dealing 1d4 damage~~
-**horns ~~#FF0000:1mp for a gore attack dealing 1d4 damage~~
-**spines (porcupine) ~~#FF0000:1mp for spines dealing 1d3 damage to anyone who attacks you when you enter a defensive posture; 2-3mp for the ability to throw spines like a porcupine does, depending how many and how powerful they are~~
-**venom (of various potencies and means of infliction [[bite, sting, spit, when struck]) ~~#FF0000:1-5mp depending on venom strength and delivery method~~
-*Void survival (live longer/indefinately in vacuums) ~~#FF0000:5mp for the ability to survive the pressure and temperature differentials when in the vaccuum of space (still need to buy &quot;no need to breathe&quot; separately)~~
-*Camoflauge (chameleon-like) ~~#FF0000:1mp per +1 to Stealth checks; or pay for ''improved invisibility'' as a spell-like ability, depending how good you want this power to be -- even if it's not magical, the cost would be the same as long as the power level is the same~~
-*Bio-luminescence (make body glow) ~~#FF0000:1mp for 30-foot radius as a torch; 2mp for 60-foot radius as ''light'' spell~~
-*Electrical discharge (eel -- kind of like shocking grasp but non-magical) ~~#FF0000:again, buy ''shocking grasp'' as an Sp ability, but treat it as non-magical~~
-*Paralyzing sting (jelly fish -- Cause opponent struck to lose next action due to stunning) ~~#FF0000:1mp for each usage per day (DC 10 + key ability modifier)~~
+* Regeneration/Fast Healing ~~#FF0000:2mp per 1 point of fast healing~~
+* Gliding Fall/Slow Fall ~~#FF0000:2mp for unlimited distance~~
+* Dead reckoning (ability to never be lost due to constant unconscious vector calculations-some ants do this) ~~#FF0000:1mp to always know north; 3mp to have a complete understanding of the path you have followed and be able to retrace your steps without fail~~
+* Natural weapons
+    * Claws ~~#FF0000:1mp for two claws dealing 1d6 damage each~~
+    * teeth ~~#FF0000:1mp for a bite dealing 1d4 damage~~
+    * horns ~~#FF0000:1mp for a gore attack dealing 1d4 damage~~
+    * spines (porcupine) ~~#FF0000:1mp for spines dealing 1d3 damage to anyone who attacks you when you enter a defensive posture; 2-3mp for the ability to throw spines like a porcupine does, depending how many and how powerful they are~~
+    * venom (of various potencies and means of infliction [[bite, sting, spit, when struck]) ~~#FF0000:1-5mp depending on venom strength and delivery method~~
+* Void survival (live longer/indefinately in vacuums) ~~#FF0000:5mp for the ability to survive the pressure and temperature differentials when in the vaccuum of space (still need to buy &quot;no need to breathe&quot; separately)~~
+* Camoflauge (chameleon-like) ~~#FF0000:1mp per +1 to Stealth checks; or pay for ''improved invisibility'' as a spell-like ability, depending how good you want this power to be -- even if it's not magical, the cost would be the same as long as the power level is the same~~
+* Bio-luminescence (make body glow) ~~#FF0000:1mp for 30-foot radius as a torch; 2mp for 60-foot radius as ''light'' spell~~
+* Electrical discharge (eel -- kind of like shocking grasp but non-magical) ~~#FF0000:again, buy ''shocking grasp'' as an Sp ability, but treat it as non-magical~~
+* Paralyzing sting (jelly fish -- Cause opponent struck to lose next action due to stunning) ~~#FF0000:1mp for each usage per day (DC 10 + key ability modifier)~~
 
 
 ### Merits Submission
@@ -166,7 +166,7 @@ Human 33 MP:
 
 ### MPD
 
-*Contested will saves for control of the body.  Divin expends 1 point of his will save when making the attempt.  Divin gets -1 to will saves every minute when in control and regains +1 over 10 min when not.  Standard action to contest. Mind-effecting spells only work against the one in control.  Mental Ability scores and some feats are different for each personality.  The difference in ability scores will be the merit point cost while any ability scores below 10 count towards the 20 flaw point maximum, and feats only take effect when the personality who has it is in control.  The merit point costs will be calculated seperately then divided in half.  When making skill checks, the one who is currently in control uses the relevant stats, however, Divin can use 1 point of will power to use his stats for the check.
+* Contested will saves for control of the body.  Divin expends 1 point of his will save when making the attempt.  Divin gets -1 to will saves every minute when in control and regains +1 over 10 min when not.  Standard action to contest. Mind-effecting spells only work against the one in control.  Mental Ability scores and some feats are different for each personality.  The difference in ability scores will be the merit point cost while any ability scores below 10 count towards the 20 flaw point maximum, and feats only take effect when the personality who has it is in control.  The merit point costs will be calculated seperately then divided in half.  When making skill checks, the one who is currently in control uses the relevant stats, however, Divin can use 1 point of will power to use his stats for the check.
 
 
 ### Description

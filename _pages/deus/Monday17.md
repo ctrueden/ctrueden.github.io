@@ -5,23 +5,23 @@ permalink: /deus/Monday17
 category: deus
 ---
 __[[Mon 17]__
-*Gaddelsmocks conspiracy (Ariona)
-*Brotherhood job offer (Unity)
-*StratCo: Bernstein, Pipwhistle and Cassenti (Ariona)
-*Fulfill Xela's bargain (Nikolai)
-*Nikolai rescuing Jasmine from the Void -- portal to the end of time
+* Gaddelsmocks conspiracy (Ariona)
+* Brotherhood job offer (Unity)
+* StratCo: Bernstein, Pipwhistle and Cassenti (Ariona)
+* Fulfill Xela's bargain (Nikolai)
+* Nikolai rescuing Jasmine from the Void -- portal to the end of time
 
 ## Current status
-*Sharptooth was captured by Lefty.
-*The Void echoes are growing louder, and everyone is warned to flee the system.
-*Presumably, they all escape with their fucked up techniques, into the Void and/or Netspace. Combine to form VOLTRON!
-*While they hide in the Void, regardless of how long they are inside, ten days pass (this keeps them in line with the rest of the timeline, and makes some degree of sense). When they leave, the receive emails, and hear the latest news.
-**0100 Jul 23: V receives the email from Max (which he has already received and answered out-of-game)
-**0100 Jul 23: Nikolai receives an email from V about the nature of the Void (Jon will have to ask Allen about it out-of-game).
-**1200 Jul 23: Ariona receives an email from Zee: &quot;we have recovered your grandfather and have hopefully restored him to his original self&quot;
-**In the news, they hear about the alien threat that hit Laboro, and the news that Lupus and Mars are being evacuated -- the rumor is that they are the next targets.
-**If they try to get involved, the UNF stonewalls them, and Huntington turns down assistance from them, saying he already has all the help he needs. (He does not want to complicate the situation any further, now that he is so close to obtain full control over the O.L.).
-*DEE asks Adam to investigate certain details about DEO (if necessary, he confirms evidence that DEO is linked to StratCo somehow).
+* Sharptooth was captured by Lefty.
+* The Void echoes are growing louder, and everyone is warned to flee the system.
+* Presumably, they all escape with their fucked up techniques, into the Void and/or Netspace. Combine to form VOLTRON!
+* While they hide in the Void, regardless of how long they are inside, ten days pass (this keeps them in line with the rest of the timeline, and makes some degree of sense). When they leave, the receive emails, and hear the latest news.
+    * 0100 Jul 23: V receives the email from Max (which he has already received and answered out-of-game)
+    * 0100 Jul 23: Nikolai receives an email from V about the nature of the Void (Jon will have to ask Allen about it out-of-game).
+    * 1200 Jul 23: Ariona receives an email from Zee: &quot;we have recovered your grandfather and have hopefully restored him to his original self&quot;
+    * In the news, they hear about the alien threat that hit Laboro, and the news that Lupus and Mars are being evacuated -- the rumor is that they are the next targets.
+    * If they try to get involved, the UNF stonewalls them, and Huntington turns down assistance from them, saying he already has all the help he needs. (He does not want to complicate the situation any further, now that he is so close to obtain full control over the O.L.).
+* DEE asks Adam to investigate certain details about DEO (if necessary, he confirms evidence that DEO is linked to StratCo somehow).
 
 ## Recap of events so far
 An explanation of StratCo and Evan Cassenti's involvement with the Damocles Experiments can be found at [Talk20060312](Talk20060312).

@@ -21,9 +21,9 @@ Order of events:
 #The &quot;real&quot; attack commences, a pincer attack from both sides; the pirates are armed with chemical guns that fire a silly-string-like substance; they also throw grenades like tanglefoot bags, but drugged; Fort save DC 20 every round until junk is scraped off and for at least one minute, proceeding to fatigued, then exhausted, then unconscious
 #If the entire party is killed or subdued, the session ends
 #If the party kills enough of their crew, Blacksoul and Strife flee:
-**Strife returns to her ship using project image and mislead, then uses mislead to get her ship away; she has stolen the &quot;black box&quot; containing the Miller 2 algorithm
-**&quot;Goodbye!&quot; says Blacksoul as he jettisons the hostages into space, with obvious mines attached; upon further inspection, some are subcutaneous; also, he stops sending the refresh signal to the nanites, meaning that the people will die within 60 seconds
-**Blacksoul waves his hand impatiently: &quot;Go! Get off my ship! Not much time now!&quot;
+    * Strife returns to her ship using project image and mislead, then uses mislead to get her ship away; she has stolen the &quot;black box&quot; containing the Miller 2 algorithm
+    * &quot;Goodbye!&quot; says Blacksoul as he jettisons the hostages into space, with obvious mines attached; upon further inspection, some are subcutaneous; also, he stops sending the refresh signal to the nanites, meaning that the people will die within 60 seconds
+    * Blacksoul waves his hand impatiently: &quot;Go! Get off my ship! Not much time now!&quot;
 #Blacksoul, in his escape, launches four probes that emanate ion trails identical to his. They take off in four different directions. Each, is painted brown hues matching the asteroids in the belt. Once they go a ways, they land on a suitable asteroid, cut their engines, and power down, making it very difficult to determine where they went. Blacksoul's ship itself is painted black, and he cuts his engines in space after a circuitous route through the asteroid belt.
 #Blacksoul and Strife return to the secret Boneyard 47 asteroid base; the party could conceivably track them there, but it is heavily armed; also, they must first repair the damage done by Ridge's family; and unbrainwash the family members themselves
 #Dorian does not know about Boneyard 47 at all
@@ -43,7 +43,7 @@ Finding Arcadia takes time, but eventually they hear about certain criminal part
 Or maybe the news simply spreads back to GNet where Arcadia is now, due to the travels of wealthy businessmen. In that case, though, they still need to join the Syndicate in order to find out more about the necrophagic grafts.
 
 Future directions:
-*Travel to Arcadia, meet Boris, join the Silent Syndicate, uncover Josef's plot to kill Boris
-*Learn more about necrophagic grafts, Pandora's Children, the Brotherhood, and Trenton's past
-*Meet Nald Pipwhistle, learn about the white substance
-*Ordered by the UNF to travel to Wolf 359 (as one of the 42 ships) to oppose the Technofearful; Trenton can act as an intermediary between opposing forces; possible joint session with Saturday
+* Travel to Arcadia, meet Boris, join the Silent Syndicate, uncover Josef's plot to kill Boris
+* Learn more about necrophagic grafts, Pandora's Children, the Brotherhood, and Trenton's past
+* Meet Nald Pipwhistle, learn about the white substance
+* Ordered by the UNF to travel to Wolf 359 (as one of the 42 ships) to oppose the Technofearful; Trenton can act as an intermediary between opposing forces; possible joint session with Saturday
