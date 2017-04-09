@@ -29,7 +29,7 @@ Scrawny little guy pats each person down for weapons and takes those and any bag
 
 Andrew telepathically asks the hostages if they are okay.  Andrew senses that they are lightly traumatized, but not significantly injured.  It is confirmed they were been injected with something.  None of them have seen the missing two children.  
 
- "This is how it is.  Every thirty seconds they need to be sent a signal or they die.  You need to do everything we want you to do or they die.  All it takes is a push of a button and they die", Dorian says pointing to a large red button in the hanger bay, "As a sign of good faith I give you these five.  The children are being kept just to make sure you aren't lying or tricking us."
+"This is how it is.  Every thirty seconds they need to be sent a signal or they die.  You need to do everything we want you to do or they die.  All it takes is a push of a button and they die", Dorian says pointing to a large red button in the hanger bay, "As a sign of good faith I give you these five.  The children are being kept just to make sure you aren't lying or tricking us."
 
 Ridge tells the rest of the Perseverance crew that she wants to know where the children are in case things go south.
 

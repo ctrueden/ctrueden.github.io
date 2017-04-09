@@ -126,7 +126,7 @@ Fey turns over the body parts to Llana and she is to inform the counsel and have
 
 Ridge prepares a treatment program and a suitable billing plan for that.  It will be a fair market price, which are high, but not exclusive rich high.  
 
- Malcolm is dropped of in Xanadu.  Malcolm raises Blacksoul in a church, has a soulful talk with him.  Blacksoul leaves in awe and has much to consider.
+Malcolm is dropped of in Xanadu.  Malcolm raises Blacksoul in a church, has a soulful talk with him.  Blacksoul leaves in awe and has much to consider.
 
 Ridge talking to her family say they know what they did was wrong, but it just seemed like the right thing to do at the time.  Dr Peters says he's making progress, but this could happen again.
 

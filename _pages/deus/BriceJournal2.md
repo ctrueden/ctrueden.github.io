@@ -91,7 +91,6 @@ Ariona became impatient because I didn't take time to update her every 2 seconds
 After everyone is finished, Ariona uses her flute to bring us to Nikoai.  There we look up some data on Mordred  We find out he was the son of Morgan Le Fay.  She taught him the black arts, and he defeated Arthur in battle.  Mordred survived only because he stored his life essence in his finger tip, which he severed.
 
 Ah.. rest.  A decent night's sleep will do wonders.
-  
 
 Before he disappeared, Sartus said, &quot;Don't fear your new powers.  I see you have been afraid to use them, but they can only serve to help you, as long as you protect that which you have brought here.&quot;
 
@@ -197,7 +196,7 @@ We got back to Cain, and while he was dismayed that Bruce had changed, but was g
 
 I tried to examine Scorpio's state from before his soul was eaten by Cain.  I found a few interesting looking files, but he had strong defenses.  
 The first document is Scorpio.plan which appears to contain a cashflow spreadsheet with information about selling various Gaian organs for large profit, upgrading the Supernova, and bringing various parts back to something called Boneyard 47. There's also something called Treasure.arr! which has the payout distribution for the pirate crews. It also contains references to various other documents which may contain more important information.
-  
+
 Our next trial was to find a ride.  The well fortified warship seemed like a good option.  Unfortunately, the ship was still loyal to Scorpio.  After being shown a video of Scorpio's demise, he appeared to accept it,  but he wanted revenge...  on Cain....  
 
 It warmed up it's lasers and shot at Cain.  Unfortunately, this happened before I could shut them down.  The shots knocked Cain out, and left him bleeding.  I threw up a wall of force in front of the lasers to block them as other people got Cain out of the room.  I gave my remaining doses of OJ to Jasmine and instructed her to bring them to Vito, who then fed it to Cain over the next several round.  After several doses, Cain started improving.  

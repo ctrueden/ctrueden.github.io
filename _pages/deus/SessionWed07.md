@@ -90,7 +90,7 @@ We are flying to the dome.  Body held in gravitic drive.   Laiden creates a port
 
 Go through an air lock, Serra says take a look at this.  Zooms in on a sigil on a ship (my successor).  Cloak and move.  Laiden is carrying a large duffle bag.  
 
- Serra's detecting undead seems to be working, but can sense the difference in strength.
+Serra's detecting undead seems to be working, but can sense the difference in strength.
 
 Three zombies on DEE stand back to back, telling them to stop or they will use the anti-matter core (exposing it).   
 

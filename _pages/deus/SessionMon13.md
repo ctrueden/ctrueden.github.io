@@ -65,7 +65,7 @@ He commands the sensor grid to yield its memory banks to him.  He views the trag
 
 She is, of course, a bit confused to see him, but he explains that he is here to help. Brice then begins to question her a bit more on what happened, while he tries to decide on the safest course of action.  He is concerned in particular about the fate of the Magitech complex. 
 
- "I am not optimistic about the effects of the explosion."  She explains that it is likely that the explosion affected the lowest floors, but she doesn't know if it would have released Mordred or not.  She is going to try to find out soon, but it will take some time to excavate the building. 
+"I am not optimistic about the effects of the explosion."  She explains that it is likely that the explosion affected the lowest floors, but she doesn't know if it would have released Mordred or not.  She is going to try to find out soon, but it will take some time to excavate the building. 
 
 Vittorio and Ariona attempt to contact Brice to tell him that both of them are willing to aid in any way they can with that situation, but Brice isn't really responding right now. 
 

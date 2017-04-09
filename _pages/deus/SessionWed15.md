@@ -108,7 +108,7 @@ They release him from the floor.
 
 Malcolm communicates with Dorian asking whether Dorian knows of special access.  What sort of secret shop stuff, shops on lake street, the basement level has stuff that no one knows about.  The entry is through some special door that only opens for Hernando.
 
- Ponce fights fiercely, but we strap him back down.  We can't locate Bullet Train.
+Ponce fights fiercely, but we strap him back down.  We can't locate Bullet Train.
 
 We get to the butcher shop.  The sombrero guy is working.  Peters eternally charms him.  Peters walks in, fey spins out and finds the secret door -- it is air tight.  Fey searches for cameras and finds some possibly in ceiling tiles (possibly any of the tiles can have cameras).  There are also strange panels on the walls.
 

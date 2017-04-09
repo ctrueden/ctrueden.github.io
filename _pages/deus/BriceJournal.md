@@ -237,9 +237,9 @@ The other ship is identified as the ``Perseverance,'' and claims that they were 
 
 I infultrate their network to find information to send to Dee.  After some discussion with the other ship, we find out the following:
 
- - Sarah (the other ship), is from the same program as Dee. 
- - Sarah may have a more current version of software that could be used by Dee.
- - Dee has a flaw in his Lore chip that needs to be compensated for first, before he can install the update.  
+* Sarah (the other ship), is from the same program as Dee. 
+* Sarah may have a more current version of software that could be used by Dee.
+* Dee has a flaw in his Lore chip that needs to be compensated for first, before he can install the update.  
 
 Six individuals appear in DEE's Cargo Bay Three, this time non-magically. They introduce themselves as Trenton Vernor, Laiden Rahu, Fey Arius, Dr. Andrew Peters, and Noun and Pronoun.  On the other ship, Malcolm Biggs, Ridge, and Admiral Rossner remain on the bridge. They are able to hear and be heard by the others through the link between DEE and Sarah.
 

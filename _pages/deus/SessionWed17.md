@@ -49,7 +49,7 @@ William Moss sends a transmission (he is gray with sunken eyes), he speaking nor
 Unity believes Moss can be untainted.
 
 Unity has a majorily enhanced electromatic field (natural but much more than others).
- 
+
 Fey seems to have lost hope and is indifferent to things.
 
 Trenton and Unity talk about their backlash abilities.  Unity began by unable to control it and weakening effects and it would absorb the power and can now choose which to weaken and if concentrate complete negate the effect.  It causes the backlash as well.

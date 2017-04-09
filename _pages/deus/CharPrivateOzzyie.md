@@ -9,55 +9,60 @@ category: deus
 A young astral deva, sent to Earth to promote peace and harmony among all Terran races. Whether he has any more specific mission is unknown.
 
 ### List of Abilities
-Aura - Circle of Protection from Evil (+4) and Minor Globe of Invulnerability
-Credentials from GOD
-Darkvision 60 ft  &amp;  Lowlight Vision
-Deva abilities
-  -- 3/day (discern lies, dispel evil, holy smite, polymorph)
-  -- 7/day (cure lt, invis sphere centered on self)
-  -- at will (aid, cont flames, detect evil, dispel, , remove curse/disease/fear, see invis)
-DR 20/Evil
-Fly 75 (Good)
-Miracle (DC 26) or Summon Monster IX 1/day
-Miracle (DC 26) 1/day
-Happiness Aura
-Immunity to Petrification
-No History - per Week
-No Need to Sleep
-No Wings illusion
-Resistance 10 (Fire and Electricity)
-Save when no save allowed min DC 25
-Spell Resistance 50
-Telepathy (100 ft AIs included)
-Tongues
+
+* Aura - Circle of Protection from Evil (+4) and Minor Globe of Invulnerability
+* Credentials from GOD
+* Darkvision 60 ft  &amp;  Lowlight Vision
+* Deva abilities
+    * 3/day (discern lies, dispel evil, holy smite, polymorph)
+    * 7/day (cure lt, invis sphere centered on self)
+    * at will (aid, cont flames, detect evil, dispel, , remove curse/disease/fear, see invis)
+* DR 20/Evil
+* Fly 75 (Good)
+* Miracle (DC 26) or Summon Monster IX 1/day
+* Miracle (DC 26) 1/day
+* Happiness Aura
+* Immunity to Petrification
+* No History - per Week
+* No Need to Sleep
+* No Wings illusion
+* Resistance 10 (Fire and Electricity)
+* Save when no save allowed min DC 25
+* Spell Resistance 50
+* Telepathy (100 ft AIs included)
+* Tongues
 
 ### Enemies Malcolm knows about
-Satan?
-Scorpio?
-William Moss?
-Everlily Nix?
+
+* Satan?
+* Scorpio?
+* William Moss?
+* Everlily Nix?
 
 ### Contacts Malcolm knows about
-Claire
-Admiral Rossner
-Saint Barnabas
-Sister Assisi
+
+* Claire
+* Admiral Rossner
+* Saint Barnabas
+* Sister Assisi
 
 ### Aquaintances Malcolm knows about
-Major Bradley
-Dr Venkman
-Colonel Waterton
-Harry Bryant
-Sledge Greenhorn
-Everlily Nix?
-Caretaker
-William Moss?
-Luna?
+
+* Major Bradley
+* Dr Venkman
+* Colonel Waterton
+* Harry Bryant
+* Sledge Greenhorn
+* Everlily Nix?
+* Caretaker
+* William Moss?
+* Luna?
 
 Links to Yao Ming (he's also 7'5&quot;)
-http://www.chron.com/cs/CDA/ssistory.mpl/front/1727879
-http://www.yaomingfanclub.org/20021102/Dscf0722md.jpg
-http://www.yaomingfanclub.com/images/gallery/yao_41_lg.jpg
+
+* http://www.chron.com/cs/CDA/ssistory.mpl/front/1727879
+* http://www.yaomingfanclub.org/20021102/Dscf0722md.jpg
+* http://www.yaomingfanclub.com/images/gallery/yao_41_lg.jpg
 
 ### Celestial society
 
@@ -66,124 +71,142 @@ The astral devas are celestials, hailing from the celestial plane. Celestials do
 When God sends a celestial to Earth, he dresses him in garb appropriate to the locale, and provides him with equipment that the average local would have (in this era, this includes an identicard with a reasonable number of credits on it), given a communication device with which he can contact his elders in case he should run into trouble, and provided with holy weapons (either appropriate to the locale or more traditional such as bow and mace, depending on what's in the celestial's heart). The chosen one is allowed to bring along a few of his things, limited to what would fit inside a suitcase. He cannot return to the celestial plane, however, until his mission is complete, which may take decades or even longer.
 
 ### Gaming Entrance
+
 Malcohm, on a bus headed towards St Petersburg with a number of volunteers to help out with the White Nights Multi Cultural Festival celebrating 500 years of cultural brilliance, is chatting with Stefan about his recent family vacation.  Without warning the world around Malcohm melts and he feels the presence of God manifest.  By divine revelation, Malcohm instinctively knows that Percepi has vanished by unnatural means and that he is to teach the lessons of Percepi to the masses.  Just then Stefan asks if Malcohm is okay.  Malcohm shrugs it off and is now determined to travel to Laboro, the closest inhabited planet to Percepi in order to understand what has happened.
 
 ### Merit Points
-No need to sleep (4 mp)
-Happiness Aura (1 mp)
-Dex +2, Chr +2, Int +2, Con +1 (7 mp)
-Summon Monster IX (18 mp)
-  Archon: Lantern, Babau, Celestial Dire Bear, Celestial Dire Lion, Celestial Elephant, Celestial Giant Eagle, Celestal Griffon, Celestial Porpoise, Celestial Roc, Couatl, Dretch, Elementals, Guardinal: Avoral, Guardinal: Leonal, Hezrou, Invisible Stalker, Lemure, Lillend, Mephits, and Vrock
 
-Starting Languages: Celestial, Infernal, Draconic, and English
+* No need to sleep (4 mp)
+* Happiness Aura (1 mp)
+* Dex +2, Chr +2, Int +2, Con +1 (7 mp)
+* Summon Monster IX (18 mp)
+    * Archon: Lantern, Babau, Celestial Dire Bear, Celestial Dire Lion, Celestial Elephant, Celestial Giant Eagle, Celestal Griffon, Celestial Porpoise, Celestial Roc, Couatl, Dretch, Elementals, Guardinal: Avoral, Guardinal: Leonal, Hezrou, Invisible Stalker, Lemure, Lillend, Mephits, and Vrock
+
+* Starting Languages: Celestial, Infernal, Draconic, and English
 
 ### Skill Points
-Read/Write: Spanish, Mandarin Chinese, German, Russian, Japanese, Latin, Gnomish, Sylvan
-Diplomacy (4)
-Knowledge: Art (4), I presume poetry falls under this category
-Knowledge: Civics (4)
-Knowledge: Behavioral Sciences (4)
-Knowledge: History (4)
-Knowledge: Theology and Philosophy (4)
-Sense (4)
+
+* Read/Write: Spanish, Mandarin Chinese, German, Russian, Japanese, Latin, Gnomish, Sylvan
+* Diplomacy (4)
+* Knowledge: Art (4), I presume poetry falls under this category
+* Knowledge: Civics (4)
+* Knowledge: Behavioral Sciences (4)
+* Knowledge: History (4)
+* Knowledge: Theology and Philosophy (4)
+* Sense (4)
 
 ### Level Two
-&quot;No History&quot; weeks (5 mp)
-Diplomacy, Knowledge: Art, Sense +1 each
-Craft: Art, Gather Information, Sense Motive +2 each
+
+* &quot;No History&quot; weeks (5 mp)
+* Diplomacy, Knowledge: Art, Sense +1 each
+* Craft: Art, Gather Information, Sense Motive +2 each
 
 ### Level Three
-&quot;No History&quot; for summoned (1 mp)
-Improve Weapon (2 mp) +1 Holy
-Feat: Personal Fire Arms (1 mp)
-DR 5/Evil (1 mp)
-Diplomacy, Handle Animal, Sense +1 each
-Knowledge: Theology and Philosophy +2
-Sense Motive +4
+
+* &quot;No History&quot; for summoned (1 mp)
+* Improve Weapon (2 mp) +1 Holy
+* Feat: Personal Fire Arms (1 mp)
+* DR 5/Evil (1 mp)
+* Diplomacy, Handle Animal, Sense +1 each
+* Knowledge: Theology and Philosophy +2
+* Sense Motive +4
 
 ### Level Four
-Reclaim 2 mp for Chr
-Chr 14 to 16 ( 2mp)
-Telepathy 100 ft (3 mp)
-Wings illusion of not being there unless used (2 mp)
-Diplomacy, Sense, Sense Motive +1
-Knowledge: Theology and Philosphy +1
-Gather Information +5
+
+* Reclaim 2 mp for Chr
+* Chr 14 to 16 ( 2mp)
+* Telepathy 100 ft (3 mp)
+* Wings illusion of not being there unless used (2 mp)
+* Diplomacy, Sense, Sense Motive +1
+* Knowledge: Theology and Philosphy +1
+* Gather Information +5
 
 ### Level Five
-Reclaim 2 mp for Dex
-Reclaim 1 mp for Con
-Divination at 77% 1/day (8 mp) - leads to Miracle
-Diplomacy, Gather Information, Knowledge: Theology and Philosphy, Sense Motive, Sense +1
-Knowledge: Behavorial Sciences +4
+
+* Reclaim 2 mp for Dex
+* Reclaim 1 mp for Con
+* Divination at 77% 1/day (8 mp) - leads to Miracle
+* Diplomacy, Gather Information, Knowledge: Theology and Philosphy, Sense Motive, Sense +1
+* Knowledge: Behavorial Sciences +4
 
 ### Level Six
-Reclaim 1 mp for DR 5/Evil
-Divination -&gt; Greater Scrying for 14 hrs 1/day (6 mp) - leads to Miracle
-No skill points gained this level
+
+* Reclaim 1 mp for DR 5/Evil
+* Divination -&gt; Greater Scrying for 14 hrs 1/day (6 mp) - leads to Miracle
+* No skill points gained this level
 
 ### Level Seven
-Greater Scrying -&gt; Miracle 1/day (4 mp)
-Improve DR 5/Evil to 10/Evil (1 mp)
-Diplomacy, Gather Info, Knowledge: Theology and Philosophy, Knowledge: History, Sense Motive, Sense +1
-Handle Animal +3
+
+* Greater Scrying -&gt; Miracle 1/day (4 mp)
+* Improve DR 5/Evil to 10/Evil (1 mp)
+* Diplomacy, Gather Info, Knowledge: Theology and Philosophy, Knowledge: History, Sense Motive, Sense +1
+* Handle Animal +3
 
 ### Level Eight
-Reclaim 2 mp for Int
-Reclaim 2 mp for Chr
-Reclaim 16 mp for Miracle or Summon Monster IX
-Miracle 1/day (18 mp)
-Increase Chr from 16 to 18 (2 mp)
-Feat: Trustworthy, Negotiator (2 mp)
-Skill Focus: Diplomacy (1 mp)
-Telepathic with Articifial Intelligence (2 mp)
-No skill points gained this level
+
+* Reclaim 2 mp for Int
+* Reclaim 2 mp for Chr
+* Reclaim 16 mp for Miracle or Summon Monster IX
+* Miracle 1/day (18 mp)
+* Increase Chr from 16 to 18 (2 mp)
+* Feat: Trustworthy, Negotiator (2 mp)
+* Skill Focus: Diplomacy (1 mp)
+* Telepathic with Articifial Intelligence (2 mp)
+* No skill points gained this level
 
 ### Level Nine
-Improve SR by 4 (4 mp)
-Feat: Heroic Surge (1 mp)
-Diplomacy, Gather Information, Knowledge: Religion, Sense Motive, Sense +1
-Mysticraft +4
+
+* Improve SR by 4 (4 mp)
+* Feat: Heroic Surge (1 mp)
+* Diplomacy, Gather Information, Knowledge: Religion, Sense Motive, Sense +1
+* Mysticraft +4
 
 ### Level Ten
-Improve SR by 5 (5 mp)
-No skill points gained this level
+
+* Improve SR by 5 (5 mp)
+* No skill points gained this level
 
 ### Level Eleven
-Reclaim 1 mp for DR improving by race/class
-Feat: Ability Focus - Miracle (1 mp)
-Improve DR to 20/Evil (2 mp)
-Improve SR by 3 (3 mp)
-Diplomacy, Gather Information, Knowledge: Religion, Sense Motive, Sense +1
-Mysticraft +7
-Intimidate +8
+
+* Reclaim 1 mp for DR improving by race/class
+* Feat: Ability Focus - Miracle (1 mp)
+* Improve DR to 20/Evil (2 mp)
+* Improve SR by 3 (3 mp)
+* Diplomacy, Gather Information, Knowledge: Religion, Sense Motive, Sense +1
+* Mysticraft +7
+* Intimidate +8
 
 ### Level Twelve
-Improve SR by 9 (9 mp)
-Save when no save allowed min DC 25 (2 mp)
-Supernatural SR at half (2 mp)
-Feats: Great Fortitude, Lightning Reflexes and Iron Will (3 mp)
-Feats: Fort +1, Will +2 (3 mp)
-No skills points gained
+
+* Improve SR by 9 (9 mp)
+* Save when no save allowed min DC 25 (2 mp)
+* Supernatural SR at half (2 mp)
+* Feats: Great Fortitude, Lightning Reflexes and Iron Will (3 mp)
+* Feats: Fort +1, Will +2 (3 mp)
+* No skills points gained
 
 ### Level Thirteen
-Improve SR by 6 (6 mp)
-Diplomacy, Gather Information, Knowledge: Religion, Mysticraft, Sense Motive, Sense +1
-Intimidate +4
+
+* Improve SR by 6 (6 mp)
+* Diplomacy, Gather Information, Knowledge: Religion, Mysticraft, Sense Motive, Sense +1
+* Intimidate +4
 
 ### Traits
-Easygoing, honest, and polite
+
+* Easygoing, honest, and polite
 
 ### Assumed &quot;occupation&quot; bonus
-All languages and knowledges are class skills.  No wealth bonus, no bonus feats.
 
+* All languages and knowledges are class skills.  No wealth bonus, no bonus feats.
 
 #### Draft (as in not final poorly written fragments that can change radically)
+
 He's handsome afro-american, with short hair, well dressed, intelligent, towering at 7'5&quot;, with an every present happy disposition, Malcolm often gregariously laughs whole heartedly, talking with a slight dramatic intensity.
 
 As with all his peers he has studied Earth history, politics, traditions, beliefs, and psychology.  He is well versed in all its major languages, studying their various poetry and music.
 
 ##### Equipment
+
 Nice (not fancy or expensive) great fitting casual outfit.  Like a simple well-fitted black turtleneck and jeans, black boot-like shoes, a modest yuppy-like leather jacket (looks a few years old, but well maintained).  A bag with a couple outfits, toiletries, grooming products, etc.
 
 Holy energy pistol (not trained so, it will be a negative to use it).
@@ -193,6 +216,7 @@ Some sort of bag, like today's side bags (I keep thinking man-purse) would hold 
 A Wazzahusit named Eli, a cute cuddly mouse-like celestial pet known for its odd color contrast (like reverse camouflage). Most of the time it hops on two legs and stands erect like a mere cat. They eat any nuts they can find and love nuzzling.  Has no combat ability, purely for color.  It would have 1 hp, AC 10, Int 3, Dex 12, Str 6, Con 10, Wis 10, Chr 10, no skill points, no attack ability, etc.
 
 ##### Family history and relations 
+
 Extended sister/brother hood probably of a couple hundred.  Has a dozen or so close friends?  All children of God.  Couple of elders he has contact with are Saint Barnabas (image often invoked as peacemaker) and Sister Assisi an Angel who helps the sick, has a love for animals, and helps those that are less fortunate forgiving those tresspasses that are done in mortal need (stealing for hunger, etc).
 
 Perhaps Malcolm's identifying characteristics is his lack of physical flaws and height.  Probably will be mistaken for a basketball player.
