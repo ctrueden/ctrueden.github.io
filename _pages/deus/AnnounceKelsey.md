@@ -1,6 +1,10 @@
--=Kelsey's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Kelsey's Experience Tally and Other Announcements
+permalink: /deus/AnnounceKelsey
+category: deus
+---
+### Experience
 
 || |__Session__|__Individual__|__Total so far__|__Level__|__Bonus MP__
 Pre|-|0|0|1|-

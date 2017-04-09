@@ -1,3 +1,9 @@
+---
+layout: page
+title: CharPublicAJ
+permalink: /deus/CharPublicAJ
+category: deus
+---
 Ian Thorpe
 Semi-reknown, now retired scientist from the Noonian Soong foundation, Ian is a 154 year old traveller visiting all the places he never did when he was working himself to his grave on various applications of technology and mystic energies.  He had a near death experience two years ago, which prompted him to retire and live a richer and fuller life.
 

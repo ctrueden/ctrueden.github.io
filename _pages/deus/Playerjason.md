@@ -1,10 +1,14 @@
--=Jason=-
-
+---
+layout: page
+title: Jason
+permalink: /deus/Playerjason
+category: deus
+---
 Status: confirmed
 
-!!!Laiden Rahu
-*((CharPublicJason|Character description)){GROUP(groups=&gt;jason|GMs)}
-*((CharPrivateJason|Private page))
-*((AnnounceJason|Experience tally and announcements)){GROUP}{GROUP(groups=&gt;GMs)}
-*((CharSecretsJason|Character secrets)){GROUP}
+### Laiden Rahu
+*[Character description](CharPublicJason){GROUP(groups=&gt;jason|GMs)}
+*[Private page](CharPrivateJason)
+*[Experience tally and announcements](AnnounceJason){GROUP}{GROUP(groups=&gt;GMs)}
+*[Character secrets](CharSecretsJason){GROUP}
 

@@ -1,6 +1,10 @@
--=Mark's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Mark's Experience Tally and Other Announcements
+permalink: /deus/AnnounceMark
+category: deus
+---
+### Experience
 
 Divination penalty: -20 EP
 

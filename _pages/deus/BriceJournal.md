@@ -1,6 +1,10 @@
--=Brice's Journal: 1-10.5=-
-
-!!!-1st Session
+---
+layout: page
+title: Brice's Journal: 1-10.5
+permalink: /deus/BriceJournal
+category: deus
+---
+### 1st Session
 There seems to be another virus going around.  It looks like just a proof of concept virus, all for show.  It also targets a known and patched vurlnrability, which means it could be a virus writer in training, or someone wishing to highlight the need to stay current.  Either way, my equipment is safe, but I should look into this later to find the source of the virus.
 
 My arm fell asleep while reseaching this virus.  Of course I didn't know what the problem was at the time.  I made an appointment go to the school's clinic to check it out.  
@@ -31,7 +35,7 @@ Questions:
 #Who was chacing after the girl, and why?
 #What all can this survailence system do?
 
-!!!-2nd Session 
+### 2nd Session 
 The taxi dropped me off by the arobreetum.  I quickly found the group of people who had run out of the clinic.  They were also looking for the girl (jasmine Devide).  Apparently she was the one who kidnapped the professor.  I reviewed the survailence records to see that she did in fact do it.  I also found out there she had just ported into town the day before.  We met up and got a small change to talk to her.  She pulled the same teleporting trick with several of the party members as she did with the guards leaving the clinic.  The ghost played like he was someone important, and Jasmine responded to that.  We found out that she was doing the job for Strat-Co, and they were hoping to pin it on Magitek.  She handed over a data crystal to us.  I 'messaged' her and she reponded when she was leaving.  She emailed me her contact info, and she left.  
 
 I traded her contact info for a chance to read the data crystal.  The info on the data crystal could be used to allow everyone to be a mystic.  I hope this is used to level playing field socially for everyone, and not used by one corporation to gain more power and become more oppressive.
@@ -80,7 +84,7 @@ Questions:
 #What is the medal hand that Moss is holding, and who is the android?
 #Why am I involved in any of this.  I know how I got involved, and I can be useful, and it sure is more interesting that school at the moment, but is there some cosmic reason I ended up with this group.  If my arm hadn't fallen asleep, I would know about any of this.
 
-!!!-3rd Session
+### 3rd Session
 Life is crazy.  The reports say that something called the grey goo took over Mercury.  It is apparently made up of nanites that self replicate out of any matter they find.  The planet was sent into the sun to prevent it from spreading.  The sun should easily burn them up, but the fact that such technology exists and could be accidently release is a little scary.
 
 I had a date!!!  I went to earth to visit jasmine.  I think things went well but I'll save any comments until later.
@@ -103,7 +107,7 @@ Questions:
 #Why does Magitek currently have it?
 #How will thinkgs work out with Jasmine?
 
-!!!-4th Session
+### 4th Session
 We raided Magitek!  We actually went through with it.  It didn't turn out as well as could be hoped, but well enough.  But that's getting ahead of myself.
 
 As of my last entry, we were verifying the will of the caretaker.  I got in contact with a Professor Almorad at a syberian university, who is also a member of the order of gaea.  I arranged a meeting with him, but found him after one of his classes instead.  Couldn't wait until tomorrow.
@@ -130,7 +134,7 @@ Questions:
 #What really caused the collony to disappear.
 #How do cain and the machine work?  Maybe if I learn more about the Caretaker, I could figure it out.
 
-!!!-5th session
+### 5th session
 I hate lightning.  I also hate vampires.  I'm not sure which I hate worse.
 
 We made it out of Magitek with Cain.  I wasn't feeling all that well, so I kept my distance and ordered a van to take us to the grove.  If I was really thinking I would have gotten my own car so I could have kept my distance, but I didn't.  Lesson learned for next time (if there will ever be a next time).
@@ -147,7 +151,7 @@ We do a little research to find that there's one weapon that has taken many form
 
 So the search begins...
 
-!!!-6th Session
+### 6th Session
 I really like instant space travel.  I should look into it more.  Granted it takes almost a day of calculation by our supercomputer of a ship, but still, being able to go anywhere nearly instantly is awesome.
 
 Our quest for the legendary weapon took us from earth, to the outer reaches of known space, back to earth, back to the outer reaches of known space, and back to earth again.  
@@ -179,7 +183,7 @@ Questions
 4) If we can 'kill' Cain and start over, how will that work?  Should we do it?
 5) How does Dee travel instantly, what calculations are involved.  I'll have to ask him about it.  Maybe analize the program that does the calculations.
 
-!!!-Seventh Session
+### Seventh Session
 As a group, we've been through a fair amount.  We've talked to the Caretaker, we'v infultrated Magictek to retrieve the body of Cain.  We met the former head of Magitek, and traveled to distant reaches of known space in an instant.  I was almost killed by a ligntning bolt during the attempted ritual to clense Cain of his taint.  So we've been through quite a bit.  
 
 The group is made up of quite a wide array of people, from various backgrounds.  I can't say I know too much about any one of them, but I still feel some kinship twords them.  I'm not quite sure how to deal with Thorp's demise.  I guess this is the real world, and in the real world, people die and don't come back.  It' not just a game, there are real stakes.  I don't know what caused Xela to disintigrate him.  Apparently there was some past between them, and it finally caught up to him.  I'll need to be careful of any enemies I make along this path.  I don't think anyone hates me enough to kill me yet.  Most of my adversaries are in VR, where the stakes aren't quite so high (and most of them would have a hard time taking me down anyways).
@@ -255,7 +259,7 @@ Other work is being done to disconnect the Heart Tree on Mars from the network, 
 
 Now, onto the exciting conclusion:
 
-!!!-Eighth Session
+### Eighth Session
 After much discussion and confusion, several things are decided.
 
 - Bryant will visit with the caretaker.  Mini V and my dog went along with him.  
@@ -284,7 +288,7 @@ So back to Earth we go.
 Questions:
 1. We have the body, what next?
 
-!!!-Ninth Session
+### Ninth Session
 Halflings, Point Sigularities, and Stasis Chanbers..
 
 First things first: what to do about Cain?  Admiral Rossner takes over the battle on Mars.  He also suggests that we take Cain to a Military base in the asteroid belt.  The base as the advantages of being well defended, and not having a source of mystic magic.  The downside is that the defenses aren't in our control.
@@ -299,7 +303,7 @@ The other insident of activity was the infiltration of the ship by a point sigul
 
 So the wait continues.
 
-!!!-Tenth Session
+### Tenth Session
 Strange messages recieved by crew members:
 
 Ariona -- "Truth sometimes lies even in lunacy, and turmoil may lie beneath a calm ocean."
@@ -355,7 +359,7 @@ Anyways, Nikoli talks to him, and on the surface, all of his answers are the rig
 
 Nikoli smells sulfer on him on the way out.  He thinks its residue from some demonic dealings or possession.  Now the quesion is what to do.  People are leaning twards Bryant out.  The Caretaker doesn't trust him, he has the crown, his answers were suspect, his smell was apparently suspect, and the things he could be up to could be very detrimental.  On the other hand, keeping Cain safe should be our top priority.  We'll see what happens.
 
-!!!-10.5 session
+### 10.5 session
 Hate to make this quick, but there's a lot finally happening.  The main item is that we decided to try to deal with Bryant, and that he's no longer hanging out on Luna.  Lupus is being attacked by a creature made out of nanites.  This may or may not be Bryant, but I intend to find out.
 
 Alona brought her parents on board, and while they can't directly help, they cast a few buffs on us.  I couldn't resist their magic, wonder why?

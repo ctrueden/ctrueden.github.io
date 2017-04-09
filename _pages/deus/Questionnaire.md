@@ -1,9 +1,13 @@
--=Character Questionnaire=-
-
+---
+layout: page
+title: Character Questionnaire
+permalink: /deus/Questionnaire
+category: deus
+---
 Please complete the following requirements when developing your character concept on your private character page. It will help the GMs to understand your character better.
 
 
-!!!General character information
+### General character information
 
 Please provide a detailed overview of your character. I've listed some ideas for discussion topics below, but please don't feel limited by them in any way. Write about the things that make your character interesting and worth playing.
 
@@ -27,7 +31,7 @@ Ideas:
 *greatest failure or disappointment
 
 
-!!!Character personality questionnaire
+### Character personality questionnaire
 
 Answering the following specific questions will help you to flesh out your character. Please answer each one with a number between 1 and 5, inclusive. Feel free to provide additional comments if you think your answer to a particular question is misleading or needs further clarification. And remember: there is no requirement for your character to be &quot;good&quot; or &quot;evil&quot; -- such choices are entirely up to you.
 

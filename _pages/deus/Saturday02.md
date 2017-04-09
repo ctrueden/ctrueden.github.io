@@ -1,3 +1,9 @@
+---
+layout: page
+title: Saturday02
+permalink: /deus/Saturday02
+category: deus
+---
 Goals:
 *Get Zee from the Monday group to the Saturday group
 **Not so tough -- McLean is looking for Zee already -- he just needs to capture him -- but to do so we need to get Zee away from the rest of the Monday group temporarily

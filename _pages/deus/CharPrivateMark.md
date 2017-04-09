@@ -1,6 +1,10 @@
--=Mark's Character's Details=-
-
-!!-Backstory for Trenton
+---
+layout: page
+title: Mark's Character's Details
+permalink: /deus/CharPrivateMark
+category: deus
+---
+## Backstory for Trenton
 
 The group was founded by a group of concerned scholars that were irked at the fact that everything they knew was wrong, at the apperance of magic to the world that occured during Pax.  The monsters and destruction that occured shocked many simple minded people to revert to baser emotions such as fear.  These scholars decided to try and do away with all these things that couldn't be explained by forming a mob and destorying it.  They appealed to these frightened people and had numbers in the thousands.  However, their initial anger was misguided, and once initial fear and doubt was quelled the group took on a passion of its own.  They began to form an actual organization they eventually named The Peoples Hope.  Their initial projects being to stop renegade magic users or magical creatures that caused problems for normal people.  They would do projects for the community to bring in new numbers, and they enjoyed an even larger number of participants.  However as the years dragged on, and magic became a part of society, their views on magic being dangerous and aborant became viewed as archaic.  Their numbers dwindled further until the remaining hardcore members gathered to discuss their views.
 
@@ -11,7 +15,7 @@ However time again took its toll.  As humans expanded into space so did the memb
 Trenton himself is a strong-willed person.  He deeply respects his parents and the order of Pandora's Box.  He grew up to stories of wild adventures of scientists braving beholder and werewolf alike.  And he understands the mission he is to finally fufill, although he wonders if magic is really the terrible danger his parents believe it to be.  He does think that people need to take a step back and examine magic a little more closely however.  Their 'seeding' of magic, seems overly reckless.  First thing he wants to do now that he's on his own is to try and find some of that information that was lost from the older members of the order.
 
 
-!!-Advanced class: Pandora's Champion
+## Advanced class: Pandora's Champion
 
 __Hit Die:__ 1d8
 __Class Skills:__ Climb (Str), Concentration (Con), Drive (Dex), Intimidate (Cha), Jump (Str), Knowledge (arcane lore, current events, history, popular culture, tactics) (Int), Mysticraft (Int), Navigate (Int), Profession (Wis), Senses (Wis), Survival (Wis), Swim (Str).
@@ -30,15 +34,15 @@ __Table: Pandora's Champion__
 9th|+6|+4|+4|+3|Precognitive Perception|+5|+3
 10th|+7|+5|+5|+3|Eyes of Discord|+5|+3||
 
-__Weak Illusions:__ As an active [http://www.d20srd.org/srd/naturalSpecialAbilities.htm#gazeAttacks|gaze attack], the Champion can force a visual illusion on a biological creature with eyes. This illusion can be anything occupying a space of up to 15 feet in size (width + height + depth). It lasts for 1d6 rounds, and must remain within 50 feet of the target at all times. Each round the Champion is within 100 feet of the target, he may concentrate (a move-equivalent action) to manipulate the illusion -- otherwise it remains static (motionless). The intended target receives a Will save (DC 10 + Champion's Wisdom modifier) to avoid being affected. Only one creature may be affected at a time. Lastly, maintaining an illusion is taxing for the Champion, costing 2 vitality points per round. The Champion's eyes glow green whenever he attempts to use this power, and while it is active.
+__Weak Illusions:__ As an active [gaze attack](http://www.d20srd.org/srd/naturalSpecialAbilities.htm#gazeAttacks), the Champion can force a visual illusion on a biological creature with eyes. This illusion can be anything occupying a space of up to 15 feet in size (width + height + depth). It lasts for 1d6 rounds, and must remain within 50 feet of the target at all times. Each round the Champion is within 100 feet of the target, he may concentrate (a move-equivalent action) to manipulate the illusion -- otherwise it remains static (motionless). The intended target receives a Will save (DC 10 + Champion's Wisdom modifier) to avoid being affected. Only one creature may be affected at a time. Lastly, maintaining an illusion is taxing for the Champion, costing 2 vitality points per round. The Champion's eyes glow green whenever he attempts to use this power, and while it is active.
 
 __Slow Perception:__ As a free action, the Champion can enter a state of improved consciousness, improving his perceptions. His metabolism quickens, with time seeming to slow around him. While in this state, the Champion receives a +4 bonus to his Wisdom score, as well as an insight bonus to attacks and Defense equal to his improved Wisdom modifier. However, entering this state costs the Champion 5 vitality points, plus 3 vitality points per round beyond the first. The Champion's eyes glow blue while this ability is active.
 
 __Illusion Perception:__ While in his state of improved consciousness, the Champion is now entitled to a Mysticraft check (DC 15 + spell level) for each aura to determine its sphere or school. In addition, if he recognizes an Illusion aura, he is automatically sees through that illusion and is immune to its effects. These checks happen automatically as soon as the Champion can see each aura, and are not actions.
 
-__Multiple Illusions:__ The Champion's illusions are more potent. As a single active [http://www.d20srd.org/srd/naturalSpecialAbilities.htm#gazeAttacks|gaze attack], he may now affect a number of creatures equal to his Champion level simultaneously, and he may create a number of illusions (size 15 each) equal to his Champion level. Each creature is entitled to a Will save (DC 15 + Champion's Wisdom modifier), and all creatures affected see the same illusions (they cannot be individually tailored). The duration of the illusions increases to 2d4 rounds. Maintaining multiple illusions or affecting multiple targets is difficult -- it costs the Champion a number of vitality per round equal to the number of illusions created or the number of targets affected, whichever is higher. The Champion's eyes still glow green but also have flecks of white laced across them as well.
+__Multiple Illusions:__ The Champion's illusions are more potent. As a single active [gaze attack](http://www.d20srd.org/srd/naturalSpecialAbilities.htm#gazeAttacks), he may now affect a number of creatures equal to his Champion level simultaneously, and he may create a number of illusions (size 15 each) equal to his Champion level. Each creature is entitled to a Will save (DC 15 + Champion's Wisdom modifier), and all creatures affected see the same illusions (they cannot be individually tailored). The duration of the illusions increases to 2d4 rounds. Maintaining multiple illusions or affecting multiple targets is difficult -- it costs the Champion a number of vitality per round equal to the number of illusions created or the number of targets affected, whichever is higher. The Champion's eyes still glow green but also have flecks of white laced across them as well.
 
-__Aura Perception:__ While in his state of improved consciousness, the Champion now perceives magical auras as though affected by the [http://www.d20srd.org/srd/spells/arcaneSight.htm|arcane sight] ability, except that he cannot discern the school of an aura (only power and location).
+__Aura Perception:__ While in his state of improved consciousness, the Champion now perceives magical auras as though affected by the [arcane sight](http://www.d20srd.org/srd/spells/arcaneSight.htm) ability, except that he cannot discern the school of an aura (only power and location).
 
 __Powerful Illusions:__ The Champion has learned to affect nonliving creatures (such as androids and golems) that can perceive his eyes in some manner. However, only one such creature may be affected at a time, as doing so is more difficult. Also, his illusions now persist for 3d4 rounds.
 
@@ -48,10 +52,10 @@ __Permanent Illusions:__ The Champion has developed the ability to permanently i
 
 __Precognitive Perception:__ While in his state of improved consciousness, the Champion can sense possible future paths of objects and creatures, which appear as faint outlines traced through the air indicating predicted movement up to one round (six seconds) into the future. His Wisdom bonus increases from +4 to +8, and he now receives an insight bonus to his Reflex saving throw equal to his improved Wisdom modifier.
 
-__Eyes of Discord:__ The Champion's eyes are fully developed and his illusion mastery is complete. As an active [http://www.d20srd.org/srd/naturalSpecialAbilities.htm#gazeAttacks|gaze attack], the Champion may attempt to inflict a discordant vision on a single target, who is entitled to Will save (DC 20 + Champion's Wisdom modifier) to resist. If successful, the target becomes unaware of his true surroundings and instead experiences everything as the Champion wishes. The Champion must pay 15 vitality points to invoke a discordant vision, and must concentrate each round (a move-equivalent action) to maintain the vision. Discordant visions are too powerful to be ingrained permanently. While using this power, the Champion's eyes appear disturbing and completely alien.
+__Eyes of Discord:__ The Champion's eyes are fully developed and his illusion mastery is complete. As an active [gaze attack](http://www.d20srd.org/srd/naturalSpecialAbilities.htm#gazeAttacks), the Champion may attempt to inflict a discordant vision on a single target, who is entitled to Will save (DC 20 + Champion's Wisdom modifier) to resist. If successful, the target becomes unaware of his true surroundings and instead experiences everything as the Champion wishes. The Champion must pay 15 vitality points to invoke a discordant vision, and must concentrate each round (a move-equivalent action) to maintain the vision. Discordant visions are too powerful to be ingrained permanently. While using this power, the Champion's eyes appear disturbing and completely alien.
 
 
-!!-Mark's notes on Trenton's eye powers
+## Mark's notes on Trenton's eye powers
 
 The way I wanted it to work, was that at the begining, his eyepower is less effective.  Sort of unevolved.  So when he uses it, his eyes don't change that much at first.  My vision of how the eyes would look would be like in Evangelion, in the second episode, he see's unit 1's eye regenerate.  I want the eyes to look like that in their completed form.  But for the first stage I want the eyes to just turn unnaturally green, when he's using then to slow his perception of time and invoke the illusions.  I will list the powers in order of what I think should become available first, second, and so on.
 
@@ -72,14 +76,14 @@ The way I wanted it to work, was that at the begining, his eyepower is less effe
 I don't know how broken the eyes are, if they are, but give me your thoughts please.  The way I wanted it to work was upon gaining a 2nd stage ability, his eyes would change how they look.  Its a minor ingame thing, but I think its cool.  Oh and by the way, sorry for staying so late last Thursday, I have a bad habit of missing body language when I'm having a fun conversation.  I hate when I do that, so I'll be better next time.
 
 
-!!-Notes from Mark
+## Notes from Mark
 
 What I wanted, was that the eyes are tied into his undeveloped magical abilities.  You made a mention of how noone had figured out how to mess with magic in genetics.  And I wanted a certain degree of mystery around his eyes.  In that its very unlikely for someone else to have gotten a treatment and now has the same abilities.  So I figured if his ancestors from the order had been tinkering with better ways to fight magic, by experimenting on themselves with what limited genetic engineering there was, and enchantments and such.  He has become the legacy of the order, as oposed to being the legacy of his crazy parants.  I think it would make the character more tied to his goal.  As for why the power finally manifested, I again wanted it to be mysterious.  His parents could have finished the last piece of the 'puzzle' perhaps when genetically modifying him.
 
 ~~#FF0000:This makes sense. Sounds good!~~
 
 
-!!-Questionnaire
+## Questionnaire
 
 Would your character (1=Never, 5=Always):
 
@@ -129,7 +133,7 @@ YES!!!!!111one.
 No, technology is the future.  Magic is being relyed on too heavily, and is not nearly as controlable as technology is.  If anything it is magic that will bring ruin.
 
 
-!!-Feats
+## Feats
 
 __Counter Magic:__ Ready an action to counter a spell. On a successful Mysticraft roll, the Champion may choose to spend an amount of vitality equal to the sphere total to counter the effect.
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed12
+permalink: /deus/SessionWed12
+category: deus
+---
 Trenton sees that the various Gaian body parts are very well preserved in jars and containers.  Andrew Peters hearing about these body parts begins moving quickly to Trenton and Noun as he is concerned that the opening the crates has exposed them to a biohazard.
 
 Andrew tells Noun and Trenton to move to the airlock for quarantine.  Noun ignores Dr Peters and continues his search for tools to rebuild his bag and save Pronoun.  Trenton goes to the airlock where Andrew scans Trenton, but finds no evidence of contamination.

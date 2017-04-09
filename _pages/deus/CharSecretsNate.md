@@ -1,5 +1,9 @@
--=Nate's Character's Secrets=-
-
+---
+layout: page
+title: Nate's Character's Secrets
+permalink: /deus/CharSecretsNate
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Nate's character.
 
 SCIENTIST DISAPPEARANCE

@@ -1,5 +1,9 @@
--=Vittorio Garibaldi's Secrets=-
-
+---
+layout: page
+title: Vittorio Garibaldi's Secrets
+permalink: /deus/CharSecretsAllen
+category: deus
+---
 Psionic ghost - soul knife
 
 A descendant of Bobby named Vittorio Garibaldi. Doesn't remember anything other than that he is psionic and human. But will quickly remember he was part of the Silent Syndicate when confronted by it.

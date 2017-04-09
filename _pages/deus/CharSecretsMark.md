@@ -1,6 +1,10 @@
--=Mark's Character's Secrets=-
-
-!!The origin of Pandora's Box
+---
+layout: page
+title: Mark's Character's Secrets
+permalink: /deus/CharSecretsMark
+category: deus
+---
+## The origin of Pandora's Box
 
 Pure humans are incapable of channeling mystic energy. Thus, members of the Arcane Order  are by definition part non-human (in fact, nearly every human by now is not &quot;pure&quot;). As humanity has become less pure, they have begun to lose their ability to interbreed with  anything, making it more difficult to breed with more powerfully mystic races to produce  &quot;superior&quot; offspring.
 
@@ -13,7 +17,7 @@ Thus, the original goal of Pandora's Box was to create offspring that combined t
 The names of the Seven exiles are: Jendu Gryffindor, Tungoa Hufflepuff, Sai Ravenclaw  and Vixlecais (&quot;Vix&quot;) Slytherin, the four founding members of Pandora's Box; Morgan &amp;  Aldan Huntington (Merlin's parents); and Soren Corsair, their fearless leader. (Their  last names were taken after their exile.) They went on to each play a role in World War  III. Though they were all slain during the war, the descendents of Pandora's Box (one  male child of Jendu + Tungoa and one female child of Sai + Vix had a child who recruited  others into the fold) continued the legacy, though after a few more generations the  original message became somewhat confused.
 
 
-!!Trenton's birth
+## Trenton's birth
 
 More recently, Pandora's Box fell apart when Trenton's parents (Felix and Madison),  &quot;pure human&quot; subjects of cruel experimentation, fell in love, then rebelled against  their masters, killing the head researcher and destroying all of the research. Some of  the other test subjects, who were to be recipients of this work, were extremely angered  by this turn of events, and swore revenge against Trenton's parents. Madison's recently conceived child, however, had been imbued with the organization's final research  attempt, based around an infusion of beholder DNA.
 
@@ -28,7 +32,7 @@ The sage on Percepi was a dwarf with an interest in the Obelisk that was destroy
 Felix and Madison found out about the sage's work, but their irrational fear of magic prevents them from traveling out of the solar system (unless they were to use a conventional transport which would take years). In addition, they were still in hiding from the remaining members of Pandora's Box. Thus, they sent Trenton out into the world to recover the information, and begin his quest.
 
 
-!!Pandora's Children and the Brotherhood
+## Pandora's Children and the Brotherhood
 
 The other Pandora's Box test subjects, left twisted and mutated but without the reformation of their genes being complete, formed the seed of what would become the &quot;Brotherhood of Homo Sapiens Superior,&quot; led by Erik Lensherr.
 
@@ -38,13 +42,13 @@ Since then, the Brotherhood has acquired members inside StratCo itself. In parti
 
 -----
 
-!!Older thoughts
+## Older thoughts
 
 Trenton's powers are derived from the Fearful's influence somehow. How much of him is really &quot;human&quot;? How are the Fearful related to Pandora's Box? How much of what Trenton &quot;knows&quot; about his parents' organization is really true?
 
 Trenton is human, but a descendant of a community that lived as part of Fjell. The Fearful altered the mitochondria present in humans, integrating themselves with it. As Trenton develops his eye powers, the latent ability of his mitochondria is unleashed, lending him properties similar to those of the Fearful.
 
-In a sense, Trenton is &quot;pure&quot; human, in that he is directly descended from the originally engineered human, [http://www.pantheon.org/articles/p/pandora.html|Pandora], unpolluted by non-human DNA.
+In a sense, Trenton is &quot;pure&quot; human, in that he is directly descended from the originally engineered human, [Pandora](http://www.pantheon.org/articles/p/pandora.html), unpolluted by non-human DNA.
 
 The Pandora's Box organization has been around in some form since humans' inception. They are instinctually opposed to mystic energy, due to their genetic programming, and therefore the existence of the organization makes sense.
 

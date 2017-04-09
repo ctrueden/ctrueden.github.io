@@ -1,5 +1,9 @@
--=Athena's Character's Secrets=-
-
+---
+layout: page
+title: Athena's Character's Secrets
+permalink: /deus/CharSecretsAthena
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Athena's character.
 
 FLEXIBLE - maybe outlying colony world disappearing is of interest - maybe the colony she just visited?

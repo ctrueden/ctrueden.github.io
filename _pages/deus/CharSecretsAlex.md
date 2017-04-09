@@ -1,5 +1,9 @@
--=Alex's Character's Secrets=-
-
+---
+layout: page
+title: Alex's Character's Secrets
+permalink: /deus/CharSecretsAlex
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Alex's character.
 
 DISAPPEARING COLONY

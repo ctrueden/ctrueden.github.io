@@ -1,11 +1,15 @@
--=D.E.E. (Damocles Experiment Epsilon) Details=-
-
-!!-The concept
+---
+layout: page
+title: D.E.E. (Damocles Experiment Epsilon) Details
+permalink: /deus/CharPrivateGriffin
+category: deus
+---
+## The concept
 
 The character is an AI driving a state-of-the-art experimental spacecraft. Though AIs cannot use mystic magic, this one is an extremely intelligent prototype, and was designed to take advantage of a heretofore-undiscovered corrollary of Miller's prophecy algorithm. Not only can this AI extract truth from the numerical values of the universe, but also manipulate reality on a symbolic, macroscopic level by altering those numerical values microscopically (an electron here, a molecular bond there...). The main focus of these &quot;magic programs&quot; so far has been to spontaneously tunnel from one location to another. The computations to do so are computationally intense, however, and require a significant time investment per jump. But the amount of time required increases only logarithmically with distance, meaning that traveling extreme distances instantly and breaking the light speed barrier seem within this machine's grasp.
 
 
-!!-Character personality questionnaire
+## Character personality questionnaire
 
 Would your character (1=Never, 5=Always):
 #Lie to a friend to protect his feelings?  _1_
@@ -32,7 +36,7 @@ What does your character think about the following statements (1=Strongly disagr
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day.  _4_
 
 
-!!-The Backstory
+## The Backstory
 
 D.E.E. was constructed on Mercury, paid for by a secret coalition (or just one evil mastermind) seeking to subjugate the outlying colonies.  Before the project could be completed Mercury was gooed while D.E.E. was on a test flight for the first step of the project (being FTL travel).  The second step of the project would have been adding a device to the ship that could suck the mystic energy out of a colony (similar to how magic was originally sealed on earth).  The third step would have been constructing a small fleet of the Damocles ships which could appear at any colony at any time, suck the mystic energy out of the colony to prevent reinforcements from arriving, and take over control of the colony.
 
@@ -43,7 +47,7 @@ D.E.E. retains control of some of the research project's assets that were invest
 Because D.E.E. is wary of revealing itself it will at first communicate exclusively through a robot body, which was included on the ship to facilitate communication with the ship's future crew.
 
 
-!!-Miller 2 powers
+## Miller 2 powers
 
 Normal ship operations consume 10 power/day, and 1 cpu.
 Creat 1 refills 1 power.
@@ -81,7 +85,7 @@ E.g., 70,000 LY = 50 + 1/10,000*60,000 = 56 hrs
 *__Location swap:__ (10*X power, 100+10*(X+Y+Z) cpu) Switch the positions of two objects, of X total feet in size, initially Y total miles away and Z miles from one another.
 
 
-!!-Proposed Class progression
+## Proposed Class progression
 
 __lvl 1__
 [[M2] Instant Teleport

@@ -1,24 +1,30 @@
-It is still Friday, July 18th, 2399.  It is now about 5:25 am GMT, and ((CharPublicAlex|Ariona)), ((CharPublicJoey|Meechum)), ((CharPublicNate|Ned/Max)), ((CharPublicAllen|Vittorio)), ((CharPublicEva|Rae Denison)), ((CharPublicMike|Vadril Korlax)), and ((CharPublicJames|Zee)) are still on Lupus, though they are about to leave.  ((NPCMerlin|Merlin Huntington)) has just returned from his unsuccessful trip to ((NPCBryant|Harry Bryant))'s office in search of the erstwhile terrorist.  
+---
+layout: page
+title: SessionMon12
+permalink: /deus/SessionMon12
+category: deus
+---
+It is still Friday, July 18th, 2399.  It is now about 5:25 am GMT, and [Ariona](CharPublicAlex), [Meechum](CharPublicJoey), [Ned/Max](CharPublicNate), [Vittorio](CharPublicAllen), [Rae Denison](CharPublicEva), [Vadril Korlax](CharPublicMike), and [Zee](CharPublicJames) are still on Lupus, though they are about to leave.  [Merlin Huntington](NPCMerlin) has just returned from his unsuccessful trip to [Harry Bryant](NPCBryant)'s office in search of the erstwhile terrorist.  
 
 ----- 
 
-((CharPublicKelsey|Eddie)) is in outer space.  He is just beginning to calm down from his panicked flight away from the void. 
+[Eddie](CharPublicKelsey) is in outer space.  He is just beginning to calm down from his panicked flight away from the void. 
 
 ----- 
 
-((CharPublicAndy|Brice)) hops through his dog to ((CharPublicGriffin|DEE)).  When he leaves the dog, he hears DEE's voice: "Organic life form, you are not wanted.  Please leave."  Brice grabs the Sword, hops back into the dog, and uses it to paddle over to the secure cargo bay.  He checks on ((NPCCain|Cain)), and the stasis chamber appears to be intact.  Cain also appears to be within. 
+[Brice](CharPublicAndy) hops through his dog to [DEE](CharPublicGriffin).  When he leaves the dog, he hears DEE's voice: "Organic life form, you are not wanted.  Please leave."  Brice grabs the Sword, hops back into the dog, and uses it to paddle over to the secure cargo bay.  He checks on [Cain](NPCCain), and the stasis chamber appears to be intact.  Cain also appears to be within. 
 
 Just then, the gravity goes out, and the chamber and dog begin to float.  The droid, using thrusters, moves into the cargo bay and grabs the dog and the stasis chamber.  It begins carrying them out of the bay.  Brice tries to hack the ship (oops!), and when that fails, he tries again to communicate with DEE, asking, "DEE?  What's going on?"  In response, all the internal defenses on the ship turn towards the dog, and begin firing.  Brice jumps back into his dorm room, and feels his connection to the dog sever. 
 
-He then reviews the news feeds coming from ((Worlds|Lupus)).  It looks pretty bad.  The news basically shows all of the party's faces, and claims that these newcomers, whose relationship to the incident is unknown, appeared shortly before a shocking and saddening incident which resulted in the loss of over 200 lives.  It is also noted that several of the individuals were known to be on Canis's most wanted list for their efforts on the Lupin side of the war. 
+He then reviews the news feeds coming from [Lupus](Worlds).  It looks pretty bad.  The news basically shows all of the party's faces, and claims that these newcomers, whose relationship to the incident is unknown, appeared shortly before a shocking and saddening incident which resulted in the loss of over 200 lives.  It is also noted that several of the individuals were known to be on Canis's most wanted list for their efforts on the Lupin side of the war. 
 
 ----- 
 
-((CharPublicJohn|Matt Smith)) has some business to take care of with the assistance of his mother.  It involves putting a stolen soul into a new body. 
+[Matt Smith](CharPublicJohn) has some business to take care of with the assistance of his mother.  It involves putting a stolen soul into a new body. 
 
 ----- 
 
-((CharPublicJon|Nikolai)) also teleported to Bryant's office, and when he determined that Bryant was not there, decided to go to ((OrgMagitech|Magitech))'s headquarters.  He wanders across the city, finding the building, and when he approaches the front desk, is told by a droid, "I'm sorry, but you have been instructed to leave this planet.  I am now contacting Magitech authorities." 
+[Nikolai](CharPublicJon) also teleported to Bryant's office, and when he determined that Bryant was not there, decided to go to [Magitech](OrgMagitech)'s headquarters.  He wanders across the city, finding the building, and when he approaches the front desk, is told by a droid, "I'm sorry, but you have been instructed to leave this planet.  I am now contacting Magitech authorities." 
 
 An exceedingly attractive elven woman with extremely long, braided black hair steps out of the elevator.  She says, "Nikolai, I presume.  You must leave at once."  She explains that Magitech wishes to "distance itself from this incident" on Lupus, and that he should go somewhere where it won't be construed that Magitech is in any way involved in that incident.  Nikolai wanders back to Bryant's office, and ports away. 
 
@@ -26,7 +32,7 @@ An exceedingly attractive elven woman with extremely long, braided black hair st
 
 Back on Lupus, there is still residual goo everywhere.  The walls are dripping.  Rae is in favor of getting out of there, NOW, but Ariona suggests that maybe actually waiting for the authorities might be a good idea. 
 
-At the same moment that several people realize the nanites seem to be oozing out of the floor and walls, Huntington returns.  He states that Bryant is no longer in his office, and that his companions should adjourn with him to a different location, let ((NPCKhan|the General))'s troops take care of cleanup, and discuss the incident with him.  He promises that if everyone acts with discretion, that this should be able to be resolved satisfactorily.  While Vitto makes loud comments about all the bad things that happened and the necessity of hunting down Bryant, Ariona attempts to drown him out with her reply that she would be happy to assist the authorities at any point. 
+At the same moment that several people realize the nanites seem to be oozing out of the floor and walls, Huntington returns.  He states that Bryant is no longer in his office, and that his companions should adjourn with him to a different location, let [the General](NPCKhan)'s troops take care of cleanup, and discuss the incident with him.  He promises that if everyone acts with discretion, that this should be able to be resolved satisfactorily.  While Vitto makes loud comments about all the bad things that happened and the necessity of hunting down Bryant, Ariona attempts to drown him out with her reply that she would be happy to assist the authorities at any point. 
 
 The group walks out of the perimeter with Huntington.  Matt returns to the mysticport just in time to accompany the group. 
 
@@ -82,7 +88,7 @@ Huntington leads them into the compound.  It is very metallic and generally unpl
 
 A large, clanking, metal robot turns around when they enter.  It appears to be headless, with an overlarge torso and chain guns for arms.  A slightly metallic voice emanates from the speaker on the torso.  "You have a lot of explaining to do, Huntington!" it says. 
 
-((NPCCrowe|Another man)) is standing further back in the room.  He appears to be observing a current feed of the mysticport, and leaves his back to the group.  The image shows several soldiers firing their energy weapons at the grey goo.  Vittorio mutters, "I don't think that's going to work," and at this the man turns around.  He is short, with a brown crew cut, clean shaven, with black eyes and bushy eyebrows.  His uniform appears to be that of the UNF. 
+[Another man](NPCCrowe) is standing further back in the room.  He appears to be observing a current feed of the mysticport, and leaves his back to the group.  The image shows several soldiers firing their energy weapons at the grey goo.  Vittorio mutters, "I don't think that's going to work," and at this the man turns around.  He is short, with a brown crew cut, clean shaven, with black eyes and bushy eyebrows.  His uniform appears to be that of the UNF. 
 
 ----- 
 

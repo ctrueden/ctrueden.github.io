@@ -1,20 +1,26 @@
+---
+layout: page
+title: Joint18
+permalink: /deus/Joint18
+category: deus
+---
 __[[Joint 18]:__
 *Jasmine's final move
 
-((Talk20060430)):
+[Talk20060430](Talk20060430):
 *The question of free will
-((Talk20060305)):
+[Talk20060305](Talk20060305):
 *Some thoughts about the Destroyer and the Destiny Force
 *Handling time paradox
-((Talk20060312)):
+[Talk20060312](Talk20060312):
 *Ways the campaign can end
-((Talk20060319)):
+[Talk20060319](Talk20060319):
 *Jasmine's goals
 *Metaphysical, philosophical and ethical themes of the campaign
 *Stopping the Destroyer
 *Related notes
 
-!!Semantic clarifications
+## Semantic clarifications
 __Universe:__ Our universe. Also known as the Destiny Force. The 57-dimensional pattern of reality defining our existence.
 
 __Antiverse:__ Another, 60-dimensional, universe linked to our own.
@@ -35,7 +41,7 @@ __Fate__: The larger overarching pattern of reality governing the ouroboros (our
 
 __Time__: A multidimensional structure composing part of reality's texture. Though time largely flows along a single dimensional axis, fractal patterns branch out from it and remerge later, forming a ladder structure. This structure illustrates how conscious minds can exercise a limited form of free will (exploring branches of a tree) while still ultimately being bound to the larger pattern of reality. Time could be considered an exploration of the texture, with the concept of &quot;now&quot; as a quintessential illustration of the illusion of consciousness.
 
-!!Knowledge dump
+## Knowledge dump
 Everyone is floating in the astral plane (outside of time). Time still exists... but they are on the cusp of time. The potential merging of the Destroyer &amp; Destiny Force, and birth of the antiverse. They are at the critical moment.
 
 Long expository speech:
@@ -65,18 +71,18 @@ A word of warning to the players: that which has been your staunch ally may not 
 
 A second warning: Each of three tasks before you is critically important. If any one task ends in failure, you all end in failure. Proceed carefully.
 
-!!Notes
+## Notes
 *At the crux of time, Noun's future dispatch power only sends things 1 round into the future. To represent his chronomancy's potency in this place, however, he may spend a standard action to regain the use of a random already-used ability.
 *Summoning an item linked to you requires an Int check (DC 10 for regular items, 15 for complex items, 20 for awesome items, +4 for each size category larger than yours).
 *Gleaning knowledge from fate itself requires an Int check (DC 0 for known mundane knowledge, 10 for mundane secrets, 15 for anything in the universe, 20 for simple fate-related knowledge, 25+ for extremely useful fate-only knowledge).
 
-!!Outline
+## Outline
 __Three challenges:__
 #Vishnu -- Confrontation between Asmodeus and the Caretaker (Alfadir)
 #Shiva -- Prevention of the Destroyer devouring the Destiny Force
 #Brahma -- Jasmine in the Void redirecting Brice's portal to the big bang
 
-!!-Scenario I -- Vishnu (Kelsey)
+## Scenario I -- Vishnu (Kelsey)
 This scenario deals with the Caretaker, and with the theme of subjective morality.
 
 __Desired result:__ Something happens to split the Caretaker in twain, back to its component parts: Gaia and Emmanuel. Since Emmanuel is Vishnu the Preserver, and represents a powerful entity from the antiverse, his sacrifice to the Destroyer (by exploiting the conduit forming between the Destroyer and the Destiny Force, thus tainting the energies being drained) will cause it to become saturated with backlash and explode, creating the antiverse.
@@ -87,7 +93,7 @@ Asmodeus's goal is to destroy the Caretaker. A terrifyingly powerful blow is lan
 
 Asmodeus is on p. 165 of the Book of Vile Darkness. His ruby rod is detailed on p. 121-122.
 
-Asmodeus first summons a [http://www.d20srd.org/srd/monsters/devil.htm#pitFiend|pit fiend] using his ability, at the very start of combat (before initiative).
+Asmodeus first summons a [pit fiend](http://www.d20srd.org/srd/monsters/devil.htm#pitFiend) using his ability, at the very start of combat (before initiative).
 
 On one side, the Caretaker, having summoned the Deus Ex Machina to the crux, is channeling massive energies into it, trying to stall the Destroyer, somewhat successfully. Whatever the Caretaker is doing with the machine has caused a massive shield to form between the Destroyer and the Destiny Force's center.
 
@@ -105,14 +111,14 @@ If Asmodeus is slain, the Caretaker resurrects him, saying, &quot;YOU ARE NECESS
 
 __Timing:__ Asmodeus does not cleave the Caretaker until after Glaurung replaces Eddie in the Shiva scenario.
 
-!!-Scenario II -- Shiva (NOR)
+## Scenario II -- Shiva (NOR)
 This scenario deals with the Destroyer, and with the theme of unnecessary suffering versus necessary sacrifice.
 
 __Desired result:__ Glaurung sacrificed; Emmanuel also sacrificed. (Depending on the party's actions, Lilith survives, deigning not to in the backlash tainting, to protect herself, but as a result Emmanuel dies to achieve the goal.)
 
 Glaurung and Lilith will attempt to interpose themselves between the Destroyer and the Destiny Force, but ultimately be struck down. The PCs need something to do to interfere with the Destroyer until Emmanuel can show up to deal the winning blow.
 
-The Destroyer spins off a piece of its essence (a [http://www.d20srd.org/srd/epic/monsters/abomination.htm#phane|Phane], p. 166-7 in the Epic Level Handbook) to attack Glaurung, Lilith and the machine. The PCs can protect Glaurung and Lilith against the Phane, but the Phane's real target is the Deus Ex Machina. Glaurung and Lilith cannot take actions, since they are channeling, but they can each grant a boon to the characters (one each per character per round).
+The Destroyer spins off a piece of its essence (a [Phane](http://www.d20srd.org/srd/epic/monsters/abomination.htm#phane), p. 166-7 in the Epic Level Handbook) to attack Glaurung, Lilith and the machine. The PCs can protect Glaurung and Lilith against the Phane, but the Phane's real target is the Deus Ex Machina. Glaurung and Lilith cannot take actions, since they are channeling, but they can each grant a boon to the characters (one each per character per round).
 
 Glaurung can grant someone a +20 bonus to a single type of die roll (one type of save, melee attacks, damage, etc.).
 Lilith can grant someone an immediate reroll (including the ability to reroll a previously failed save).
@@ -130,7 +136,7 @@ __Timing:__ The machine should not be destroyed, and/or the shield should not be
 
 Once Emmanuel and Gaia split, Gaia (a beautiful green-haired halfling in forest garb) throws her energy into the machine with Lilith, to give Emmanuel time to interpose himself. Her priority is to protect Lilith, who she views as her child that has recently suffered terrible hardship.
 
-!!-Scenario III -- Brahma (Curtis)
+## Scenario III -- Brahma (Curtis)
 This scenario deals with the Destiny Force, and with the theme of inescapable fate versus free will.
 
 __Desired result:__ The party stops Jasmine from redirecting the portal to the big bang, and ejects it from the Void.
@@ -156,17 +162,17 @@ In particular, having Nikolai on her side means she gains the benefit of his sha
 
 If the party agrees to help her, they succeed, and the campaign ends.
 
-If not, Jasmine sics the four elder void [http://www.d20srd.org/srd/monsters/elemental.htm|elementals] (as air elementals, but with void-related powers instead) and raises an entropic barrier around herself. They fight the elementals, and find a way through the barrier. She does not stop her ritual to redirect the portal. To stop her, they must strike her down (if they talk to her, she'll say as much).
+If not, Jasmine sics the four elder void [elementals](http://www.d20srd.org/srd/monsters/elemental.htm) (as air elementals, but with void-related powers instead) and raises an entropic barrier around herself. They fight the elementals, and find a way through the barrier. She does not stop her ritual to redirect the portal. To stop her, they must strike her down (if they talk to her, she'll say as much).
 
 __Timing:__ Ideally, this scenario completes just before the Shiva scenario (and just after the Vishnu scenario), such that the Destroyer, filled with backlash, is thrust through the portal to the (by definition) antibang, where it explodes, forging the antiverse.
-!
-!!Epilogue
+
+## Epilogue
 Everyone can return to anywhere in the fabric of reality they wish, with a few caveats:
 *Unity is sent far in the past to a distant world, as the evolutionary forefather of the Fearful.
 *__TODO__: Something with Dr. Peters? Unless he already wasted Paul's Feat during the scenario.
 *__TODO__: Pronoun?
 
-!!Acknowledgements
+## Acknowledgements
 Everyone has done a wonderful job with role-playing and character design, and hopefully the recent MP bonuses reflect that fact. However, there have been some individuals who have made invaluable contributions to the campaign out-of-game, as co-GMs, note takers and NPC guest stars. No amount of MP can properly represent their support, creative, moral and otherwise.
 
 __Nate:__
@@ -214,7 +220,7 @@ Potential GM destiny token uses:
 *It is fated that Jasmine attempt to destroy the ouroboros.
 *It is fated that the Caretaker be split in twain.
 
-!!Story goals
+## Story goals
 The party can:
 #Allow the Destroyer to devour the Destiny Force (but ultimately this is fated not to occur)
 #Assist Jasmine with the ultimate destruction (dual universe collapses in upon itself)
@@ -235,7 +241,7 @@ To stop the Destroyer from devouring the Destiny Force, the party must address t
 **Asmodeus opposes the destruction of reality, because ultimately, he wants to rule the universe
 **But, Asmodeus would like to kill the Caretaker
 
-!!Character schticks
+## Character schticks
 *__Ariona:__ Mystic magic
 *__V:__ &quot;Beyond human&quot;
 *__Brice:__ Netmind
@@ -261,7 +267,7 @@ Characters can make an Int check to pull things tied to them in some manner from
 *Ridge can get her ship
 *Zee-Lung can summon the aid of the dragon council
 
-!!Entities present
+## Entities present
 *Caretaker/Alfadir
 **Int 120 (Emmanuel)
 **Wis 120 (Gaia)
@@ -287,7 +293,7 @@ Characters can make an Int check to pull things tied to them in some manner from
 **Wis 40
 **Cha 100
 
-!!Predicted factions
+## Predicted factions
 __Helping Asmodeus (combat)__
 *Laiden
 *Peters
@@ -334,7 +340,7 @@ All three incidents relate to Emmanuel, the preserver (Vishnu). In all three, Em
 #Birth of the Caretaker - John Bishop
 #65 million years ago - creation of Dragonstar
 
-!!GM goals
+## GM goals
 Involve neglected characters:
 *Vadril Korlax + Adam -- Dismantle/disable Asmodeus
 *Andrew Peters -- Paul's feat!
@@ -347,17 +353,17 @@ Go through each character and make sure they have something to do; something coo
 Things that need to happen:
 *Brice -- physical body has become the portal, leaving digital body free roaming (Andy controls his avatar)
 
-!!Enemies
+## Enemies
 *Phane(s) -- excellent &quot;Destroyer-spawn&quot; type monster
 *Asmodeus -- seizes the opportunity to destroy the Caretaker somehow
 *Jasmine -- Jasmine realizes she's made a huge mistake, and has still played into the hand of fate -- just a larger agenda than she had realized existed
 *Peters -- ultimate human -- contact with Technofearful -- replace Cain or be Cain
 
-!!Q &amp; A
+## Q &amp; A
 __Q:__ What is a machine essence?
 __A:__ It is energy drawn from the Ouroboros itself rather than a normal soul, which is composed of the Caretaker's life energy.
 
-!!Seven artifacts
+## Seven artifacts
 *Body part -- part of the O.L., or Peters?
 *Container -- Noun's bag
 *Ambrosia -- eaten by Bryant -- now where?
@@ -366,7 +372,7 @@ __A:__ It is energy drawn from the Ouroboros itself rather than a normal soul, w
 *Shroud -- Xela
 *Crown -- Xela
 
-!!Other thoughts
+## Other thoughts
 *Glaurung, Lilith and the Caretaker sac themselves to the Destroyer one by one, to slow it in its voracious pursuit of the Destiny Force itself.
 *Noun must merge with Destiny Force
 *Brice must die?

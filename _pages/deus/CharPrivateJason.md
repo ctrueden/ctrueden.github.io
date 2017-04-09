@@ -1,9 +1,13 @@
--=Laiden Brinsop=-
-
+---
+layout: page
+title: Laiden Brinsop
+permalink: /deus/CharPrivateJason
+category: deus
+---
 This page will provide private details of Jason's character, for Jason and the GMs only.
 
 
-!!-[http://www.d20srd.org/srd/monsters/halfDragon.htm|Half-Dragon] Template
+## [Half-Dragon](http://www.d20srd.org/srd/monsters/halfDragon.htm) Template
 
 Level 1 (subtle changes):
 *Immunity to sleep and paralysis
@@ -23,7 +27,7 @@ Level 2 (physical manifestations and larger changes):
 *Claw/Claw/Bite attack (1d4/1d4/1d6)
 
 
-!!-Miller 2 powers
+## Miller 2 powers
 
 Normal ship operations consume 1 power/day, and 1 cpu.
 Creat 1 refills 1 power.
@@ -59,7 +63,7 @@ E.g., 70,000 LY = 50 + 1/10,000*60,000 = 56 hrs
 *__Phase export:__ (5*X power, 5000+100*X cpu) While phased, an object (X feet in size) in phased space can be &quot;phased back out&quot; to normal space.
 
 
-!!-Backstory
+## Backstory
 
 t61 days.  2 hours.  23 minutes.  Two months in a grey hole will do strange things to a person.  I mean, here I am, writing to no one.  Or to myself, although I think that might be worse.  Sitting here, wondering about my fate, wondering how long this ship will hold out in this...  well, this whatever this is, I've started to reminisce.  Not a good habit I really, but I've been thinking about all of the things that have led me here and I can't help but wonder about some of the decisions I've made.
 I never knew my mother.  For that matter, I never knew my father.  I can't tell a sad tale about the circumstances of my birth because frankly, I haven't got a clue.  I grew up with a foster family in Germany until I was 17.  Not that I knew that it was a foster family at the time, they pretty much raised me as their own.  Pleasant little family living in Frankfurt (am Mein) in a small apartment.  I went to school, thought about going to college.

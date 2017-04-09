@@ -1,14 +1,20 @@
-The session opens with ((CharPublicAlex|Ariona Cassyon)), ((CharPublicJon|Nikolai)), ((CharPublicJames|Zee)), ((CharPublicJoey|Meechum)), ((CharPublicAJ|Ian Thorpe)), and ((CharPublicAllen|the ghost)) wandering into an arboretum.  The first of the "great forests" to be completed, it is actually a true, magically-grown forest on the Moon.   The strange group is still in hot pursuit of ((NPCJasmine|the mysterious woman)) who is the apparent cause of the disappearance of ((NPCBernstein|Rudolph Bernstein)). 
+---
+layout: page
+title: SessionMon02
+permalink: /deus/SessionMon02
+category: deus
+---
+The session opens with [Ariona Cassyon](CharPublicAlex), [Nikolai](CharPublicJon), [Zee](CharPublicJames), [Meechum](CharPublicJoey), [Ian Thorpe](CharPublicAJ), and [the ghost](CharPublicAllen) wandering into an arboretum.  The first of the "great forests" to be completed, it is actually a true, magically-grown forest on the Moon.   The strange group is still in hot pursuit of [the mysterious woman](NPCJasmine) who is the apparent cause of the disappearance of [Rudolph Bernstein](NPCBernstein). 
 
 Nikolai continues to track the woman along some paths, and eventually off into the brush.  Just as he begins to feel the trail move further away from him again, Ariona spots something moving off to the left, behind a tree.  She begins to run after it, and Nikolai and Meechum join her.  Thorpe, pushing a near-weightless Zee, and the ghost trail after them, stopping in astonishment as the three in the lead vanish without a trace. 
 
-The still-extant group discovers that the first trio's tracks end at the point at which they disappeared; however, Zee gets pushed through the area by Thorpe and nothing happens to him.  At this point, ((CharPublicAndy|the scrawny kid)) wanders up, conferring with the ghost on what exactly is going on. 
+The still-extant group discovers that the first trio's tracks end at the point at which they disappeared; however, Zee gets pushed through the area by Thorpe and nothing happens to him.  At this point, [the scrawny kid](CharPublicAndy) wanders up, conferring with the ghost on what exactly is going on. 
 
 Zee says, "Look!  I can do pull-ups now!" and begins to chin himself on a branch while everyone else tries to figure out what's going on.  Suddenly, Nikolai reappears holding onto an unconscious Ariona and Meechum.  The ghost slaps Ariona awake, and she groggily attempts to piece together what happened.  Ariona asks the scrawny boy for a name, and he introduces himself as Bryce, a student at the university. 
 
 Nikolai starts moving off again, with the rest of the group trailing, and the ghost spots the woman.  He goes straight through the trees to catch her.  After her plasma shots fail to do anything other than pass straight through him, she is sufficiently intimidated to start spilling the beans.  Somehow the ghost gives her the impression that he's the boss of the people who hired her, trying to find out who's going behind his back. 
 
-She identifies her contact as ((NPCDavis|Ron Davis)), known by some of the party to be a mystic consultant for ((OrgStratCo|StratCo)).  She continues to explain that the plan was to kidnap Bernstein and his research, and then lay the blame on ((OrgMagitech|Magitech)).  Ariona reacts with great surprise when the woman says her contact at Magitech was Astarte Cassenti. 
+She identifies her contact as [Ron Davis](NPCDavis), known by some of the party to be a mystic consultant for [StratCo](OrgStratCo).  She continues to explain that the plan was to kidnap Bernstein and his research, and then lay the blame on [Magitech](OrgMagitech).  Ariona reacts with great surprise when the woman says her contact at Magitech was Astarte Cassenti. 
 
 She tosses the data crystal to the ground, after the ghost presses her into admitting that she has it, and continues with her explanation.  Apparently, the goons were hired by Davis to kill her after she dropped Bernstein off at the clinic.  (No, Zee, we're not going back to the clinic.  Calm down.)  The ghost then intimidates her into leaving, but Bryce calls her back.  He asks her some more questions, and then she leaves again, giving him her contact info as she does so. 
 
@@ -24,7 +30,7 @@ Bryce seems to think it'd be a better idea to go home for the night, but the gho
 
 They stop at the dorm, and Bryce comes out with a little robo-dog.  Then everyone heads back to the Great Forest.  Bryce attempts to work some techno-wizardry to keep them concealed on their way there, as it's imperative that they are not followed.  It seems to work, so they begin their circuitous route through the arboretum. 
 
-Thorpe activates ((NPCMoss|Willam Moss))'s hidden portal, and they all file into a round, natural-looking chamber of wood with two chairs, both occupied.  One is a rumpled-looking brown-haired man, and the other is a pale woman in a long black dress, wearing heavy black makeup. 
+Thorpe activates [Willam Moss](NPCMoss)'s hidden portal, and they all file into a round, natural-looking chamber of wood with two chairs, both occupied.  One is a rumpled-looking brown-haired man, and the other is a pale woman in a long black dress, wearing heavy black makeup. 
 
 Moss appears startled, and stands to meet them.  "That'll be all for now, Angelique," he says, and the woman disappears.  Moss refuses to answer the ghost's questions about who and/or what the woman is. 
 
@@ -40,6 +46,6 @@ The party leaves, and 6 days pass -- There's a news explosion about Percepi, and
 
 Thorpe is thankfully talked out of his crazy plan to break into StratCo's headquarters. 
 
-Moss contacts Ian and Ariona to tell them he'd like to see them and all their companions as soon as possible.  They gather everyone, and go to Moss's new location.  They're pretty sure...again...that no one followed them.  Inside is Moss holding a metal hand, an ((NPCBryant|unconscious man)), a ((CharPublicGriffin|creepy droid)), but no Zee.  The ghost stares at the unconscious man, yells, "You bastard!" and gathers his energies to attack.
+Moss contacts Ian and Ariona to tell them he'd like to see them and all their companions as soon as possible.  They gather everyone, and go to Moss's new location.  They're pretty sure...again...that no one followed them.  Inside is Moss holding a metal hand, an [unconscious man](NPCBryant), a [creepy droid](CharPublicGriffin), but no Zee.  The ghost stares at the unconscious man, yells, "You bastard!" and gathers his energies to attack.
 
 THE END

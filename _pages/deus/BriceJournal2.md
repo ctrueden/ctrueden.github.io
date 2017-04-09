@@ -1,6 +1,10 @@
--=Brice's Journal: 11-18=-
-
-!!!-Eleventh Session
+---
+layout: page
+title: Brice's Journal: 11-18
+permalink: /deus/BriceJournal2
+category: deus
+---
+### Eleventh Session
 Nikoli and Ned found the group that Ned said could help us out.  They connected to Nikoli's node, then through me to Eddie, and my dog on Dee, to everyone else on Dee.  They start to discuss things, but there's no time.  I get a connection on Lupus, and give them all a live feed of the situation.  This kicks everyone into gear.  Given the situation I'll excuse their lack of awe at getting a live feed from a distant settlement.
 
 On Lupus, I track down Merlin Huntington.  He is the person the terrorist is looking for, and second in command on Lupus.  I introduce myself via his computer.  He's tracking the events of the terrorist, so he is at least aware of what's going on.  Actually he's in a storage container with 4 guards.  There's enough room for everyone else to arrive as well.  But before that happened, I tell Huntington that the terrorist is a nanite creature controled by two devices in his forehead and hand.  He requests that if we can help, to arrive there.  He provides a shot of where he's at and Ariona is able to bring everyone else in.
@@ -32,7 +36,7 @@ How much was broadcast, and how much was just stored?
 What will the reactions to our actions be?
 Did they broadcast any images of me grabbing the crown?
 
-!!!-Twelth Session
+### Twelth Session
 Dee shot my dog!
 
 While we were out dealing with Bryant, Dee's droid started unloading all his cargo, including the dog and Cain.  When I appeared, he refered to me as "Organic life form, you are not wanted. Please leave.".  I went back into my dog, and that was okay.  But I tried to check his logs to see what had happened, and this was not okay.  He ended up shooting the dog as I went back to my fish.
@@ -63,7 +67,7 @@ I created a connection to Huntington's palmtop with the intention of having him 
 
 Now the question is, what the heck happened to Dee?
 
-!!!-Thirteenth Session
+### Thirteenth Session
 Need notes posted!!!
 
 A decent night sleep will do wonders, or at least that's what I've been told.  Unfortunately, a hacker's work is never done.  I was excepting a response from Nikolai, or a solid night of sleep.  After-all, we were resting in a military compound on Lupus, and I was sleeping inside of a computer.  But a hand woke me up instead.  The hand belonged to Sartus Morningdew, Adana Cassenti's personal body guard.  I don't know how he managed to get inside the network, or to find me, but he did, after only 3 hours of sleep.
@@ -96,7 +100,7 @@ I'm not sure exactly means by what I have brought here.  Maybe he's referring to
 He also mentioned that Magitek would reward me greatly, though there doesn't seem to be much Magitek left.  
 
 
-!!!- Fourteenth Session
+###  Fourteenth Session
 We have arrived point where Dee dropped our stuff.  We're riding in the Grey Storm, which is a ship that Nikoli borrowed from his father.  Fortunately, the remains of my dog are still there.  Unfortunately Cain, and anything of real value were gone.  There were remains from several organic ships that attacked Dee.  I haven't seen, or even heard of anything like this.  I asked Adana Cassenti about the ships, but she was quite busy.  She has Pax, and Magitek's recovery to handle, as well as managing research about the void to worry about.  
 
 According to Adam (Dee's droid, but no longer connected to Dee), the organic ships attacked by sending an electric pulse along vines that touched the ship.  Dee, on the other hand, seemed to be able to use Miller 2 to enhance his weapons.
@@ -159,7 +163,7 @@ Cain is willing to come with us, but he is missing a droid servant that was sent
 
 We get there, and I query the network for this droid's location, and it tells me where he is, but also that he's preaching to the children?!?  Some of the party runs off in that direction.  Adam is some kind of celebrity, 'the first'.  Apparently Dee has been here (is still here) and has freed many more AIs, out target among them.  Adam stands up, smiles and says, "I must go. My creator wishes to speak with me." Reality shifts, and Adam disappears.
 
-!!!-Fourteen S (Saturday Guest Session)
+### Fourteen S (Saturday Guest Session)
 
 What have we done?  I thought that the ritual was going to save us from this impending doom, but yet it seems to have brought it.  I don't know if the doom will happen, or if it would have happened soon anyways, and maybe the ritual has created something that can stop it, but I just don't know.
 
@@ -183,7 +187,7 @@ Other nodes have different writings about all kinds of things.  But she keeps se
 
 I don't know what to do with this.  If it's unavoidable, then what can I do.  She can't tell me any details, such as where or when.  And most people die eventually, so maybe it means eventually.  But why would someone write that.  The only thing I can think of is to ask Noun.  Unfortunatly, I don't know where he is, nor do I have a connection to anyone in his group.  Actually I'd probably have to talk to Pronoun, but it's the same thing.
 
-!!!-Fifteenth Session
+### Fifteenth Session
 
 Ritual Prep - take 2.
 
@@ -222,7 +226,7 @@ Also, Adana Cassenti sends Ariona an email basicly saying that she's out of opti
 
 I take Jasmine through the network to Luna to help with the preparations.
 
-!!!-Sixteenth Session
+### Sixteenth Session
 
 (need notes posted)
 
@@ -257,7 +261,7 @@ The ritual continues, and succeeds, like it must.  I was getting agitated near t
 
 Then it hit.  Pain upon pain upon pain.  Jasmine and I collapse in pain, but she disappears, claimed by the void.
 
-!!!-Seventeenth Session
+### Seventeenth Session
 
 Pain and anguish.  My body is wrapped in pain caused by the nearness of the void creature.  Jasmine has disappeared, taken by the void.  
 

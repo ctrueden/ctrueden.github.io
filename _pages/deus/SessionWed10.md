@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed10
+permalink: /deus/SessionWed10
+category: deus
+---
 July 1, Saturday
 The crew having lingering suspicions about Andrew Peters has the ship's sensors stay focused on him while aboard.  Externally only the passive sensors are being used as a precaution in case those who have kidnapped Ridge's family would construe active sensors as a reason to begin executing them.
 

@@ -1,4 +1,10 @@
-!!&quot;Do not trifle with dragons, for you are small and crunchy and taste good with ketchup.&quot; -unknown
+---
+layout: page
+title: SessionWed06
+permalink: /deus/SessionWed06
+category: deus
+---
+## &quot;Do not trifle with dragons, for you are small and crunchy and taste good with ketchup.&quot; -unknown
 
 Traveling to Luna Space port, Fey contacts Llana to investigate what happened to the souls from the sun.  Noun emerges from his room with a foot tall animated sculpture of a man with a carved wooden face and metallic limbs named Pronoun whose purpose is to be Noun's friend and act as Noun's translator.  Laiden calls ahead for an antimatter recharge.
 
@@ -16,7 +22,7 @@ The web around the ship is complete after half an hour and the Admiral transport
 
 General Kangi Ti is the 10 ft tall soulmech with chain guns for arms that runs this planet.  Ridge recalls that he was built around the same time as she was, although he went a different route.  The General has given his permission for this mission, but it otherwise engaged in what is alluded to as war preparations against the rogue planet.  The trip to meet up with the Reliance near the rogue planet will take four hours.
 
-!!On the way to Dragon World
+## On the way to Dragon World
 Serra suggests a few alterations to Ridge's plan for landing on the rogue planet, making liberal use of yellow and red flags denoting her suggestions.  Noun attempts to show Trenton his destiny by cutting into his arms, installing wires, and spraying LCD on his other arm.  
 
 Laiden and Ridge significantly modify Serra and Perseverance.  The Miller2 Algorithm is moved from Serra to Ridge, some of her LORE safety measures are bypassed, Laiden and Ridge are given direct control of the ship, Serra no longer can control the droids, and who knows what else?
@@ -29,7 +35,7 @@ Noun bloodily cuts off his fingernails and paints the mess hall table with his b
 
 Fey and Trenton meet up with Ridge and Laiden as they are near finishing their "repairs".  Fey learns they are running an experiment on the LORE chip.
 
-!!Attempts to land
+## Attempts to land
 Arriving at the Dragon World, the Reliant is moving towards the planet, Rossner imforms her crew this is their last attempt.  The Reliant gets close to the atmosphere when a massive build up of force too vast to comprehend throws Reliant away from the planet.
 
 The Dragon World is eight times as large as Earth (volume), twice Earth's gravitation, and has human breathable air.  Ridge spends three hours preparing her plan to land.  Malcolm and Dr Peters study the various cities and behaviors of its denizens.
@@ -50,24 +56,24 @@ We learn that the dragon on Earth is Rekari Deriken, who is no longer "one of th
 
 The group works together to convey how some of us survived the beast, through Andrew Peters' first hand experience being telepathically sent and describing what everyone knows about what happened.  It stops and thinks for a noticeable moment, and tells us, "This news will interest the council.  Remove your protection and I will transport you to them."
 
-!!Council of Wyrms
+## Council of Wyrms
 Perseverance is teleported above the capital palace, where it lands.  Two red dragons march out to interrogate the group, eventually tenuously accepted and told to wait.
 
 Some time later, a much larger silver dragon appears, bringing us to the council which has convened.  A massive room has a semi circle of huge pedestals each a different color.  The center one is colossus (4 times the other), rainbow striped, and empty.  Left of the center are metallic colored dargons and to the right are chromatic colored dragons.  The gold and red dragons are the leaders of their respective sides.
 
 The gold dragon rumbles, "The council has convened and will hear your testimony".  One by one they introduce themselves in a ritualistic manner.  Each says, "&lt;name&gt; receives you".
 
-[http://members.tripod.com/~waterdragon/famous.html#Sirrush|Mushussu] (male green)
-[http://members.tripod.com/~waterdragon/famous.html#Fafnir|Fafnir] (male blue)
-[http://members.tripod.com/~waterdragon/famous.html#Smaug|Smaug] (male black)
-[http://members.tripod.com/~waterdragon/famous.html#Tiamat|Tiamat] (female red)
-[http://members.tripod.com/~waterdragon/famous.html#Nidhung|Nidhung] (male white)
-[http://members.tripod.com/~waterdragon/famous.html#Jormunan|Jormunan] (male brass)
-[http://members.tripod.com/~waterdragon/famous.html#Jawzahr|Jawzahr] (male bronze)
-[http://members.tripod.com/~waterdragon/famous.html#Ryu|Ryu] (male copper)
-[http://members.tripod.com/~waterdragon/famous.html#Shen-Lung|Shen-Lung] (male gold)
-[http://members.tripod.com/~waterdragon/famous.html#Tien-Lung|Tien-Lung] (male silver).
-Glaurung leads the council, taking on the title of [http://en.wikipedia.org/wiki/Io_%28Dungeons_%26_Dragons%29|Io].
+[Mushussu](http://members.tripod.com/~waterdragon/famous.html#Sirrush) (male green)
+[Fafnir](http://members.tripod.com/~waterdragon/famous.html#Fafnir) (male blue)
+[Smaug](http://members.tripod.com/~waterdragon/famous.html#Smaug) (male black)
+[Tiamat](http://members.tripod.com/~waterdragon/famous.html#Tiamat) (female red)
+[Nidhung](http://members.tripod.com/~waterdragon/famous.html#Nidhung) (male white)
+[Jormunan](http://members.tripod.com/~waterdragon/famous.html#Jormunan) (male brass)
+[Jawzahr](http://members.tripod.com/~waterdragon/famous.html#Jawzahr) (male bronze)
+[Ryu](http://members.tripod.com/~waterdragon/famous.html#Ryu) (male copper)
+[Shen-Lung](http://members.tripod.com/~waterdragon/famous.html#Shen-Lung) (male gold)
+[Tien-Lung](http://members.tripod.com/~waterdragon/famous.html#Tien-Lung) (male silver).
+Glaurung leads the council, taking on the title of [Io](http://en.wikipedia.org/wiki/Io_%28Dungeons_%26_Dragons%29).
 
 The multicolor center pedestal shimmers, a dragon made of light beams appears, "Io receives you".  There is significant surprise from the other dragons.
 
@@ -95,7 +101,7 @@ Ridge disappointedly learns that the moving faster than light is through the wil
 
 Andrew talks about curing diseases and tries to give Jawzahr a hypospray, but Tiamat incinerates it and are promptly told to leave.  The group leaves the planet and docks with Reliant.  
 
-!!Undead Symposium (:evil:)
+## Undead Symposium (:evil:)
 Ridge turns over transcripts to Admiral Rossner.   He doesn't believe Glaurung is a threat as long as the dragons follow their word. 
 
 Noun hears the fear and hatred of the void screaming his name.  Everyone else feels the void's signatures mix of pain, hatred, and fear for a moment and then subside.  Looking out the window, the Glauring is gone.  It only took the void 14 hours before to appear and it is hypothesized that in the future it would take less time.  Perseverance heads to Lupis to make sure it is still okay.

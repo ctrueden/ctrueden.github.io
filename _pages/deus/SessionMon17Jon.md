@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionMon17Jon
+permalink: /deus/SessionMon17Jon
+category: deus
+---
 T3h Session 17 N0t3s!!!
 
 6:30 - Folks arrive.  Fucking around begins.

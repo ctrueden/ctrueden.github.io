@@ -1,18 +1,24 @@
-Alex and Jon each took notes this session. Alex's notes are below. Jon's notes are on a ((SessionMon17Jon|separate page)).
+---
+layout: page
+title: SessionMon17
+permalink: /deus/SessionMon17
+category: deus
+---
+Alex and Jon each took notes this session. Alex's notes are below. Jon's notes are on a [separate page](SessionMon17Jon).
 
 ----- 
 
--=Note from Alex:=- 
+# Note from Alex: 
 These are still crap.  I haven't had a chance to fix 'em up yet.  However, Curtis said it would be better to put whatI had, so it's there before the final session, and edit them for posterity later.  Enjoy. 
 
 ----- 
 
-It is the night of Saturday, July 22, 2299.  The rite has been completed; ((NPCLilith|Lilith)) has been created.  The Void is coming, the echoes growing louder and louder until thought of nothing else is possible, and the party is advised by ((NPCAlfadir|Alfadir)) to flee the system.  
+It is the night of Saturday, July 22, 2299.  The rite has been completed; [Lilith](NPCLilith) has been created.  The Void is coming, the echoes growing louder and louder until thought of nothing else is possible, and the party is advised by [Alfadir](NPCAlfadir) to flee the system.  
 
-((CharPublicAndy|Brice)) has collapsed, wracked with pain, and ((NPCJasmine|Jasmine)) is gone.  Lilith continues to pour an unfathomable amount of mystic energy into . . . somewhere. 
+[Brice](CharPublicAndy) has collapsed, wracked with pain, and [Jasmine](NPCJasmine) is gone.  Lilith continues to pour an unfathomable amount of mystic energy into . . . somewhere. 
 
-((CharPublicJon|Nikolai)) looks around briefly, and disappears.  He attempts to convince Big Daddy Void not to eat Sol, but it doesn't look good.  He returns to the grove, and sees ((CharPublicAlex|Ariona)) at Brice's side.  She begins to play her flute, but though the music pours forth beautifully, nothing else seems to be happening.  ((CharPublicJoey|Unity)) is also near. 
-((CharPublicAllen|Vittorio)) is preoccupied with Meera, and ((CharPublicGriffin|Adam)) is arranging the escape of all the awakened AIs on Luna. 
+[Nikolai](CharPublicJon) looks around briefly, and disappears.  He attempts to convince Big Daddy Void not to eat Sol, but it doesn't look good.  He returns to the grove, and sees [Ariona](CharPublicAlex) at Brice's side.  She begins to play her flute, but though the music pours forth beautifully, nothing else seems to be happening.  [Unity](CharPublicJoey) is also near. 
+[Vittorio](CharPublicAllen) is preoccupied with Meera, and [Adam](CharPublicGriffin) is arranging the escape of all the awakened AIs on Luna. 
 
 Nikolai appears near Ariona, who shouts, "Is there any way you can take him away?"  Nikolai appears doubtful, but Ariona continues, "Because I can't!"  He agrees to try, and asks if anyone else is unable to leave on their own.  Unity says that they are not able to go, so Nikolai reaches out with a tentacle, wraps it around Unity and Brice, and disappears.  Ariona leaves a moment later, bound for Lupus. 
 
@@ -26,7 +32,7 @@ Nikolai returns to ''The Grey Storm'' with Unity and Brice.  The echoes are stil
 
 ----- 
 
-Ariona finds herself on a street in Lupus.  After a few moments of research, she discovers that she is about five miles from the compound in which she met ((NPCKhan|General Khan)) and ((NPCHuntington|Merlin)).  She begins walking toward the compound, despite the warnings that "No Citizens are Allowed." 
+Ariona finds herself on a street in Lupus.  After a few moments of research, she discovers that she is about five miles from the compound in which she met [General Khan](NPCKhan) and [Merlin](NPCHuntington).  She begins walking toward the compound, despite the warnings that "No Citizens are Allowed." 
 
 A hover-droid buzzes down the street, nearing Ariona.  "Ariona Cassyon?" it chirps.  "Package for you!"  Ariona is extremely puzzled, to say the least. 
 

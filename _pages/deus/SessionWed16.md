@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed16
+permalink: /deus/SessionWed16
+category: deus
+---
 An hour away from Luna the mad screams of the void ring in everyone's minds as the ship sensors show nothing.   Another half hour later the echoes begin to subside.  All are coping in their own way, deeply fundamentally disturbed.
 
 At Luna, the Obsidian Teknocon docks on a UNF base.  Admiral Rosner greets us and quickly says that the call is not about the echoes, but something equally bad.  Dr Peters suffering from the echoes is being tended to.  We proceed to the briefing room.  While we were gone, the scenario planned by the caretaker has been put into play just a few hours earlier, however that is not the issue at hand.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Saturday12
+permalink: /deus/Saturday12
+category: deus
+---
 Max is going to Valhalla.
 *Hoenir knows the truth about Alfadir, but has been sworn to secrecy. Other than that, he will share all he knows about the Mercury Incident. He also shares how Bilskirnir (the royals' space station) was destroyed by McLean's experiment, and how he was not on board at the time.
 *The royals refer to the heart trees as &quot;Yggdrasil.&quot;

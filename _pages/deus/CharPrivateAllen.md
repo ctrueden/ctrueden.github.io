@@ -1,14 +1,18 @@
--=Allen's Character's Details=-
-
+---
+layout: page
+title: Allen's Character's Details
+permalink: /deus/CharPrivateAllen
+category: deus
+---
 This page will provide private details of Allen's character, for Allen and the GMs only.
 
 
-!!!The concept
+### The concept
 
-The idea is a psionic ghost, a soulknife, who remembers nothing about his past. As a soulknife, he can manifest psionic energy to manipulate objects in the real world to some extent. Probably will use the [http://www.wizards.com/default.asp?x=dnd/iw/20030615b|new Ghostwalk ghost template] (but the [http://www.d20srd.org/srd/monsters/ghost.htm|original MM ghost template] is also a possibility).
+The idea is a psionic ghost, a soulknife, who remembers nothing about his past. As a soulknife, he can manifest psionic energy to manipulate objects in the real world to some extent. Probably will use the [new Ghostwalk ghost template](http://www.wizards.com/default.asp?x=dnd/iw/20030615b) (but the [original MM ghost template](http://www.d20srd.org/srd/monsters/ghost.htm) is also a possibility).
 
 
-!!!More thoughts
+### More thoughts
 
 I was thinking that the Organization has been trying to improve the &quot;stock&quot; of their gene pool by using Bobby's gene's as the father for later generations, trying to breed the mystic back in, if you will.  Nothing to often, but a few times?
 

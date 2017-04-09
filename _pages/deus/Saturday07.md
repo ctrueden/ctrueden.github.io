@@ -1,3 +1,9 @@
+---
+layout: page
+title: Saturday07
+permalink: /deus/Saturday07
+category: deus
+---
 The Volokhov brothers are tied to the Syndicate. They do not trust the Syndicate, but provide a shelter for their operatives in exchange for connections and power. The Volokhovs have leveraged these connections to obtain many items in their collection.
 
 The Volokhovs dislike Bryant because of their past history with Mercabah (which Max vaguely recalls). In the past, Bryant strong-armed the Volokhovs using his Mercabah connections relating to their impending deal to force them to provide him with certain items at a loss. They refused, and the deal fell through as a result (Bryant was not bluffing). The brothers still remember this incident and still hate Bryant as a result.
@@ -5,7 +11,7 @@ The Volokhovs dislike Bryant because of their past history with Mercabah (which 
 Most of the items Bryant gave to the Volokhovs were counterfeits. The Volokhovs, inspecting the merchandise and realizing this, provided a fake circlet (a dummy one the &quot;old man&quot; made for them to discourage thieves). The circlet is &quot;cursed,&quot; and has several unfortunate properties (to be determined before the next Monday session).
 
 
-!!The issue of Harry Bryant
+## The issue of Harry Bryant
 
 For the Monday/Wednesday groups, it is the 24th; Bryant needs to be back to meet with the Saturday group by the 25th. Supposedly, he still wants the Crown to stop Cain. The following notes explain this discrepancy:
 *The circlet the Monday group obtained is a fake (see above)

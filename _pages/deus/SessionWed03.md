@@ -1,4 +1,10 @@
-!Green Eggs and Ham
+---
+layout: page
+title: SessionWed03
+permalink: /deus/SessionWed03
+category: deus
+---
+# Green Eggs and Ham
 
 Harry Bryant shares the following
 * The grey goo was designed to clone and create things.

@@ -1,11 +1,15 @@
--=Danielle's Character's Details=-
-
-!!Concept
+---
+layout: page
+title: Danielle's Character's Details
+permalink: /deus/CharPrivateDanielle
+category: deus
+---
+## Concept
 
 A technodruid pixie who is a member of Gaia's Ancient Order. She became project manager or the creation of one of the new Great Forests being grown on the outlying colony worlds four years ago.  
 
 
-!!Questionnaire
+## Questionnaire
 
 Would your character (1=Never, 5=Always):
 #Lie to a friend to protect his feelings? ~~#FF0000:2 - I would also lie to them for fun, as long as it was not truly malicious.~~
@@ -32,7 +36,7 @@ What does your character think about the following statements (1=Strongly disagr
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day. ~~#FF0000:5 ~~
 
 
-!!Backstory
+## Backstory
 
 Like any other Taigan Pixy I was born in the late frosts of early spring from a pod under the strong and slightly abrasive protection of the trees.  I was born to a very old and straggly Tamarack.  My childhood was fairly normal; I played with the others in the bogs and streams, and along the ice banks and mountain caves in the colder weather.  I was always more apt to spend long hours exploring the dark, cold tunnels under the waterfalls and deep in the crevices of the mountains.  Most of my siblings and kindred spirits much more enjoyed basking in the sun and playing tricks on the animals and members of our neighboring communities.  Don't get me wrong, I would have loved to play these tricks with them but I was born much more pale than even our fairest dew drops and my eyes were even without normal coloring.  My appearance seemed a bit unsettling and occasionally extremely alluring or interesting to many Terrans that I came across.  The thing that really changed my life was my eyes.  I always had problems with depth perception and things were generally hazy and sometimes totally indiscernable.  I had no where near the skill at flying as my siblings simply because I was so disoriented that I could not go anywhere unless I was assured by my kindred that there was a large open field that I wouldn't have to navigate, but those flights still ended in poor or even devastating landings.  
 
@@ -54,7 +58,7 @@ I am currently the Project Manager for the Percepi Colony Arboretum project.   I
 
 
 
-!!Merits, Flaws and Abilities
+## Merits, Flaws and Abilities
 
 ===Ability or flaw name===                   ===Cost===
 ''Invisibility                         -4 mystic magic reserve points''
@@ -81,13 +85,13 @@ Constitution                                    -2MP
                               __TOTAL            -18MP__
 
 
-!!Technodruid
+## Technodruid
 
 Gaia's Ancient Order has long been affiliated with a secret organization known as the druids. But since Gaia and Emmanuel joined to form the Caretaker nearly 300 years ago, many in the Order have embraced science, and strived to find a harmonious balance between nature and technology. One result of this effort has been the formation of a new order of druids, known as the technodruids.
 
 Equally comfortable in urban and natural surroundings, the technodruids apply the scientific method to improve their natural surroundings responsibly, while honoring the tenets of Gaia to respect all life, be it natural, artificial, or somewhere in between.
 
-!!!Class Information 
+### Class Information 
 The following information pertains to the technodruid advanced class. 
 
 __Hit Die__ 
@@ -99,7 +103,7 @@ Computer Use (Int), Concentration (Con), Craft (electronic, mechanical, structur
 
 The technodruid receives (5 + Int) skill points per level.
 
-!!!Table: The technodruid 
+### Table: The technodruid 
 || __Class Level__ | __Base Attack__ | __Fort Save__ | __Ref Save__ | __Will Save__ | __Special__ | __Def. Bonus__ | __Rep. Bonus__
 1st|+0|+2|+0|+2|Animal companion, nature sense, artifice sense|+1|+2
 2nd|+1|+3|+0|+3|Wild empathy, machine empathy|+1|+2
@@ -112,7 +116,7 @@ The technodruid receives (5 + Int) skill points per level.
 9th|+6|+6|+3|+6|Wild shape (3/day), machina shape (3/day)|+5|+4
 10th|+7|+7|+3|+7|Timeless body|+5|+5||
 
-!!!Class Features 
+### Class Features 
 The following features pertain to the technodruid advanced class. 
 
 __Animal Companion:__ A technodruid may choose to befriend or construct an animal, taking it on as a companion. This animal is a loyal creature that accompanies the druid on her adventures as appropriate for its kind. Both organic and artificial animals are acceptable candidates. If an organic animal is chosen, the technodruid may implant cybernetic devices to protect her friend on their dangerous journeys. If her companion is an artificial animal, she may upgrade the robot's systems for its own protection.
@@ -141,7 +145,7 @@ A technodruid can use this ability more times per day at 6th and 9th level, as n
 
 The new form's Hit Dice can't exceed the character's technodruid level.
 
-__Machina Shape:__ At 3rd level, a technodruid gains the ability to turn herself into any Small or Medium robot and back again once per day (see the [http://www.wizards.com/d20/files/msrd/FutureRobots.rtf|Robots] section of the d20 Future book for details). Her options for new forms include robots with any combination of features detailed in the Robots chapter, except for liquid-state, skillware and featware (the robot shares the technodruid's skills and feats). This ability functions like the polymorph spell, except as noted here. The effect lasts for 1 minute per technodruid level, or until she changes back. Changing form (to robot or back) is a standard action and doesn't provoke an attack of opportunity.
+__Machina Shape:__ At 3rd level, a technodruid gains the ability to turn herself into any Small or Medium robot and back again once per day (see the [Robots](http://www.wizards.com/d20/files/msrd/FutureRobots.rtf) section of the d20 Future book for details). Her options for new forms include robots with any combination of features detailed in the Robots chapter, except for liquid-state, skillware and featware (the robot shares the technodruid's skills and feats). This ability functions like the polymorph spell, except as noted here. The effect lasts for 1 minute per technodruid level, or until she changes back. Changing form (to robot or back) is a standard action and doesn't provoke an attack of opportunity.
 
 The form chosen must be that of a robot the technodruid is familiar with (either through physical interaction, or advance planning).
 
@@ -159,7 +163,7 @@ __Trackless Step:__ At 5th level, a technodruid leaves no trail in natural or ur
 
 __Poison Immunity:__ At 7th level, a druid gains immunity to all poisons, both natural (e.g., venom) and artificial (e.g., toxic chemicals).
 
-__A Thousand Faces:__ At 8th level, a technodruid gains the ability to change her appearance at will, as if using the ''[http://d20srd.org/srd/spells/alterSelf.htm|alter self]'' spell, but only while in her normal form.
+__A Thousand Faces:__ At 8th level, a technodruid gains the ability to change her appearance at will, as if using the ''[alter self](http://d20srd.org/srd/spells/alterSelf.htm)'' spell, but only while in her normal form.
 
 __Timeless Body:__ After attaining 10th level, a technodruid no longer takes ability score penalties for aging and cannot be magically aged. Any penalties she may have already incurred, however, remain in place.
 

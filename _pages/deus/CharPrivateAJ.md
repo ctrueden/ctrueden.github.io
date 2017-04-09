@@ -1,3 +1,9 @@
+---
+layout: page
+title: CharPrivateAJ
+permalink: /deus/CharPrivateAJ
+category: deus
+---
 Canadian Secret Service Soulmech
 
 Dr Ian Thorpe is an elderly gentleman of 154 years, lightly dark skinned, black hair, medium build, and 5'11&quot; tall. He's part Hispanic, black, Asian, and Caucasian, making it difficult for someone to place him in any single ethnicity.

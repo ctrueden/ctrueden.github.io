@@ -1,3 +1,7 @@
--=Frogger=-
-
-One of ((CharPublicGriffin|DEE's)) twelve machine disciples, Frogger is an amorphous house-cleaning robot.
+---
+layout: page
+title: Frogger
+permalink: /deus/NPCFrogger
+category: deus
+---
+One of [DEE's](CharPublicGriffin) twelve machine disciples, Frogger is an amorphous house-cleaning robot.

@@ -1,4 +1,10 @@
-!!We all awaken to the brightness of the same sun.
+---
+layout: page
+title: SessionWed04
+permalink: /deus/SessionWed04
+category: deus
+---
+## We all awaken to the brightness of the same sun.
 
 Perseverance cloaked follows the four UN ships trailing behind Mercury's direct path to the sun.  Approaching the sun, Laiden passes the UN ships slowing down, then asking Serra when they need to slow down, to which she replies, "I recommend now."   Laiden has Serra slow Perseverance down as Mercury, now a massive fireball, smashes into the sun creating a massive solar flare.  
 

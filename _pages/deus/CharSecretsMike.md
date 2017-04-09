@@ -1,5 +1,9 @@
--=Mike's Character's Secrets=-
-
+---
+layout: page
+title: Mike's Character's Secrets
+permalink: /deus/CharSecretsMike
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Mike's character.
 
 Vadril's research being halted caused a hiccup in the Syndicate's plans. They wanted the results of his research for some purpose. They are hoping to inspire him to complete his research somehow, since they feel no one else is capable of finishing what he started.

@@ -1,6 +1,10 @@
--=Joey's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Joey's Experience Tally and Other Announcements
+permalink: /deus/AnnounceJoey
+category: deus
+---
+### Experience
 
 || |__Session__|__Individual__|__Total so far__|__Level__|__Bonus MP__
 Pre|-|100|100|1|-

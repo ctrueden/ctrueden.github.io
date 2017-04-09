@@ -1,11 +1,15 @@
--=Joey=-
-
+---
+layout: page
+title: Joey
+permalink: /deus/Playerjoey
+category: deus
+---
 Status: confirmed
 Preferred gaming slot:
 ||__1st choice__|Anything but Fridays||
-!!!Unity
-*((CharPublicJoey|Character description)){GROUP(groups=&gt;joey|GMs)}
-*((CharPrivateJoey|Private page))
-*((AnnounceJoey|Experience tally and announcements)){GROUP}{GROUP(groups=&gt;GMs)}
-*((CharSecretsJoey|Character secrets)){GROUP}
+### Unity
+*[Character description](CharPublicJoey){GROUP(groups=&gt;joey|GMs)}
+*[Private page](CharPrivateJoey)
+*[Experience tally and announcements](AnnounceJoey){GROUP}{GROUP(groups=&gt;GMs)}
+*[Character secrets](CharSecretsJoey){GROUP}
 

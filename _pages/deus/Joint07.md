@@ -1,11 +1,17 @@
+---
+layout: page
+title: Joint07
+permalink: /deus/Joint07
+category: deus
+---
 Mars is newly awakened. The consciousness is called Ares.
 
-All of this is modeled after the [http://education.yahoo.com/homework_help/cliffsnotes/dracula/22.html|original Dracula legend]. Nyx is Mina Harker, and Mars is England.
+All of this is modeled after the [original Dracula legend](http://education.yahoo.com/homework_help/cliffsnotes/dracula/22.html). Nyx is Mina Harker, and Mars is England.
 
 On Saturday, June 18th, Cain hijacks a UNF ship (that was sent after him when he left lunar orbit). The ship goes after him, sees that he is &quot;dead,&quot; pulls him in, quarantines him, and then Cain wakes up. He disables most of the ship's systems and kills the crew -- all but the captain, who wards himself on the bridge with pyrotechnic force shields that Cain cannot breach, and wears a rosary (actually .
 
 
--=Monday 07=-
+# Monday 07
 
 Date is Tuesday, 2299 June 20. They have just recovered the Longinus Spear, and are about to leave Xela's realm.
 
@@ -22,7 +28,7 @@ At this point, Cain has already taken over the UNF ship. They won't be able to f
 Eventually, Monday discovers the crash site at the same time the Wednesday group gets there, hopefully.
 
 
--=Wednesday 07=-
+# Wednesday 07
 
 Date is Saturday, 2299 June 24. They have just left Dragonstar after learning a bit about its history, hearing the echoes of the Destroyer, but without Lupus being taken.
 
@@ -37,7 +43,7 @@ If they talk to the UNF, they learn that the UNF Vesta disappeared when going af
 Eventually, Wednesday discovers the crash site at the same time the Monday group gets there, hopefully.
 
 
--=Combined=-
+# Combined
 
 Cain crashed on Mars on Wednesday, 2299 June 21, outside the bubble. Surveillance footage shows two bodies: one large (the ship), and one small (the captain's log entries encoded on a data crystal and ejected).
 

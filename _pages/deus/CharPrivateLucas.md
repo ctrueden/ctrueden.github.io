@@ -1,9 +1,13 @@
--=Lucas's Character's Details=-
-
+---
+layout: page
+title: Lucas's Character's Details
+permalink: /deus/CharPrivateLucas
+category: deus
+---
 This page will provide private details of Lucas's character, for Lucas and the GMs only.
 
 
-!!The concept
+## The concept
 
 tWhy was the universe created?  How was it made?  Why are we in it?
 
@@ -33,7 +37,7 @@ tAnd this is precisely what It did.
 
 ::*  *  *::
 
-The character was born Russell Tanner Miner in rural West Virginia, on December 17th, 2278.  He grew up in a [http://religiousmovements.lib.virginia.edu/nrms/Snakes.html|Sixteener] congregation that existed as an insular fringe community.  Details on the community itself are still being discussed between myself and Curtis; however, the community would have been poor to the point of destitute, would have accepted what technology they could afford, would have been very insular and thus largely self-regulated, and would have refused any medical attention for religious reasons.
+The character was born Russell Tanner Miner in rural West Virginia, on December 17th, 2278.  He grew up in a [Sixteener](http://religiousmovements.lib.virginia.edu/nrms/Snakes.html) congregation that existed as an insular fringe community.  Details on the community itself are still being discussed between myself and Curtis; however, the community would have been poor to the point of destitute, would have accepted what technology they could afford, would have been very insular and thus largely self-regulated, and would have refused any medical attention for religious reasons.
 
 At the age of 14, Russ more or less volluntarilly accepted his salvation.  The minister of the congregation laid hands on him and commanded that he should be filled with the Holy Spirit.  At this point, Russ was possessed by a portion of the Logos, specifically the part of the divine grammar dealing with being and essence.
 
@@ -56,7 +60,7 @@ Noun has an intuitive ability with pattern recognition, particularly mult-dimens
 It is assumed that, as Noun progresses as a character, his art will become more significant, perhaps developing the ability to become &quot;real&quot;.  Perhaps someday he'll be able to create his very own Escherian Impossibility Cube golem!
 
 
-!!Character personality questionnaire
+## Character personality questionnaire
 
 Answering the following specific questions will help you to flesh out your character. Please answer each one with a number between 1 and 5, inclusive. Feel free to provide additional comments if you think your answer to a particular question is misleading or needs further clarification. And remember: there is no requirement for your character to be &quot;good&quot; or &quot;evil&quot; -- such choices are entirely up to you.
 
@@ -85,26 +89,26 @@ What does your character think about the following statements (1=Strongly disagr
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 2 - No, technology seems pretty nice.
 
 
-!!Enlightened (Chronomancer)
+## Enlightened (Chronomancer)
 
 The world is an illusion, one fabricated by the needs and desires of creatures that live within it. By simply observing the world in a different and startlingly simple way, the chronomancer learns to send his magic forth into a realm our perceptions tell us should not exist. If a simple epiphany can grant such power, then what might someone dedicated to the twisting of his own perceptions achieve?
 
 To many, the enlightened is simply insane, and perhaps they are indeed on a quest to a form of sanitised madness. As their senses and perceptions drift further from what anyone else would consider normal, the enlightened prefer to find solitude in the wilderness far from cities and other settlements.
 
-!!!Class Information 
+### Class Information 
 The following information pertains to the enlightened advanced class. 
 
-!!!Hit Die
+### Hit Die
 The enlightened gains 1d6 hit points per level. The character's constitution modifier applies. 
 
-!!!Class Skills
+### Class Skills
 The enlightened's class skills are as follows.
 Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Jump (Str), Knowledge (Int), Mysticraft (Int), Profession (Wis), Senses (Wis), Stealth (Dex), Swim (Str).
 
 
 The enlightened receives (5 + Int) skill points per level.
 
-!!!Table: The enlightened
+### Table: The enlightened
 || __Class Level__ | __Base Attack__ | __Fort Save__ | __Ref Save__ | __Will Save__ | __Special__ | __Def. Bonus__ | __Rep. Bonus__
 1st|+0|+2|+0|+2|Time magic, suppress paradox|+1|+2
 2nd|+1|+3|+0|+3|Mind clock|+1|+2
@@ -117,13 +121,13 @@ The enlightened receives (5 + Int) skill points per level.
 9th|+4|+6|+3|+6|Timeless body|+5|+4
 10th|+5|+7|+3|+7|Suppress time|+5|+5||
 
-!!!Requirements
+### Requirements
 To become an enlightened, a character must fulfill the following criteria.
 __Ability Scores:__ Wisdom 13+
 __Feats:__ Iron Will, Blind-Fight, Chronomancer
 __Skills:__ Knowledge (physical sciences) 9 ranks, Profession 5 ranks, Treat Injury 5 ranks
 
-!!!Class Features 
+### Class Features 
 The following features pertain to the enlightened advanced class.
 
 __Time Magic:__ The enlightened has bonus to his Time Magic score equal to his enlightened class level. For details on usages of Time Magic, see the Encyclopaedia Arcane: Chronomancy. (Among other things, a chronomancer's Time Sense check is 1d20 + Time Magic score + Wisdom modifier.)
@@ -144,10 +148,10 @@ __Heart of Paradox:__ An enlightened who has reached 6th level recovers from tem
 
 __Timeless Body:__ After reaching 9th level, an enlightened no longer suffers penalties for aging and cannot be magically aged; any penalties he may have already suffered remain in place. Bonuses still accrue, and the enlightened will still die of old age unless other means are used to prolong his life.
 
-__Suppress Time:__ At 10th level, an enlightened with a Grammar score of 0 or less can use ''[http://www.d20srd.org/srd/spells/timeStop.htm|time stop]'' as a spell-like ability as cast by a 17th level sorcerer. The enlightened receives a point of temporary paradox for each use of this ability and can only use this ability once per week. There are no verbal components for suppress time as the enlightened simply refuses to be carried forward in time for 1d4+1 rounds.
+__Suppress Time:__ At 10th level, an enlightened with a Grammar score of 0 or less can use ''[time stop](http://www.d20srd.org/srd/spells/timeStop.htm)'' as a spell-like ability as cast by a 17th level sorcerer. The enlightened receives a point of temporary paradox for each use of this ability and can only use this ability once per week. There are no verbal components for suppress time as the enlightened simply refuses to be carried forward in time for 1d4+1 rounds.
 
 
-!!Stabilization
+## Stabilization
 
 According to the Chronomancy book, the Will saves for stabilized characters become less and less difficult each hour. This scheme is assuming the character wishes to pass the save in order to forcefully revert back. I prefer to conceptualize it as the continuum enforcing the natural order more and more strongly as time passes.
 

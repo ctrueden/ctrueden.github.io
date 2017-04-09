@@ -1,9 +1,13 @@
--=Andy's Character's Details=-
+---
+layout: page
+title: Andy's Character's Details
+permalink: /deus/CharPrivateAndy
+category: deus
+---
+[Brice's Journal 1-10.5](BriceJournal)
+[Brice's Journal 11-18](BriceJournal2)
 
-((BriceJournal|Brice's Journal 1-10.5))
-((BriceJournal2|Brice's Journal 11-18))
-
-!!-Merits, flaws, and possessions
+## Merits, flaws, and possessions
 
 Computer Use: 8
 Knowledge Tech: 6
@@ -40,7 +44,7 @@ Possessions
 1 collapsible walking cane which includes various computer connections.
 
 
-!!-The concept
+## The concept
 
 The character possesses a heretofore unknown type of mystical abilities, a kind that goes completely undetected by the mystic detection devices pioneered by Dr. Dirk Phoenix. The character has kept these abilities secret, and may have a strange destiny ahead of him...
 
@@ -91,9 +95,9 @@ What does your character think about the following statements (1=Strongly disagr
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 2  Technology has the possiblity of helping everyone and being equitably distributed, while mystic engergy creates a favored class.
 
 
-!!-Advanced Class: Netmind
+## Advanced Class: Netmind
 
-!!!-Class Information 
+### Class Information 
 To qualify to become a Netmind, a character must fulfill the following criteria.
 __Skills:__  10 ranks in Computer Use
 __Special:__ Ability to use &quot;net&quot; magic
@@ -109,7 +113,7 @@ Computer Use (Int), Concentration (Con), Craft (electronic) (Int), Decipher  Scr
 
 The Netmind receives (5 + Int) skill points per level.
 
-!!!-Table: The Netmind
+### Table: The Netmind
 || Class Level | Base Attack | Fort Save | Ref Save | Will Save | Special | Def.  Bonus | Rep. Bonus
 1st|+0|+0|+0|+2|Seeing the code|+1|+1
 2nd|+1|+0|+0|+3|Remote read|+1|+1
@@ -124,7 +128,7 @@ The Netmind receives (5 + Int) skill points per level.
 10th|+5|+3|+3|+7|Universal network|+6|+4
 12th|+6|+4|+4|+8|Being the code|+6|+4||
 
-!!!-Class Features
+### Class Features
 The following features pertain to the Netmind advanced class. 
 
 __Seeing the Code:__ At 1st level, the Netmind begins to perceive the physical  universe as just another incarnation of virtual reality. By expending an action  point, he can substitute a Research check in place of any of the following skill checks: Decipher Script, Gather Information, Investigate, Knowledge, Search,  Sense Motive, and Senses.

@@ -1,8 +1,14 @@
+---
+layout: page
+title: SessionMon03
+permalink: /deus/SessionMon03
+category: deus
+---
 Remember that down time the party got at the end of last session?  A lot of people did a lot of secret stuff during that time.  Some people did things that were only kind of secret. 
 
-Deblin Gaddelsmocks, a crazy reporter, contacts ((CharPublicAlex|Ariona Cassyon)) shortly into the week with a great deal of questions about the disappearance of her boss.  Ariona attempts to help her, and reluctantly agrees to be named in the story.  She also agrees to "talk to someone who may be able to get ahold of ((NPCJasmine|Jasmine))," who is ultimately uninterested in talking to any reporters.  
+Deblin Gaddelsmocks, a crazy reporter, contacts [Ariona Cassyon](CharPublicAlex) shortly into the week with a great deal of questions about the disappearance of her boss.  Ariona attempts to help her, and reluctantly agrees to be named in the story.  She also agrees to "talk to someone who may be able to get ahold of [Jasmine](NPCJasmine)," who is ultimately uninterested in talking to any reporters.  
 
-The next day, Saturday, Gaddelsmocks' article is published widely.  It explains that Magitech has been implicated in the abduction of a prominent scientist, one ((NPCBernstein|Rudolph Bernstein)), and is complete with her crackpot theory that Magitech and StratCo are now being run together.  The theory goes that since ((NPCEvan|Evan Cassenti)) and ((NPCAdana|Adana Cassenti)) were William Moss' hand-picked successors to run Magitech when he stepped down in 2125, and the two later went through a messy divorce which was followed by Evan's resignation from Magitech and subsequent hiring and eventual promotion to head of StratCo, that they must actually still be running things together. 
+The next day, Saturday, Gaddelsmocks' article is published widely.  It explains that Magitech has been implicated in the abduction of a prominent scientist, one [Rudolph Bernstein](NPCBernstein), and is complete with her crackpot theory that Magitech and StratCo are now being run together.  The theory goes that since [Evan Cassenti](NPCEvan) and [Adana Cassenti](NPCAdana) were William Moss' hand-picked successors to run Magitech when he stepped down in 2125, and the two later went through a messy divorce which was followed by Evan's resignation from Magitech and subsequent hiring and eventual promotion to head of StratCo, that they must actually still be running things together. 
 
 However, the Magitech/StratCo/Bernstein article is overshadowed almost completely by a much more major breaking news story.  Anyone paying any attention at all to the news sees that Mercury has just taken off, apparently rocketing straight for the sun.  At this point, the U.N. admits that two months ago Mercury was consumed by a substance known as "the Grey Goo," a type of nanite that reproduces itself ad infinitum.  This Goo was accidentally created by Adam McLean, a scientist working for Mercabah Technologies, who was killed along with everyone else on Mercury when the Grey Goo took over.  But everything is okay now, 'cause all the nanites will be burned up and won't be able to get anyone else, ever! 
 
@@ -13,13 +19,13 @@ On Monday, StratCo issues a press release that reeks much more of bullshit.  It 
 On Tuesday, an article breaks that Deblin Gaddelsmocks was implicated in evidence-planting in regards to the StratCo/Magitech news story.  She was fired from her job, and the managing editor responsible for checking out her information also resigned from his position. 
 
 
-Back to more personal news, Ariona and ((CharPublicJon|Nikolai)) do some interplanetary visiting, after talking ((CharPublicAllen|the ghost)) into following ((CharPublicAndy|Bryce)) around for a while.  Bryce also tries to ditch the ghost to go on a date with Jasmine, but is somewhat less successful.  He hops on the "plane" and follows Bryce to France.  (The date, however, seems to go pretty well.) 
+Back to more personal news, Ariona and [Nikolai](CharPublicJon) do some interplanetary visiting, after talking [the ghost](CharPublicAllen) into following [Bryce](CharPublicAndy) around for a while.  Bryce also tries to ditch the ghost to go on a date with Jasmine, but is somewhat less successful.  He hops on the "plane" and follows Bryce to France.  (The date, however, seems to go pretty well.) 
 
-((CharPublicJoey|Meechum)) and ((CharPublicAJ|Ian Thorpe)) keep to themselves over that first week, sequestering themselves from the public eye.  Meechum does lots of research and computer calculations on Bernstein's findings, and Thorpe does lots of mysterious, secret things. 
+[Meechum](CharPublicJoey) and [Ian Thorpe](CharPublicAJ) keep to themselves over that first week, sequestering themselves from the public eye.  Meechum does lots of research and computer calculations on Bernstein's findings, and Thorpe does lots of mysterious, secret things. 
 
 -------- 
 
-So, now it's Tuesday, specifically the 13th of June, 2299.  ((NPCMoss|William Moss)) contacts Ariona and Thorpe, requesting that they gather everyone up "who was involved in the incident" and return with them to his tree.  So Ariona, Thorpe, Nikolai, Meechum, Bryce, and the ghost return to the forest, and head to the special tree.  When they go inside, they see an ((NPCBryant|unconscious man)) on the floor, a ((CharPublicGriffin|creepy droid)), a metal hand, and Moss arguing with someone on an archaic video-phone, but no Zee. 
+So, now it's Tuesday, specifically the 13th of June, 2299.  [William Moss](NPCMoss) contacts Ariona and Thorpe, requesting that they gather everyone up "who was involved in the incident" and return with them to his tree.  So Ariona, Thorpe, Nikolai, Meechum, Bryce, and the ghost return to the forest, and head to the special tree.  When they go inside, they see an [unconscious man](NPCBryant) on the floor, a [creepy droid](CharPublicGriffin), a metal hand, and Moss arguing with someone on an archaic video-phone, but no Zee. 
 
 The old man on the phone tells Moss that he doesn't want any part of what's going on, that Moss has a nasty feud going on, and that Moss shouldn't ask the old man's wife for help, either, because she'll just play both sides.  At this point, the ghost stares at the unconscious man, yells, "You bastard!" and gathers his energies to attack. 
 
@@ -53,6 +59,6 @@ Nikolai and Ariona both have errands to run; Nikolai mentions that he needs to g
 
 It is now Thursday.  Ariona and Nikolai get back together to talk about what they want to do, and then meet up with everyone else on DEE's ship.  Nikolai points out that, well, Moss is crazy.  Also, they really might not want to let this guy out, if he's the root of all evil.  Ariona points out that they really ought to talk to someone else, either the Caretaker himself or the elves, to determine more of the rest of the story.  Just taking Moss on faith seems like a poor idea. 
 
-The plan as decided upon is as follows:  since the ghost doesn't trust the Royals, and Nikolai and Ariona don't trust Moss, they have agreed upon ((OrgGaia|Gaia's Order)) as their conduit to the Caretaker.  They will travel in DEE's ship to Earth, where they will attempt to find someone connected with the Order, probably in the forest near Xanadu.  Then they will attempt to convince the Order to let them talk to the Caretaker.  This will, hopefully, help them to determine whether or not Moss is actually relating the Caretaker's desires to the party.  Once they find this out, they can decide what to do from there. 
+The plan as decided upon is as follows:  since the ghost doesn't trust the Royals, and Nikolai and Ariona don't trust Moss, they have agreed upon [Gaia's Order](OrgGaia) as their conduit to the Caretaker.  They will travel in DEE's ship to Earth, where they will attempt to find someone connected with the Order, probably in the forest near Xanadu.  Then they will attempt to convince the Order to let them talk to the Caretaker.  This will, hopefully, help them to determine whether or not Moss is actually relating the Caretaker's desires to the party.  Once they find this out, they can decide what to do from there. 
 
 

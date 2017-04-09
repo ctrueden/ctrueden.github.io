@@ -1,9 +1,15 @@
-See ((Talk20060409)) for a list of participants in the Deus rite.
+---
+layout: page
+title: Saturday14
+permalink: /deus/Saturday14
+category: deus
+---
+See [Talk20060409](Talk20060409) for a list of participants in the Deus rite.
 
 Party has a couple of days of downtime; they hear the news on the 22nd about a mass suicide on all colonized worlds -- even reports from space settlements like Arcadia -- and some theories that they are not really suicides, because some claim to have seen a terrifying demon cleave victims in twain, and disappear with a roar.
 
 
-!!Preparation for the rite
+## Preparation for the rite
 
 Most of the prep work has been done by people more &quot;in the loop&quot; such as Alfadir, who wields the Crown. Huntington, however, stands nearby to monitor it.
 
@@ -16,7 +22,7 @@ Huntington claims he still believes the Crown is not safe, though he has no soli
 
 
 
-!!The Occultem Lapidem
+## The Occultem Lapidem
 
 Sulphur and Salt hibernate within the Crown, unable to be noticed. But once the rite starts, the amount of mystic energy being channeled awakens them (as per their design), and they make their play. Once they have their bearings, they lunge from Alfadir's head to the onyx stone that Cain is in the process of consuming. Huntington, reacts quickly, throws a small spherical wall of force around the jets of light. However, he was not anticipating two of them. The gem he brought with him to contain them permanently is insufficient. He then sees that Cain has already eaten the soul stone (Cain then bursts into ghostly flame -- burning with the power of the Sun). Aghast, he quickly ports the stone from inside Cain's body to his hand. Unfortunately, the Oversoul has already dispersed. But Huntington realizes he can still use the stone to house the two miscreants, drops the wall of force, and unleashes his prepared magic jar to grab them into the soul stone.
 
@@ -25,7 +31,7 @@ Coyote shows up, grabs Huntington, who looks shocked, and they both disappear in
 If Brice is keeping tabs on what is going on outside (which he can, but imperfectly -- there is a ton of interference and it's hard to decipher normal data streams), the fighting has gotten pretty intense. Mordred has shown up.
 
 
-!!The rite itself
+## The rite itself
 
 Rae is then informed of a place deep within the Earth where she must go. The Caretaker tells her this directly, and sends an image of the place to her mind. Only she can enter, she is told.
 
@@ -44,7 +50,7 @@ Alfadir tells everyone else: &quot;There's nothing further you can do -- get out
 Hopefully, party flees to Lupus.
 
 
-!!Rae's task
+## Rae's task
 
 Just before the rite, the Caretaker tells Rae that there is an ancient chamber deep within the earth (deeper even than Valhalla) where Rae must go. &quot;Rekari Der'Ken. There is a special task for you.&quot;
 

@@ -1,12 +1,18 @@
-The session opens with ((CharPublicAlex|Ariona Cassyon)), ((CharPublicJon|Nikolai)), ((CharPublicAllen|Vitorrio Garibaldi)), ((CharPublicAndy|Bryce Murphy)), ((CharPublicJoey|Meechum)), and ((CharPublicAJ|Ian Thorpe)), accompanied by ((NPCAngelique|Angelique du Coudray)), ((NPCPetrov|Petrov Zarkovsky)), ((NPCKimi|Kimi Eagle Talon)), and ((NPCHunter|Hunter Savage)).  Kimi and Hunter are holding the coffin-type container housing the earthly remains of ((NPCCain|Cain)). 
+---
+layout: page
+title: SessionMon05
+permalink: /deus/SessionMon05
+category: deus
+---
+The session opens with [Ariona Cassyon](CharPublicAlex), [Nikolai](CharPublicJon), [Vitorrio Garibaldi](CharPublicAllen), [Bryce Murphy](CharPublicAndy), [Meechum](CharPublicJoey), and [Ian Thorpe](CharPublicAJ), accompanied by [Angelique du Coudray](NPCAngelique), [Petrov Zarkovsky](NPCPetrov), [Kimi Eagle Talon](NPCKimi), and [Hunter Savage](NPCHunter).  Kimi and Hunter are holding the coffin-type container housing the earthly remains of [Cain](NPCCain). 
 
 After waiting around for a bit while the large public transit van is en route, the group climbs in.  The four vampires pile into the back with Thorpe (inside of whom rides Garibaldi) and Meechum, and Ariona and Bryce ride in the front.  Nikolai nervously says he'll meet everyone there and disappears. 
 
 During the trip, Ariona and Thorpe are briefly overwhelmed by the evil emanations, retching up their dinners.  Bryce is even more badly affected, becoming so ill he can hardly bear it.  They all manage to pull themselves together enough to complete the trip, however; the vampires just appear amused. 
 
-They get to the forest, where Nikolai rejoins them, and begin the trek to ((NPCMoss|Moss')).  When they arrive at the door, ((CharPublicGriffin|DEE)) informs them that there is someone hidden nearby using illusion magic.  Thorpe and Ariona both inform Moss of this through email, and delay opening the door to his sanctum.  Moss replies that if the vampires can scare whomever it is off, they will be safe as soon as they get inside, for he can just move the location of his home. 
+They get to the forest, where Nikolai rejoins them, and begin the trek to [Moss'](NPCMoss).  When they arrive at the door, [DEE](CharPublicGriffin) informs them that there is someone hidden nearby using illusion magic.  Thorpe and Ariona both inform Moss of this through email, and delay opening the door to his sanctum.  Moss replies that if the vampires can scare whomever it is off, they will be safe as soon as they get inside, for he can just move the location of his home. 
 
-DEE tracks the invisible creature, and sends a direct feed to all the vampires but Kimi (who lacks a neural jack), showing them where the creature is.  They begin to approach, when ((NPCNyx|the spike-haired pixie)) comes out and drops her illusion. 
+DEE tracks the invisible creature, and sends a direct feed to all the vampires but Kimi (who lacks a neural jack), showing them where the creature is.  They begin to approach, when [the spike-haired pixie](NPCNyx) comes out and drops her illusion. 
 
 "I need to talk to William," she says.  "This ``can't happen.''"  She claims that the Caretaker has stopped talking to them, and only talked to the party because He wants to use them.  She also says that His will should not be allowed to happen, because He has abandoned them.  Ariona sends a message to Moss, telling him what's happening, and he replies, "Under ``no circumstances'' should you let Nyx in!"  Then he remarks that he isn't sure it's going to be possible to stop her, though. 
 
@@ -86,7 +92,7 @@ Moss is asked what would need to be done to enable him to cast the ritual at thi
 
 Finally, the research is complete.  Ariona, Garibaldi, and Nikolai lend their knowledge of arcane lore, and Nikolai researches specifically artifact weapons of religious legend.  There are many ``possibilities;'' however, the best lead seems to be an ancient weapon that seems to have taken many forms throughout history.  One legend involves an ancient blade which severed Cain's hand.  It has been known throughout the ages and different cultures as Excalibur, Mjollnir, and most notably Longinus' Spear. 
 
-Further, these legends lead the party to discover that there are seven artifacts, seven items of legend that appear to take different forms as needed.  Some of the most common names for these are:  Longinus' Spear (Excalibur, Mjollnir); Nebuchadnezzar's Crown (the Crown of Swords); Babylon's Horn (the Flute); Ambrosia (forbidden fruit, Snow White's poison apple); Pandora's Box (Ark of the Covenant, the Obelisk); [http://en.wikipedia.org/wiki/Shroud_of_Turin|the Shroud of Turin]; and the Eye of Odin (Cain's Hand, Medusa's Head).
+Further, these legends lead the party to discover that there are seven artifacts, seven items of legend that appear to take different forms as needed.  Some of the most common names for these are:  Longinus' Spear (Excalibur, Mjollnir); Nebuchadnezzar's Crown (the Crown of Swords); Babylon's Horn (the Flute); Ambrosia (forbidden fruit, Snow White's poison apple); Pandora's Box (Ark of the Covenant, the Obelisk); [the Shroud of Turin](http://en.wikipedia.org/wiki/Shroud_of_Turin); and the Eye of Odin (Cain's Hand, Medusa's Head).
 
 Who might know where these artifacts are now, particularly the Spear?  Well, obviously, the Caretaker might, as might someone very ancient.  Someone with extensive arcane knowledge, "perhaps someone with an ability to always know something, perhaps ending in `Bullshit' and starting with `Bardic'," or someone with a great deal of knowledge of weapons or the undead might be useful.  Someone who has incredibly powerful abilities of divination may also be able to help the party. 
 

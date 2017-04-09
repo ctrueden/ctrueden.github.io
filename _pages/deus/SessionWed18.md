@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed18
+permalink: /deus/SessionWed18
+category: deus
+---
 We are near time's end, near the final moments of the universe, at the cusps of time.  We are floating in the Astral plane- timeless, no sleep, no food, no aging.  We have physical essences.  
 
 The most brilliant thing defines the center of this place.  Destiny, god, etc.  Beyond of comprehension and this is point from where all the universe derives.  Also here is a blight, a manifestation of the destroyer, can tell how big, just vastly bigger than us.  There isn't locations that you can map, but things are relative to each other.  To complicate that eddies and rips in time messes it up.

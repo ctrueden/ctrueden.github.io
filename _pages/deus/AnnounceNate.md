@@ -1,6 +1,10 @@
--=Nate's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Nate's Experience Tally and Other Announcements
+permalink: /deus/AnnounceNate
+category: deus
+---
+### Experience
 
 Divination penalty: -100 EP
 

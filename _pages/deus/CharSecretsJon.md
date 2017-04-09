@@ -1,5 +1,9 @@
--=Jon's Character's Secrets=-
-
+---
+layout: page
+title: Jon's Character's Secrets
+permalink: /deus/CharSecretsJon
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Jon's character.
 
 JOSEF'S AWAKENING

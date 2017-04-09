@@ -1,14 +1,18 @@
--=Noun=-
-
+---
+layout: page
+title: Noun
+permalink: /deus/CharPublicLucas
+category: deus
+---
 Noun is shortish, approximately 5'6&quot;, and skinny as a rail.  He has slighty bugging, intense eyes, and disheveled brown hair, which is lately worn unkempt and matted, and has stubble lining his jaw.  He is not at all attractive.  (Think Tim Burton with a skinnier face and brown hair); however, he has the undeniable charisma of a train wreck. In terms of fashion, Noun prefers simple, workman-like affair, generally jeans and a t-shirt, with a multip-pocketted vest over both.  He has a tangle of wire on his hip, which serves as a bag.  Noun does not make eye contact.  He carries himself with the air of one who is worried or paranoid, a shifty-eyed sort of fidgety nervousness.  This is exascerbated by the fact that he always looks like he doesn't know what to do with his hands.
 
 Noun is an artist.  Rather, he considers himself to be a poet; he just happens to write poetry in three dimensions.  Those of you whose characters pay attention to &quot;news of the weird&quot;-type items may remember that a few years back he was in the papers for stealing shopping carts and welding them into a large, mind-bending sculpture.  You may also remember that he has been diagnosed as having a odd form of autism.
 
 Noun doesn't trust easilly, and is very obvious about this in his manner of acting and body language.  He is also mute.  He communicates through machine-assisted telapathy, by sending images to those he is &quot;speaking&quot; with.  He also insists he communicates through his &quot;poetry&quot;; however, very few people are receiving on the wavelength he's broadcasting at.
 
-Pronoun is Noun's voice.  He is roughly one foot tall, and tends to ride on Noun's shoulder.  His face is a beautiful, expressive and very accurate wood-carving of Noun's; the rest of his body is a collection of tubes and wire, very elongated and graceful.  The effect is sort of somewhere between the art of [http://www.mckean-art.co.uk/|Dave McKean] and some sort of unfinished creature out of a [http://www.toolband.com/source/video|Tool video].  Pronoun's arms from the elbow down and legs can split into two, and slide towards the middle of his body; his neck can recede on its shoulders.  The end result is that he looks like a bizarre sort of art-deco man-spider, a form he takes very often, particularly when climbing.  He is cheerful and a constant friend to Noun, though his personality is totally seperate from Noun's.  He is not manipulate by Noun - rather, he receives the visual data Noun gives him, and translates it into speech.
+Pronoun is Noun's voice.  He is roughly one foot tall, and tends to ride on Noun's shoulder.  His face is a beautiful, expressive and very accurate wood-carving of Noun's; the rest of his body is a collection of tubes and wire, very elongated and graceful.  The effect is sort of somewhere between the art of [Dave McKean](http://www.mckean-art.co.uk/) and some sort of unfinished creature out of a [Tool video](http://www.toolband.com/source/video).  Pronoun's arms from the elbow down and legs can split into two, and slide towards the middle of his body; his neck can recede on its shoulders.  The end result is that he looks like a bizarre sort of art-deco man-spider, a form he takes very often, particularly when climbing.  He is cheerful and a constant friend to Noun, though his personality is totally seperate from Noun's.  He is not manipulate by Noun - rather, he receives the visual data Noun gives him, and translates it into speech.
 
-!!NO LONGER SECRET
+## NO LONGER SECRET
 
 tWhy was the universe created?  How was it made?  Why are we in it?
 
@@ -38,7 +42,7 @@ tAnd this is precisely what It did.
 
 ::*  *  *::
 
-The character was born Russell Tanner Miner in rural West Virginia, on December 17th, 2278.  He grew up in a [http://religiousmovements.lib.virginia.edu/nrms/Snakes.html|Sixteener] congregation that existed as an insular fringe community.  Details on the community itself are still being discussed between myself and Curtis; however, the community would have been poor to the point of destitute, would have accepted what technology they could afford, would have been very insular and thus largely self-regulated, and would have refused any medical attention for religious reasons.
+The character was born Russell Tanner Miner in rural West Virginia, on December 17th, 2278.  He grew up in a [Sixteener](http://religiousmovements.lib.virginia.edu/nrms/Snakes.html) congregation that existed as an insular fringe community.  Details on the community itself are still being discussed between myself and Curtis; however, the community would have been poor to the point of destitute, would have accepted what technology they could afford, would have been very insular and thus largely self-regulated, and would have refused any medical attention for religious reasons.
 
 At the age of 14, Russ more or less volluntarilly accepted his salvation.  The minister of the congregation laid hands on him and commanded that he should be filled with the Holy Spirit.  At this point, Russ was possessed by a portion of the Logos, specifically the part of the divine grammar dealing with being and essence.
 

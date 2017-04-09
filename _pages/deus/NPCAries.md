@@ -1,3 +1,7 @@
--=Aries=-
-
-Aries was a Zodiac with warlike and temperamental traits, one of the &quot;evil Zodiacs.&quot; It was recently destroyed once and for all by ((OrgMagitech|Magitech)).
+---
+layout: page
+title: Aries
+permalink: /deus/NPCAries
+category: deus
+---
+Aries was a Zodiac with warlike and temperamental traits, one of the &quot;evil Zodiacs.&quot; It was recently destroyed once and for all by [Magitech](OrgMagitech).

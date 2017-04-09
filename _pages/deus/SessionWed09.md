@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed09
+permalink: /deus/SessionWed09
+category: deus
+---
 Serra reviewing the computer logs finds that an encrypted transmission was sent from Perseverance to a convenience store during the search for the antimatter core.  Scanning the convenience store shows it currently has no back up fusion power and no signs of life.  Serra tells Laiden it will take a while to decrypt.
 
 Moss and Nix are unconsciously resting on the ship separately under video surveillance, with a droid as a sentry at each door, and Trenton walking the hall between them.  Dr Andrews occasionally goes in the rooms to medical monitor them.

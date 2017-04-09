@@ -1,12 +1,18 @@
-Thanks to ((Playereva|Eva)) for this session summary.
+---
+layout: page
+title: SessionSat01
+permalink: /deus/SessionSat01
+category: deus
+---
+Thanks to [Eva](Playereva) for this session summary.
 
-A copy of these session notes from ((CharPublicEva|Rae))'s perspective can be found at [http://www.digitalchangeling.com/gaming/session_notes/deus/050903.html].
+A copy of these session notes from [Rae](CharPublicEva)'s perspective can be found at [http://www.digitalchangeling.com/gaming/session_notes/deus/050903.html].
 
 -----
 Session started at 2:15 pm on 9/3/05
 
-Attending players: ((Playermike|Mike)), ((Playernate|Nate)), ((Playergriffin|Griffin)), ((Playerjohn|John)), ((Playereva|Eva))
-Presiding GM: ((Playercurtis|Curtis))
+Attending players: [Mike](Playermike), [Nate](Playernate), [Griffin](Playergriffin), [John](Playerjohn), [Eva](Playereva)
+Presiding GM: [Curtis](Playercurtis)
 
 (Each of us go off to talk with Curtis one at a time to do our individual character introduction.)
 
@@ -16,16 +22,16 @@ Presiding GM: ((Playercurtis|Curtis))
 
 (We make mean jokes about Jesus out of character.)
 
-((CharPublicEva|Rae)) manages to find a book store and buy an electronic book that will help her learn to read English. After wandering around for a bit she returns to ((NPCBryant|Harry Bryant's)) office and talks to him. They plan to head out that evening if all goes well, otherwise Rae can stay at the hotel he booked for her. At 2100 they meet ((CharPublicJohn|Matt)) and Bryant introduces Rae to him.
+[Rae](CharPublicEva) manages to find a book store and buy an electronic book that will help her learn to read English. After wandering around for a bit she returns to [Harry Bryant's](NPCBryant) office and talks to him. They plan to head out that evening if all goes well, otherwise Rae can stay at the hotel he booked for her. At 2100 they meet [Matt](CharPublicJohn) and Bryant introduces Rae to him.
 
-Meanwhile, ((CharPublicNate|Maximilian)) and ((CharPublicMike|Vadril Korlax)) are heading to a VIP landing strip in the Pax Artificium spaceport (separately). Vadril passes through an extra security gate and the security lets him in when he shows his identicard. Maximilian approaches security and they demand his ID; he backs off and hangs around waiting.
+Meanwhile, [Maximilian](CharPublicNate) and [Vadril Korlax](CharPublicMike) are heading to a VIP landing strip in the Pax Artificium spaceport (separately). Vadril passes through an extra security gate and the security lets him in when he shows his identicard. Maximilian approaches security and they demand his ID; he backs off and hangs around waiting.
 
 Matt, Bryant, and Rae head into the spaceport and head down towards the VIP landing strip. They pass Maximilian, who hasn't gone through security yet. At security, Bryant shows the guard his ID and says that they are with him -- he also whispers to the guard that the guy Max Cohen who is down the hall is with him as well, though he may not know it. The guard lets them pass through.
 We meet Dr. Korlax and Bryant tells him he's early. The doctor stays back in the VIP lounge to wait for us.
 
 A ship lands at the port where they are waiting. It is a lightning-class frigate, a decently large ship, and it looks rough and unfinished.
 
-A ((CharPublicGriffin|creepy droid)) disembarks from the ship. Matt heads for the ship but pauses when he sees the guns on the ship that are trained on the entrance plank.
+A [creepy droid](CharPublicGriffin) disembarks from the ship. Matt heads for the ship but pauses when he sees the guns on the ship that are trained on the entrance plank.
 
 The droid greets Bryant: &quot;Greetings prospective employer. I have arrived for my interview.&quot;
 
@@ -33,7 +39,7 @@ Bryant is getting agitated; he quietly tells Matt to hurry up and fire &quot;the
 
 Matt races through the inside of the ship and installs a chip somewhere deep in its main computer room. About four minutes later, the ship and droid power up again. The droid gets back up.
 
-The partially closed hatch opens again. Bryant asks the droid if it is ok, it says it is. Bryant asks the droid to take us on board the ship and take us to a prearranged spot. The droid rattles off coordinates in ((Worlds|Barnard's star system)), which Bryant confirms. The droid asks about his compensation for the trip. Bryant asks what it thinks is fair. The droid quotes back a price and Bryant agrees happily. They have an amusing exchange, then shake on it. Bryant goes off to talk to some other folks, saying he will be right back.
+The partially closed hatch opens again. Bryant asks the droid if it is ok, it says it is. Bryant asks the droid to take us on board the ship and take us to a prearranged spot. The droid rattles off coordinates in [Barnard's star system](Worlds), which Bryant confirms. The droid asks about his compensation for the trip. Bryant asks what it thinks is fair. The droid quotes back a price and Bryant agrees happily. They have an amusing exchange, then shake on it. Bryant goes off to talk to some other folks, saying he will be right back.
 
 (Curtis and Mike go off to talk in private.)
 
@@ -53,7 +59,7 @@ Briant asks about food. The droid responds, &quot;Do you require food?&quot;
 
 We land again. Briant gets some food and other supplies while the droid is calculating something about our trip.
 
-Max and Vadril discover that everyone has lost all contact with ((Worlds|Persepi colony)). Its all over the news.
+Max and Vadril discover that everyone has lost all contact with [Persepi colony](Worlds). Its all over the news.
 
 The droid researches why he was hired by Bryant's company.
 
@@ -65,7 +71,7 @@ Bryant tells Rae that they are looking for something on the largest asteroid her
 
 We land on the asteroid. Everyone except Rae puts on space suits to head out onto the asteroid. Max isn't using an air tank with his suit. Matt comments on this and the doctor seems surprised by it as well.
 
-The folks outside find ((NPCJosef|some sort of dead man)) with a gross rotting, withered, twisted hand. They take the man back to the ship.
+The folks outside find [some sort of dead man](NPCJosef) with a gross rotting, withered, twisted hand. They take the man back to the ship.
 
 They come back carrying the body, not in a suit. Bryant goes and gets a kitchen knife and cuts the man's hand off. The man screams and sits up. He is bleeding but not as badly as would be expected. Bryant starts talking to DEE about &quot;ejecting the cargo.&quot;
 

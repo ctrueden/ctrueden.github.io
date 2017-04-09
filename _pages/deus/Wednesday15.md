@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wednesday15
+permalink: /deus/Wednesday15
+category: deus
+---
 __[[Wed 15]:__
 *Ascend the stairway to heaven (Noun, Malcolm)
 *Rescue Fey and Bullettrain on Arcadia
@@ -7,15 +13,15 @@ __[[Wed 15]:__
 
 Jason will not be present for this session. Figure out how to handle this -- Write out the character? Kill him? Have the bounty hunters abduct him?
 
-!!Celestia
+## Celestia
 When Noun opens the celestial door, he encounters Abaddon coming up the stairs. After that, should he ascend to the top, he feels his body being deconstructed, and his soul being torn away. It is excruciating. Hopefully he screams. (If not, then he loses his divine essence, and is Russell Miner while in Celestia -- he remembers the time as Noun, but it is beyond his comprehension and makes no sense. Should he leave again, the divine essence returns to him, and he is Noun again, remembering nothing of his time in Celestia.) If so, then he finds himself in Celestia and realizes that none of it is real. But before his eyes, the words he shouted twist and morph, spreading outward from his body, infusing life into everything they touch, until the place has become real after all.
 
 The celestials there are all stunned and shocked as they are overcome by the wave. After the transformation is complete, Celestia occupies a newly created plane, the celestial plane. Unfortunately, the celestials have been severed from the Caretaker. From their perspective, they have lost their connection to God, no longer feeling his presence. One of them asks him brokenly, &quot;Who are you? What have you done?&quot; Another replies, &quot;The Lord has abandoned us, because of him!&quot; They begin casting stones, and bid him to leave this place at once.
 
 There are some interesting ramifications. First, the celestials are now no longer restricted from leaving Celestia. They can all travel down the staircase (which still works). Secondly, their memories can now never be synced with Malcolm's. So if Malcolm encounters the &quot;real&quot; Saint Barnabas or Sister Assisi, they recall that he left for Earth, but do not remember any of their subsequent conversations with him.
 
-!!Arcadia (2006 Apr 30)
-See ((Wednesday14)) for an overview of the Arcadia situation. Note, however, that Fey and Bullettrain have not responded to recent emails (within the past 10 days). The last email received from them simply stated that they had reached Arcadia, and that it had moved.
+## Arcadia (2006 Apr 30)
+See [Wednesday14](Wednesday14) for an overview of the Arcadia situation. Note, however, that Fey and Bullettrain have not responded to recent emails (within the past 10 days). The last email received from them simply stated that they had reached Arcadia, and that it had moved.
 
 Bullettrain and Fey begin to poke around looking for clues. Fey gets kidnapped by the space pirates [[actually Hernando -- see below], who are currently docked (they took the Supernova, but Scorpio is back on Boneyard 47). The lieutenant (often acting captain of the Supernova) is a big, burly pirate named Arson Paine covered in animated tattoos -- a space battle going on on the right side of his face, and a naked woman dancing on the left side, with a ship occasionally flying across his forehead.
 
@@ -29,7 +35,7 @@ The party arrives before Strife shows up to pick up her brother. Thus, they hear
 
 Meanwhile, Fey has been kept alive but in stasis? Why would they keep her alive? What about the fact that she was wild shaped into a machine to conceal herself from threats?
 
-!!Arcadia (2006 May 02)
+## Arcadia (2006 May 02)
 Arcadia is kind of like Switzerland -- extremely clean.  There's really no trash to be found on the streets, and anything that ends up in the gutter is sensed and dealt with in a prompt manner.  Cleaning bots of all sizes are commonplace, and go fairly unnoticed -- an ideal thing for Fey to wild shape into.  Of course, many cleaning bots have been programmed to be spies in the past, so the more paranoid people do notice them.
 
 It might be that Fey got too close to something juicy, and she was captured by one of these paranoid individuals.  The person shot her, she fell unconscious, and reverted to her natural shape.  At that point, she was imprisoned, and Bullettrain went on a kind of rampage to rescue his &quot;sidekick.&quot;
@@ -62,7 +68,7 @@ The Baron specializes in hostile takeovers.  And venture capitalism.  And bootyl
 
 Curtis thinks we're done.  I think the party needs to go to Lupus.  If there's resolution, they should get a UNF transmission asking for help __right at the end of the session__.  It should order them to return to the space station at once to prepare for military dispatch.  Oh!  Cliffhangered!  If time, they return, and learn about the technofearful.  &quot;Laboro has already been devastated by a previously unknown alien race.  The wave of attacking ships is now advancing on Lupus.  Perseverance, I choose you!  GooooooO!&quot;
 
-!!Random thoughts (largely obsolete)
+## Random thoughts (largely obsolete)
 Fey and Bullettrain could have hooked up with Josef, who wishes to overthrow his brother's regime. But of course Boris is keeping close tabs on Josef, making it difficult for him to actually plot against him. Josef could use a secured bunker as his base of operations, but even then, Boris might be able to spy on him. Could he induce others to establish a telepathic bond with him? Would he think to do that? Would even ''that'' be enough to prevent Boris from learning of his plans? (Probably not, with divination.) Perhaps Josef must leave Arcadia in order to plot his revenge. Or maybe Josef does not want revenge at all. That doesn't mean he would be comfortable serving his brother forever, either, though. He might decide to become his own man, once he has visited his brother. Or maybe he just wants to die? Who knows.
 
 Alternately, Fey and Bullettrain might be being held in custody by Boris. However, that is not really his style. He would probably be willing to answer their questions, if he did not think there would be retribution against him. However, he would certainly not allow recording devices or anything of that nature (which is difficult in the age of neural jacks). So it actually seems unlikely that he would be completely straight with them.

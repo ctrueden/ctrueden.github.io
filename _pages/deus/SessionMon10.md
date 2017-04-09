@@ -1,4 +1,10 @@
-To refresh everyone's memories, the party, defined currently as ((CharPublicAlex|Ariona)), ((CharPublicJon|Nikolai)), ((CharPublicAllen|Vitto)), ((CharPublicAndy|Brice)), ((CharPublicJoey|Meechum)), and ((CharPublicGriffin|DEE)), are sitting in deep space.  Joining them is ((CharPublicKelsey|Eddie)), a strange ghostly halfling . . . singularity point?  Also in their possession is the cause for their desire to remain away from anywhere within a mystic sphere of influence, namely the cleansed body of ((NPCCain|Cain)). 
+---
+layout: page
+title: SessionMon10
+permalink: /deus/SessionMon10
+category: deus
+---
+To refresh everyone's memories, the party, defined currently as [Ariona](CharPublicAlex), [Nikolai](CharPublicJon), [Vitto](CharPublicAllen), [Brice](CharPublicAndy), [Meechum](CharPublicJoey), and [DEE](CharPublicGriffin), are sitting in deep space.  Joining them is [Eddie](CharPublicKelsey), a strange ghostly halfling . . . singularity point?  Also in their possession is the cause for their desire to remain away from anywhere within a mystic sphere of influence, namely the cleansed body of [Cain](NPCCain). 
 
 One week after Nikolai's first grocery run on Earth, on Friday, July 7th, he makes another one.  This one also goes fairly well, but when he returns, the ghostly cries emanating from the void appear to somehow ``chase'' Eddie.  Some black smoke coalesces around him, and he begins to scream.  The scream sounds, not like a single voice, but like many sounds on many frequencies at the same time.  The group as a whole determines that next time Nikolai returns, Eddie should be somewhere else.  It takes a very long time to get Eddie completely calmed down again. 
 
@@ -23,7 +29,7 @@ Now it is July 14th.  Nikolai returns to the grove on Earth, and is approached b
 
 The Gnomish woman also cautiously allows that Xela might possibly be willing to release the lantern to Nikolai, though she has grown quite fond of it, even if he can't pony up the crown, but only if he brings her a lot of other nifty things.  The false crown would probably be a good start to that, "But . . . I'm not making any promises for her, because otherwise, she'd kill me." 
 
-"The other stipulation Her Grace has made in allowing you extra time is ``this''."  She shoves ((CharPublicNate|one of the dwarven spellbreakers)) at Nikolai.  She explains that he will be going along, to make sure that Her Grace's interests are being served, and that the party is not just stalling. 
+"The other stipulation Her Grace has made in allowing you extra time is ``this''."  She shoves [one of the dwarven spellbreakers](CharPublicNate) at Nikolai.  She explains that he will be going along, to make sure that Her Grace's interests are being served, and that the party is not just stalling. 
 
 Nikolai agrees, but also says that he is going to have to run some errands first.  He can't take the spellbreaker with him more than once.  The gnomish spellbreaker nods at the other gnome.  He waves his hands a bit, and then tells Nikolai that he has given him the ability to take the dwarf with him a couple of times.  He adds, "Two.  Two times.  And not someone much bigger than him. . . . It better be him!" 
 

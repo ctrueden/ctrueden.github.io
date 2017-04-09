@@ -1,14 +1,18 @@
--=Eva's Character's Details=-
-
+---
+layout: page
+title: Eva's Character's Details
+permalink: /deus/CharPrivateEva
+category: deus
+---
 This page will provide private details of Eva's character, for Eva and the GMs only.
 
 
-!!!The concept
+### The concept
 
 A young dragon who has chosen to leave her home planet when she learned that Dragonstar would be passing by a nearby world with mystic energy. According to the scholars, this planet was first encountered around 275 years ago (last time Dragonstar was in the vicinity), and no other planet encountered by the dragons has shared that quality with their world before. Though it could mean being left behind--or maybe even devoured by the dragons' ancient nemesis--she decides to travel to Earth anyway.
 
 
-!!! Rekari Der'Ken life story
+###  Rekari Der'Ken life story
 
 This is a rough draft outline of Rekari Der'Ken's (or Rae Denison as her human disguise) life so far. This will be filled out with more names, details etc. in the next few days:
 
@@ -51,7 +55,7 @@ She has recently (the last three months) taken a disguise as a human woman (illu
 she fakes caustrophobia and haphephobia (fear of being touched by sentient creatures) to keep others from discovering her disguise
 
 
-!!!Character Questionnaire answers
+### Character Questionnaire answers
 
 Would your character (1=Never, 5=Always):
 
@@ -81,7 +85,7 @@ What does your character think about the following statements (1=Strongly disagr
 ;6. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. :3 (Maybe. I don't know if humans are going to come into some sort of balance between science and magic with out an external fear to pin them down. They're very clever but they seem to be tripping all over themselves trying to move &quot;forward&quot; with out thinking what &quot;forward&quot; really means for their fragile lives.)
 
 
-!!!Dragon society
+### Dragon society
 
 The dragons--all metallic and chromatic flavors--hail from a massive world known as Dragonstar. The planet's gravity is twice as powerful as Earth's, as is its mystic energy, meaning that mystic effects there are twice as strong as they would be on Earth. Dragonstar is unique in that it does not orbit a star, but travels throughout the galaxy. The planet itself is alive, called Glaurung by the dragons, and revered by them. Legend says that long, long ago, the dragons lived in paradise. But then the Ancient Wyrm with seven heads--whom the dragons call the Beast--came to devour them. The dragons were rescued by Glaurung, who arrived to carry them to safety.
 
@@ -89,10 +93,10 @@ They have been wandering the universe ever since. The elders tell the younglings
 
 Dragons live a very long time by human standards (over 1,000 years), but do eventually die. When that happens, dragon lore says that the dragon's spirit returns to the ancient paradise to exist peacefully with the other transcendent dragons.
 
-Lastly, dragons possess the secrets of ((MagicPsionics|psionic power)), meaning that not only can dragons draw on Dragonstar's mystic energy to perform magic, they can also train their minds to draw from within.
+Lastly, dragons possess the secrets of [psionic power](MagicPsionics), meaning that not only can dragons draw on Dragonstar's mystic energy to perform magic, they can also train their minds to draw from within.
 
 
-!!!Young [http://www.d20srd.org/srd/monsters/dragonTrue.htm#whiteDragon|white dragon] level progression
+### Young [white dragon](http://www.d20srd.org/srd/monsters/dragonTrue.htm#whiteDragon) level progression
 
 ||__Level__|__Hit Dice__|__Base Attack/Grapple__|__Fort Save__|__Ref Save__|__Will Save__|__Skill Points__|__CR__|__Special__
 1st|1d12|+0/+0|+2|+0|+0|(6 + Int mod) x 4|1|+1 natural armor, natural attacks, icewalking, immunity to cold, vulnerability to fire, speed 30 ft., fly 90 ft. (poor)
@@ -101,7 +105,7 @@ Lastly, dragons possess the secrets of ((MagicPsionics|psionic power)), meaning 
 4th|3d12|+3/+3|+4|+2|+2|(6 + Int mod)|1|+3 natural armor, Keen Senses, speed 40 ft., fly 120 ft. (poor), swim 20 ft.
 5th|4d12|+4/+4|+4|+2|+2|(6 + Int mod)|2|+2 Con, fly 130 ft. (poor), burrow 10 ft.
 6th|4d12|+4/+5|+5|+3|+3|-|2|+4 natural armor, breath weapon 2d6 (14), fly 140 ft. (poor), swim 30 ft.
-7th|5d12|+5/+6|+5|+3|+3|(6 + Int mod)|2|+5 natural armor, [http://www.d20srd.org/srd/naturalSpecialAbilities.htm#blindsense|Blindsense], speed 50 ft., fly 150 ft. (poor)
+7th|5d12|+5/+6|+5|+3|+3|(6 + Int mod)|2|+5 natural armor, [Blindsense](http://www.d20srd.org/srd/naturalSpecialAbilities.htm#blindsense), speed 50 ft., fly 150 ft. (poor)
 8th|6d12|+6/+7|+6|+4|+4|(6 + Int mod)|2|+2 Str, fly 160 ft. (poor), burrow 20 ft., swim 40 ft.
 9th|7d12|+7/+8|+6|+4|+4|(6 + Int mod)|3|+6 natural armor, fly 170 ft. (poor)
 10th|7d12|+8/+9|+7|+5|+5|-|3|+7 natural armor, breath weapon 3d6 (16), speed 60 ft., fly 180 ft. (poor), swim 50 ft.
@@ -109,7 +113,7 @@ Lastly, dragons possess the secrets of ((MagicPsionics|psionic power)), meaning 
 12th|9d12|+9/+11|+8|+6|+6|(6 + Int mod)|3|+8 natural armor, fly 200 ft. (poor), swim 60 ft.||
 
 
-!!!Merit point costs for unique abilities
+### Merit point costs for unique abilities
 
 ||__Ability__|__Cost__
 Breath weapon|1mp per 1d6

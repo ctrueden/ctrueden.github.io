@@ -1,9 +1,13 @@
--=Mass Combat Rules=-
-
+---
+layout: page
+title: Mass Combat Rules
+permalink: /deus/MassCombat
+category: deus
+---
 These mass battle rules have been adapted from Savage  Worlds (starting on page 104) and the Lord of the Rings  (starting on page 238).
 
 
-!!Participants
+## Participants
 
 __Inside:__ Saturday group, Cain, Alfadir, Merlin, Adana, Elana, Liza, Seeker (first half), Ariona
 
@@ -36,7 +40,7 @@ __Events:__
 *Selena switches sides
 
 
-!!Setup (pre-battle)
+## Setup (pre-battle)
 
 Assign tokens to each unit:
 *Gerald -- 5
@@ -48,15 +52,15 @@ Assign tokens to each unit:
 Heroes decide with which unit they are initially affiliated, and with which other heroes they are teaming.
 
 
-!!Combat
+## Combat
 
 Combat is divided into 10 minute turns. The following phases happen each turn.
 
-!!!Divvy Forces
+### Divvy Forces
 
 Each general (Gerald, Sledge, Lefty, Selena, Mordred) simultaneously and secretly allocates their army's tokens with respect to the enemy units. For each general, sum the allocation differences across all enemy units to determine the aggregate bonus or penalty to that general's battle roll.
 
-!!!Decide Actions
+### Decide Actions
 
 Heroes and Generals decide their actions for the turn. Possible actions include:
 *Command army (general only -- Tactics roll)
@@ -72,7 +76,7 @@ When fighting, roll 2d6, and use the result as follows:
 *Deadly Combat (9-10): Character encounters a powerful foe, and has individual combat (ten round limit). (First foes are the general's lieutenants, followed by  the general himself.) This result prevents the  character and foe from contributing to this turn's battle roll.
 *Valorous Deed (11-12): Character gets an opportunity to accomplish a great task. As normal battle, but character's bonus to the battle roll this turn is doubled. (Add flavor text when possible.)
 
-!!!Determine Modifiers
+### Determine Modifiers
 
 Before each unit makes its battle roll, the appropriate modifiers must be decided. These include:
 
@@ -103,15 +107,15 @@ Note 2: For teaming heroes, for every member of the team beyond the first, a -1 
 *Other modifiers (GM discretion):
 **Gerald has set traps that grant a +2 on the first turn of battle.
 
-!!!Resolve Deadly Combats
+### Resolve Deadly Combats
 
 Each deadly combat that has been incurred is a 10 round fight (maximum) between the heroic team that rolled it, and the chosen foe. It is resolved as a normal d20 Future battle would be.
 
-!!!Make Battle Rolls
+### Make Battle Rolls
 
 Each unit rolls a d20, adding their appropriate modifiers, against DC 15. Success causes the opposing force to lose one token (according to this turn's allocation -- if tied, general chooses how the tie is broken). For every 5 above 15, the opposing army loses an additional token.
 
-!!About Unconsciousness, Death and Dying
+## About Unconsciousness, Death and Dying
 
 If a character begins incurring lethal damage, he must save against unconsciousness, dying and death as normal. If he is teamed with others, those people may heal him by spending mystic points (up to their mystic level).
 
@@ -121,7 +125,7 @@ If a character falls unconscious, his unit takes a -2 morale penalty that turn. 
 
 If a general is removed from the battle for any reason, the Will save bonus for the morale check becomes +0. A lieutenant can take over as the new general, assuming he has communication with the troops (the lieutenant loses his next action getting his bearings as the new general).
 
-!!!Make Morale Check
+### Make Morale Check
 
 Leader makes a Will save for morale each turn that his unit loses a token -- DC 10 base:
 * +2 per token lost
@@ -132,12 +136,12 @@ Leader makes a Will save for morale each turn that his unit loses a token -- DC 
 If the Leader fails the check, the army is defeated and the troops retreat. One last battle roll determines how many troops are defeated during the retreat. Apply the amount the Leader failed to the final battle roll to represent a &quot;morale penalty&quot; for the retreat. (E.g., if the leader fails badly, then this penalty could result in devastating losses during the retreat -- i.e., a rout).
 
 
-!!Aftermath
+## Aftermath
 
 For each token lost during the battle, roll a d20. The victor recovers a token on a roll of 11-20. (I.e., 50%  chance per token that it wasn't permanently lost -- the  ). For the loser, it's a roll of 15-20 (adjusted upward  by 1 per two points the Leader failed the final morale check -- i.e., by 2-3, 16-20; by 4-5, 17-20; by 6-7,  18-20; by 8-9, 19-20, by 10 or more, 20).
 
 
-!!Events
+## Events
 
 Gerald is there with his contingent, and Sledge is ready as well. They have done quite a bit of planning and preparation.
 
@@ -152,14 +156,14 @@ Keep the suspense and tension for a bit, then Lefty arrives in the nick of time 
 It is possible that one of them could talk Selena into switching sides, since Mordred's corrupted are so horrifying to her.
 
 
-!!Destroying the Bubble
+## Destroying the Bubble
 
 Forces can be allocated against the bubble, which counts as though it has 5 tokens. If success is achieved by the enemy unit, then damage inflicted counts against the bubble's current strength, represented by jewels (16 to start). If it reaches zero, the bubble is breached.
 
 Once DEO appears, two beads per turn are sucked out of the bubble, and the battlefield is universally affected by a Heavy bombardment effect.
 
 
-!!Tweaks and Improvements
+## Tweaks and Improvements
 
 Oz suggests the DC for battle rolls be 10 + average troop level, instead of DC 15. Average troop level should probably also modify the DC 20 checks to contribute to the general's battle roll.
 

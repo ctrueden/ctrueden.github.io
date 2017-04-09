@@ -1,3 +1,9 @@
+---
+layout: page
+title: Joint08
+permalink: /deus/Joint08
+category: deus
+---
 If they allow Bryant to return to warn the Caretaker, he does so, and the Caretaker withers all the Heart Trees if Nyx opens the conduit (immediately before the antimatter explosion).
 
 -----

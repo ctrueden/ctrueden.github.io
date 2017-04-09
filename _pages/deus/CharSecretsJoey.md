@@ -1,5 +1,9 @@
--=Joey's Character's Secrets=-
-
+---
+layout: page
+title: Joey's Character's Secrets
+permalink: /deus/CharSecretsJoey
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Joey's character.
 
 Wants to achieve godhood. He believes mystics are &quot;closer to God&quot; in their power. So he has been trying to use gene therapy to give himself mystic abilities.

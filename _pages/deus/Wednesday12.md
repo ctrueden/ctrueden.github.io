@@ -1,13 +1,19 @@
-!!Events
+---
+layout: page
+title: Wednesday12
+permalink: /deus/Wednesday12
+category: deus
+---
+## Events
 
 *Travel to Arcadia, meet Boris, join the Silent Syndicate, uncover Josef's plot to kill Boris
 *Learn more about necrophagic grafts, Pandora's Children, the Brotherhood, and Trenton's past
 
 
-!!News
+## News
 
-Double-check news at ((Events)) page. Fill in players if they go anywhere with news access.
-*See ((Talk20060205)) for details on how Pandora's Children have organized a smear campaign against Ridge and soulmechs in general.
+Double-check news at [Events](Events) page. Fill in players if they go anywhere with news access.
+*See [Talk20060205](Talk20060205) for details on how Pandora's Children have organized a smear campaign against Ridge and soulmechs in general.
 *On the 12th, &quot;fortune cookie&quot; emails are received:
 
 **__Noun__:
@@ -32,13 +38,13 @@ The final words he ever thought
 **__Malcolm__: &quot;The path of humble penitence reveals two roads to heaven: one of absolution, one of disillusion. Heaven and earth shall pass away, but my words shall not pass away.&quot; (final sentence: Matthew 24:35)
 
 
-!!What Dorian knows
+## What Dorian knows
 
 *The other two captains are members of Pandora's Children, an anti-soulmech order. They were both taking orders from someone else at the base. Dorian, however, is not a member, but performed his end of the bargain in exchange for a necrophagic graft.
 *Ponce Dorian knows only the name of his contact on Arcadia: &quot;Butler.&quot; Butler is an AI, who manages preparing the individuals for surgery. He also handles negotiation and payment.
 
 
-!!Malcolm loses his powers
+## Malcolm loses his powers
 
 Because he killed a wounded, unarmed man, his powers begin to malfunction. Those he has healed (Noun, Arial) begin to develop festering blisters. Noun is strong and manages to survive, but Arial dies if Malcolm heals her again.
 
@@ -49,22 +55,22 @@ Malcolm receives a prophecy on the 12th with a hint about how to restore them (s
 He can restore them with meditation and prayers for 17 days.
 
 
-!!Damage to the Perseverance
+## Damage to the Perseverance
 
 Though they fixed up the ship, those repairs were short-term. It still needs more long-term repairs. Those will take several weeks' time to complete.
 
 
-!!Noun's recovery of Pronoun
+## Noun's recovery of Pronoun
 
 By passing a Knowledge: Continuum check DC 30 and performing a long ritual (12 days of seclusion), he can key a newly created Bag to the same pocket in the Continuum that he did before, to recover Pronoun.
 
 
-!!Ridge's family
+## Ridge's family
 
 They need to be examined to determine how they were brainwashed, and hopefully cured. Given time (three weeks of treatments), Dr. Peters can repair their minds, using his abilities.
 
 
-!!Arcadia
+## Arcadia
 
 *Boris Derrota -- kingpin and economic superpower; suspects his brother's agenda and is monitoring him closely; asks the party to watch Josef in exchange for information about Pandora's Children &amp; the Brotherhood
 *Annika Derrota -- mysterious and reclusive; __TODO__
@@ -75,7 +81,7 @@ They need to be examined to determine how they were brainwashed, and hopefully c
 *Strife (Laura Morningbird) -- travels to Arcadia to continue the Pandora's Children agenda
 *Maxim Signaevsky -- __TODO__
 
-!!Magitech's bounty on Laiden
+## Magitech's bounty on Laiden
 
 Two of the Cassenti children are devoted to tracking down and taking custody of Laiden and his ship.
 
@@ -94,7 +100,7 @@ Smart 5, Dedicated 5
 Wounds 14, Vit 40
 
 
-!!Moss and Nyx on Mars
+## Moss and Nyx on Mars
 
 Fey, if she inquires as to William Moss on Earth, learns that things spiraled out of control:
 *William Moss makes it back to Earth
@@ -104,12 +110,12 @@ Fey, if she inquires as to William Moss on Earth, learns that things spiraled ou
 *There is no turning back for him after that; he moves to Mars at Nyx's behest to build his necropolis
 
 
-!!Brotherhood/Pandora's Children plotline, relation to Trenton
+## Brotherhood/Pandora's Children plotline, relation to Trenton
 
-See ((Talk20060205)) for details.
+See [Talk20060205](Talk20060205) for details.
 
 
-!!Technofearful
+## Technofearful
 
 *Ordered by the UNF to travel to Wolf 359 (as one of the 42 ships) to oppose the Technofearful; Trenton can act as an intermediary between opposing forces; possible joint session with Saturday 
 

@@ -1,6 +1,12 @@
-Thanks to ((Playereva|Eva)) for this session summary.
+---
+layout: page
+title: SessionSat09
+permalink: /deus/SessionSat09
+category: deus
+---
+Thanks to [Eva](Playereva) for this session summary.
 
-These session notes are from ((CharPublicEva|Rae))'s perspective, and are originally from [http://www.digitalchangeling.com/gaming/session_notes/deus/060204.html].
+These session notes are from [Rae](CharPublicEva)'s perspective, and are originally from [http://www.digitalchangeling.com/gaming/session_notes/deus/060204.html].
 
 -----
 Session started at 2:18 pm on 2/4/06

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Saturday05
+permalink: /deus/Saturday05
+category: deus
+---
 The goal is to draw the Saturday group into the Lupus/Canis war. Merlin Huntington is probably involved in this process.
 
 The Caretaker tells Vadril Korlax that while it desires him to resume his research, he is not yet ready to do so. First he must continue his journeys, to gain the wisdom necessary so that he may one day program the (fully nondeterministic) AI for the great machine the Caretaker is constructing. He also tells Vadril that he may, during his travels, have an opportunity to obtain a vital artifact necessary to drive the machine -- Nebuchadnezzar's Crown. If he finds it, he must not allow it to fall into the wrong hands.

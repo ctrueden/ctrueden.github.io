@@ -1,10 +1,16 @@
+---
+layout: page
+title: Wednesday06
+permalink: /deus/Wednesday06
+category: deus
+---
 Events:
 *Visit dragon planet.
 *Get a lead on Cain's location -- the UNF has intelligence indicating a lightning-class frigate blasted a hole in the Pax Artificium dome while tractoring a humanoid body. The ship blasted the hole to avoid the body colliding with it directly. According to the ship's AI, the body is headed for Mars and will arrive in 10-14 days.
 *The UNF sends the PCs to Mars to confront Cain!
 
 
-!!!Involve Ridge more
+### Involve Ridge more
 
 LORE chips have a flaw -- or an exploit put there by Dr. Soong -- the Royals and/or Xela exercise the option to take over certain AIs? Maybe the Caretaker really wants miller2, and has the Royals try to control Serra.
 
@@ -21,6 +27,6 @@ Serra's major remaining purpose was to avoid revealing details on the miller2 im
 To perform miller2 tasks locally near her own body, Ridge will need to install quantum fluctuators in her soulmech. But she can tap into Serra's computing power to improve her computation speed.
 
 
-!!!Accessing Dragonstar
+### Accessing Dragonstar
 
 Claire Jansen is on a UNF ship, the UNF Reliant, that has been trying to land on the rogue planet but cannot (even though they learned to counter the gravitic distortions by analyzing the probe -- Glaurung has protections that automatically deflect all incoming spatial objects). But Perseverance can approach while phased.

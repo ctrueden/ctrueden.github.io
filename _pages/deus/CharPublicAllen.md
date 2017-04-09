@@ -1,5 +1,9 @@
--=Vittorio Garibaldi=-
-
+---
+layout: page
+title: Vittorio Garibaldi
+permalink: /deus/CharPublicAllen
+category: deus
+---
 Physcial first:
 
 Height 6foot-ish

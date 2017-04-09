@@ -1,10 +1,16 @@
-!!What does God need with a starship?
+---
+layout: page
+title: SessionWed05
+permalink: /deus/SessionWed05
+category: deus
+---
+## What does God need with a starship?
 
 In Gaian's secret grove three sirens, twenty halflings, Sledge, and the group are in silent awe from the fiery creation of the sun seed.  Sledge breaks the silence, "I guess it's over, so if you want to talk with the caretaker, you just need to go touch the tree."
 
 Fey touches the tree first.  Noun examines the roots that reach out to places not of Earth in ways similar to how his arch did.  Laiden watches everyone else touch the heart tree falling into some trance state.  Twenty seconds later, Serra tells Laiden that a very loud voice (caretaker) is asking for classified information and wonders whether she should share it.  Laiden leaves that decision up to Serrra, but warns her that the caretaker is not to be fully trusted.  Laiden decides to touch the tree as well.
 
-!!!What is learned from the caretaker
+### What is learned from the caretaker
 There is a profound sense of vast hugeness beyond comprehend.  Thoughts, concerns, and questions all rise up in the minds of those in the caretaker's presence.  Nearly simultaneously each person's mind is flooded with answers in series of complex thoughts, images, and deeper understanding to what they want to know.
 
 The caretaker's powerful comforting presence convinces all that it is not insane.  It protects all life including machines on Earth, the moon, and all colonies.  It has a strict code to not interfere except in times of great crisis, allowing those under its protection to choose their own way.  The void that annihilated Percepi is a great crisis, thus his involvement at this time.
@@ -29,10 +35,10 @@ The caretaker tells of another ship that can move at speeds faster than light th
 
 Trenton, Malcolm, and Noun have personal issues they discuss with the caretaker which are not in these notes.
 
-!!!Worst quote of the session
+### Worst quote of the session
 "All babies should have a 6 foot penis" in reference to binding Luna with Cain.
 
-!!!On with the story
+### On with the story
 Laiden goes off on his own as the rest meet with Everlily Nix.  Fey explains the seed's needs to be planted on the sun to free the souls and that the caretaker's determined plans with the Luna are not insane.  Nix wants to express some other ideas of hers, but the divination shield on the group prevents her from doing so.  It is suggested that Nix board Perseverance to tell us her thoughts.  Nix determines she can handle everyone in a fight, thus agrees to come.  In space, far from Earth, (Nix is excited about being in space), says it might be possible to make a tree to connect back to Luna instead of the Caretaker.
 
 A short discussion on the void and its dangers is followed by banter on whether sending the souls to Luna will start a war?  Nix points out that the Caretaker wasn't specific about how the souls were going to be used. She just knows he's going to do something unnatural.  The war has already started and she says to come back to talk with her when they feel differently.  Nix disappears.

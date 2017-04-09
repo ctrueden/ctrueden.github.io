@@ -1,5 +1,9 @@
--=U.N. Forces=-
-
+---
+layout: page
+title: U.N. Forces
+permalink: /deus/OrgUNForces
+category: deus
+---
 The UNF is an extension of the United Nations. They are a small military force devoted to protecting the known galaxy from both internal and external threats. They have some latitude, but generally take orders from the consensus of the UN itself.
 
 The ranks of the UNF and number of shoulder bars are:

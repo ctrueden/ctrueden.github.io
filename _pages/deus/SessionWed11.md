@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed11
+permalink: /deus/SessionWed11
+category: deus
+---
 SUMMARY
 Laiden, Ridge, Noun, Andrew, and Fey subdue Ridge's relatives who do a fair amount of damage to the computer systems.
 

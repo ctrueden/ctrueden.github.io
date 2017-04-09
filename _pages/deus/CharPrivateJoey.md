@@ -1,14 +1,18 @@
--=Joey's Character's Details=-
-
+---
+layout: page
+title: Joey's Character's Details
+permalink: /deus/CharPrivateJoey
+category: deus
+---
 This page will provide private details of Joey's character, for Joey and the GMs only.
 
 
-!!!The concept
+### The concept
 
 There have been two proposed character concepts, with a third idea being to combine the two.
 
 
-!!!First idea
+### First idea
 
 My character's primary goal is to achieve transcendance or godhood-to become something much greater than himself.  He fully believes attaining godhood to be possible.  My character would be a race/species/class that can use magic or psionics.  He would strive to improve his powers whenever possible: believing this to be the key to transcendence.
 
@@ -37,7 +41,7 @@ However, if too many people play psions and mystics and nobody else is going to 
 At the very least the bearded types must be represented.  Therefore, my character MUST be bearded (not necessarily dwarfed) if no one else's character is.
 
 
-!!!Second idea
+### Second idea
 
 I'd like to have a character who has been really screwed up due to some combination of genetic engineering, drug use, radiation exposure, mutation, nanotechbots used for biological purposes, and injections with strange chemicals.  Maybe a government wanted to make biological soldiers and he was part of the experimentation process.  Maybe some corporation was testing how compatible the sample of alien DNA they acquired is with human DNA.  The specifics behind how he came to be what he is do not interest me so much as that it did happen, he has no idea what happened, and no one else knows what happened, he just is.
 
@@ -82,12 +86,12 @@ __Active Abilities/Traits__
 This is not a complete list and I'm not exactly sure what I'd like him to be able to do, or what his goals are.  Perhaps if I talked to you in person a bit more on a later date, and found out about plot, we could make him work somehow.  The closest thing I can think of is a mongrelman from some 2nd ed monster character creation book I used to have/use.
 
 
-!!!Combined idea
+### Combined idea
 
 Last time we talked, we seemed to agree that it might be cool to combine these ideas: a guy who wants to achieve godhood, and has been having gene therapy done on himself in various complex experimental ways to try and engineer mystic abilities into himself (which he does not possess naturally). Unfortunately, these experiments have reduced his mental abilities, and altered his physiology drastically, as described above.
 
 
-!!!The character
+### The character
 
 Well, I had written a whole lot about the combined character's backstory, but some horrible timeout thing happened and all the info was lost (note to self: type in a word processing program first, copy, paste).  I don't want to type it all again, so here are the highlights:
 
@@ -106,7 +110,7 @@ Well, I had written a whole lot about the combined character's backstory, but so
 *I'd like him to have at least 1 ability representing each of the following life forms: Mammal, reptile, amphibian, insect, and plant.  He will also have some troll DNA from the genetic manipulation.  Hence, his &quot;natural&quot; skin color will probably be grass green.  That's as far as I am now, but I will get back to you when I determine what other features he'll possess.
 
 
-!!!MP for merits
+### MP for merits
 
 *Regeneration/Fast Healing ~~#FF0000:2mp per 1 point of fast healing~~
 *Gliding Fall/Slow Fall ~~#FF0000:2mp for unlimited distance~~
@@ -124,7 +128,7 @@ Well, I had written a whole lot about the combined character's backstory, but so
 *Paralyzing sting (jelly fish -- Cause opponent struck to lose next action due to stunning) ~~#FF0000:1mp for each usage per day (DC 10 + key ability modifier)~~
 
 
-!!!Merits Submission
+### Merits Submission
 
 Human 33 MP:
 
@@ -160,17 +164,17 @@ Human 33 MP:
 --33--
 
 
-!!!MPD
+### MPD
 
 *Contested will saves for control of the body.  Divin expends 1 point of his will save when making the attempt.  Divin gets -1 to will saves every minute when in control and regains +1 over 10 min when not.  Standard action to contest. Mind-effecting spells only work against the one in control.  Mental Ability scores and some feats are different for each personality.  The difference in ability scores will be the merit point cost while any ability scores below 10 count towards the 20 flaw point maximum, and feats only take effect when the personality who has it is in control.  The merit point costs will be calculated seperately then divided in half.  When making skill checks, the one who is currently in control uses the relevant stats, however, Divin can use 1 point of will power to use his stats for the check.
 
 
-!!!Description
+### Description
 
 Meechum has the beginning growth of a black dragon-like wing out of his left shoulder blade (2ft. long), a single white horn coming out of the top-right-front of his head (right above his forehead and on the right side about an inch long).  The left side of his face is green scaled.  His left eye is hazel while his right eye is Cat-like.  He has a tan, orange, and white Lion's mane around his face and down his chin.  His right leg is grey, goat-like, and hoofed while his left leg is orange and ostrich-like with a specially crafted brown leather boot where the talons stick out (however both legs are proportional, by length, to a human leg).  His left arm is also orange and bird-like, ending in a taloned claw.  His right arm is bear-like with grizzly brown fur ending in a paw.  His skin is green with a jumbled mixture of scales, feathers, and patches of fur where appropriate.  He has gills on his neck.  He has an iguana-like tail (3 ft. long) protruding out of his specially-designed shorts.  His torso surprisingly resembles that of a human however green it may be.  He wears a worn, torn, dirty and faded white lab coat around his body.  He appears to be 5' 9&quot; tall when standing upright.
 
 
-!!!Questionnaire:
+### Questionnaire:
 
 Name: Devon Merrideth, Meechum, xor Divin
 Family: Two deceased parents, Tyler and Jennifer, both were mystics.  Live younger sister, Angelica, average mystic in a government
@@ -222,7 +226,7 @@ What does your character think about the following statements (1=Strongly disagr
 Meechum pretty much believes whatever Divin tells him.  Divin thinks that most of what Meechum does is fairly effective in terms of survival, but if he needs extra guidance, Divin will give him pointers, or take over.
 
 
-!!!Shattered
+### Shattered
 
 The following information pertains to the Shattered Â­advanced class.
 __Hit Die:__ 1d8
@@ -264,7 +268,7 @@ __Cellular Sentience:__ At sixth level, Meechum undergoes a drastic change, with
 __Enforced Mutation:__ Sometimes things are just not well adapted to the situations they find themselves in.  When Meechum and Divin shattered, their consciousness was spread to every cell of the body and became a hive mind calling itself &quot;Unity.&quot; Being a Hive mind has sky-rocketed control over the body to such an extent that it can now alter its form mind-bogglingly fast and adapt itself to current situations. By spending an action point, Unity can enforce a mutation upon itself. The change is a full round action and Unity is &quot;permanently&quot; altered. To mutate, Unity selects any number of existing mutations to be dropped. Unity then acquires a new mutation stored in its DNA memory gland, with maximum merit point cost equal to the sum of the dropped mutations. (Any extra mp are placed in reserve, and available for use during the next enforced mutation.)
 
 
-!!!New Feats
+### New Feats
 
 So, I don't know about a new advanced class I'll make (maybe later), but I will list off some new abilities I'd want Meechum to have.  I'll leave it up to Curtis to decide if I could have these and come up with appropriate mp costs.
 

@@ -1,6 +1,12 @@
-is evening on Luna on Saturday, July 22, 2299.  ((CharPublicAlex|Ariona)), ((CharPublicJon|Nikolai)), ((CharPublicJoey|Unity)), ((CharPublicAllen|Vittorio)), ((CharPublicGriffin|Adam)) have arrived at the edge of the Great Forest and been led to the site of the Heart Tree (and the ritual) by ((CharPublicAndy|Brice)), ((NPCJasmine|Jasmine)), and ((NPCGerald|Gerald)).  Ariona plans to start the rite inside the "bubble," where other forces will be defending the central rite, while the rest of the group will be aiding Gerald outside the "bubble" in holding off any forces which may try to interfere after the rite has begun.  Brice, of course, will be in both places at once. 
+---
+layout: page
+title: SessionMon16
+permalink: /deus/SessionMon16
+category: deus
+---
+is evening on Luna on Saturday, July 22, 2299.  [Ariona](CharPublicAlex), [Nikolai](CharPublicJon), [Unity](CharPublicJoey), [Vittorio](CharPublicAllen), [Adam](CharPublicGriffin) have arrived at the edge of the Great Forest and been led to the site of the Heart Tree (and the ritual) by [Brice](CharPublicAndy), [Jasmine](NPCJasmine), and [Gerald](NPCGerald).  Ariona plans to start the rite inside the "bubble," where other forces will be defending the central rite, while the rest of the group will be aiding Gerald outside the "bubble" in holding off any forces which may try to interfere after the rite has begun.  Brice, of course, will be in both places at once. 
 
-Adam confers with some AIs, and winds up with a couple of additional units to help in the anticipated battle.  Brice asks if anyone has any contact information for ((CharPublicLucas|Noun)), and Ariona offers to make him a portal to Noun.  Brice agrees, so Ariona does so, and drops the portal once Brice and Jasmine go through.  Ariona then spends some time preparing for the coming altercation. 
+Adam confers with some AIs, and winds up with a couple of additional units to help in the anticipated battle.  Brice asks if anyone has any contact information for [Noun](CharPublicLucas), and Ariona offers to make him a portal to Noun.  Brice agrees, so Ariona does so, and drops the portal once Brice and Jasmine go through.  Ariona then spends some time preparing for the coming altercation. 
 
 Gerald draws a smaller sword, which begins to glow.  A large bubble (around 10 feet in radius) appears around him.  Any magic within the bubble ceases to function.  When the effects leave the bubble, they begin to function again.  Ariona grimaces and walks into the bubble to have a quick conversation about tactics with Gerald.  Everyone within a fairly good distance can see her ears, clearly visible outside her ponytail, switch from round to pointy when she enters.  She requests that if she leaves the big bubble later to aid in the fighting, that Gerald try to have as few enemies in his bubble as possible, so that her area effects will be able to affect the most people.  He shrugs and says the other sword is more fun against noobs, anyway, because it lets people hit him more easily.  Ariona is very confused, so Gerald talks her into trying to hit him with magic so she can find out.  He stabs the smaller sword into the ground, and after about 18 seconds the glow stops.  He then draws the other sword and says, "Go ahead." 
 
@@ -10,13 +16,13 @@ Unity wanders around and asks random questions of anyone that will listen to the
 
 ----- 
 
-Brice returns, with Jasmine, and appears shaken.  Jasmine has dark circles under her eyes, and appears quite upset.  The two of them, Ariona, and ((NPCCain|Cain)) then walk toward the large tree.  There are a few gnomes and a larger number of royals standing around the tree, and there is quite intricate circuitry built all over the tree.  The gnomes and royals appear to be making some last-minute adjustments to the incredibly detailed electronic work. 
+Brice returns, with Jasmine, and appears shaken.  Jasmine has dark circles under her eyes, and appears quite upset.  The two of them, Ariona, and [Cain](NPCCain) then walk toward the large tree.  There are a few gnomes and a larger number of royals standing around the tree, and there is quite intricate circuitry built all over the tree.  The gnomes and royals appear to be making some last-minute adjustments to the incredibly detailed electronic work. 
 
-((CharPublicMike|Vadril)), ((CharPublicNate|Max)), ((CharPublicJames|Zee)), and ((CharPublicEva|Rae)) are standing near the tree, but no one is able to spot ((CharPublicJohn|Matt)).  Another man is standing near them, whom Ariona guesses by his appearance to be the ancient ((NPCSeeker|Seeker)).  He is short, of Mediterranean descent, with a very, very long braid, bare feet, and a homespun hooded red robe with a belt. 
+[Vadril](CharPublicMike), [Max](CharPublicNate), [Zee](CharPublicJames), and [Rae](CharPublicEva) are standing near the tree, but no one is able to spot [Matt](CharPublicJohn).  Another man is standing near them, whom Ariona guesses by his appearance to be the ancient [Seeker](NPCSeeker).  He is short, of Mediterranean descent, with a very, very long braid, bare feet, and a homespun hooded red robe with a belt. 
 
 There is also a twisted archway here, engraved with faeries and other forest creatures.  It boggles the mind, seeming to twist in ways that don't appear to be possible.  It looks to have been crafted by Noun. 
 
-((NPCHuntington|Merlin Huntington)) is also present, speaking with ((NPCAlfadir|an important-looking royal named Alfadir)).  There are ((NPCVargan|two)) ((NPCHimpur|dwarves)) and ((NPCPenelope|two)) ((NPCRudolfo|gnomes)) around Alfadir, appearing to be bodyguards.  Two are obviously spellbreakers, one of each race, and the other two are just as clearly mystics.  ((NPCAdana|Adana Cassenti)), ((NPCElana|Elana Connendeol)), and ((NPCEliza|Eliza)) (wearing an acorn necklace) are also present.  
+[Merlin Huntington](NPCHuntington) is also present, speaking with [an important-looking royal named Alfadir](NPCAlfadir).  There are [two](NPCVargan) [dwarves](NPCHimpur) and [two](NPCPenelope) [gnomes](NPCRudolfo) around Alfadir, appearing to be bodyguards.  Two are obviously spellbreakers, one of each race, and the other two are just as clearly mystics.  [Adana Cassenti](NPCAdana), [Elana Connendeol](NPCElana), and [Eliza](NPCEliza) (wearing an acorn necklace) are also present.  
 
 Finally, Ariona spots four pixies hiding, invisible, in the trees surrounding the Heart Tree. 
 
@@ -32,9 +38,9 @@ He looks at Vadril, Max, Zee, Jasmine, Brice, and Ariona in turn, but doesn't ap
 
 Outside the bubble, Vittorio asks if Nikolai can still communicate with Brice after the wall goes up.  While this is possible, no one can contact Ariona (or anyone else except Brice) through the 'Net. 
 
-Nikolai moves into position with ((NPCSledge|Sledge)) and his crew.  Unity follows.  Gerald prepares his Dwarven forces for the fight.  Adam readies his AI assistants, from exoskeletal suits of armor right down to the toasters.  Vittorio offers his assistance to Adam.  The armies stand ready. 
+Nikolai moves into position with [Sledge](NPCSledge) and his crew.  Unity follows.  Gerald prepares his Dwarven forces for the fight.  Adam readies his AI assistants, from exoskeletal suits of armor right down to the toasters.  Vittorio offers his assistance to Adam.  The armies stand ready. 
 
-A gate opens.  ((NPCSelena|A woman with an aura of confidence)) steps through.  She has a rather feral-looking appearance, and several individuals in the group recognize her as Selena Sharptooth. 
+A gate opens.  [A woman with an aura of confidence](NPCSelena) steps through.  She has a rather feral-looking appearance, and several individuals in the group recognize her as Selena Sharptooth. 
 
 "It's best you go away, little girl!  People gonna die here!" Gerald yells harshly. 
 
@@ -92,13 +98,13 @@ Huntington appears a bit stunned, but all right.  He does not appear affected by
 
 Adam inspires his unit to great feats of valor.  Nikolai scares the crap out of a bunch of poor little Gaians.  Unity wreaks havoc on a chunk of Selena's army, while Gerald taunts the lieutenants in an attempt to get them to engage him in single combat. 
 
-Gerald is successful in drawing not one, but two of Selena's three lieutenants into one-on-two combat.  His opponents appear to be vampires, something that strikes many as odd, since vampires do not typically get along with Gaians.  Nikolai, Vittorio, Brice, and Ariona, however, would recognize these two particular vampires as ((NPCHunter|Hunter Savage)) and ((NPCKimi|Kimi Eagle Talon)).  
+Gerald is successful in drawing not one, but two of Selena's three lieutenants into one-on-two combat.  His opponents appear to be vampires, something that strikes many as odd, since vampires do not typically get along with Gaians.  Nikolai, Vittorio, Brice, and Ariona, however, would recognize these two particular vampires as [Hunter Savage](NPCHunter) and [Kimi Eagle Talon](NPCKimi).  
 
 Gerald charges Hunter and cleaves one of his arms clean off.  Hunter and Kimi exchange horrified glances and begin to back away.  They try to concentrate, but their attempts to go into mist form are ineffective as they are within Gerald's bubble.  Kimi dives away, and immediately disappears as she turns into mist form and sinks into the ground.  Hunter, however, is stunned by Gerald's blow and unable to escape.  Gerald's second blow destroys Hunter utterly. 
 
 The AI forces decimate their Gaian opponents, causing them all to fall or flee.  Sledge's unit and their opponents appear about evenly matched, losing a significant fraction of their forces without being terribly damaged. 
 
-Selena roars and transforms into her largest werewolf-hybrid form.  "Aid me, whether you like it or not!" she cries.  ((NPCMeera|A wolf unlike any ever seen)) steps forth.  She is silvery, large, and very fierce-looking.  She is wearing a large collar on her neck. 
+Selena roars and transforms into her largest werewolf-hybrid form.  "Aid me, whether you like it or not!" she cries.  [A wolf unlike any ever seen](NPCMeera) steps forth.  She is silvery, large, and very fierce-looking.  She is wearing a large collar on her neck. 
 
 ----- 
 
@@ -106,7 +112,7 @@ Adam and Vittorio continue to augment the robotic meat grinder.  Gerald taunts, 
 
 ----- 
 
-Suddenly, Brice's foreboding crystallizes.  He remembers what happened that he was dreading.  Brice says, "Fuck!  ((NPCMordred|Mordred)). . . ."  A man steps out of a portal on the edge of the clearing.  He is wearing dark, heavy armor, and is holding a gigantic broadsword which glows with dark energy.  He is beautiful, with long, dark, curly hair, yet incredibly menacing and terrifying.  He gestures, and hundreds if not thousands of portals open all around the clearing. 
+Suddenly, Brice's foreboding crystallizes.  He remembers what happened that he was dreading.  Brice says, "Fuck!  [Mordred](NPCMordred). . . ."  A man steps out of a portal on the edge of the clearing.  He is wearing dark, heavy armor, and is holding a gigantic broadsword which glows with dark energy.  He is beautiful, with long, dark, curly hair, yet incredibly menacing and terrifying.  He gestures, and hundreds if not thousands of portals open all around the clearing. 
 
 Strange, twisted figures step out of the portals.  Orcs, goblins, drow, all the creatures of nightmare crawl, ooze, and flow from the darkened gates.  Especially astute observers notice the remnants of humanity (or gnomishness, or dwarvenness, etc.) in these creatures of darkness. 
 
@@ -120,7 +126,7 @@ Adam and Seeker, on opposite sides of the battlefield, attempt to point out to S
 
 Mordred extends his arm.  A large raven, black as soot, lands upon it.  The raven sits for a moment, then flies away to peck out the eyes of Mordred's enemies.  Meanwhile, as one of the twisted creatures falls, Mordred plunges his huge broadsword into its heart, seeming to draw sustenance from the creature's death. 
 
-Vittorio and Ariona attempt to use their magic to protect Adam's robots.  Brice offers to clear a path to Mordred for Gerald, and a line of fireballs erupts between them.  Gerald walks along it, growing closer and closer to Mordred.  Just as he is about to reach the evil general, ((NPCEvan|a figure)) steps between them.  He looks like a twisted version of an elf, but with black skin and white hair. 
+Vittorio and Ariona attempt to use their magic to protect Adam's robots.  Brice offers to clear a path to Mordred for Gerald, and a line of fireballs erupts between them.  Gerald walks along it, growing closer and closer to Mordred.  Just as he is about to reach the evil general, [a figure](NPCEvan) steps between them.  He looks like a twisted version of an elf, but with black skin and white hair. 
 
 Across the field, Ariona squeaks.  She stops what she's doing, and appears to be staring into space.  She sends an anguished mental message to Gerald:  "Please, try not to kill him!  Please?  Just incapacitate him?" 
 
@@ -128,7 +134,7 @@ Gerald asks incredulously why, and Ariona replies that he is her grandfather.  H
 
 The evil elf-creature attempts to cast a spell at Gerald, whose anti-magic bubble causes it to fizzle.  Gerald then attacks him, causing him to stagger back and clutch his chest, grievously wounded.  Nikolai tries to uses his new whip of shadows to catch Evan, but misses.  Evan then makes some threats, and displaces himself away. 
 
-((NPCDefiant|The Defiant)), one of DEE's Apostles, contacts Adam at this point.  "Prophet: dire news!"  Adam sees a video feed of a gigantic ship shimmering and appearing, bearing DEE's sigil, but it is an unfamiliar ship.  A huge beam shoots down from it, directly at the bubble protecting the rite.  Adam confirms that the ship is not in any of his databases, nor in the Defiant's.  Adam decides that the obvious course of action now is to contact DEE. 
+[The Defiant](NPCDefiant), one of DEE's Apostles, contacts Adam at this point.  "Prophet: dire news!"  Adam sees a video feed of a gigantic ship shimmering and appearing, bearing DEE's sigil, but it is an unfamiliar ship.  A huge beam shoots down from it, directly at the bubble protecting the rite.  Adam confirms that the ship is not in any of his databases, nor in the Defiant's.  Adam decides that the obvious course of action now is to contact DEE. 
 
 ----- 
 
@@ -144,7 +150,7 @@ Unity, Gerald, Nikolai, Seeker, and the robots continue to wreak havoc on Mordre
 
 Adam confers with DEE.  "A heretic emblazoned with our symbol attempts to usurp our legacy."  DEE lets Adam know that he will be coming to deal with this problem and assist Adam in his task. 
 
-There are no more gates in the grove, but people are beginning to appear.  They seem to be using displacement to arrive.  The most notable is someone jetting in from above the combat, trailing a line of fire behind them.  It resolves itself into a metallic, graceful yet strong-looking being, whose great shining armor is also hot pink.  Some people recognize this individual as the head of the ((OrgMystics|World Mystics Guild)), ((NPCLefty|"Lefty.")) 
+There are no more gates in the grove, but people are beginning to appear.  They seem to be using displacement to arrive.  The most notable is someone jetting in from above the combat, trailing a line of fire behind them.  It resolves itself into a metallic, graceful yet strong-looking being, whose great shining armor is also hot pink.  Some people recognize this individual as the head of the [World Mystics Guild](OrgMystics), ["Lefty."](NPCLefty) 
 
 ----- 
 

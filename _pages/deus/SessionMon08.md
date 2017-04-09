@@ -1,4 +1,10 @@
-We return to our band of rabble, heroes, and assorted sentients about the good ship ((CharPublicGriffin|DEE)).  45 minutes have passed since the end of the previous session.  Everyone on board the ship (which include ((CharPublicAlex|Ariona Cassyon)), ((CharPublicJon|Nikolai)), ((CharPublicAllen|Vitorrio Garibaldi)), ((CharPublicJoey|Meechum)), ((CharPublicAndy|Bryce Murphy)), ((CharPublicMark|Trenton Vernor)), ((CharPublicJason|Laiden Rahu)), ((CharPublicDanielle|Fey Arius)), ((CharPublicPaul|Dr. Andrew Peters)), and ((CharPublicLucas|Noun and Pronoun)), as well as ((NPCMoss|William Moss)) and ((NPCBryant|Harry Bryant))) has been engaged in a discussion about what to do next.  ''(For more information, read the General Discussion message boards.)''.  On the Perseverance, ((CharPublicOzzyie|Malcolm Biggs)), ((CharPublicAthena|Ridge)), ((NPCRossner|Admiral Rossner)), and the ship Sarah also participate in this discussion while they beginning sweeping the city for any trace of the antimatter core. 
+---
+layout: page
+title: SessionMon08
+permalink: /deus/SessionMon08
+category: deus
+---
+We return to our band of rabble, heroes, and assorted sentients about the good ship [DEE](CharPublicGriffin).  45 minutes have passed since the end of the previous session.  Everyone on board the ship (which include [Ariona Cassyon](CharPublicAlex), [Nikolai](CharPublicJon), [Vitorrio Garibaldi](CharPublicAllen), [Meechum](CharPublicJoey), [Bryce Murphy](CharPublicAndy), [Trenton Vernor](CharPublicMark), [Laiden Rahu](CharPublicJason), [Fey Arius](CharPublicDanielle), [Dr. Andrew Peters](CharPublicPaul), and [Noun and Pronoun](CharPublicLucas), as well as [William Moss](NPCMoss) and [Harry Bryant](NPCBryant)) has been engaged in a discussion about what to do next.  ''(For more information, read the General Discussion message boards.)''.  On the Perseverance, [Malcolm Biggs](CharPublicOzzyie), [Ridge](CharPublicAthena), [Admiral Rossner](NPCRossner), and the ship Sarah also participate in this discussion while they beginning sweeping the city for any trace of the antimatter core. 
 
 Vernor asks to look at the Crown, as does Noun.  Vernor shudders and says he doesn't think they should use the Crown.  He claims to have seen a vision of the crown turning into a fur cap and blood streaming from Ariona's clenched hands.  Pronoun claims that Ariona will lose control of the Crown within two days, but she says nothing.  Noun watches her closely. 
 
@@ -10,7 +16,7 @@ Bryce and Meechum/Divin remain on DEE.  Ridge, Biggs, Rossner, and Sarah continu
 
 ----- 
 
-The shuttle lands, and the party approaches ((NPCCain|Cain)).  (Vitto is inside Ariona, and Fey is small and invisible.)  They see him, flanked by two zombies.  "Where is the one who I spoke to?" he intones. 
+The shuttle lands, and the party approaches [Cain](NPCCain).  (Vitto is inside Ariona, and Fey is small and invisible.)  They see him, flanked by two zombies.  "Where is the one who I spoke to?" he intones. 
 
 Ariona steps forward.  "Um, the one you spoke to is the ship's computer."  Cain rolls his eyes and looks disbelieving and exasperated. 
 
@@ -113,7 +119,7 @@ DEE announces that the core has been returned.
 
 DEE continues, "Dr. Moss, please return to the group." 
 
-"What have you done with her?!  Where's ((NPCNyx|Everlily Nyx))?!" Moss thunders. 
+"What have you done with her?!  Where's [Everlily Nyx](NPCNyx)?!" Moss thunders. 
 
 "She is . . . in a place where I know she will be of use to me," Cain replies smugly.  "Those are my terms," he continues. 
 

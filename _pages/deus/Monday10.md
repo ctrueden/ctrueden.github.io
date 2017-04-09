@@ -1,9 +1,15 @@
-!!!Max
+---
+layout: page
+title: Monday10
+permalink: /deus/Monday10
+category: deus
+---
+### Max
 
 Max has been given a data crystal containing some of Vitto's personal communications from 8-9 years ago. [[To his trusted bodyguard and friend Emilio: &quot;M: It's worse than I thought -- Bryant's got his fingers in everything, and he's even got people starting to believe his bullshit. We gotta talk him outta it. Tell B to meet us outside the restaurant in three hours. -V&quot; Later, in person, Vitto remembers: &quot;But what if he doesn't listen, boss?&quot; &quot;He'll listen. I'll fuckin' make him listen. And if he doesn't... we's'll take care of 'im ourselves, and soon.&quot;] The Caretaker instructs Max to befriend Vitto, help him remember his past, and help restore him to the position that was once his, but is now held by Harry Bryant. In addition, Xela instructs Max to do everything he can to induce his new &quot;friends&quot; to recover her Crown as quickly as possible (she is hoping to use it as a bargaining chip to gain additional privileges from the Caretaker). If they won't cooperate, he is to report back to her for additional instructions within two weeks' time.
 
 
-!!!Nikolai
+### Nikolai
 
 He is visiting Gaia's Order on Earth every few days, to check on the status of the Deus rite. Xela has learned that Nikolai has checked in, and plans to do so again. Thus, she sends two spellbreakers (Vargan Foamblower, dwarven, and Penelope Pandemonium, gnomish) and two mystics (Himpur Darkeye, dwarven, and Rudolfo Marvel, gnomish), along with Max, to confront him.
 
@@ -18,7 +24,7 @@ If Nikolai attempts to establish communications with the Void, he sees a vision 
 Nikolai also receives a prophecy from the Caretaker's miller2 experimentation (see DEE below): &quot;True understanding lies cloaked in shadow, known only to he who stands for nothing.&quot;
 
 
-!!!Vitto
+### Vitto
 
 Bryant has engineered that over a 24-hour period (one night worldwide: July 22nd), a large number of Syndicate operatives die.
 
@@ -35,7 +41,7 @@ One of the bodyguards, Bianca, is a sacrificialist, but not Emilio -- he chicken
 Most members of the Syndicate have been infected with a timed nanitic poison. Emilio does not know, however. He dies on the same day as everyone else.
 
 
-!!!Ariona
+### Ariona
 
 She is emailed by Deblin Gaddelsmocks, imploring her help in proving her innocence, and riddling her once again with crazy conspiracy theories -- in particular, her latest theory is that StratCo conspired to ruin her and her husband Barclay Pipwhistle -- she just still isn't sure why, to what end. But she &quot;knows&quot; they had some diabolical reason, and wants to find out what it is (since she's still a journalist at heart).
 
@@ -46,7 +52,7 @@ Of course, Ariona can only follow up on this lead if she actually can check her 
 Evan Cassenti would agree to see her, although he is emotionally distant (although it would upset Vondre Willowtree). However, Evan probably will not tell her the truth regarding the Gaddelsmocks/Bernstein kidnapping incident. If Ariona continues to investigate, Anat (who ostensibly went with Evan during the split) is dispensed to perform damage control.
 
 
-!!!Meechum
+### Meechum
 
 If DEE arrives anywhere with mystic energy, Moss immediately ports to the ship and requests that his energy rifle and mystic sensor be returned to him. He explains that his resolve is weakening and his time is short, but that his problems are something that he must deal with on his own. If Monday will not turn over the items, Moss takes them by force.
 
@@ -65,12 +71,12 @@ Erik Lensherr
 Brotherhood of Homo Sapiens Superior&quot;
 
 
-!!!Eddie
+### Eddie
 
 He hears the psionic echoes from Nikolai's Void Step and freaks out. He also works with the crew to improve things and promises to build various gadgets for people.
 
 
-!!!Brice
+### Brice
 
 He learns that Eddie is a computer of sorts, and figures out how to &quot;access&quot; him. His processing power is minimal, but he has an amazingly large amount of internal storage. Brice uncovers reams of data collected a very long time ago (thousands of years -- from ~6500 BC).
 
@@ -81,7 +87,7 @@ Brice has also received a response from Jasmine. &quot;Dear Brice, I am learning
 Brice also receives a prophecy from the Caretaker's miller2 experimentation (see DEE below): &quot;The union of order and chaos yields tragedy... revolution... and catharsis.&quot; [[Referring to a possible child born of the Divine Verb and Divine Operator bringing great change -- it could grow (or be made to grow) much more quickly than a normal child, like Mordred from Arthurian legend. Later, it could free Mordred, claiming they are kindred spirits.]
 
 
-!!!DEE
+### DEE
 
 The Caretaker has been experimenting with miller2, attempting to use it in conjunction with the miller &quot;prophecy&quot; algorithm. As a result of one of these attempts, certain newly uncovered arcane tidbits of information have been sent to various people -- electronically, but transcending network limitations (the Caretaker is intrigued by this development and wishes to harness miller2's potential to send electronic messages to anyone, anywhere -- although it has not fully deciphered how to do so yet).
 

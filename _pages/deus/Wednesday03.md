@@ -1,4 +1,10 @@
-((Talk20051002|Most of this session's planning here))
+---
+layout: page
+title: Wednesday03
+permalink: /deus/Wednesday03
+category: deus
+---
+[Most of this session's planning here](Talk20051002)
 
 Admiral Rossner is adamant that they need a defense against this rogue planet. &quot;This threat is unlike anything we have ever seen.&quot; He will argue vigorously that it would be foolish not to have ready every tool at their disposal.
 

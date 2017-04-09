@@ -1,3 +1,9 @@
+---
+layout: page
+title: Saturday06
+permalink: /deus/Saturday06
+category: deus
+---
 Merlin Huntington is engineering a war between Lupus and Canis for revenge, but also to cause confusion so that he can steal the circlet. He had a hand somehow in Ocean's decision to sell the crown to the Volokhovs, maybe?
 
 Zee was in custody on Lupus, alone with Huntington, who programmed Zee to bomb the mysticport. The man with the mask is an Illusion Huntington uses for various purposes.

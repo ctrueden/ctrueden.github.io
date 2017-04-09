@@ -1,16 +1,20 @@
--=Jon's Character's Details=-
-
-!!!-The concept
+---
+layout: page
+title: Jon's Character's Details
+permalink: /deus/CharPrivateJon
+category: deus
+---
+### The concept
 
 The good-hearted but naive son of Boris and Anika (PaleDeathKnight761). As the son of a void elemental, he is half void elemental. As the son of two people with mystic potential, he inherited mystic abilities [[Curtis: if you want him to have inherited them]. He is one of a select few who could have learned psionics (if Boris deigned to teach him). He might take after his parents' interest in computers. He potentially could have inherited Anika's strange ability to connect with the minds of others, especially if he is mystic and/or psionic [[Curtis: starting to sound a lot like my character in your game (:wink:)]. Lastly, he could have learned necrophagic techniques from Boris as well (again, if Boris chose to pass them down). It would be good to hear more about the character's specific interests, since he has many to choose from.
 
 
-!!!-The History
+### The History
 
 Born and raised on several distant colonies, each farther than the last as civilization extended its grasp (his most recent home was a space settlement near Canis in the Sirius system), Nikolas has spent almost all of his life in the care of his parents.  Raised to be a decent person, caring, and compassionate, his beliefs about the nature of existence and the emptiness of the void only fuel his desire to ensure that as little pain as possible be felt on the road to oblivion that most living beings must eventually walk.  Taught the skills of his parents, but alongside the proper way to use them, he is psychically and mystically capable, and possesses the alchemical secrets his father gleaned.  Very little of significance other than learning has occured in Nikolas's life.  Sometimes his father would take him out into the world, sometimes to Magitek, sometimes to other colonies around the home of the time, but usually just to test his son's abilities.  Now Nikolas is old enough and, his parents hope, strong enough to see what the universe has to offer, and they have told him that he should see it all for himself, either to strengthen his convictions or to change them as they need.  And so, ever obedient and trusting of his beloved family, Nikolas has gone out into the world.
 
 
-!!!-The Answers
+### The Answers
 
 Character name : &quot;Nikolas!&quot;
 
@@ -67,7 +71,7 @@ Humanity has been rash in seeding other worlds with mystic energy before fully g
 Technology is more dangerous than mystic energy, and is more likely to destroy us some day.   3.  &quot;I, uh, really don't know.&quot;
 
 
-!!!-Merits &amp; flaws
+### Merits &amp; flaws
 
 2mp - Mystic 1
 4mp - Psion 1
@@ -99,7 +103,7 @@ TOTAL 46mp
 TOTAL -16mp
 
 
-!!!-Other notes
+### Other notes
 
 Mystic:
 *Destr 1
@@ -126,7 +130,7 @@ These are raw materials which while conceivably could be sold for profit, would 
 Also, starting with a +5 magical saber.
 
 
-!!!-Legendary Item: Dragon Ring
+### Legendary Item: Dragon Ring
 
 Ti Lung, Fine Dragon (4&quot; long) - 11 mp
 
@@ -151,7 +155,7 @@ __Abilities:__
 *Breath attack once every 1d4 rounds, 5 foot cone, deals 2d4 points of fire damage and inflicts one (non-stacking) negative level (Reflex save DC 18 for vitality instead of wounds, and no negative level) [[1d4 fire and one negative level per HD/4; DC = 10+HD]
 *If slain, it reverts to ring form and cannot be summoned for 1 day
 *Can choose to release master's &quot;Improved Mystic Charge&quot; on itself
-*Alertness, Improved Evasion, Share Spells (see [http://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars|Familiars])
+*Alertness, Improved Evasion, Share Spells (see [Familiars](http://www.d20srd.org/srd/classes/sorcererWizard.htm#familiars))
 *Immune to fire and negative energy
 *Speaks Draconic
 *7 mp: Telepathic link
@@ -161,13 +165,13 @@ __Abilities:__
 *11 mp: Create Shadows (1/day; see Draconomicon &quot;Shadow Dragon&quot;)
 
 __Advancement:__
-*12 mp: Dragon Apotheosis (1/day merge with Ti Lung to become Adult Shadow Dragon for up to 1 round/level, as ''[http://www.d20srd.org/srd/spells/shapechange.htm|shapechange]'', negative levels from the breath weapon dissipate as ''[http://www.d20srd.org/srd/spells/enervation.htm|enervation]'')
-*+1 mp - ''[http://www.d20srd.org/srd/spells/mirrorImage.htm|Mirror image]'' (caster level 7)
-*+1 mp - ''[http://www.d20srd.org/srd/spells/nondetection.htm|Nondetection]'' (caster level 7)
-*+1 mp - ''[http://www.d20srd.org/srd/spells/dimensionDoor.htm|Dimension door]'' (caster level 7)
+*12 mp: Dragon Apotheosis (1/day merge with Ti Lung to become Adult Shadow Dragon for up to 1 round/level, as ''[shapechange](http://www.d20srd.org/srd/spells/shapechange.htm)'', negative levels from the breath weapon dissipate as ''[enervation](http://www.d20srd.org/srd/spells/enervation.htm)'')
+*+1 mp - ''[Mirror image](http://www.d20srd.org/srd/spells/mirrorImage.htm)'' (caster level 7)
+*+1 mp - ''[Nondetection](http://www.d20srd.org/srd/spells/nondetection.htm)'' (caster level 7)
+*+1 mp - ''[Dimension door](http://www.d20srd.org/srd/spells/dimensionDoor.htm)'' (caster level 7)
 
 
-!!!-Base class: Disciple of the Void
+### Base class: Disciple of the Void
 
 A student of the Void is, technically, a student of nothing.  But unlike those students who study nothing, the Disciple of the Void studies the essence of nothingness, rather than simply choosing not to study.
 
@@ -206,7 +210,7 @@ Additionally, his new closeness to the Void allows him to use his Channel Void a
 Finally, the Disciple gains the supernatural ability to step out of mundane reality into a shadow world, remaining there for up to five minutes.  While there, he regains five Vitality points per minute, as the latent Void energies refresh the Disciple.  If the Disciple's Vitality pool is full, he regains 1 Wound point per minute, as his wounds rapidly close themselves.  The world of Void is a shadowy transmutation of the real world.  The Disciple can glimpse shadows of those left behind in the real world, but cannot make out much with clarity.  Objects exist as shadows in the Void, and manipulations of these objects that occur in the real world are reflected in the Void.  However, objects manipulated in the Void (doors, for example) are not altered in the real world.  Still, manipulating things in the Void can occasionally have bizarre consequences. 
 
 
-!!!-Advanced class: Void Ascendant
+### Advanced class: Void Ascendant
 
 __Hit Die:__ 1d6
 __Class Skills:__ ...
@@ -227,20 +231,20 @@ __Void Step (Su):__ At 1st level, the Ascendant can step directly into the Void 
 
 __Void Echoes (Su):__ At 2nd level, the Ascendant can tap into the Void to mentally destabilize his enemies. As a standard action once per day, the Ascendant emits a psionic scream affecting all enemies within a radius of 25 feet per Ascendant level. Those affected must succeed at a Will save (DC 10 + Ascendant level + Cha modifier) or be stunned for one round.
 
-__Void Reflex (Su):__ At 3rd level, the Ascendant develops an instinctual ability to retreat to the Void when in danger. Whenever the Ascendant would normally be destroyed, he is instead shunted to the Void, where he regains one wound point per minute. He remains until fully healed, at which point his body is reconstructed back in reality at the location he previously occupied. Note that effects such as ''[http://www.d20srd.org/srd/spells/dimensionalAnchor.htm|dimensional anchor]'' block the reflex from functioning, so it is still possible, though difficult, to permanently kill the Ascendant.
+__Void Reflex (Su):__ At 3rd level, the Ascendant develops an instinctual ability to retreat to the Void when in danger. Whenever the Ascendant would normally be destroyed, he is instead shunted to the Void, where he regains one wound point per minute. He remains until fully healed, at which point his body is reconstructed back in reality at the location he previously occupied. Note that effects such as ''[dimensional anchor](http://www.d20srd.org/srd/spells/dimensionalAnchor.htm)'' block the reflex from functioning, so it is still possible, though difficult, to permanently kill the Ascendant.
 
 __Commune with the Void (Su):__ At 4th level, the Ascendant may occasionally commune with the Void itself to obtain brief answers to questions. The Ascendant may invoke this ability once per week, and may ask a number of questions equal to half his class level. The answers are always brief, and from the perspective of the Void.
 
 __Annihilation (Ex):__ At 5th level, the Ascendant gains the ability to shift an object's destruction back in time. If the Ascendant uses Destruction magic to eliminate something, he may spend an action point to destroy the object back through the time stream for a number of rounds up to his class level. He incurs an amount of vacuity (see below) equal to the number of rounds back in time the object's destruction occurred.
 
-__Time Stop (Su):__ At 6th level, the Ascendant begins to understand the true timelessness that is the Void. Once per day, he may step into the Void, remain there for 1d4+1 rounds of perceived time, then step back out again at the exact same point in time and space. Effectively, this ability functions as the spell ''[http://www.d20srd.org/srd/spells/timeStop.htm|time stop]'', but with the Ascendant shifting himself out of both time and space.
+__Time Stop (Su):__ At 6th level, the Ascendant begins to understand the true timelessness that is the Void. Once per day, he may step into the Void, remain there for 1d4+1 rounds of perceived time, then step back out again at the exact same point in time and space. Effectively, this ability functions as the spell ''[time stop](http://www.d20srd.org/srd/spells/timeStop.htm)'', but with the Ascendant shifting himself out of both time and space.
 
-__Void Duplicate (Su):__ At 7th level, the Ascendant is capable of assisting his past self with critical but short tasks. His future self steps into the Void and steps out back in time. This ability functions similarly to the ''[http://www.d20srd.org/srd/epic/spells/timeDuplicate.htm|time duplicate]'' spell, but the duplicate can come from further in the future (although the duplicate may only remain in the shifted time stream for one round). Relying on this power is dangerous, however; the Ascendant suffers an amount of vacuity (see below) equal to the number of rounds back in time the future self travels. The vacuity is incurred after the duplicate returns to the normal time stream. (The &quot;past self&quot; feels a mounting pressure in his mind as time passes before he has traveled back in time to help himself--the longer he takes to do so, the more mental anguish he ultimately feels.)
+__Void Duplicate (Su):__ At 7th level, the Ascendant is capable of assisting his past self with critical but short tasks. His future self steps into the Void and steps out back in time. This ability functions similarly to the ''[time duplicate](http://www.d20srd.org/srd/epic/spells/timeDuplicate.htm)'' spell, but the duplicate can come from further in the future (although the duplicate may only remain in the shifted time stream for one round). Relying on this power is dangerous, however; the Ascendant suffers an amount of vacuity (see below) equal to the number of rounds back in time the future self travels. The vacuity is incurred after the duplicate returns to the normal time stream. (The &quot;past self&quot; feels a mounting pressure in his mind as time passes before he has traveled back in time to help himself--the longer he takes to do so, the more mental anguish he ultimately feels.)
 
 __Void Mastery:__ At 8th level, the Ascendant fully realizes the nature of the Void and existence itself. He may use all of his Void abilities at will (and without spending any action points), although he still incurs vacuity (see below) as normal. However, he no longer needs to make a Fortitude save to avoid being stunned, nor does he suffer any vitality damage from vacuity incurred. In addition, he recovers from vacuity incurred at twice the normal rate.
 
 
-!!!-Vacuity
+### Vacuity
 
 The Void exists outside of time and space, but the fabric of reality is sturdily woven, and resists being circumnavigated in the manner employed by the Void Ascendant. When the Ascendant does something particularly in opposition to reality's rules, he may incur vacuity points.
 
@@ -251,12 +255,12 @@ For every two points of vacuity accumulated, the Ascendant suffers a -1 penalty 
 The Ascendant recovers from vacuity at a rate of one per day. If the Ascendant's vacuity ever exceeds half his character level, he is in danger of being rejected by reality itself. He must pass a Fortitude save (DC 20 + one half vacuity) when he first crosses the threshold and each time he incurs additional vacuity. Failure results in the Ascendant becoming trapped in the Void forevermore.
 
 
-!!!-Void Lash
+### Void Lash
 
 3 mp - Void Lash +5 - Threat range: 20 feet. Crit range: 19-20/x2. 1d3+5 vitality damage when used as a whip. Alternately, can make a touch attack to entangle the opponent. If successful, an immediate supernatural attack can be attempted on the entangled target through the lash. This attack can either be an annihilation attempt with improved progression, or a use of a pseudonatural feat (PDK powers). A save is still granted. If the entangle attempt was a successful &quot;critical,&quot; the DC is increased by 4.
 
 
-!!!-Alchemical Items
+### Alchemical Items
 
 Slippery Socks -- -6 slickness penalty to balance and tumble while they are worn, but +15 slickness to movement (DC 43)
 *wraith's eye

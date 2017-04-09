@@ -1,4 +1,10 @@
-!!Laboro
+---
+layout: page
+title: Monday15
+permalink: /deus/Monday15
+category: deus
+---
+## Laboro
 The twelve disciples:
 *__Bruce Freeman__ -- android
 *__Annie__ -- amphibious multipurpose hauling vehicle (named for Tugboat Annie)
@@ -19,13 +25,13 @@ Adam reappears within a few minutes, because DEE's information transfer (a dump 
 
 Since DEE wants the Deus rite to proceed unimpeded, Adam may be able to convince Freeman to return with them. However, if they don't bring Bruce Freeman back, Cain arrives &quot;fashionably late&quot; to the rite.
 
-!!Syndicate suicide
-See ((Monday14)).
+## Syndicate suicide
+See [Monday14](Monday14).
 
-!!Random interlude
+## Random interlude
 Summer breeze makes you feel fine, blowing through the Jasmine in Brice's mind...
 
-!!Alchemical ideas
+## Alchemical ideas
 *Goop that turns everything it touches white -- but could potentially use the absorbed color to unleash a prismatic spray
 *Minor ring of invisibility -- turns you invisible, but only against people of whom you are aware
 *Bottle that always produces classic vintage wine, but always the wrong kind
@@ -37,8 +43,8 @@ Summer breeze makes you feel fine, blowing through the Jasmine in Brice's mind..
 *Cat's cradle of entanglement -- as the entangle spell (mind affecting) on a single target while concentrating only, but target receives no save; both you and the target are affected while the spell is in effect (i.e., neither of you can move, since you are entangled by the enchantment)
 *Glove of magic missile -- must make gun motion with hand to fire single missile per round (optional downside: costs vitality)
 
-!!Deus rite
-See ((Talk20060409)) for a list of participants in the Deus rite.
+## Deus rite
+See [Talk20060409](Talk20060409) for a list of participants in the Deus rite.
 
 Cassenti, suspicious of Selena's motives since Scorpio's inexplicable knowledge of Cain's position, decides to test her loyalty. She tells Selena that she has told no one else that the Deus rite is going to happen... later than it really will (midnight that night). Selena tips off the New Lunar Order and they plot an attack, but when the shield goes up prematurely (as one of her spies reports), Selena realizes they have been duped and they attack immediately.
 

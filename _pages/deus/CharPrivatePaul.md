@@ -1,5 +1,9 @@
--=Paul's Character's Details=-
-
+---
+layout: page
+title: Paul's Character's Details
+permalink: /deus/CharPrivatePaul
+category: deus
+---
 This page will provide private details of Paul's character, for Paul and the GMs only.
 
 Quiz:

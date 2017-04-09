@@ -1,3 +1,9 @@
+---
+layout: page
+title: Monday06
+permalink: /deus/Monday06
+category: deus
+---
 Events:
 *DEE is contacted by Admiral Rossner, a member of the UNF, who has some pointed questions about the events relating to the &quot;Cain being thrown off the planet&quot; incident.
 *Ensure that 10ish days pass. Cain Mars confrontation must be on Sunday, June 25, or later (due to Wednesday's interaction with the rogue planet on June 23-5).

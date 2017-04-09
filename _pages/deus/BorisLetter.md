@@ -1,3 +1,9 @@
+---
+layout: page
+title: BorisLetter
+permalink: /deus/BorisLetter
+category: deus
+---
 To:  Fey Arius
 From:  Boris Derrota
 Subject:  Grafts.

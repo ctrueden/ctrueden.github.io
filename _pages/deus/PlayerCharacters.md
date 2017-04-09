@@ -1,24 +1,28 @@
--=Player Characters=-
-
+---
+layout: page
+title: Player Characters
+permalink: /deus/PlayerCharacters
+category: deus
+---
 Here is a list of the PCs in the campaign.
-*((CharPublicGriffin|Adam)) (Griffin)
-*((CharPublicPaul|Andrew Peters)) (Paul)
-*((CharPublicAlex|Ariona Cassyon)) (Alex)
-*((CharPublicAndy|Brice Murphy)) (Andy)
-*((CharPublicDanielle|Fey Arius)) (Danielle)
-*((CharPublicKelsey|Harry Bryant)) (Kelsey)
-*((CharPublicMegan|Hep)) (Megan)
-*((CharPublicAJ|Ian Thorpe)) (AJ)
-*((CharPublicJason|Laiden Rahu)) (Jason)
-*((CharPublicOzzyie|Malcolm Biggs)) (Ozzyie)
-*((CharPublicJohn|Matt Smith)) (John)
-*((CharPublicNate|Maximilian Cohen)) (Nate)
-*((CharPublicJoey|Meechum)) (Joey)
-*((CharPublicJon|Nikolai)) (Jon)
-*((CharPublicLucas|Noun)) (Lucas)
-*((CharPublicEva|Rae Denison)) (Eva)
-*((CharPublicAthena|Ridge Kilgerren)) (Athena)
-*((CharPublicMark|Trenton Verner)) (Mark)
-*((CharPublicMike|Vadril Korlax)) (Mike)
-*((CharPublicAllen|Vittorio Garibaldi)) (Allen)
-*((CharPublicJames|Zee)) (James)
+*[Adam](CharPublicGriffin) (Griffin)
+*[Andrew Peters](CharPublicPaul) (Paul)
+*[Ariona Cassyon](CharPublicAlex) (Alex)
+*[Brice Murphy](CharPublicAndy) (Andy)
+*[Fey Arius](CharPublicDanielle) (Danielle)
+*[Harry Bryant](CharPublicKelsey) (Kelsey)
+*[Hep](CharPublicMegan) (Megan)
+*[Ian Thorpe](CharPublicAJ) (AJ)
+*[Laiden Rahu](CharPublicJason) (Jason)
+*[Malcolm Biggs](CharPublicOzzyie) (Ozzyie)
+*[Matt Smith](CharPublicJohn) (John)
+*[Maximilian Cohen](CharPublicNate) (Nate)
+*[Meechum](CharPublicJoey) (Joey)
+*[Nikolai](CharPublicJon) (Jon)
+*[Noun](CharPublicLucas) (Lucas)
+*[Rae Denison](CharPublicEva) (Eva)
+*[Ridge Kilgerren](CharPublicAthena) (Athena)
+*[Trenton Verner](CharPublicMark) (Mark)
+*[Vadril Korlax](CharPublicMike) (Mike)
+*[Vittorio Garibaldi](CharPublicAllen) (Allen)
+*[Zee](CharPublicJames) (James)

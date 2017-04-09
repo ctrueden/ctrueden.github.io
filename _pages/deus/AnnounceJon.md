@@ -1,6 +1,10 @@
--=Jon's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Jon's Experience Tally and Other Announcements
+permalink: /deus/AnnounceJon
+category: deus
+---
+### Experience
 
 || |__Session__|__Individual__|__Total so far__|__Level__|__Bonus MP__
 Pre|-|30|30|1|-

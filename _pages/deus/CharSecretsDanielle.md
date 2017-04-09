@@ -1,5 +1,9 @@
--=Danielle's Character's Secrets=-
-
+---
+layout: page
+title: Danielle's Character's Secrets
+permalink: /deus/CharSecretsDanielle
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Danielle's character.
 
 FLEXIBLE - possibly the colony disappearance plot, because maybe she knows the Heart Tree there has ceased to be

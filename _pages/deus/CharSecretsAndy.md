@@ -1,5 +1,9 @@
--=Andy's Character's Secrets=-
-
+---
+layout: page
+title: Andy's Character's Secrets
+permalink: /deus/CharSecretsAndy
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Andy's character.
 
 An anomaly, able to draw his power directly from the destiny force (the intelligence behind the universe itself). Purpose: eliminate the Destroyer echo from the universe.
@@ -8,7 +12,7 @@ Unbenownst to everyone for the entire campaign, once the Destroyer is gone, ever
 
 -----
 
-!!Brice's color vision
+## Brice's color vision
 *white -- organic presence in the digital realm
 *yellow -- wireless communication
 *pink -- positive mystic energies

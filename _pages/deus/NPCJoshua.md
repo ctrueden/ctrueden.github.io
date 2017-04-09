@@ -1,3 +1,7 @@
--=Joshua=-
-
-One of ((CharPublicGriffin|DEE's)) twelve machine disciples, Joshua is the Laboro central computer.
+---
+layout: page
+title: Joshua
+permalink: /deus/NPCJoshua
+category: deus
+---
+One of [DEE's](CharPublicGriffin) twelve machine disciples, Joshua is the Laboro central computer.

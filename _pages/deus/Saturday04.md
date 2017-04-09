@@ -1,3 +1,9 @@
+---
+layout: page
+title: Saturday04
+permalink: /deus/Saturday04
+category: deus
+---
 Glaurung and the dragons have forgotten their original purpose: to lure the Destroyer away from Earth.
 
 Why has Glaurung come so close to Sol these past few hundred years? Could he be flirting with disaster? Is he yearning for the lost paradise? Or is he just losing it?
@@ -15,7 +21,7 @@ __Who founded Lupus? Who is in charge?__
 
 __Why were they preparing for war?__
 *The general has become increasingly unstable over the past few years. His major goal is to protect Lupus from all threats. He heard that Canis was planning to launch a strike against them, and was planning to make the first move before they could get a chance. Now, the events of Percepi and Mercury have really driven him over the edge.
-*As for Canis, their leader, Mikhail Volokhov (named for a nihilist character from an [http://www.nationarchive.com/Summaries/v103i2666_10.htm|Ivan Goncharov novel], also has intelligence that Lupus is planning to launch a strike against them, and was planning to make the first move before Lupus could get a chance.
+*As for Canis, their leader, Mikhail Volokhov (named for a nihilist character from an [Ivan Goncharov novel](http://www.nationarchive.com/Summaries/v103i2666_10.htm), also has intelligence that Lupus is planning to launch a strike against them, and was planning to make the first move before Lupus could get a chance.
 *In actuality, both of these rumors were cunningly planted by the last living member of the Seven, Merlin (&quot;Lin&quot;) Huntington, who is hoping to rekindle old hatred and get revenge for what happened nearly 200 years ago. Unwittingly, he is a pawn of the Destroyer in that he is cosmically evil-aligned.
 
 __What is society on Lupus like?__

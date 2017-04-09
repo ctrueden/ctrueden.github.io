@@ -1,3 +1,9 @@
+---
+layout: page
+title: Monday16
+permalink: /deus/Monday16
+category: deus
+---
 __[[Mon 16]__
 *Stop Mordred and the New Lunar Order from disrupting the Deus rite
 *The appearance of Damocles Experiment Omega
@@ -5,14 +11,14 @@ __[[Mon 16]__
 
 Joey will not be present for this session.
 
-See ((Monday15)) for an overview of the situation.
+See [Monday15](Monday15) for an overview of the situation.
 
-See ((MassCombat)) for detailed information on the mechanics of the Deus rite combat.
+See [MassCombat](MassCombat) for detailed information on the mechanics of the Deus rite combat.
 
 
-!!Character sheets
+## Character sheets
 
-!!!-Sledge
+### Sledge
 
 Troll 11, Strong 7
 
@@ -49,7 +55,7 @@ Feats: Power Attack, Cleave, Great Cleave
 
 Talents: Melee Smash 3, Ignore Hardness 1
 
-!!!-Lefty
+### Lefty
 
 Fast 10, Charismatic 5
 
@@ -82,7 +88,7 @@ Talents: Advanced Increased Speed (+15), Evasion, Uncanny Dodge 1 &amp; 2, Defen
 
 Psionic powers: Creat 2, Destr 2, Dis 5, Div 2, Enh 5, Heal 5, Ill 10, Kin 15, Mind 5, Pyro 5, Trans 3, Res 26/50
 
-!!!-Selena Sharptooth (Hybrid form)
+### Selena Sharptooth (Hybrid form)
 
 Werewolf 2, Tough 4, Charismatic 8
 
@@ -116,7 +122,7 @@ Feats: Combat Martial Arts, Defensive Martial Arts, Agile Riposte
 
 Talents: Damage Reduction 2/-, Fast Talk (+8 to Bluff, Diplomacy and Gamble when lying), Coordination, Greater Inspiration
 
-!!!-Meera
+### Meera
 
 Str 30 +10
 Dex 28 +9
@@ -146,9 +152,9 @@ Wounds 30
 
 Feats: Blind-fight, Improved Initiative, Improved Trip
 
-!!!-Hunter, Kimi, Petrov
+### Hunter, Kimi, Petrov
 
-[http://www.d20srd.org/srd/monsters/vampire.htm|Vampires]
+[Vampires](http://www.d20srd.org/srd/monsters/vampire.htm)
 
 Str 22 +6
 Dex 16 +3
@@ -182,13 +188,13 @@ Blood Drain
 
 Feats: Alertness, Combat Reflexes, Dodge, Improved Initiative, Lightning Reflexes
 
-!!!-Mordred
+### Mordred
 
 Kelsey is working on it.
 
 -
 
-!!Miscellaneous notes
+## Miscellaneous notes
 
 Vondre' Willowtree makes an attempt on Ariona's life, since they are both at the rite, on opposing sides.
 

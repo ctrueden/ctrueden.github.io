@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wednesday10
+permalink: /deus/Wednesday10
+category: deus
+---
 Order of events:
 #The Tenacious Devil appears and Strife greets the party.
 #Dorian's ship appears, and Strife orders them to dock with it

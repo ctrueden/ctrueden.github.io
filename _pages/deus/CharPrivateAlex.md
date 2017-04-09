@@ -1,10 +1,14 @@
--=Alex's Character's Details=-
-
+---
+layout: page
+title: Alex's Character's Details
+permalink: /deus/CharPrivateAlex
+category: deus
+---
 This page will provide private details of Alex's character, for Alex and the GMs only.
 
 
--=The concept=-
-!- 
+# The concept
+
 The idea is the daughter of Erica Banyon and ~~#FF0000:the eighteenth grandson~~ of Sara Cassenti. Seriously concerned about the prejudice against mystics on Earth, Erica and her lover traveled to one of the newly settled colonies as far from Earth as possible. Then they took a shuttle to a nearby scientific outpost, which had not been seeded with mystic energy, since it was on a small asteroid. There, Erica raised her daughter for 18 years, until her father grew too sickly (from being away from mystic energy for too long). They then returned to the colony, where the daughter attended the local university and earned her degree. By the time she was 25, she was fully grown by human standards (half-elves reach maturity at 25), working in whatever field she works in.
 
 She has learned to mask the use of her warded mystic magic. Other mystics can still sense when she uses it, and the mystic detection devices can still sense her while she is actually using the magic, but she has discovered a way to protect a warded effect so that it can go undetected otherwise. She uses this technique to conceal her half-elven, half-celestial nature. [[Curtis: half-elven, half-celestial? You'd better give this character a high Cha, Alex. (:mrgreen:)]
@@ -13,7 +17,7 @@ Alex, if you could fill in more details, particularly the exact timeline of Eric
 
 -------- 
 
-Raised in a mystic-free [http://members.aol.com/oscarcombs/spacsetl.htm|space settlement] in the [http://www.solstation.com/stars/la21185.htm|Lalande 21185] system, and schooled on ((Worlds|Percepi)). After finishing her graduate studies in genetics Ariona decided to travel to the world of her conception to &quot;see the sights,&quot; as it were.  As of game start, she has been on Earth for about a month. 
+Raised in a mystic-free [space settlement](http://members.aol.com/oscarcombs/spacsetl.htm) in the [Lalande 21185](http://www.solstation.com/stars/la21185.htm) system, and schooled on [Percepi](Worlds). After finishing her graduate studies in genetics Ariona decided to travel to the world of her conception to &quot;see the sights,&quot; as it were.  As of game start, she has been on Earth for about a month. 
 
 Somewhat quiet, though quite attractive; rather bookish and naive; a reasonable musician, though not even close to her mother's abilities; extremely intelligent and quick-witted.  Ariona has a sense of humor, but her sheltered life (and slower development) makes her sometimes appear to be far less sophisticated than her age peers.  She also seems to possess an aura of sanctity, of a purity unmatched by any but the most holy of men; she appears to be completely unaware of this effect on those around her. 
 ~~#FF0000:''A general description of appearance and mannerisms.''~~
@@ -22,10 +26,10 @@ Lived on small outpost until finished high school; father was very ill by this p
 ''~~#FF0000:Basically the same stuff Curtis said, with an extra date or two.  I just copied and pasted from my notes for the character; I didn't write anything new yet.  Once I meet with you (Curtis) again, I can add anything else you want.~~''
 
 ''~~#FF0000:__Let me know when I can actually do my character creation; it's basically done except for the &quot;Merits and Flaws&quot;ish-type things. :)__~~ 
-!
+
 ------ 
--=Character Questionnaire=- 
-!-
+# Character Questionnaire 
+
 Would your character (1=Never, 5=Always):
 #Lie to a friend to protect his feelings?  ~~#C00080:2~~ 
 #Help a frail old woman cross the street?  ~~#C00080:5~~ 
@@ -49,18 +53,18 @@ What does your character think about the following statements (1=Strongly disagr
 #No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  ~~#C00080:2 -- It would depend on the machine, I guess, how much I agree with that.  I haven't personally known well any robots who claim sentience, but if they are self-aware and have a desire to continue their existence, they should be given that freedom.~~ 
 #Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications.  ~~#C00080:4 -- It might have been better to wait until it was better understood, but it also has had many benefits.  Ideally, it should have been done on a smaller scale first, but what's done is done and can't be changed at this late date.~~ 
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day.  ~~#C00080:5 -- Mystic energy is limited by our capacity to wield it.  Yes, groups of people can combine to make things more powerful, but the threshold tends to be lower than technology.  Any nut can get his hands on tech that could blow up a much larger area than the average 5000 people could do with mystic energy.  I think it's a lot less likely that enough mystics will get together and destroy the world than that a lot of power-mad &quot;normal&quot; people would do the same with WMDs.~~ 
-!
--=Some Notes on Names=- 
-!-
+
+# Some Notes on Names 
+
 My full name is Ariona Lenmana Cassyon.  &quot;Ariona&quot; is a combination of &quot;Arion&quot; (&quot;musician&quot;), and &quot;Ariana&quot; (&quot;very holy one&quot;).  &quot;Lenmana&quot; means &quot;flute girl,&quot; and &quot;Len&quot; means &quot;flute&quot; while &quot;Mana&quot; means psychic gifts.  &quot;Cassyon,&quot; of course, is a hybrid of Banyon and Cassenti. 
 
 My father's real name is Thalevar Starsong; my mother, of course, is Erica Banyon.  When they left for the remote outpost, they acquired new identification with the names Raphael and Basilie Cassyon.  Any inquiries into my past will get those names for my parents, though an extremely astute researcher would see that their history before their arrival on the outpost is not quite perfectly forged. ;) 
 
 The name of the jealous ex-friend of my father's, the one who has decided that my mother and I are at fault for taking him away from her, and for everything bad that has happened to him since, is Vondre' Willowtree. 
 
-!
--=Elven Family Tree=-
-!-
+
+# Elven Family Tree
+
 Sara Cassenti &amp; Janelle (Janus Ilaris)
 #Adana Cassenti (female, twins with Evan)
 #Evan Cassenti (male, twins with Adana)
@@ -93,11 +97,11 @@ Adana &amp; Evan Cassenti
 Thalevar Starsong &amp; Erica Banyon (female celestial human)
 #Ariona Cassyon (female half-celestial, half-elf)
 
-!
+
 ----- 
--=Merits and Flaws=-
-!-
-!!!Flaws
+# Merits and Flaws
+
+### Flaws
 Vulnerable (1) 
 ~~#808080:''-1 to AC''~~ 
 Noncombatant (1) 
@@ -107,7 +111,7 @@ Bad Relations with Elves (1)
 Enemy: Vondre' Willowtree (2) 
 ~~#808080:''Moderately powerful elf sworn to kill my mother and myself as betrayers and abominations''~~ 
 
-!!!Traits 
+### Traits 
 Nervous 
 ~~#808080:''+1 to all Senses checks; -2 to all Intimidate checks''~~ 
 Observer 
@@ -117,7 +121,7 @@ Skinny t
 Slippery 
 ~~#808080:''+1 to Esc. Artist/grapple rolls to escape/avoid grapple; -1 on all other grapple rolls''~~ 
 
-!!!Class/Race Features 
+### Class/Race Features 
 Occupation: Academic 
 ~~#808080:''+1 competence to Research &amp; Earth &amp; Life Sciences checks; Gather Info as class skill''~~ 
 Savant:tEarth and Life Sciences 
@@ -153,7 +157,7 @@ Simple Weapon Proficiency
 ))Half-Elf(( 
 ~~#808080:''Low-light vision (x2 human vision range); immunity to Sleep effects; +2 save against Enchantments; +1 to Senses and Search checks''~~ 
 
-!!!Merits 
+### Merits 
 Educated (1) 
 ~~#808080:''+2 to all Earth and Life Sciences and Physical Sciences checks''~~ 
 Breadth of Knowledge (Spelltouched) (2) 
@@ -242,10 +246,10 @@ Mystic Magic User (Half): level 1 (2)
 Permanent Illusions 
 *Illusion 2, to appear completely human, to sight and touch -- Permanently warded, dampened -- 3 permanent Reserve points 
 *Enhancement 3, to give a +2 enhancement bonus to Int -- Permanently warded, dampened -- 5 permanent Reserve points 
-!
+
 ----- 
--=Mystic Researcher=-
-!-
+# Mystic Researcher
+
 The Mystic Researcher devotes her time to the exploration of different ways in which mystic energy can be harnessed.  In particular, the Mystic Researcher is fascinated by the dichotomy of the Mystic vs. the Psychic, and the fact that the underlying energies appear to be the same, though the sources are vastly different.  A Mystic Researcher spends her time in pursuit of greater understanding of the "particles" (detected by most machines which identify those with mystic ability) which are apparently responsible for the effects commonly known as "magic."  A reclusive scholar, a well-respected scientist with a hidden bent to his work, or an adventurous magician could all easily evolve into Mystic Researchers. 
 
 Mystic Researchers tend to be somewhat reclusive, preferring to pursue their studies away from the prying eyes of those who would attempt to use such knowledge for their own ends.  They typically realize how dangerous their new-found talents could be, and are unlikely to allow such secrets to get out.  After all, they study magic for their own edification, not to turn it into weapons. 
@@ -254,14 +258,14 @@ Select this advanced class if you want your character to excel at magical resear
 
 The fastest path into this advanced class is from the Smart hero basic class, though other paths are possible. 
 
-!!!Requirements 
+### Requirements 
 To qualify to become a Mystic Researcher, a character must fulfill the following criteria. 
 __Skills:__  6 ranks in Research, plus 6 ranks in Mysticraft. 
 __Feat:__  Mystic Dampening 
 __Other:__  Ability to cast mystic magic 
 
 
-!!!Class Information 
+### Class Information 
 The following information pertains to the Mystic Researcher advanced class. 
 
 __Hit Die__ 
@@ -277,7 +281,7 @@ Computer Use (Int), Craft (alchemy, chemical, pharmaceutical, visual art, writin
 The Mystic Researcher receives (7 + Int) skill points per level.
 
 
-!!!Class Features 
+### Class Features 
 The following features pertain to the Mystic Researcher advanced class. 
 
 __Cannibalize:__ The Mystic Researcher becomes more attuned to the ebb and flow of the mystic energy within herself, allowing her to redistribute some of her warding and dampening energy onto new effects. Once per day per Mystic Researcher level, the character may &quot;cannibalize&quot; one of her warded effects (partially or completely), sucking the Reserve points back into herself for reuse that same round. The cannibalization is a free action which takes place on the turn during which she intends to create a new effect, and the Reserve points may only be spent on warding or dampening the new effect. More reserve points may be used in addition to those cannibalized, but any points above and beyond those required for the new effect are lost. 
@@ -299,7 +303,7 @@ __Internal Energies:__ As the Mystic Researcher continues her study of the parti
 
 __Natural Dampening:__ Upon completing this class, the Mystic Researcher's understanding of the nature of energy dampening is so advanced that all effects she creates are automatically dampened. Warded effects are now also automatically dampened at no additional cost. The DC to detect a dampened effect as it is created is as given in the Improved Dampening ability.
 
-!!!Table: The Mystic Researcher 
+### Table: The Mystic Researcher 
 || Class Level | Base Attack | Fort Save | Ref Save | Will Save | Special | Def. Bonus | Rep. Bonus
 1st|+0|+0|+0|+2|Cannibalize|+1|+1
 2nd|+1|+0|+0|+3|Bonus Feat|+1|+1
@@ -311,10 +315,10 @@ __Natural Dampening:__ Upon completing this class, the Mystic Researcher's under
 8th|+4|+2|+2|+6|Bonus Feat|+4|+3
 9th|+4|+3|+3|+6|Internal Energies|+5|+3
 10th|+5|+3|+3|+7|Natural Dampening|+5|+4||
-!
+
 -----
--=Alchemical Items in my possession=- 
-!- 
+# Alchemical Items in my possession 
+
 __Silk Feathered Cloak__ 
 ''made from a Coatl feather, Siren's hair, and a Swanmee feather'' 
 *Deflection bonus to AC equal to Charisma modifier
@@ -341,10 +345,10 @@ Lastly, as a standard action, an amount of reserve equal to your mystic level ca
 __Chain Link of Binding__ 
 
 This causes the bearer to be bound to Nikolai.  If bearer is ever lost in the Void, Nikolai can find them, and he can use the link to transport himself to their location at any time, so long asthey do not resist. 
-! 
------
--=Effects currently on Ariona=- 
-!- 
 
-! 
+-----
+# Effects currently on Ariona 
+
+
+
 

@@ -1,5 +1,9 @@
--=John's Character's Secrets=-
-
+---
+layout: page
+title: John's Character's Secrets
+permalink: /deus/CharSecretsJohn
+category: deus
+---
 Zuul's &quot;son&quot;
 From what DNA was he created?
 He has nanobots in his blood that Zuul put there, for use at a later time.

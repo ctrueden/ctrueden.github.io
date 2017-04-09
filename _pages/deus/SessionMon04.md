@@ -1,6 +1,12 @@
-To refresh everyone's memories, ((CharPublicAlex|Ariona Cassyon)), ((CharPublicJon|Nikolai)), ((CharPublicAllen|Vitorrio Garibaldi)), ((CharPublicAndy|Bryce Murphy)), ((CharPublicJoey|Meechum)), and ((CharPublicAJ|Ian Thorpe)) are currently aboard ((CharPublicGriffin|DEE)) en route to Earth to find an enclave of Gaia's Ancient Order.  Their intended destination is the Taiga Forest in Siberia, near Xanadu.  
+---
+layout: page
+title: SessionMon04
+permalink: /deus/SessionMon04
+category: deus
+---
+To refresh everyone's memories, [Ariona Cassyon](CharPublicAlex), [Nikolai](CharPublicJon), [Vitorrio Garibaldi](CharPublicAllen), [Bryce Murphy](CharPublicAndy), [Meechum](CharPublicJoey), and [Ian Thorpe](CharPublicAJ) are currently aboard [DEE](CharPublicGriffin) en route to Earth to find an enclave of Gaia's Ancient Order.  Their intended destination is the Taiga Forest in Siberia, near Xanadu.  
 
-Bryce engages in some research to try to find a contact person for the order, and comes up with a professor at the University of Xanadu named ((NPCNexus|Nexus Almorad)).  He seems to be extremely old, which is unusual for a pixie, but his reply is quite prompt when he suggests that Bryce meet him during office hours on Friday afternoon.  Bryce, however, has other ideas. 
+Bryce engages in some research to try to find a contact person for the order, and comes up with a professor at the University of Xanadu named [Nexus Almorad](NPCNexus).  He seems to be extremely old, which is unusual for a pixie, but his reply is quite prompt when he suggests that Bryce meet him during office hours on Friday afternoon.  Bryce, however, has other ideas. 
 
 Meanwhile, Ariona receives an email purporting to be from Rudolph Bernstein.  In it, he states that he is resigning his position at their lab in order to take a full-time job with StratCo on Earth, in Glacialis.  He offers to write any letter of reference she might like, and regrets that this was so sudden.  She sends a rather neutral reply, which is again responded to, and they agree that "perhaps they can meet sometime."  While her bullshit sense was strongly activated by this note, there really wasn't a lot she could do about it, so she doesn't mention it to anyone else. 
 
@@ -28,7 +34,7 @@ First, Percepi.  They see the world, and then feel a flood of anger, hatred, and
 
 Next, Moss.  They sense that he is tirelessly working toward the Caretaker's goals, to the point of self-destruction, trying to aid in the protection of all the races.  The Caretaker regrets this, but it is necessary.  They see the halflings singing; the royals researching, mystically and technologically; and they know these to be other ways in which the Caretaker's people are aiding Him/Her. 
 
-They sense a machine that could stop this destruction from happening, but ((NPCCain|Cain)) is necessary for it.  Without him, there is no point to the machine; it cannot perform its function without Cain. 
+They sense a machine that could stop this destruction from happening, but [Cain](NPCCain) is necessary for it.  Without him, there is no point to the machine; it cannot perform its function without Cain. 
 
 They sense that there are those on Luna who do not share the Caretaker's vision; the impression they get is that those individuals are misguided, and they have forsaken the Caretaker.  They are not willing to make the necessary sacrifices. 
 
@@ -72,7 +78,7 @@ Here is the plan:  They rent two mechanical exo-skeletons, and Bryce and Ian don
 
 Well, they head inside.  No alarms are triggered, so far as Bryce can tell.  So far, so good. . . . 
 
-The party heads down five levels, inside the stairwell they've seen ((NPCAdana|Adana Cassenti)) descend further in, and are unable to descend further.  Ariona suggests that Vito try, so he exits Ian's body and attempts to go through the floor, but it's as if there's a force field there preventing him from descending further. 
+The party heads down five levels, inside the stairwell they've seen [Adana Cassenti](NPCAdana) descend further in, and are unable to descend further.  Ariona suggests that Vito try, so he exits Ian's body and attempts to go through the floor, but it's as if there's a force field there preventing him from descending further. 
 
 Since Vito fails, Ariona tries again.  Astonishingly, this time her foot is able to push slowly into the floor.  It's not easy, but she eventually is able to push halfway through.  At this point, she grabs Nikolai's ankle and attempts to pull him through as well; this is successful only as long as she's touching him.  So, one at a time, the rest of the party is pulled through the floor by Ariona. 
 

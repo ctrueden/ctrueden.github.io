@@ -1,12 +1,16 @@
--=Allen=-
-
+---
+layout: page
+title: Allen
+permalink: /deus/Playerallen
+category: deus
+---
 Status: confirmed
 Preferred gaming slot:
 ||__1st choice__|Anything but Saturday||
-!!!Vittorio Garibaldi
-*((CharPublicAllen|Character description)){GROUP(groups=&gt;allen|GMs)}
-*((CharPrivateAllen|Private page))
-*((AnnounceAllen|Experience tally and announcements)){GROUP}{GROUP(groups=&gt;GMs)}
-*((CharSecretsAllen|Character secrets)){GROUP}
-Pax Artificium character: [/pax/pcs/bobby.html|Bobby Garibaldi]
+### Vittorio Garibaldi
+*[Character description](CharPublicAllen){GROUP(groups=&gt;allen|GMs)}
+*[Private page](CharPrivateAllen)
+*[Experience tally and announcements](AnnounceAllen){GROUP}{GROUP(groups=&gt;GMs)}
+*[Character secrets](CharSecretsAllen){GROUP}
+Pax Artificium character: [Bobby Garibaldi](/pax/pcs/bobby.html)
 

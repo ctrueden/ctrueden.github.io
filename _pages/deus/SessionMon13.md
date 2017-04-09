@@ -1,8 +1,14 @@
-It is STILL Friday, July 18th, 2399, though it is now much later in the day.  ((CharPublicJon|Nikolai)) is somewhere en route to ((CharPublicGriffin|DEE))'s former location, where among other things the body of ((NPCCain|Cain)) is now floating in deep space.  (CharPublicAlex|Ariona)), ((CharPublicJoey|Meechum)), ((CharPublicAllen|Vittorio)), and ((CharPublicAndy|Brice)) are still on Lupus, trying to figure out how to rendezvous with Nikolai. 
+---
+layout: page
+title: SessionMon13
+permalink: /deus/SessionMon13
+category: deus
+---
+It is STILL Friday, July 18th, 2399, though it is now much later in the day.  [Nikolai](CharPublicJon) is somewhere en route to [DEE](CharPublicGriffin)'s former location, where among other things the body of [Cain](NPCCain) is now floating in deep space.  (CharPublicAlex|Ariona)), [Meechum](CharPublicJoey), [Vittorio](CharPublicAllen), and [Brice](CharPublicAndy) are still on Lupus, trying to figure out how to rendezvous with Nikolai. 
 
 ----- 
 
-Ariona quietly asks ((NPCHuntington|Merlin Huntington)) if there is anywhere on the planet that he would recommend that she stay if she wants to rent a room to sleep in.  He doesn't recommend going anywhere else, but offers to get her and anyone else who wants one a room in the compound.  She and Meechum request rooms, and thank Huntington.  Brice decides to sleep in the computer, and Vittorio and mini-Vee stand guard. 
+Ariona quietly asks [Merlin Huntington](NPCHuntington) if there is anywhere on the planet that he would recommend that she stay if she wants to rent a room to sleep in.  He doesn't recommend going anywhere else, but offers to get her and anyone else who wants one a room in the compound.  She and Meechum request rooms, and thank Huntington.  Brice decides to sleep in the computer, and Vittorio and mini-Vee stand guard. 
 
 Ariona and Brice leave messages for Nikolai, and set their 'jacks to wake them up if he replies.  Otherwise, they plan to sleep for 8 hours. 
 
@@ -10,13 +16,13 @@ Ariona and Brice leave messages for Nikolai, and set their 'jacks to wake them u
 
 3 hours later, Brice is awoken by a hand on his shoulder, something that ''should not happen.''  He sees a somewhat ghostly figure standing there, of a slight man with pointed ears.  "Brice Murphy?  There has been an accident," he says.  His forms fluctuates in and out somewhat, and he appears misty. 
 
-The man introduces himself as ((NPCSartus|Sartus Morningdew)).  "I am ((NPCAdana|Adana Cassenti))'s personal bodyguard.  My . . . nature . . . would require a lengthy explanation.  I do not have that time, for my time in this realm is drawing to a close."  He explains that he exerted the last of his strength to pull Cassenti into the non-physical realm in order to save her, but does not possess the strength to return her. 
+The man introduces himself as [Sartus Morningdew](NPCSartus).  "I am [Adana Cassenti](NPCAdana)'s personal bodyguard.  My . . . nature . . . would require a lengthy explanation.  I do not have that time, for my time in this realm is drawing to a close."  He explains that he exerted the last of his strength to pull Cassenti into the non-physical realm in order to save her, but does not possess the strength to return her. 
 
-Brice asks if there are any more of his kind, and Sartus replies that there used to be many more, but now there is only one.  "The other's name . . . my dear friend ((NPCBenek|Benek Tolorin)) . . . I have not seen Benek for a time; he is ((NPCEvan|Evan Cassenti))'s bodyguard . . . perhaps he can be of more help to you, but it is my guess that he is also not strong enough to get her out." 
+Brice asks if there are any more of his kind, and Sartus replies that there used to be many more, but now there is only one.  "The other's name . . . my dear friend [Benek Tolorin](NPCBenek) . . . I have not seen Benek for a time; he is [Evan Cassenti](NPCEvan)'s bodyguard . . . perhaps he can be of more help to you, but it is my guess that he is also not strong enough to get her out." 
 
 Brice continues to question Sartus, who answers his questions to the best of his abilities.  "She is not in danger, but she will be trapped here until such time as someone can get her out, yes."  "Evan is fine; he was not involved in `the incident.'" 
 
-When pressed for details about "the incident," Sartus extends his hand.  Brice takes the hand, which feels rather mushy, and feels a data feed flow into his mind.  He sees Adana nailed to the heart tree on ((NPCLuna|Luna)), and a giant ship appearing above Luna.  The ship looks to be DEE.  A giant particle lance appears on DEE's nose, and the lance surges towards Adana's chest.  He sees Sartus' hand manifest just enough to pull her into cyberspace, and just in time to keep her from being impaled. 
+When pressed for details about "the incident," Sartus extends his hand.  Brice takes the hand, which feels rather mushy, and feels a data feed flow into his mind.  He sees Adana nailed to the heart tree on [Luna](NPCLuna), and a giant ship appearing above Luna.  The ship looks to be DEE.  A giant particle lance appears on DEE's nose, and the lance surges towards Adana's chest.  He sees Sartus' hand manifest just enough to pull her into cyberspace, and just in time to keep her from being impaled. 
 
 When Brice wants to know what happened to cause Adana to be nailed to the tree, another experiential feed flows into his mind.  She is standing in front of the tree, in an apparent act of defiance.  Three androids in the great forest shoot her with rail guns, nailing her to the tree once through each wrist and once through each foot. 
 
@@ -24,7 +30,7 @@ When Brice wants to know what happened to cause Adana to be nailed to the tree, 
 
 "I don't know." 
 
-In response to some more questions, Sartus explains, "I don't know the motives; I merely serve and protect. . . . I would say that if the heart tree has any chance for survival, ((OrgGaia|the Gaians)) are doing all they can to save it." 
+In response to some more questions, Sartus explains, "I don't know the motives; I merely serve and protect. . . . I would say that if the heart tree has any chance for survival, [the Gaians](OrgGaia) are doing all they can to save it." 
 
 Brice asks Sartus where he left Adana, and he replies, "I don't remember."  Brice asks if he left her somewhere on Luna. 
 
@@ -91,7 +97,7 @@ Ariona tells Meechum that if he can just crawl through this portal, he can go ba
 
 ----- 
 
-Meanwhile, Nikolai and ((CharPublicGriffin|the droid)) make small talk.  Some of the small talk ends up being pretty large talk, in a philosophical sense. 
+Meanwhile, Nikolai and [the droid](CharPublicGriffin) make small talk.  Some of the small talk ends up being pretty large talk, in a philosophical sense. 
 
 ----- 
 
@@ -131,7 +137,7 @@ The AI decides finally that in terms of optimization, this procedure may or may 
 
 ----- 
 
-Ariona speaks to ((NPCSelena|the werewolf who appears to be in charge)) for a short time. 
+Ariona speaks to [the werewolf who appears to be in charge](NPCSelena) for a short time. 
 
 Meechum goes into some convulsions, then turns into a bat and flies head-first into a tree.  Mini-Vee continues to make strange comments distorted by the fact that there are two "I"s in his mind.  The werewolves dispatch two of their kind to watch the crazy people.  Selena makes some comments about Ariona's companions.  She seems to agree. 
 

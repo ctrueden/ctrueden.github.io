@@ -1,6 +1,10 @@
--=John's Character's Details=-
-
-!!-The concept
+---
+layout: page
+title: John's Character's Details
+permalink: /deus/CharPrivateJohn
+category: deus
+---
+## The concept
 After building an android body for herself, Dana Arthur decided to create a biological son from her own DNA. The father is unknown. The son's bloodstream has been infused with latent nanotechnology, programmed to activate under certain circumstances.
 
 His brain is not a normal human brain. In fact, though biological, it has been designed to function more like a computer. The regions of the brain do not correspond to a human's at all, so doctors would most likely not be able to treat him at all, and in fact would be flabbergasted. His mother is perhaps the only person fully qualified to &quot;repair&quot; him if something goes wrong.
@@ -35,7 +39,7 @@ What does your character think about the following statements (1=Strongly disagr
 #Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 3
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 3
 
-!!-M/F
+## M/F
 Flaws:
 Enemy (level 3): Organizations in direct opposition to Matt's employers.  This includes organized crime syndicates whose efforts have been thwarted, as well as competitors in the field (sometimes the same organization)
 
@@ -109,50 +113,50 @@ Selected class features: Evasion, Uncanny Dodge One, Personal Firearms Prof. (oc
 
 Languages: English, 
 
-!!-Nanite Powers
+## Nanite Powers
 The user has five slots for free. Using a standard action grants an additional five slots. No power may have more ranks than its prerequisite powers, and no power may have more than five ranks. Any power may function at a lower rank than maximum available when desired.
 
 There are two kinds of effects: continuous and burst. A continuous effect must be paid each cycle. A burst effect is paid once, and its effects last for one cycle.
 
 By default, a cycle is either one round or one minute (corresponding to what is noted in the power).
 
-!!!-Vitality Storage (super fat)
+### Vitality Storage (super fat)
 __Description:__ Nanite clusters within the body store energy that has been metabolized by the G.I. tract, and hold onto it until given the signal to release it into the system, essentially making &quot;super fat&quot; cells with a more efficient storage system that float through the system until they bind to body systems that in high stress situations use a great deal of energy (the brain, muscle clusters in the heart, diaphragm, legs, arms).
 __Merit cost:__ 1mp per 5 &quot;super fat&quot; vitality points
 __Effect:__ Super fat vitality may be used to power nanite abilities. Super fat recharges over time from a wireless power source, at a rate equal to one tenth maximum super fat vitality per hour -- for example, if the character has 20 maximum super fat vitality, he regains 2 super fat points per hour. When vitality damage is incurred, super fat is not depleted until normal vitality first reaches zero.
 
-!!!-Improved Vitality Recharge
+### Improved Vitality Recharge
 __Description:__ Increased energy exchange sites cause an increased level of recharge of super fat clusters in relation to their concentration within the host.
 __Merit cost:__ 1mp
 __Effect:__ Change wireless recharge rate cycle of super fat from hours to minutes.
 
-!!!-Organic Super Fat Recharge
+### Organic Super Fat Recharge
 __Description:__ Exchange clusters are created lining the GI tract of the host, allowing super fat to recharge using natural energy sources.
 __Merit cost:__ 1mp
 __Effect:__ Recharge one point of super fat per 100 calories consumed.  These calories will not be available for normal energy storage, which will result in the host requireing to eat additional food.
 
-!!!-Reinforced Skeleton
+### Reinforced Skeleton
 __Description:__ The original skeletal structure of the user is permanently altered to be laced with metal reinforcing structures in and around the bone itself, increasing the overall strength of the user's skeletal system, making them much harder to break.
 __Effect:__ As damage reduction
 
-!!!-Energy Absorption
+### Energy Absorption
 __Effect:__ As energy resistance; also possible is 1mp for 1 extra point of resistance to all five types
 
-!!!-Subdermal Armor
+### Subdermal Armor
 __Effect:__ As natural armor
 
-!!!-Regenerative Tissue
+### Regenerative Tissue
 __Description:__ Specialized nanites are dispersed throughout the tissue and blood stream of the user, and assist in clotting and repairing of damage tissue.
 __Merit cost:__ 1mp per point (instead of the usual 2mp)
 __Vitality cost:__ 2 vitality per wound point recovered
 __Effect:__ As fast healing
 
-!!!-Increased Power Efficiency
+### Increased Power Efficiency
 __Description:__ Power usage of the nanite powers have been fine tuned to not waste energy.
 __Merit cost:__ 1mp the first time, 2mp the second time, 3mp the third time, etc.
 __Effect:__ Each time this enhancement is taken, the duration of all other powers used is increased by one. For example, normally a power that has a &quot;rounds&quot; cycle would cost vitality each round. If this enhancement is taken once then the vitality cost (which remains the same) is paid out every two rounds. This applies to all powers used.
 
-!!!-Chameleon
+### Chameleon
 __Description:__ Chameleon like fast acting pigmentation of the skin and sound cancelation or white noise generation near the feet and hands to negate any rogue noises encountered.
 __Merit cost:__ 1mp per rank
 __Vitality cost:__ 1 vitality per rank (continuous)
@@ -160,7 +164,7 @@ __Processing cost:__ 1 slot per rank
 __Cycle:__ Rounds
 __Effect:__ +3 Stealth per rank
 
-!!!-Sensor Blind
+### Sensor Blind
 __Prerequisites:__ Chameleon
 __Description:__ The nanites setting up emitter clusters that send out jamming signals on all desired spectra, causing an overload along all sensors that are using those spectra and blinding them for a period of time.
 __Merit cost:__ 1mp per rank
@@ -176,7 +180,7 @@ __Effect:__ Certain forms of sensory input no longer function while the user emi
 5|Mystic||
 Any combination of the above sensor types can be affected, but the user must possess at least as many ranks as the largest sensor type cost. To determine the &quot;total cost&quot; referenced above, sum the costs of the sensor types to be affected. Each affected creature is entitled to a saving throw, DC 10+total cost.
 
-!!!-Sensor Cloak
+### Sensor Cloak
 __Prerequisites:__ Sensor Blind
 __Description:__ Uses the emitter clusters to send the inverse waves of what the user would normally be putting out, canceling out the emissions almost completely. The end result is that certain spectra emission detectors will be unable to detect the user.
 __Merit cost:__ 1mp per rank
@@ -186,7 +190,7 @@ __Cycle:__ Rounds
 __Effect:__ Certain forms of sensory input no longer detect the user. The forms affected are as given for Sensor Blind, 
 and the total cost is computed the same way.
 
-!!!-Collapsable Body
+### Collapsable Body
 __Prerequisites:__ Vitality Storage, Reinforced Skeleton
 __Description:__ The nanites collapse bone and large tissue structures, taking over the functions of essential organs as the user is in this state, allowing the user to squeeze through areas that his or her body type would not normally permit.
 __Merit cost:__ 1mp per rank
@@ -195,7 +199,7 @@ __Processing cost:__ 1 slot per rank
 __Cycle:__ Minutes
 __Effect:__ +5 bonus to Escape Size per rank. Size category drops by one for determining areas that are still accessible, and for speed of movement.
 
-!!!-Nano Muscles
+### Nano Muscles
 __Prerequisites:__ Reinforced Skeleton
 __Description:__ Nanites create clusters of pseudo muscle fibers in the legs and arms which are fueled by the nanite &quot;super-fat&quot; cells that bond automatically to them. During normal use, the PMFs are inert and no additional strength is applied.  When activated the muscle fibers assist and enhance the overall muscle strength of the user.
 __Merit cost:__ 1mp per rank
@@ -203,7 +207,7 @@ __Vitality cost:__ 5 super fat vitality per rank (burst)
 __Processing cost:__ 1 slot per rank
 __Effect:__ For each rank applied, the user receives a +2 bonus to Strength or a +5 to Jump for his next action.
 
-!!!-Gecko Steps
+### Gecko Steps
 __Description:__ Nanite clusters on the feet and hands create nano-fibers which act with the same property of a gecko's feet (branching fibers that set up Van Der Walls forces between the fibers and the surface being climbed on.  One square inch of this surface of fibers will be able to suspend one metric ton, providing the supporting surface can handle the weight)
 __Merit cost:__ 2mp
 __Vitality cost:__ 2 vitality (continuous)
@@ -211,14 +215,14 @@ __Processing cost:__ 1 slot
 __Cycle:__ Minutes
 __Effect:__ Providing the surface has no special properties to counter the effects of this power, and the user has both his hands and feet bare, the user is considered to automatically pass all Climb checks, and may climb the surface at twice the normal rate (no need to look for hand holds). To use this power the user must be able to bring his toes and fingers in contact with the surface he is climbing.
 
-!!!-MonoEdge sword 
+### MonoEdge sword 
 __Description:__ The same nanite clusters that create the nano-fibers can also be programed to make larger,  and more complex structures.  In this case, they create a mono edged sword, essentially a blade with an edge one molecule thick.  Nanites that run along the structure can create further structures from available materials as the blade is used, creating fractal patterned barbs along the blade that cause further injury.  If the barbs, which are also approximately one molecule thick are given enough time to grow in complexity, they can increase the friction coefficient to the point where severed material superheats, becoming a plasma.
 __Merit Cost:__ 1mp
 __Vitality Cost:__ 4 vitality per level to create the blade, 2 vitality per level to maintain, (continuous)
 __Cycle:__ Rounds
 __Effect:__ Manifesting the blade creates an 18&quot; sword in either hand (user's choice) that does 1d6 damage per level manifested.  This sword has a x3 critical wherein a third of the bonus damage dice (and other bonuses) is fire damage, and has a critical range of 20, that will drop by one for every odd level of manifestation (e.g. a level 5 manifestation would have a critical range of 18-20).  The blade has an enchantment bonus of +1 per even level manifested (level 2 is +1, level 4 is +2 and so forth).  The blade will ignore 5 points of hardness per level manifested, and will strike as a melee touch attack.  At level 3 it will grant the user the cleave feat for free.
 
-!!-Infiltrator notes
+## Infiltrator notes
 __Level 3, 6, 9:__ Uncanny Stealth (p. 34 in d20 Future -- at level 9, no penalty is suffered for running)
 __Level 5:__ Uncanny Hide (Star Wars book)
 __Level 7:__ Skill Mastery (computer use)

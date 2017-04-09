@@ -1,6 +1,12 @@
-We join our party, namely ((CharPublicAlex|Ariona)), ((CharPublicJon|Nikolai)), ((CharPublicAllen|Vittorio)), ((CharPublicAndy|Brice)), ((CharPublicJoey|Meechum)), ((CharPublicGriffin|DEE)), and ((CharPublicKelsey|Eddy)), along with ((CharPublicNate|Ned)), sitting aboard DEE in deep space guarding the body of ((NPCCain|Cain)). 
+---
+layout: page
+title: SessionMon10-2
+permalink: /deus/SessionMon10-2
+category: deus
+---
+We join our party, namely [Ariona](CharPublicAlex), [Nikolai](CharPublicJon), [Vittorio](CharPublicAllen), [Brice](CharPublicAndy), [Meechum](CharPublicJoey), [DEE](CharPublicGriffin), and [Eddy](CharPublicKelsey), along with [Ned](CharPublicNate), sitting aboard DEE in deep space guarding the body of [Cain](NPCCain). 
 
-It is Thursday, July 17th.  Nikolai returned from Luna and his meeting with ((NPCBryant|Harry Bryant)) to declare that the group should return as soon as possible to kill Bryant.  He smelled sulfur on Bryant as he was leaving, and Nikolai believes that this means that Bryant is demonically possessed.  He suggests perhaps making a quick stop to talk to the Caretaker again on the way, but otherwise he thinks they should plan how to take him out and do so. 
+It is Thursday, July 17th.  Nikolai returned from Luna and his meeting with [Harry Bryant](NPCBryant) to declare that the group should return as soon as possible to kill Bryant.  He smelled sulfur on Bryant as he was leaving, and Nikolai believes that this means that Bryant is demonically possessed.  He suggests perhaps making a quick stop to talk to the Caretaker again on the way, but otherwise he thinks they should plan how to take him out and do so. 
 
 Vittorio and Ned point out that the scent of sulfur may not actually mean what Nikolai thinks it means, but actually may instead mean that Bryant has acquired the philosophical ideal of Sulfur, one of the ingredients in the mythical Philosopher's Stone.  Vittorio also claims that he remembers that Bryant already had Salt, one of the other ingredients.  The third item, ironically, is Mercury. 
 
@@ -68,7 +74,7 @@ Raphael and Basilie bestow some powerful magic upon Ariona, as well as bolsterin
 
 As the party prepares their next set of moves, they decide that Brice should go to Pax immediately, and reconnoiter from the computer system there.  This way, he will already be in place and observing Bryant's moves long before the group intends to confront Bryant.  He now possesses a way to stay connected both to Eddy and to Nikolai, no matter what their relative positions, so the information he garners can be sent back to DEE and the rest of his companions in real time. 
 
-Ned will return to Earth, where he hopes to recruit more aid for the assault on Bryant.  In particular, he plans to attempt to contact ((CharPublicJohn|Matt Smith)), ((CharPublicEva|Rae Denison)), ((CharPublicMike|Vadril Korlax)), and ((CharPublicJames|Zee)).  Ariona reacts with some surprise to the mention of Zee, and asks about his current welfare.  Ned says he's doing okay.  When Ned is done contacting people, he will notify Nikolai and they will return to DEE together.  Meanwhile, Nikolai plans to spend some time visiting his family. 
+Ned will return to Earth, where he hopes to recruit more aid for the assault on Bryant.  In particular, he plans to attempt to contact [Matt Smith](CharPublicJohn), [Rae Denison](CharPublicEva), [Vadril Korlax](CharPublicMike), and [Zee](CharPublicJames).  Ariona reacts with some surprise to the mention of Zee, and asks about his current welfare.  Ned says he's doing okay.  When Ned is done contacting people, he will notify Nikolai and they will return to DEE together.  Meanwhile, Nikolai plans to spend some time visiting his family. 
 
 The session breaks with the party splitting into their various component groups, and hoping that the Cassyon family's wards upon Ned and Brice will be enough to help keep some vestiges of information security alive. 
 

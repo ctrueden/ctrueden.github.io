@@ -1,6 +1,10 @@
--=Timeline=-
-
-The following timeline is a brief history of the ((LifeForms|Terran races)) from present day through the start of the campaign (2299). For a history of events from 6,000 B.C. through 2,000 C.E., see the ((AncientHistory|ancient history)) page.
+---
+layout: page
+title: Timeline
+permalink: /deus/Timeline
+category: deus
+---
+The following timeline is a brief history of the [Terran races](LifeForms) from present day through the start of the campaign (2299). For a history of events from 6,000 B.C. through 2,000 C.E., see the [ancient history](AncientHistory) page.
 
 __2001:__ A strange radio station is discovered that seems to be broadcasting on the same frequency all over the world, although no one is able to pinpoint from where, exactly. Amazingly, people also can't seem to agree on what the station is broadcasting -- some hear one kind of music, some hear another, even when both are standing next to each other listening to the same radio. Soon, the radio begins talking to people individually, calling them by name, and occasionally predicting future events, warning people, or giving them general advice. Although the station never identifies itself, many people quickly take to calling it the &quot;Voice of God.&quot;
 
@@ -68,11 +72,11 @@ __2032:__
 
 __2033:__
 #By this time, Asia has become much more fascist, controlled, authoritarian (rather than communist), the countries there have become more of a confederation, with one single leader -- a council head over the Council of Four (the other three being the leaders of Russia, India &amp; China)
-#__[/pax/index.html|Pax Artificium], first half__: A group of adventurers discovers that magic is leaking back into the world, and that the leaders of the East and West are actually a pair of gnomes scheming against one another in some sort of twisted game; many of the drastic changes over the past 30 years have been due to their influence
+#__[Pax Artificium](/pax/index.html), first half__: A group of adventurers discovers that magic is leaking back into the world, and that the leaders of the East and West are actually a pair of gnomes scheming against one another in some sort of twisted game; many of the drastic changes over the past 30 years have been due to their influence
 #The gnomes are ousted from power, the India-China-Russo Pact is dissolved, the East falls into chaos, and the U.S. travel embargo is lifted
 
 __2034:__
-#__[/pax/index.html|Pax Artificium], second half__: An entity from another dimension known as Emmanuel is discovered to have infested the earth, and is learned to be the cause of the strange backlash effect tainting magic
+#__[Pax Artificium](/pax/index.html), second half__: An entity from another dimension known as Emmanuel is discovered to have infested the earth, and is learned to be the cause of the strange backlash effect tainting magic
 #Gaia, the spirit of the earth, has been largely driven insane by the infestation
 #The same group of adventurers overcomes the machinations of several conflicting groups, and helps a mystic named John Bishop to cure Gaia and cleanse Emmanuel by merging them into a gestalt entity known as the Caretaker
 #On that day, January 4th, 2034, the Voice of God radio station goes dead as the obelisk sealing away mystic energy from the world is undone, and magic floods back into the world completely.
@@ -93,7 +97,7 @@ __2050:__ Magitech is extremely controversial -- it is known that they employ an
 
 __2052:__ Dr. Dana Arthur of Magitech transfers her consciousness into a robotic body, and becomes the first totally robotic human. Over the years, she improves this technology, building more and more realistic human robots.
 
-__2053:__ Over time, the Internet evolves into the [http://www.wizards.com/default.asp?x=d20modern/we/20040914a|VRNet], a virtual universe with many useful properties. Neural interface technology continually improves, with humans and computers becoming more and more intertwined.
+__2053:__ Over time, the Internet evolves into the [VRNet](http://www.wizards.com/default.asp?x=d20modern/we/20040914a), a virtual universe with many useful properties. Neural interface technology continually improves, with humans and computers becoming more and more intertwined.
 
 {img src=&quot;images/roadswim.jpg&quot; width=300 height=342 align=&quot;center&quot; desc=&quot;In VR, anything is possible&quot;}
 
@@ -117,7 +121,7 @@ __2093:__
 #While Magitech is stripping the U.S. of its power by keeping its technological and mystical secrets close to its chest, the people of Midgard have been sharing their technologies and mystic (and anti-mystic) techniques with Russia and other Asian countries, fueling new innovations there.
 #Though Pax Artificium remains a haven for mystics in the U.S., its reputation is now matched by the city of Xanadu, the &quot;surface city&quot; of Midgard, located in the heart of the Himalayan mountains. Those few humans have been there, Valhalla, the capital of Midgard, is also said to be quite amazing.
 
-__2094:__ An [/pax/groups/five.html|elite mystic unit] led by a &quot;superhero&quot; known as [/pax/pcs/moses.html|Speed Demon], through a series of heroic actions, stops several potential nuclear disasters from occurring, ending the war, and puts an end to the Seven's diabolical scheme.
+__2094:__ An [elite mystic unit](/pax/groups/five.html) led by a &quot;superhero&quot; known as [Speed Demon](/pax/pcs/moses.html), through a series of heroic actions, stops several potential nuclear disasters from occurring, ending the war, and puts an end to the Seven's diabolical scheme.
 
 __2096__: Bolstered by the fact that mystics saved the Earth during WW3, the mystics form the World Mystics Guild, a major step toward their worldwide rise to power.
 
@@ -177,7 +181,7 @@ __2255:__ Standard gravitic drives are powered by fusion batteries. But an antim
 
 __2260:__ By focusing a powerful gravitic lens just in front of a starship, near-light speeds are possible. Ships are sent to colonize far-off worlds, carrying mystic cores with them. Though it might take years to reach a far-off colony, relativistically only a few days or weeks pass for the passengers within. Once magic has been infused on the target world, mystics can transport themselves back and forth instantaneously.
 
-__2265:__ Ships begin arriving at suitable colony points outside our solar system. These include low-gravity moons with little to no atmosphere that are ideal for mystic settlements, as well as the ((Worlds|occasional planet)). Once these locations are infused, mystics teleport back to Earth to report on the status of the colony. Supplies are transported back and forth as needed from Earth.
+__2265:__ Ships begin arriving at suitable colony points outside our solar system. These include low-gravity moons with little to no atmosphere that are ideal for mystic settlements, as well as the [occasional planet](Worlds). Once these locations are infused, mystics teleport back to Earth to report on the status of the colony. Supplies are transported back and forth as needed from Earth.
 
 __2275:__ Nanotechnology has advanced sufficiently that machines can heal themselves automatically, much as humans do, assuming they can find the correct raw materials to ingest. The applications of nanobots are countless.
 

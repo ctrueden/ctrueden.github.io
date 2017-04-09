@@ -1,3 +1,9 @@
+---
+layout: page
+title: MysticTodo
+permalink: /deus/MysticTodo
+category: deus
+---
 Mystic feat for &quot;toggling warding&quot; -- costs twice the normal reserve warding costs, but effect can be freely toggled until the warding wears off
 ------
 Another mystic feat for permanently infusing a warded ability (like Tenacious Spell sort of? Where the effect is only gone for 1d4 rounds when dispelled and then returns). Requires the *permanent* consumption of the Reserve though.

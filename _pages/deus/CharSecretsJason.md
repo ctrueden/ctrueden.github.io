@@ -1,5 +1,9 @@
--=Jason's Character's Secrets=-
-
+---
+layout: page
+title: Jason's Character's Secrets
+permalink: /deus/CharSecretsJason
+category: deus
+---
 Dr. Baelom is actually Asmodeus, the ruler of hell (aka Satan). He interacted with Laiden due to his unique nature, and to manipulate events according to the Caretaker's ineffable will (probably prompted by the miller algorithm at some point).
 
 Like celestials, devils have the ability to make machines and such forget their presence. But Asmodeus can do more -- everyone forgets they ever even interacted with him, at all.

@@ -1,3 +1,7 @@
--=Golren Briarnas=-
-
-Briarnas is an acquaintance of ((CharPublicEva|Rae's)) from Dragonstar.
+---
+layout: page
+title: Golren Briarnas
+permalink: /deus/NPCGolren
+category: deus
+---
+Briarnas is an acquaintance of [Rae's](CharPublicEva) from Dragonstar.

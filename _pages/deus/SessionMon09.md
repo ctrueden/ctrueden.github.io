@@ -1,8 +1,14 @@
-Upon the firm statement of goals made by ((CharPublicGriffin|DEE)), ((CharPublicAlex|Ariona Cassyon)), ((CharPublicJon|Nikolai)), and ((CharPublicAllen|Vitorrio Garibaldi)) re-board the shuttle to return to Earth with ((NPCCain|Cain))'s cleansed body.  ((CharPublicAndy|Bryce Murphy)) and ((CharPublicJoey|Meechum)) are already aboard, though Meechum is not in a state in which he is of much use at the moment. 
+---
+layout: page
+title: SessionMon09
+permalink: /deus/SessionMon09
+category: deus
+---
+Upon the firm statement of goals made by [DEE](CharPublicGriffin), [Ariona Cassyon](CharPublicAlex), [Nikolai](CharPublicJon), and [Vitorrio Garibaldi](CharPublicAllen) re-board the shuttle to return to Earth with [Cain](NPCCain)'s cleansed body.  [Bryce Murphy](CharPublicAndy) and [Meechum](CharPublicJoey) are already aboard, though Meechum is not in a state in which he is of much use at the moment. 
 
 ----- 
 
-Meanwhile, mini-Vee and ((NPCBryant|Harry Bryant)) are escorted into the Grove with the ))Heart-Tree(( on Earth.  They inform the Caretaker of the situation on Mars, and mini-Vee asks a few impertinent questions. 
+Meanwhile, mini-Vee and [Harry Bryant](NPCBryant) are escorted into the Grove with the ))Heart-Tree(( on Earth.  They inform the Caretaker of the situation on Mars, and mini-Vee asks a few impertinent questions. 
 
 The first one is about the "glowy-colors" that Vitto has noticed about people.  The Caretaker responds cryptically, "Three and three they are, but two is one and one is three.  That is all I know."  Bryant attempts to help mini-Vee make a bit more sense of this, suggesting that there are two sets of three, that two elements are somehow one, and that one is somehow divided into three. 
 
@@ -12,15 +18,15 @@ The first one is about the "glowy-colors" that Vitto has noticed about people.  
 
 ))Mini-Vee(( also asks whether his mother is alive, and the Caretaker responds that she has not yet passed on. 
 
-When they complete their conversation, Bryant says that he needs to go back to the business he's supposed to be conducting.  ))Mini-Vee(( asks if he needs the Crown still, and Bryant says that he does.  ))Mini-Vee(( reminds Bryant that the Crown is still in the possession of the group on Mars, and Bryant explains that he believes that the Volokhovs have cheated him once again, and that they must be made to pay.  A fervor gleams in his eyes as he says farewell to mini-Vee and disappears. 
+When they complete their conversation, Bryant says that he needs to go back to the business he's supposed to be conducting.  ))Mini-Vee[ asks if he needs the Crown still, and Bryant says that he does.  ]( asks if he needs the Crown still, and Bryant says that he does.  )Mini-Vee(( reminds Bryant that the Crown is still in the possession of the group on Mars, and Bryant explains that he believes that the Volokhovs have cheated him once again, and that they must be made to pay.  A fervor gleams in his eyes as he says farewell to mini-Vee and disappears. 
 
-))Mini-Vee(( then decides to question the Gaians about the machine.  This is somewhat less than effective.  ((NPCSledge|Sledge)) (who actually remembers Vitto, although he is confused by the change in size) tries to explain to mini-Vee that he really doesn't know anything about the machine, but the Caretaker has been really busy thinking about it.  A lot.  Really, the Order hasn't done that much to build it. 
+))Mini-Vee[Sledge]( then decides to question the Gaians about the machine.  This is somewhat less than effective.  ((NPCSledge) (who actually remembers Vitto, although he is confused by the change in size) tries to explain to mini-Vee that he really doesn't know anything about the machine, but the Caretaker has been really busy thinking about it.  A lot.  Really, the Order hasn't done that much to build it. 
 
 ))Mini-Vee(( than joins Sledge in waiting for a bear to wander by.  Sledge is hungry. 
 
 ----- 
 
-As DEE prepares to leave Mars, ((NPCRossner|Admiral Rossner)) aboard the Perseverance informs DEE that he will be taking over the continued defense of Mars, searching out further undead and suchlike, and mentions that DEE's actions will be commended.  He asks if DEE has a particular location in mind for Cain, and when he receives a negative, he suggests the ____ Base in the asteroid belt.  It is not mystically infused, thus giving the party some protection from those who might wish to make Cain unavailable to the Caretaker's plans.  It is also close enough to Earth to allow quick communication with them.  DEE asks for clearance to allow him to land there, which is granted, and then returns to finishing up negotiations with the Mars military forces. 
+As DEE prepares to leave Mars, [Admiral Rossner](NPCRossner) aboard the Perseverance informs DEE that he will be taking over the continued defense of Mars, searching out further undead and suchlike, and mentions that DEE's actions will be commended.  He asks if DEE has a particular location in mind for Cain, and when he receives a negative, he suggests the ____ Base in the asteroid belt.  It is not mystically infused, thus giving the party some protection from those who might wish to make Cain unavailable to the Caretaker's plans.  It is also close enough to Earth to allow quick communication with them.  DEE asks for clearance to allow him to land there, which is granted, and then returns to finishing up negotiations with the Mars military forces. 
 
 DEE then plays the conversation back, and asks for opinions on taking Cain to a secure military location.  The consensus agrees with DEE, that this also has some flaws.  The general "best option" idea is that Nikolai and possibly someone else should head to Earth to talk to the Caretaker, then get back to DEE while he's in space.  Only Nikolai can do this, however, and he can't take someone with him both ways. 
 
@@ -32,7 +38,7 @@ Therefore, DEE sets a course to Ceres Base, to give the impression that he's goi
 
 After an hour, mini-Vee gets bored and wanders off.  He begins bugging the halflings during their daily tasks.  He decides to "help" one of the halflings in tending to the gardens. 
 
-))Mini-Vee(( spots Nikolai, and runs over to him.  He demands, in his annoyingly high-pitched voice, to know what's going on.  "Did we win? . . . Are you the only survivor?!"  Nikolai bluffs that that depends on how you look at it, and continues on his way to the Heart Tree.  ))Mini-Vee(( trails along afterwards, demanding to know what happened. 
+))Mini-Vee[ spots Nikolai, and runs over to him.  He demands, in his annoyingly high-pitched voice, to know what's going on.  "Did we win? . . . Are you the only survivor?!"  Nikolai bluffs that that depends on how you look at it, and continues on his way to the Heart Tree.  ]( spots Nikolai, and runs over to him.  He demands, in his annoyingly high-pitched voice, to know what's going on.  "Did we win? . . . Are you the only survivor?!"  Nikolai bluffs that that depends on how you look at it, and continues on his way to the Heart Tree.  )Mini-Vee(( trails along afterwards, demanding to know what happened. 
 
 Nikolai asks the Caretaker what should be done with Cain now, and the Caretaker asks what has transpired.  Nikolai gives a summary of images, and the Caretaker appears to consider these occurrences for some time. 
 
@@ -101,13 +107,13 @@ During the intervening day, the subject is broached about whether they should ta
 
 Nikolai requests to take the ruined LORE chip with him.  DEE has not at this point inherited sentimentality, so he agrees readily. 
 
-Also of note should be that ((Worlds|Canis and Lupus)) have gone to war.  The actual battles are taking place on Canis, but both sides are heavily involved. 
+Also of note should be that [Canis and Lupus](Worlds) have gone to war.  The actual battles are taking place on Canis, but both sides are heavily involved. 
 
 Nothing else of note happens on this day. 
 
 ----- 
 
-It is now NOT Friday, June 23rd, but rather Monday, June 26th.   Time appears to have gone wonky while DEE was on Mars.  Nikolai returns to his parents' home and requests a stasis chamber, giving them the LORE chip from the "freed" ship as a present.  [http://www.restlesswarrior.com/pax/pcs/josef.html|Boris] is rather dubious, and quite a bit worried, but he eventually agrees.  They have a few lying around that aren't being used right now.  He also informs Nikolai that the colony might be moving soon, situated as it is in the Sirius 2 system. 
+It is now NOT Friday, June 23rd, but rather Monday, June 26th.   Time appears to have gone wonky while DEE was on Mars.  Nikolai returns to his parents' home and requests a stasis chamber, giving them the LORE chip from the "freed" ship as a present.  [Boris](http://www.restlesswarrior.com/pax/pcs/josef.html) is rather dubious, and quite a bit worried, but he eventually agrees.  They have a few lying around that aren't being used right now.  He also informs Nikolai that the colony might be moving soon, situated as it is in the Sirius 2 system. 
 
 ----- 
 
@@ -125,7 +131,7 @@ Vitto asks what exactly the thing looks like.  "It appears to be a vaguely human
 
 As Vitto attempts to draw his soul knife to attack the thing, DEE announces on all frequencies (and out loud as well), "Creature on board, please desist in moving before we are forced to perceive you as a threat."  Vitto prepares to attack it if it does not stop. 
 
-The thing stops, and faintly illuminates itself as ((CharPublicKelsey|a ghostly version of a halfling)) in spacer coveralls.  "Are you going to hurt me?" it quavers. 
+The thing stops, and faintly illuminates itself as [a ghostly version of a halfling](CharPublicKelsey) in spacer coveralls.  "Are you going to hurt me?" it quavers. 
 
 "What . . . are you?" asks Vitto. 
 
@@ -167,6 +173,6 @@ Ultimately, they determine that the "Crown" is cursed, and Ariona manages to wre
 
 Several weeks will pass without anything significant going on.  Nikolai works on some alchemical experiments, assisted by Ariona and observed by Divin and mini-Vee.  Eddie and Bryce work on improving portions of the ship.  Eddie also pokes through everything on the ship, including everyone's personal items.  The grocery runs go off without a problem. 
 
-During the alchemy experiments, slowly Nikolai and Ariona begin to notice that when Divin/Meechum is present, the alchemy is being warped negatively.  It seems that Divin/Meechum screws up the magical energies around him, even things which are not specifically targeted at him, or things that do not use actual sphere points (like alchemy).  In fact, after Ariona racks her brain for some time, she realizes it reminds her of nothing so much as a man she's heard stories of, namely [http://www.restlesswarrior.com/pax/chars.html|Raphael Douglas].  Two weeks of research determine that his range is a 20 foot radius, either near the caster or near the effect. 
+During the alchemy experiments, slowly Nikolai and Ariona begin to notice that when Divin/Meechum is present, the alchemy is being warped negatively.  It seems that Divin/Meechum screws up the magical energies around him, even things which are not specifically targeted at him, or things that do not use actual sphere points (like alchemy).  In fact, after Ariona racks her brain for some time, she realizes it reminds her of nothing so much as a man she's heard stories of, namely [Raphael Douglas](http://www.restlesswarrior.com/pax/chars.html).  Two weeks of research determine that his range is a 20 foot radius, either near the caster or near the effect. 
 
 

@@ -1,15 +1,21 @@
-!Kick the puppy.
+---
+layout: page
+title: SessionWed02
+permalink: /deus/SessionWed02
+category: deus
+---
+# Kick the puppy.
 
-!!Some reference for others involved this week:
+## Some reference for others involved this week:
 Major Bradley: UN Forces (high end AI)
 Harry Bryant: Mercabah Technologies Earth division
 Adam McGlean: Mercabah Technologies Mercury division
 Admiral Rossner: UN Forces Mystic
 
-!!Relevant review of past news:
+## Relevant review of past news:
 Day 28, still no communications with Mercury and no one has traveled to or from the planet.  Scientists still have no explanation of its change in being more silvery. 
 
-!!The story continues...
+## The story continues...
 Early Friday morning, 9-Jun-2299 after the briefing, Ridge asks whether anyone is adept at FTL theory, but everyone shrugs indicated they are not.  Ridge hopes for a scientific explanation for FTL and not a magical cause.  The spectral and thermal reading from the probes of the planet shows the dragons are warm-blooded.
 
 Fey and Dr Peters head to crew quarters to get some well deserved rest.    Noun and Trenton leave for the mess hall.  

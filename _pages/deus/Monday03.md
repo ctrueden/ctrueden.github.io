@@ -1,3 +1,9 @@
+---
+layout: page
+title: Monday03
+permalink: /deus/Monday03
+category: deus
+---
 Mon hears the news that Mercury plunged into the sun during the six day downtime. U.N. Forces announces the truth about Mercury -- that it was gooed, but that they successfully defused this volatile situation.
 
 Cain's body must be whole for him to awaken. Moss wants to cleanse the body and the hand separately, then put them back together to revive him. But the vampires want to rejoin the hand before he is cleansed, to revive him as their lord.

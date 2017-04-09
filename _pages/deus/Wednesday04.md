@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wednesday04
+permalink: /deus/Wednesday04
+category: deus
+---
 Admiral Rossner says that everyone is free to go about their business, and thanks them for their service regarding the Mercury incident. Ridge receives a medal of valor for her bravery in attempting to acquire the substance despite the extremely hazardous nature. Trenton Verner's dereliction of duty is overlooked, provided that he resume and complete basic training over the next two weeks.
 
 Noun, Peters and Fey are given backstories explaining how they managed to escape the world just before it disappeared. The story is that the U.N. managed to save three eminent professionals in the nick of time, and has been questioning and studying them regarding the incident ever since. They are just now being allowed to leave, and talk about their survival. So, they are on the news, but they have been instructed to withhold the truth about the rogue planet and other details beyond the scope of the backstory. Doing so might be difficult, as they are in the public eye and being asked many questions.

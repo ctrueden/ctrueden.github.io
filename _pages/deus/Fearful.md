@@ -1,8 +1,12 @@
--=The Fearful=-
-
+---
+layout: page
+title: The Fearful
+permalink: /deus/Fearful
+category: deus
+---
 An alien race far from Earth lived on a mystic planet. At one level, the Fearful consist of a non-sentient virus that infects whatever organic life it touches. The mystic planet where the Fearful first evolved was quite different from Earth. The life forms there fed on mystic energy, which was plentiful. The Fearful, once infecting an entire ecosystem, acquire sentience, with each ecosystem corresponding to one individual. To communicate, they swap pieces of their ecosystems with each other.
 
-The Fearfuls' original world was mystic for long enough that the planet awakened. None of the creatures there, however, were aware that it had done so. Awakened worlds can sense the ((UniverseCreation|Destroyer)) further in advance than smaller life forms can (those on the scale of humans or even the Fearful). Because of this, the Fearful had some warning when the Destroyer appeared to eliminate their world (the original world's consciousness amplified the oncoming waves from the Destroyer). Overcome by the dread and loathing, even at a cellular level, they sent off &quot;spores&quot; (e.g., chunks of rock with a large quantity of the virus) into space, hoping they would find other worlds with organic life on which to grow. Unfortunately, this system meant that any new worlds thus colonized with the virus would be unaware of each other.
+The Fearfuls' original world was mystic for long enough that the planet awakened. None of the creatures there, however, were aware that it had done so. Awakened worlds can sense the [Destroyer](UniverseCreation) further in advance than smaller life forms can (those on the scale of humans or even the Fearful). Because of this, the Fearful had some warning when the Destroyer appeared to eliminate their world (the original world's consciousness amplified the oncoming waves from the Destroyer). Overcome by the dread and loathing, even at a cellular level, they sent off &quot;spores&quot; (e.g., chunks of rock with a large quantity of the virus) into space, hoping they would find other worlds with organic life on which to grow. Unfortunately, this system meant that any new worlds thus colonized with the virus would be unaware of each other.
 
 At least one world was successfully colonized in this fashion: Earth. The Fearful settled in there nearly five millions years ago, quickly taking over some ecosystems. New consciousnesses were born.
 
@@ -19,9 +23,9 @@ The Fearful were fairly far along -- but not finished -- in the evolutionary pro
 The current Fearful ecosystems have evolved greatly since they left Earth. Many of the creatures are still &quot;Earth-like&quot; (i.e., observably evolved from Earth species -- not totally alien in origin), but they are now quite distinct from modern-day Earth species. Certainly, the ability of the entire ecosystem (i.e., jungle-like structure) to traverse the stars at speeds upwards of 1/500th the speed of light is astounding to behold.
 
 
-!!!Using the Fearful in the campaign
+### Using the Fearful in the campaign
 
-This race provides many opportunities for ((Plot|plot threads)) and ((Mindfucks|mindfucks)).
+This race provides many opportunities for [plot threads](Plot) and [mindfucks](Mindfucks).
 
 First, the PCs will arrive on a world with an Earth-like ecosystem -- probably some kind of strange, dense jungle, with some creatures oddly similar to Earth animals. The ecosystem itself will seem alive, in that the jungle itself will react in a united fashion. They might seem to hate the humans and try to destroy them -- as though all the animals and plants are working together to thwart them. Perhaps at first it will be more of a wary curiosity. How things proceed from there depends on how the PCs act.
 
@@ -31,4 +35,4 @@ Another idea from Paul: maybe this increased/expanded consciousness would enable
 
 Also: can people infected with the virus communicate with each other? Can they affect the emotional state of the Fearful? Why shouldn't it go both ways? How did the Fearful react to the other sentient races on Earth originally? Perhaps they do remember encountering other sentient life; then they would be less surprised to meet them again later. The only question is whether they remember creating humans after all this time -- it is potentially more interesting if they have forgotten.
 
-Once the PCs meet them, it's possible there could be a friendly period, depending on how many mystics there are, whether the Fearful sense that right away (although with an oddly fanatical air to them, due to their strong inclination toward religion). Once they find out that some humans use mystic energy, they will freak out and cut off all communication with the PCs. When they find out the PCs can seed mystic worlds, they will go totally ballistic and make war with the Terrans, unless the conflict can be avoided somehow. If all goes as planned, the PCs will come to believe that the Fearful are responsible for the destruction of the outlying colony, since they will pose questions such as, &quot;Have you heard the screams?&quot; Eventually, they will learn of the ((UniverseCreation|true Destroyer)) and the Fearful's terrible plight thousands of years ago.
+Once the PCs meet them, it's possible there could be a friendly period, depending on how many mystics there are, whether the Fearful sense that right away (although with an oddly fanatical air to them, due to their strong inclination toward religion). Once they find out that some humans use mystic energy, they will freak out and cut off all communication with the PCs. When they find out the PCs can seed mystic worlds, they will go totally ballistic and make war with the Terrans, unless the conflict can be avoided somehow. If all goes as planned, the PCs will come to believe that the Fearful are responsible for the destruction of the outlying colony, since they will pose questions such as, &quot;Have you heard the screams?&quot; Eventually, they will learn of the [true Destroyer](UniverseCreation) and the Fearful's terrible plight thousands of years ago.

@@ -1,5 +1,9 @@
--=AJ's Character's Secrets=-
-
+---
+layout: page
+title: AJ's Character's Secrets
+permalink: /deus/CharSecretsAJ
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to AJ's character.
 
 The infected powerful mystic ally is William Moss.

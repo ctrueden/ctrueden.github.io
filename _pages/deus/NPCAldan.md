@@ -1,5 +1,9 @@
--=Aldan Huntington=-
+---
+layout: page
+title: Aldan Huntington
+permalink: /deus/NPCAldan
+category: deus
+---
+Aldan was one of the seven members of the [Arcane Order](OrgArcaneOrder) exiled for disagreeing with its policy of noninterference in world affairs, along with her husband [Morgan](NPCMorgan) and son [Merlin](NPCMerlin).
 
-Aldan was one of the seven members of the ((OrgArcaneOrder|Arcane Order)) exiled for disagreeing with its policy of noninterference in world affairs, along with her husband ((NPCMorgan|Morgan)) and son ((NPCMerlin|Merlin)).
-
-Aldan was slain by ((NPCMoses|Speed Demon's)) elite team of superheroes during World War III.
+Aldan was slain by [Speed Demon's](NPCMoses) elite team of superheroes during World War III.

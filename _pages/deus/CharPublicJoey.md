@@ -1,5 +1,9 @@
--=Meechum=-
-
+---
+layout: page
+title: Meechum
+permalink: /deus/CharPublicJoey
+category: deus
+---
 Meechum has the beginning growth of a black dragon-like wing out of his left shoulder blade (2ft. long), a single white horn coming out of the top-right-front of his head (right above his forehead and on the right side about an inch long). The left side of his face is green scaled. His left eye is hazel while his right eye is Cat-like. He has a tan, orange, and white Lion's mane around his face and down his chin. His right leg is grey, goat-like, and hoofed while his left leg is orange and ostrich-like with a specially crafted brown leather boot where the talons stick out (however both legs are proportional, by length, to a human leg). His left arm is also orange and bird-like, ending in a taloned claw. His right arm is bear-like with grizzly brown fur ending in a paw. His skin is green with a jumbled mixture of scales, feathers, and patches of fur where appropriate. He has gills on his neck. He has an iguana-like tail (3 ft. long) protruding out of his specially-designed shorts. His torso surprisingly resembles that of a human, however green it may be. He wears a worn, torn, dirty and faded white lab coat around his body.  He appears to be 5' 9&quot; tall when standing upright.
 
 Meechum's Features Update:

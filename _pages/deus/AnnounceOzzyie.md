@@ -1,6 +1,10 @@
--=Ozzyie's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Ozzyie's Experience Tally and Other Announcements
+permalink: /deus/AnnounceOzzyie
+category: deus
+---
+### Experience
 
 Commune penalty: -100 EP
 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: Monday17
+permalink: /deus/Monday17
+category: deus
+---
 __[[Mon 17]__
 *Gaddelsmocks conspiracy (Ariona)
 *Brotherhood job offer (Unity)
@@ -5,7 +11,7 @@ __[[Mon 17]__
 *Fulfill Xela's bargain (Nikolai)
 *Nikolai rescuing Jasmine from the Void -- portal to the end of time
 
-!!Current status
+## Current status
 *Sharptooth was captured by Lefty.
 *The Void echoes are growing louder, and everyone is warned to flee the system.
 *Presumably, they all escape with their fucked up techniques, into the Void and/or Netspace. Combine to form VOLTRON!
@@ -17,14 +23,14 @@ __[[Mon 17]__
 **If they try to get involved, the UNF stonewalls them, and Huntington turns down assistance from them, saying he already has all the help he needs. (He does not want to complicate the situation any further, now that he is so close to obtain full control over the O.L.).
 *DEE asks Adam to investigate certain details about DEO (if necessary, he confirms evidence that DEO is linked to StratCo somehow).
 
-!!Recap of events so far
-An explanation of StratCo and Evan Cassenti's involvement with the Damocles Experiments can be found at ((Talk20060312)).
+## Recap of events so far
+An explanation of StratCo and Evan Cassenti's involvement with the Damocles Experiments can be found at [Talk20060312](Talk20060312).
 
-An explanation of Gaddelsmocks the StratCo and Magitech plot to ruin Deblin Gaddelsmocks can be found at ((Talk20051002)).
+An explanation of Gaddelsmocks the StratCo and Magitech plot to ruin Deblin Gaddelsmocks can be found at [Talk20051002](Talk20051002).
 
-Some old, largely obsolete notes on Pipwhistle, Davis and the Syndicate can be found on ((Monday04)).
+Some old, largely obsolete notes on Pipwhistle, Davis and the Syndicate can be found on [Monday04](Monday04).
 
-!!Further details
+## Further details
 The white goo was discovered 20 years ago in an archeological dig by Pipwhistle's father (he ran a robotic mining company -- after being fired for embezzlement, he got a crappy job on Laboro, and was very recently assimilated by the Technofearful).
 
 Pipwhistle recently completed his research with the juice, which was used to put the finishing touches on DEO. Evan Cassenti, though he was twisted by Mordred, still deployed the ship during the Deus rite to take down the Caretaker's shield.
@@ -33,16 +39,16 @@ Along the way, Pipwhistle discovered many interesting properties of &quot;the ju
 
 Upon completing his research, Pipwhistle learned the truth about DEO and the planned deployment. He threatened to go to the press with the information, but StratCo preemptively retaliates by firing him on the grounds that he is a Brotherhood spy. A short time later, there is an accident at Nald's house -- terrified, he runs to Lensherr for protection.
 
-!!Vondre Willowtree
+## Vondre Willowtree
 Willowtree has been gathering information on Ariona and her weaknesses for years. Working with StratCo, Willowtree was involved in the abduction of Bernstein -- not only for all the reasons already mentioned, but also to put Ariona out of a job.
 
 Since then, she concentrated on Erica, managing to trap her in Baba Yaga's book. (She recently got it back from Huntington as part of his power brokering deals during the war. She assisted him with his weapons deals, and also arranged for the book to fall into the Volokhovs' hands, so that Huntington, disguised as the old man, could use it to make the false Crown to harm Ariona.)
 
-Willowtree sends the book to Ariona (via a delivery droid emblazoned with WMG logo, who sets down the box upside-down cheerily), with a forged note from Bernstein saying, &quot;Hello, Ariona. I ran across something in my research lately that puzzled me, and would greatly value your input, as I feel it may be very relevant to your area of expertise. Any help you could provide would be greatly appreciated. Thanks, Rudolf.&quot; The book is black with blue trim, and titled, &quot;The [http://en.wikipedia.org/wiki/Blue_rose|Blue Rose].&quot; It is locked with an ''arcane lock'' effect.
+Willowtree sends the book to Ariona (via a delivery droid emblazoned with WMG logo, who sets down the box upside-down cheerily), with a forged note from Bernstein saying, &quot;Hello, Ariona. I ran across something in my research lately that puzzled me, and would greatly value your input, as I feel it may be very relevant to your area of expertise. Any help you could provide would be greatly appreciated. Thanks, Rudolf.&quot; The book is black with blue trim, and titled, &quot;The [Blue Rose](http://en.wikipedia.org/wiki/Blue_rose).&quot; It is locked with an ''arcane lock'' effect.
 
 When the book is read, if your name has been inscribed within, the book automatically turns to that page, you read your own name, you get sucked in, and it creates a new chapter in the book about you.
 
-Willowtree has prepared the book for [http://www.d20srd.org/srd/spells/instantSummons.htm|instant summons] back to her hand (her arcane mark is on the inside cover). Once Ariona has been sucked in, Willowtree recalls it to her hand. But unable to sense whether it has worked, she waits a good month before doing so.
+Willowtree has prepared the book for [instant summons](http://www.d20srd.org/srd/spells/instantSummons.htm) back to her hand (her arcane mark is on the inside cover). Once Ariona has been sucked in, Willowtree recalls it to her hand. But unable to sense whether it has worked, she waits a good month before doing so.
 
 One of the chapters in the book is about Baba Yaga. Thus, releasing everyone from the book might not be such a good idea. However, Baba Yaga is so tired of being in the book that she helps them unconditionally if they release her. But when they first talk to her, she screams for them to release her, alternating between begging, pleading, threats and insults.
 
@@ -50,7 +56,7 @@ For someone inside the book, she can only interact with the outside world (magic
 
 The book has a page missing (the one containing the instructions on how to extract people from the book's clutches).
 
-!!What's next
+## What's next
 Hopefully, someone will contact Bernstein to find out what the hell is up with the book. He vaguely recalls his assistant running off at the mouth about a &quot;book of roses&quot; and &quot;incredibly dangerous in the wrong hands.&quot; Bernstein explains that Nald was recently for being a Brotherhood spy (&quot;shame about him, I thought he was such a nice guy&quot; -- Bernstein has been totally brainwashed by StratCo and believes everything they say). If not a lot of time (or if Alex is too pissed off), Bernstein gives them the missing page of the book, saying he found it in Nald's desk. Otherwise, Nald stole it before fleeing.
 
 Hopefully Unity remembers his contact with Erik Lensherr and the party goes to visit him. The secretary says that Lensherr is currently in a meeting with Mr. Sinclair, but that it should be over soon. Bernard (formerly Blacksoul), as he is leaving, says &quot;I implore you one last time, Mr. Lensherr -- cease your association with these people, and admit the truth.&quot;
@@ -61,7 +67,7 @@ Assuming they also free Erica, she vows to find Willowtree and take her down onc
 
 But before they can run off to JUSTICE, the room darkens, and Void Echoes are heard!
 
-!!The end of time
+## The end of time
 Jasmine contacts Nikolai, who hears her voice with the Void Echoes of his abilities. Nikolai hears her words at a primal level. &quot;Nikolai... the Destroyer moves... Mars is next... we can stop it... no longer distracted from its true purpose... use your power... Deus Ex Machina.&quot;
 
 No one else hears anything abnormal about the Echoes, except for Brice, who hears Jasmine crying, &quot;Brice... I'm sorry... for everything... for abandoning you... forgive me... *sob*... Please... wait for me.&quot;

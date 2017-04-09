@@ -1,6 +1,10 @@
--=Technology=-
-
-This page describes the technological status of the ((LifeForms|Terran races)).
+---
+layout: page
+title: Technology
+permalink: /deus/Technology
+category: deus
+---
+This page describes the technological status of the [Terran races](LifeForms).
 
 Though I have been working on this page quite a bit, it is still somewhat incomplete. I'll be adding to it as time allows. Please let me know if you have any questions!
 
@@ -64,6 +68,6 @@ __Mecha:__ Military mecha do exist, sometimes piloted by humans. Militaries are 
 
 __Enervin (&quot;Substance P&quot;):__ A drug that temporarily blocks mystic abilities. One dose renders a mystic completely unable to use magic for 24 hours. Enervin also works on psionic characters. Taking more than the usual dosage makes the user lethargic and muddy-headed (-4 to Dexterity and Wisdom). The drug in any amount has no effect on mundanes.
 
-__Forterol (&quot;Agent X&quot;):__ A drug that temporarily enhances mystic potential. For 1 hour, all spheres in which you possess ranks improve by +3 (both current and maximum). Reserve (both current and maximum) is doubled. Mystic effects up to three levels higher than usual can be performed. After the drug wears off, the user is [http://www.d20srd.org/srd/conditionSummary.htm#exhausted|exhausted], current Reserve becomes zero, and it refills only one third the next day. Taking more than the usual dosage is usually lethal. The drug in any amount has no effect on either mundanes or psions.
+__Forterol (&quot;Agent X&quot;):__ A drug that temporarily enhances mystic potential. For 1 hour, all spheres in which you possess ranks improve by +3 (both current and maximum). Reserve (both current and maximum) is doubled. Mystic effects up to three levels higher than usual can be performed. After the drug wears off, the user is [exhausted](http://www.d20srd.org/srd/conditionSummary.htm#exhausted), current Reserve becomes zero, and it refills only one third the next day. Taking more than the usual dosage is usually lethal. The drug in any amount has no effect on either mundanes or psions.
 
-__Transportation:__ Cars are completed automated. Specify the destination and the AI will drive the car there. Cars are also hover vehicles, meaning the roads often have multiple levels (see [http://imdb.com/title/tt0119116/|the Fifth Element]). Manual override of the AI is possible by swiping an identicard indicating the driver (but is generally done in emergencies only). Many people do not own a car anymore, but instead request uses of the equivalent to &quot;public transit&quot; in this day and age -- the desired time of transport is noted online, and then a car is automatically sent to pick people up and transport them anywhere they want to go. Other setups are possible but not as common (e.g., a rich or important man might have an android &quot;driver&quot; for his own personal limosine, but this configuration is purely for status reasons, and serves no practical purpose).
+__Transportation:__ Cars are completed automated. Specify the destination and the AI will drive the car there. Cars are also hover vehicles, meaning the roads often have multiple levels (see [the Fifth Element](http://imdb.com/title/tt0119116/)). Manual override of the AI is possible by swiping an identicard indicating the driver (but is generally done in emergencies only). Many people do not own a car anymore, but instead request uses of the equivalent to &quot;public transit&quot; in this day and age -- the desired time of transport is noted online, and then a car is automatically sent to pick people up and transport them anywhere they want to go. Other setups are possible but not as common (e.g., a rich or important man might have an android &quot;driver&quot; for his own personal limosine, but this configuration is purely for status reasons, and serves no practical purpose).

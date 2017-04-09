@@ -1,9 +1,13 @@
--=Athena's Character's Details=-
-
+---
+layout: page
+title: Athena's Character's Details
+permalink: /deus/CharPrivateAthena
+category: deus
+---
 This page will provide private details of Athena's character, for Athena and the GMs only.
 
 
-!!!The concept
+### The concept
 
 The New Concept:
 
@@ -76,7 +80,7 @@ The Previous Concept:
 I don't know how developed space-flight is in your game, but if it fits in with the world view I wanted to play a girl that works in transporting dangerous magical components from world to world, occasionally legal, occasionally not so legal.  I understand that there is some form of magic warding that she could be versed in to keep the cargoes secure. Eventually she wants to be a space pilot and run her own business trading in magical goods.  If there are colony worlds, she might not be from Earth. Generally a skill-based character with experience in containing magic.  If it's a ground based campaign, she may have left her previous employer and be saving funds for her own ship.  I'm not developing it too much, until there's more information, but I thought I remembered a general shout out for concepts.
 
 
-!!!Ideas from Curtis
+### Ideas from Curtis
 
 This is possible. Gravitic drives enable near-light speeds (by decreasing the effective mass of the ship to near zero), meaning that relativistically the people on the ships experience a few days or weeks, but several years or decades pass outside the ship. But such ships only need to be sent to establish new colonies. Once a world is infused with magic, mystics familiar (physically) with the terrain can teleport between worlds instantaneously, carrying a limited amount of material with them.
 
@@ -86,7 +90,7 @@ Magical goods are quite rare, since creating them requires the mystic infusing a
 
 Another idea is that you are not a mystic, but have some kind of mystic portation item created by a mystic, and you use it to teleport yourself and your goods around. There are many possibilities.
 
-!!Sable's Miller 2 abilities (16 mp)
+## Sable's Miller 2 abilities (16 mp)
 Sable has 20000 power and 200 cpu/round.
 
 *__FTL Teleport:__ (100 power) Sable instantly transports itself somewhere. CPU time required is as outlined in the table below

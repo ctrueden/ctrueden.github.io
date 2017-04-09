@@ -1,3 +1,7 @@
--=Annie=-
-
-One of ((CharPublicGriffin|DEE's)) twelve machine disciples, Annie is an amphibious multipurpose hauling vehicle.
+---
+layout: page
+title: Annie
+permalink: /deus/NPCAnnie
+category: deus
+---
+One of [DEE's](CharPublicGriffin) twelve machine disciples, Annie is an amphibious multipurpose hauling vehicle.

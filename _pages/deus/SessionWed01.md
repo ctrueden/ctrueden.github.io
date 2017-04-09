@@ -1,18 +1,24 @@
-Thanks to ((Playerozzyie|Oz)) for this session summary.
+---
+layout: page
+title: SessionWed01
+permalink: /deus/SessionWed01
+category: deus
+---
+Thanks to [Oz](Playerozzyie) for this session summary.
 
 -----
 &quot;An army without leaders is like a foot without a big toe.&quot;
 
 The year is 2299
-Upon the space colony ((Worlds|Percepi)), the unveiling of the first Great Forest away from Earth is underfoot.  Claxton Jones, the original Percepi colony coordinator reads from Dr Seuss' ''Oh the Places We'll Go''.  Thanking all the folks who helped harness great magics, their dedicated hours, and all the support on the journey from here to there.  He introduces ((CharPublicDanielle|Fey Arius)), the lead production manager, whom without her leadership this forest would not be here.
+Upon the space colony [Percepi](Worlds), the unveiling of the first Great Forest away from Earth is underfoot.  Claxton Jones, the original Percepi colony coordinator reads from Dr Seuss' ''Oh the Places We'll Go''.  Thanking all the folks who helped harness great magics, their dedicated hours, and all the support on the journey from here to there.  He introduces [Fey Arius](CharPublicDanielle), the lead production manager, whom without her leadership this forest would not be here.
 
-((CharPublicPaul|Dr Peters)) listens as Fey begins her speech, thanking the various folks who contributed and work with her.  As she pays tribute to Gaia's guidance he senses a building of negative emotions.  Fear, hatred, loneliness, and all the things that make one crumble wells up inside of him and around him, growing, overwhelming him.
+[Dr Peters](CharPublicPaul) listens as Fey begins her speech, thanking the various folks who contributed and work with her.  As she pays tribute to Gaia's guidance he senses a building of negative emotions.  Fear, hatred, loneliness, and all the things that make one crumble wells up inside of him and around him, growing, overwhelming him.
 
-((CharPublicLucas|Noun)) near his sculpture, an archway wrapped around the Great Forest central tree, is wide-eyed and in horror by the world collapsing around him, with everyone's negative emotions folding in on itself while the crowds cry, yell, panic, and run in fear.  Noun, terrified, yet exhilarated in the beauty of the world's bending, flexing and crushing him into oblivion, screams, piercing reality, until all that is left is silent.  Noun no longer exists.  The universe no longer exists, but he is safe within his sculpture along with the companionship of others.
+[Noun](CharPublicLucas) near his sculpture, an archway wrapped around the Great Forest central tree, is wide-eyed and in horror by the world collapsing around him, with everyone's negative emotions folding in on itself while the crowds cry, yell, panic, and run in fear.  Noun, terrified, yet exhilarated in the beauty of the world's bending, flexing and crushing him into oblivion, screams, piercing reality, until all that is left is silent.  Noun no longer exists.  The universe no longer exists, but he is safe within his sculpture along with the companionship of others.
 
-UN Forces Captain ((CharPublicAthena|Ridge Kilgerren)) patiently waits at Pax Artificium Spaceport for her 14:50 transport to Percepi, where she is to meet with Claxton Jones, who is coordinating a new colony that will be significantly further from Earth than any previous.  In the waiting area a voice announces that all transport to Percepi are suspended until further notice.  Checking with her superiors using her comlink, she finds that Percepi no longer shows up on any instruments and that she is reassigned immediately to Laboro where she will check in and be briefed on her new mission to study what has happened.
+UN Forces Captain [Ridge Kilgerren](CharPublicAthena) patiently waits at Pax Artificium Spaceport for her 14:50 transport to Percepi, where she is to meet with Claxton Jones, who is coordinating a new colony that will be significantly further from Earth than any previous.  In the waiting area a voice announces that all transport to Percepi are suspended until further notice.  Checking with her superiors using her comlink, she finds that Percepi no longer shows up on any instruments and that she is reassigned immediately to Laboro where she will check in and be briefed on her new mission to study what has happened.
 
-Right at that same moment, ((CharPublicMark|Trenton Verner)) has some revelation, which I cannot share with our audience.  You DO NOT have clearance.  This was a private meeting between ((Playercurtis|Curtis)) and ((Playermark|Mark)), who has been cast as Trenton Verner.  Perhaps he wonders if he left the stove on at home.
+Right at that same moment, [Trenton Verner](CharPublicMark) has some revelation, which I cannot share with our audience.  You DO NOT have clearance.  This was a private meeting between [Curtis](Playercurtis) and [Mark](Playermark), who has been cast as Trenton Verner.  Perhaps he wonders if he left the stove on at home.
 
 Trenton, traveling to Percepi on the same transport and hearing the same announcement, begins searching the nets for more details.  There is little other than all communications with Percepi having been lost.  He calls his parents, gets their answering machine, and leaves a message for them to call back.  Working with the gate stewardess, he is told all transports to Percepi have been suspended, but is offered transport to Laboro in exchange.  Trenton accepts, handing over identification card and is cleared for transport from gate Zeta 12.
 
@@ -32,7 +38,7 @@ Ridge responds, &quot;Can you do anything?&quot;
 
 Major Bradley asks whether he is a part of the UN Forces, to which Trenton admits he is not.   Trenton is told that this is a military matter and there is no place for civilians.  Major Bradley takes this opportunity to sell military service and convinces Trenton to sign up.  The three of them take shuttle to the UN Forces headquarters, where they drop Trenton off at the recruitment office.
 
-((CharPublicOzzyie|Malcolm)) finds his way to the spaceport, talking to those who are concerned about their families in Percepi.  There is an offer to redirect folks to Laboro, but few if any are taking up those offers.  A kind woman offers her ticket to Malcolm, which he graciously accepts.  He goes around collecting messages, names, numbers, and requests from the various families.
+[Malcolm](CharPublicOzzyie) finds his way to the spaceport, talking to those who are concerned about their families in Percepi.  There is an offer to redirect folks to Laboro, but few if any are taking up those offers.  A kind woman offers her ticket to Malcolm, which he graciously accepts.  He goes around collecting messages, names, numbers, and requests from the various families.
 
 Arriving in Laboro, Malcolm does not learn much about the situation of any of the families he looks into.  There is even less information about Percepi and no one going there.  Learning that the UN Forces are in charge of looking into the matter, he heads for their headquarters.
 

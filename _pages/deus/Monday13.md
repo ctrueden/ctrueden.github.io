@@ -1,4 +1,10 @@
-!!What happens to Cain
+---
+layout: page
+title: Monday13
+permalink: /deus/Monday13
+category: deus
+---
+## What happens to Cain
 
 *Cain in floating in space, on the far side of the Sun from Earth (4 hours from the Boneyard).
 *Unfortunately, Aben's ward to learn of Cain's location was triggered, and he learned where (when Eddie came on board).
@@ -15,7 +21,7 @@
 *Cain/Scorpio travels to Arcadia to get cybernetic implants, and pursue some of Scorpio's shady business goals. He is currently lying low, while Freeman has been sent to Laboro to purchase slaves with technical knowledge and bring them back for Cain to devour. (Officially, there are no slaves, but children are sold into indentured servitude under the table. Cain/Scorpio reasons that these types of people are the least likely to missed en masse.) He may also devour a criminal or two locally.
 
 
-!!Cain's powers
+## Cain's powers
 
 *Stats: Str 8/10, Dex 8/10, Con 8/10, Int 30, Wis 20, Cha 20
 *Read minds (DC 22)
@@ -26,7 +32,7 @@
 *Pseudonatural touch
 
 
-!!Arcadia NPCs
+## Arcadia NPCs
 
 *Boris, Josef &amp; Annika
 *Lincoln Evans -- drug dealer; big muscly guy, wears lots of jewelry; crosses his arms a lot; outgoing, says &quot;Ayup&quot; and &quot;Nope&quot; a lot
@@ -34,7 +40,7 @@
 *Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot
 
 
-!!How they can learn what happened
+## How they can learn what happened
 
 *Nikolai can make a Navigate check to remember the star configuration properly, and determine the location using star charts and computer-assisted bullshit. If Nikolai fails this roll, the droid knows the general area, which can be searched.
 *It takes 18 hours to reach the location from Arcadia, assuming no extensive searching is required.
@@ -46,26 +52,26 @@
 *Some of their more valuable stuff was sold on the black market in Arcadia. If the characters are clever enough, they may be able to retrieve it, and even trace it back to Cain/Scorpio's hiding place.
 
 
-!!Sartus Morningdew
+## Sartus Morningdew
 
 During the night of the 18th, Sartus contacts Brice with what little is left of his strength, and tells him about Cassenti's condition. He explains that Brice's power is like that of the wraiths, and that in the past they have been able to transport people successfully through the digital realm, as long as a wraith acts as a guardian.
 
 
-!!Jasmine
+## Jasmine
 
-After Sartus contacts Brice, Jasmine contacts him while the party is in transit. In tears, she asks how to find him. If he tells her, she shows up. Maybe he even transports her back to Arcadia, in which case she sees the tapestry then. See ((Talk20060305)) for details.
+After Sartus contacts Brice, Jasmine contacts him while the party is in transit. In tears, she asks how to find him. If he tells her, she shows up. Maybe he even transports her back to Arcadia, in which case she sees the tapestry then. See [Talk20060305](Talk20060305) for details.
 
 Jasmine's prophecy: &quot;Thrice doth That Which Is Written become known, and with each revelation, failure.&quot;
 
 
-!!The Syndicate suicide
+## The Syndicate suicide
 
 Emilio Falconi wants to meet with Vittorio in a crowded place -- a restaurant (but not the family's restaurant in New York). But before Emilio can tell Vittorio about the mass suicide planned for the night of July 22nd, he dies, from poison. It causes a stir in the restaurant.
 
 Though Vittorio won't be able to stop the mass suicide order, he might be able to save his family, particularly his mother, who his father plans to murder.
 
 
-!!The Brotherhood
+## The Brotherhood
 
 Does Cain's association with Scorpio give the party another foothold into the Brotherhood? Perhaps they approach it from the &quot;top down,&quot; due to Divin's dialogue with Erik Lensherr. Maybe Lensherr is slightly impatient and wants to meet with Meechum (now Unity) in person to make the argument face-to-face?
 
@@ -74,7 +80,7 @@ The &quot;juice&quot; that Divin ingested was defeated by his body, but he still
 To focus on Joey's character more, we can emphasize the Gaddelsmocks/Pipwhistle stuff enough that the party ends up desiring a foodhold into the Brotherhood.
 
 
-!!Deblin Gaddelsmocks
+## Deblin Gaddelsmocks
 
 If Ariona chooses to respond to Gaddelsmocks, she is very communicative, and suggests an in-person meeting to discuss the situation. She reiterates her conspiracy theory, that the Cassenti divorce is a sham, Magitech and StratCo are secretly the same company (they are working together), and that they have ruined her life for getting &quot;too close to the truth.&quot; Her career is over, as she has been blacklisted from working for any news source, reputable or not, due to the scandal when she &quot;falsely&quot; accused Magitech of the Bernstein abduction. Her husband Rupert Pipwhistle, currently in prison for embezzlement, is convinced she is insane, and has asked for a divorce. Her son Reginald, who works for StratCo, refuses to speak to her, or help her in any way.
 
@@ -87,16 +93,16 @@ He knows a bit about the juice, but nothing unexpected. Pipwhistle told him to s
 Further investigation could lead to another link to the Brotherhood (if Nald talks), which might encourage Unity to step up a meeting with Lensherr. And Nald might talk if they PCs indicate knowledge of the white substance's origins or properties beyond what he knows. Still, he would want to meet at a place not controlled or monitored by StratCo.
 
 
-!!Xela
+## Xela
 
 After hearing from Max on the 18th, Xela eventually sends the entourage again (led by Pandemonium) to retrieve the sword, with the promise that Gerald will attend the Deus rite to make sure everything goes smoothly. (It was Gerald's idea; he talked her into it. She will secretly attend as well, but tells no one, not even Gerald -- she loves him, but does not want this weakness known.)
 
-Xela's current orders for Max involve something other than the Deus rite, involving the Saturday group. More details fleshed out in the ((Saturday13)) notes.
+Xela's current orders for Max involve something other than the Deus rite, involving the Saturday group. More details fleshed out in the [Saturday13](Saturday13) notes.
 
 
-!!World Mystics Union
+## World Mystics Union
 
 The WMU issues an official statement about StratCo's control over genetically engineered mystics: they oppose one corporation having sole control over the knowledge and technology rights.
 
-Also, regarding the Deus rite the WMU makes no official statement, but Lefty knows it is important, and gets involved somehow. Again, details fleshed out in ((Saturday13)).
+Also, regarding the Deus rite the WMU makes no official statement, but Lefty knows it is important, and gets involved somehow. Again, details fleshed out in [Saturday13](Saturday13).
 

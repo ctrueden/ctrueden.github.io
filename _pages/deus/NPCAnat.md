@@ -1,5 +1,9 @@
--=Anat Cassenti=-
+---
+layout: page
+title: Anat Cassenti
+permalink: /deus/NPCAnat
+category: deus
+---
+Anat is the first daughter of [Adana](NPCAdana) and [Evan](NPCEvan). She is named for [Seth's](http://www.christiananswers.net/bible/gen5.html) first wife in [ancient Egyptian legend](http://www.geocities.com/Athens/Ithaca/4396/wives.htm).
 
-Anat is the first daughter of ((NPCAdana|Adana)) and ((NPCEvan|Evan)). She is named for [http://www.christiananswers.net/bible/gen5.html|Seth's] first wife in [http://www.geocities.com/Athens/Ithaca/4396/wives.htm|ancient Egyptian legend].
-
-She is very beautiful, and until her death at DEE's hands during the Pax Artificium assault, was ((OrgMagitech|Magitech's)) public relations spokeswoman.
+She is very beautiful, and until her death at DEE's hands during the Pax Artificium assault, was [Magitech's](OrgMagitech) public relations spokeswoman.

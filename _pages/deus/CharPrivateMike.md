@@ -1,6 +1,10 @@
--=Vadril Korlax=-
-
-!!!Vadril's backstory
+---
+layout: page
+title: Vadril Korlax
+permalink: /deus/CharPrivateMike
+category: deus
+---
+### Vadril's backstory
 
 Vadril was cloned, as typical of the Royal species.  He was mentored by a Royal by the name of Ghendar (for the sake of simplicity, we'll call him his father).  His &quot;father&quot; worked on artificial development (mainly integrating the high-speed logic processing with the complexities of the various species' thought processes and emotions in everyday life in a grand approach to artificially creating a mystical &quot;soul&quot;).
 
@@ -14,13 +18,13 @@ Vadril is not a charismatic leader, rather a quiet, passive scientific observer.
 
 In order to &quot;optimize&quot; himself, Vadril tries to mix in the speed and efficiency of technological enhancements with his natural self.  He adapted his arms to include a various amount of tools that he can use to better interact with computers (basically, think of it being a hacker's toolkit kept in his arms).  He also enhanced his mental abilities suited for pure processing and memory enhancement (thereby, giving him an edge in intelligence) and increased his sensory perception (to help him better analyze and understand the world).  He also has mental enhancements that allow him to better analyze and perceive mystic powers.  &lt;writer's note&gt;if this is possible&lt;/writer's note&gt; Those enhancements would also allow him to better understand and enhance Vadril's own mystic power.
 
-!!!The origin of the royals
+### The origin of the royals
 
 One of the more popular rumors about the royals is that they are crossbreeds of gnomes and dwarves. While this is partially true, it is misleading.
 
 In 2034, the dwarves and gnomes set aside their centuries-long war and forged a peace treaty that united their two countries into Midgard, the powerful dwarven/gnomish kingdom of today (2299). To unite their peoples, the gnomish princess Moreta married the dwarven prince Gerald, and they ruled together for many years (although Gerald never took much of an interest in politics, leaving Moreta to do most of the &quot;ruling&quot;).
 
-Although gnomes and dwarves are genetically incompatible, Moreta and Gerald somehow produced an heir; however, he looked to be neither dwarven nor gnomish, having an elongated, blue-skinned appearance. This creature, who they named [http://www.experiencefestival.com/a/Allfather_Alfadir/id/98867|Alfadir], was the first royal. One by one, more royals appeared, until there were several hundred in existence. Eventually, Alfadir took over the throne and still rules Midgard to this day.
+Although gnomes and dwarves are genetically incompatible, Moreta and Gerald somehow produced an heir; however, he looked to be neither dwarven nor gnomish, having an elongated, blue-skinned appearance. This creature, who they named [Alfadir](http://www.experiencefestival.com/a/Allfather_Alfadir/id/98867), was the first royal. One by one, more royals appeared, until there were several hundred in existence. Eventually, Alfadir took over the throne and still rules Midgard to this day.
 
 Because they are the rightful heirs to the throne of Midgard, these creatures are called the royals. However, only the royals themselves know that Alfadir was created by sampling DNA from the Caretaker himself, and splicing it with that of Moreta and Gerald, to produce the first royal, who was then cloned. According to the royal teachings, one of the Caretaker's provisions for allowing this genetic sampling was the promise that the race created from it would pursue science and mysticism for the betterment of all Terrans.
 
@@ -29,7 +33,7 @@ The royals are androgenous, without sexual organs (a feature of the Caretaker's 
 There are enough royals in existence now that Vadril is probably not too high in Midgard's line of succession (though he can be if you wish; either way is fine with me -- maybe 127th or something?). I was thinking there are probably fewer than 1,000 royals in existence.
 
 
-!!!Questionnaire
+### Questionnaire
 
 Would your character (1=Never, 5=Always):
 #Lie to a friend to protect his feelings? ~~#7F007F:2~~

@@ -1,9 +1,13 @@
--=Harry Bryant=-
+---
+layout: page
+title: Harry Bryant
+permalink: /deus/CharPublicKelsey
+category: deus
+---
+See [Bryant's NPC page](NPCBryant) for a description.
 
-See ((NPCBryant|Bryant's NPC page)) for a description.
 
-
--=Eddie=-
+# Eddie
 
 Eddie appears to be the ghost of a halfling.  However, he is not.
 

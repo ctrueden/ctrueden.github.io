@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed13
+permalink: /deus/SessionWed13
+category: deus
+---
 WARNING: ALmost no editing :(
 
 Bullet train, I'm the local superhero, heard you ran into a pirate group.  He indicates that perhaps he has also encountered a certain common person and that he and our group should meet.  Ridge does some research, finds that bullet train is active the small super hero community.  There aren't many super villains.  They model themselves based on special abilities.  He is the son of speed demon (his claim to fame).  Speed Train is the son of Snow White and Speed Demon.

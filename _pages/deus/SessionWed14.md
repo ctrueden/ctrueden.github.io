@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed14
+permalink: /deus/SessionWed14
+category: deus
+---
 Rudy, a member of the Arcane Order, teleports Malcolm and Noun to Valhalla.  Iason asks that they not divulge the existence of the Arcane Order to outsiders.
 
 In Valhalla, Malcolm and Noun meet with Queen Mireda, human woman.  She is amused that Malcolm knows so little about its construction.  She tells them as little as possible as she likes it that very few people know about it.  They learn that Pop built his stairway some 200 years ago.  It goes from the Celestial realm to here to the Infernal realm.  Malcolm is welcome to use the stairway as he wishes as it was built for his kind.

@@ -1,5 +1,9 @@
--=Lucas's Character's Secrets=-
-
+---
+layout: page
+title: Lucas's Character's Secrets
+permalink: /deus/CharSecretsLucas
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Lucas's character.
 
 Divine Conjunction: the Occultem Lapidem (Philosopher's Stone)

@@ -1,6 +1,10 @@
--=Athena's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Athena's Experience Tally and Other Announcements
+permalink: /deus/AnnounceAthena
+category: deus
+---
+### Experience
 
 || |__Session__|__Individual__|__Total so far__|__Level__|__Bonus MP__
 Pre|-|100|100|1|-

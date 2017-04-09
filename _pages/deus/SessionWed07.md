@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed07
+permalink: /deus/SessionWed07
+category: deus
+---
 Date: 24-June-2299 (late that Saturday)
 
 The group learns that Cain has been targeting powerful mystics and converting them to undead.  The public has heard in news stories that the Mars colony is under attack from supernatural forces and that UN Forces has been deployed to handle this situation.

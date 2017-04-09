@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wednesday02
+permalink: /deus/Wednesday02
+category: deus
+---
 The scouting mission departure date is Thursday, June 8, 2299. After hours of traveling through space it is now early on Friday, June 9. Those on a standard sleep schedule will need to sleep soon.
 
 After bringing aboard the probe, repairing it a bit, and copying off the data, analysis shows an interesting phenomenon: a glip of light shoots from Dragonstar to the colony three days before the incident.

@@ -1,5 +1,9 @@
--=Character concepts=-
-
+---
+layout: page
+title: Character concepts
+permalink: /deus/CharacterConcepts
+category: deus
+---
 Here are some possibilities for character concepts:
 
 __Human:__ unless they get disallowed during the ban phase... j/k (:smile:)
@@ -32,9 +36,9 @@ __Robot:__ any other non-human machine with artificial intelligence (e.g., a fly
 
 __Alien:__ I will neither confirm nor deny the existence of extraterrestrials in the campaign; inquire if interested
 
-__Mystic:__ anything with a soul (a sentient) can possess mystic abilities, drawing mystic power from his surroundings to perform magic; see the ((MagicPsionics|page covering mystic magic and psionics)) for more information
+__Mystic:__ anything with a soul (a sentient) can possess mystic abilities, drawing mystic power from his surroundings to perform magic; see the [page covering mystic magic and psionics](MagicPsionics) for more information
 
-__Psionic:__ anything with a soul (a sentient) can possess psionic abilities, drawing mystic power from his own soul to perform magic; only a select few even know that psionics exists, and the art is a closely guarded secret; see the ((MagicPsionics|page covering mystic magic and psionics)) for more information
+__Psionic:__ anything with a soul (a sentient) can possess psionic abilities, drawing mystic power from his own soul to perform magic; only a select few even know that psionics exists, and the art is a closely guarded secret; see the [page covering mystic magic and psionics](MagicPsionics) for more information
 
 __Genetic engineering:__ genes can be manipulated greatly; it is usually expensive but there are a variety of reasons someone's genetic structure might have been &quot;improved&quot;
 

@@ -1,14 +1,18 @@
--=Andy=-
-
+---
+layout: page
+title: Andy
+permalink: /deus/Playerandy
+category: deus
+---
 Status: confirmed
 Preferred gaming slot:
 ||__1st choice__|Saturday
 __2nd choice__|Any
 __3rd choice__|Any||
-!!!Brice Murphy
-*((CharPublicAndy|Character description)){GROUP(groups=&gt;andy|GMs)}
-*((CharPrivateAndy|Private page))
-*((AnnounceAndy|Experience tally and announcements)){GROUP}{GROUP(groups=&gt;GMs)}
-*((CharSecretsAndy|Character secrets)){GROUP}
-Pax Artificium character: [/pax/pcs/jack.html|Jack Daniels]
+### Brice Murphy
+*[Character description](CharPublicAndy){GROUP(groups=&gt;andy|GMs)}
+*[Private page](CharPrivateAndy)
+*[Experience tally and announcements](AnnounceAndy){GROUP}{GROUP(groups=&gt;GMs)}
+*[Character secrets](CharSecretsAndy){GROUP}
+Pax Artificium character: [Jack Daniels](/pax/pcs/jack.html)
 

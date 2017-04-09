@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed17
+permalink: /deus/SessionWed17
+category: deus
+---
 The Obsidian Teknokon's new computer has the name Sable.  
 
 ETA of Fearful in Sol system 5 days

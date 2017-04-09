@@ -1,10 +1,16 @@
-The party (specifically, ((CharPublicAlex|Ariona Cassyon)), ((CharPublicJon|Nikolai)), ((CharPublicAllen|Vitorrio Garibaldi)), and ((CharPublicJoey|Meechum))), still reeling from the shock of Thorpe's destruction, returns to ((CharPublicGriffin|DEE)) with the aid of ((NPCBryant|Harry Bryant)).  Onboard the ship, they are rejoined by ((CharPublicAndy|Bryce Murphy)) and ((NPCMoss|William Moss)), the latter of whom is working feverishly to restore ((NPCNyx|Everlily Nyx)). 
+---
+layout: page
+title: SessionMon07
+permalink: /deus/SessionMon07
+category: deus
+---
+The party (specifically, [Ariona Cassyon](CharPublicAlex), [Nikolai](CharPublicJon), [Vitorrio Garibaldi](CharPublicAllen), and [Meechum](CharPublicJoey)), still reeling from the shock of Thorpe's destruction, returns to [DEE](CharPublicGriffin) with the aid of [Harry Bryant](NPCBryant).  Onboard the ship, they are rejoined by [Bryce Murphy](CharPublicAndy) and [William Moss](NPCMoss), the latter of whom is working feverishly to restore [Everlily Nyx](NPCNyx). 
 
 A discussion with Bryant prompts Moss to disappear for a few moments and return with one of the original sensors from Pax Artificium.  Bryant seems quite surprised, and is pleased with the idea of using this as a bargaining chip. 
 
 ----- 
 
-DEE takes off shortly thereafter, and arrives a few moments later in Canis subspace.  Upon their arrival, a message from ((NPCVolokhov|Stefan Volokhov)) reaches them, stating that he and Ivan will meet with them at their earliest convenience, and inquiring as to whom they should expect at said meeting. 
+DEE takes off shortly thereafter, and arrives a few moments later in Canis subspace.  Upon their arrival, a message from [Stefan Volokhov](NPCVolokhov) reaches them, stating that he and Ivan will meet with them at their earliest convenience, and inquiring as to whom they should expect at said meeting. 
 
 Apparently, the answer is only Ariona and Nikolai.  They agree to start the bargaining with a much lower amount than they have available to them, perhaps half of what Bryant brought.  On the way to the meeting, however, Ariona gets an encrypted message from Bryce mentioning that the Volokhovs paid approximately 1 percent of the amount in DEE's hold to acquire the crown in the first place. Ariona passes this information on to Nikolai, and suggests that perhaps they start with that exact amount, as an intimidation tool. 
 
@@ -54,7 +60,7 @@ Nikolai and Ariona experiment a bit with their new Artifacts.  Nikolai continues
 
 ----- 
 
-DEE returns to Earth, and promptly makes his way towards Mars.  He arrives in Mars subspace around 1 am on Thursday, June 22nd.  During the calculation time, all contact was lost with the colony on Mars.  Furthermore, all civilian vessels have been warned not to travel to Mars under any circumstances, as the U.N. is investigating ((NPCCain|potentially hazardous circumstances)) there. 
+DEE returns to Earth, and promptly makes his way towards Mars.  He arrives in Mars subspace around 1 am on Thursday, June 22nd.  During the calculation time, all contact was lost with the colony on Mars.  Furthermore, all civilian vessels have been warned not to travel to Mars under any circumstances, as the U.N. is investigating [potentially hazardous circumstances](NPCCain) there. 
 
 ----- 
 
@@ -120,7 +126,7 @@ DEE replies, "Cease combat operations and I will do the same."
 
 Moss growls, very forcefully, "Where's Nyx?!" 
 
-The other ship is identified as the ``Perseverance,'' and claims that they were sent by ((OrgGaia|the Order of Gaia)) to stop Cain.  DEE agrees to open communications, and informs his inhabitants of such.  ((CharPublicOzzyie|Malcolm)), their techie, sends a quick crew manifest to DEE. 
+The other ship is identified as the ``Perseverance,'' and claims that they were sent by [the Order of Gaia](OrgGaia) to stop Cain.  DEE agrees to open communications, and informs his inhabitants of such.  [Malcolm](CharPublicOzzyie), their techie, sends a quick crew manifest to DEE. 
 
 Vittorio demands to know whether they have some zombie-fighting capabilities; they reply "uh, some, I guess." 
 
@@ -128,19 +134,19 @@ Moss informs DEE (and through him, everyone on the ``Perseverance'') that Nyx ha
 
 Knowledge is traded between the ships, including that antimatter may be able to be destroyed with destruction magic.  How much destruction magic was not stated. 
 
-DEE requests more information about heart trees.  ((CharPublicDanielle|a high female voice)) replies with what she can. 
+DEE requests more information about heart trees.  [a high female voice](CharPublicDanielle) replies with what she can. 
 
 The other ship requests permission to phase halfway into DEE so that they can simply step off onto DEE.  Nikolai is vastly disturbed by something NOT being where he is at this moment. 
 
 DEE communicates with Sarah, the AI on the ``Perseverance.''  DEE discusses algorithms with Sarah; he apparently might be getting an upgrade shortly.  Sarah would like to give DEE her unique technology; she asks that it be put in a secure location until DEE can fix the security hole in his LORE chip. 
 
-The high voice informs DEE at this point that she thinks that the heart tree's link could be severed from ((NPCCaretaker|the Caretaker)) and the other heart trees, but it would be difficult and might take a significant amount of time. 
+The high voice informs DEE at this point that she thinks that the heart tree's link could be severed from [the Caretaker](NPCCaretaker) and the other heart trees, but it would be difficult and might take a significant amount of time. 
 
 ----- 
 
-Six individuals appear in DEE's Cargo Bay Three, this time non-magically.  They introduce themselves as ((CharPublicMark|Trenton Vernor)), ((CharPublicJason|Laiden Rahu)), ((CharPublicDanielle|Fey Arius)), ((CharPublicPaul|Dr. Andrew Peters)), and ((CharPublicLucas|Noun and Pronoun)).  With them at this time are Bryce, Nikolai, Ariona, Meechum, Vitto (appearing fully solid and "normal"), and "Crazy Pete."  The far end of the bay is occupied with DEE's shuttlecraft. 
+Six individuals appear in DEE's Cargo Bay Three, this time non-magically.  They introduce themselves as [Trenton Vernor](CharPublicMark), [Laiden Rahu](CharPublicJason), [Fey Arius](CharPublicDanielle), [Dr. Andrew Peters](CharPublicPaul), and [Noun and Pronoun](CharPublicLucas).  With them at this time are Bryce, Nikolai, Ariona, Meechum, Vitto (appearing fully solid and "normal"), and "Crazy Pete."  The far end of the bay is occupied with DEE's shuttlecraft. 
 
 Harry Bryant at this time is elsewhere on the ship, having stated no desire to go talk to Cain. 
 
-On the other ship, ((CharPublicOzzyie|Malcolm Biggs)), ((CharPublicAthena|Ridge)), and ((NPCRossner|Admiral Rossner)) remain on the bridge.  They are able to hear and be heard by the others through the link between DEE and Sarah. 
+On the other ship, [Malcolm Biggs](CharPublicOzzyie), [Ridge](CharPublicAthena), and [Admiral Rossner](NPCRossner) remain on the bridge.  They are able to hear and be heard by the others through the link between DEE and Sarah. 
 

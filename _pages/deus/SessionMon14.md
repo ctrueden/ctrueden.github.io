@@ -1,6 +1,12 @@
-Today is Sunday, July 20, 2299.  ((CharPublicJon|Nikolai)), ((CharPublicAlex|Ariona)), ((CharPublicJoey|"Unity")), ((CharPublicAllen|Vittorio)), ((CharPublicGriffin|Adam)), and ((CharPublicAndy|Brice)) are aboard the ship ''The Grey Storm.''  They have arrived at the former location of ((NPCCain|Cain))'s body, in the asteroid belt, only to discover that the stasis chamber which held him has been damaged -- and worse, is now empty. 
+---
+layout: page
+title: SessionMon14
+permalink: /deus/SessionMon14
+category: deus
+---
+Today is Sunday, July 20, 2299.  [Nikolai](CharPublicJon), [Ariona](CharPublicAlex), ["Unity"](CharPublicJoey), [Vittorio](CharPublicAllen), [Adam](CharPublicGriffin), and [Brice](CharPublicAndy) are aboard the ship ''The Grey Storm.''  They have arrived at the former location of [Cain](NPCCain)'s body, in the asteroid belt, only to discover that the stasis chamber which held him has been damaged -- and worse, is now empty. 
 
-There are two ships with organic components here, now scorched hulks.  Everything here has obviously been scavenged and stripped quite thoroughly previous to the party's arrival.  The personal effects of many of the individuals who were aboard ((CharPublicGriffin|DEE)) have also been taken. 
+There are two ships with organic components here, now scorched hulks.  Everything here has obviously been scavenged and stripped quite thoroughly previous to the party's arrival.  The personal effects of many of the individuals who were aboard [DEE](CharPublicGriffin) have also been taken. 
 
 Adam decides to investigate the remains of the ships, as does Unity.  Vittorio drifts in later, and Nikolai and Ariona watch from the bridge.  Adam notices that based on the original capabilities of DEE's weapons array, he must have successfully utilized the Miller II algorithm to augment the ship's destructive power.  This declaration is met with a distinct lack of enthusiasm. 
 
@@ -14,7 +20,7 @@ The ship and Adam team up, matching Adam's stored data of the former positions w
 
 ----- 
 
-Meanwhile, Brice contacts ((NPCAdana|Adana Cassenti)) with a request for more information on the ships she sent to retrieve Cain.  Adana replies that she is quite busy with both rebuilding her city and trying to research alternatives to the Deus rite, as it has apparently been pushed up.  The specs for the ship were stored in Magitech's computer; she doesn't have access to them anymore, obviously.  The organic components were created in conjunction with the ((OrgLuna|New Lunar Gaians)).  She also mentions that any help Brice can give her would be appreciated. 
+Meanwhile, Brice contacts [Adana Cassenti](NPCAdana) with a request for more information on the ships she sent to retrieve Cain.  Adana replies that she is quite busy with both rebuilding her city and trying to research alternatives to the Deus rite, as it has apparently been pushed up.  The specs for the ship were stored in Magitech's computer; she doesn't have access to them anymore, obviously.  The organic components were created in conjunction with the [New Lunar Gaians](OrgLuna).  She also mentions that any help Brice can give her would be appreciated. 
 
 He asks how he can help, and she suggests that Nikolai was useful in previous experiments, and could still be.  Brice relays this to the folks on the ship, then starts on his way to Luna to do what he can with the rebuilding effort. 
 
@@ -24,7 +30,7 @@ Nikolai begins to consider the idea that it was someone from his father's statio
 
 Unity researches the finger.  He establishes that the DNA does not appear to be human.  He then passes on (most of) it to Nikolai for further research. 
 
-Just as Brice is about to leave for Luna, he receives an email from ((NPCJasmine|Jasmine)).  She is in tears; she tells him that everyone has turned against her, and that she needs help.  She begs Brice to come find her. 
+Just as Brice is about to leave for Luna, he receives an email from [Jasmine](NPCJasmine).  She is in tears; she tells him that everyone has turned against her, and that she needs help.  She begs Brice to come find her. 
 
 ----- 
 
@@ -129,7 +135,7 @@ Boris shows the party a list of the items that Nikolai forwarded to him, divided
 
 All the personal effects have been recovered, and Boris hands them over without a word.  The art objects and other various valuables, no one particularly requests.  They also ask where Boris got these things, with the intent of maybe tracking down who originally sold everything.  Ideally, this may lead them to whoever has Cain's body. 
 
-Boris explains that he hasn't done any looking into this, as it would raise some eyebrows.  Ariona says that she understands, but it could still be important to know where the items came from.  Boris waves his hand in the air and adds another column to the computer printout.  It shows where he found all the various items.  Several names show up multiple times: ((NPCNorris|Norris Harrison)); ((NPCFelicia|Felicia Worthington)); ((NPCMaxim|Maxim Signaevsky)); and ((NPCLincoln|Lincoln Evans)), who had the remains of the alchemical lab. 
+Boris explains that he hasn't done any looking into this, as it would raise some eyebrows.  Ariona says that she understands, but it could still be important to know where the items came from.  Boris waves his hand in the air and adds another column to the computer printout.  It shows where he found all the various items.  Several names show up multiple times: [Norris Harrison](NPCNorris); [Felicia Worthington](NPCFelicia); [Maxim Signaevsky](NPCMaxim); and [Lincoln Evans](NPCLincoln), who had the remains of the alchemical lab. 
 
 Nikolai asks Boris to set them up with a guest house, which he does, and to let them have long-term loan of ''The Grey Storm.''  To that, Boris replies to ask him again when Nikolai actually needs the ship.  Right now, he's got other stuff he should be doing, right? 
 
@@ -267,7 +273,7 @@ The black man returns, and stares in their general direction again.  "Follow me.
 
 Several people also perceive another aura in this room, a very powerful mind.  Nikolai is pretty sure it isn't physical.  Adam feels that it is paying particular attention to him. 
 
-Cain looks up from what he is doing.  "Good day, sirs, madam.  It appears that I don't need this anymore."  He has had a neural jack installed.  He reaches back into it, and pulls out what looks to be ((NPCScorpio|a light yellow marble)).  A kind of shadowy tentacle emerges from his forehead and wraps around it.  The tentacle appears to be sucking something out of the marble.  Some of the people here realize with varying amounts of horror or awe that Cain appears to be sucking the soul out of a Zodiac computer. 
+Cain looks up from what he is doing.  "Good day, sirs, madam.  It appears that I don't need this anymore."  He has had a neural jack installed.  He reaches back into it, and pulls out what looks to be [a light yellow marble](NPCScorpio).  A kind of shadowy tentacle emerges from his forehead and wraps around it.  The tentacle appears to be sucking something out of the marble.  Some of the people here realize with varying amounts of horror or awe that Cain appears to be sucking the soul out of a Zodiac computer. 
 
 The presence in the room seems to lash out somehow.  The large black man issues a guttural cry and charges at Cain. 
 
@@ -293,7 +299,7 @@ After a few seconds the stone crumbles.  Cain dusts his hands.  "It is a pleasur
 
 "What delays you?" asks Vittorio. 
 
-Cain explains that he sent a servant of this man, indicating the black man, to run an errand for him, and he has not returned.  "His name is ((NPCFreeman|Bruce Freeman))."  He was sent to Laboro, and Cain does not know why he has not returned.  He also mentions that Bruce is a rather advanced android. 
+Cain explains that he sent a servant of this man, indicating the black man, to run an errand for him, and he has not returned.  "His name is [Bruce Freeman](NPCFreeman)."  He was sent to Laboro, and Cain does not know why he has not returned.  He also mentions that Bruce is a rather advanced android. 
 
 Since space travel to Laboro is somewhat time-consuming, it is difficult for him to go himself.  However, if they could retrieve his manservant, he would be happy to accompany them.  Vittorio agrees that this seems to be a fair bargain. 
 

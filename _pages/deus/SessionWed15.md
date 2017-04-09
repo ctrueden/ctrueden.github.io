@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed15
+permalink: /deus/SessionWed15
+category: deus
+---
 Ridge reports the Necropalis to the UN.  Sent information to Gaia's Order.
 
 Noun request view the network that we return to the Arcane Order.   Ridge says sure, we're going back to Earth to report in.  Ridge takes the Filthy Mongrel with us.

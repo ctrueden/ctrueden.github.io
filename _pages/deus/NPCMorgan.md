@@ -1,5 +1,9 @@
--=Morgan Huntington=-
+---
+layout: page
+title: Morgan Huntington
+permalink: /deus/NPCMorgan
+category: deus
+---
+Morgan was one of the seven members of the [Arcane Order](OrgArcaneOrder) exiled for disagreeing with its policy of noninterference in world affairs, along with his wife [Aldan](NPCAldan) and son [Merlin](NPCMerlin).
 
-Morgan was one of the seven members of the ((OrgArcaneOrder|Arcane Order)) exiled for disagreeing with its policy of noninterference in world affairs, along with his wife ((NPCAldan|Aldan)) and son ((NPCMerlin|Merlin)).
-
-Morgan was slain by ((NPCMoses|Speed Demon's)) elite team of superheroes during World War III.
+Morgan was slain by [Speed Demon's](NPCMoses) elite team of superheroes during World War III.

@@ -1,5 +1,9 @@
--=Villains=-
-
+---
+layout: page
+title: Villains
+permalink: /deus/Villains
+category: deus
+---
 ||__Character__|__Level__|__Notes__
 Mordred|32
 Xela|32

@@ -1,9 +1,13 @@
--=Magic and Psionics=-
+---
+layout: page
+title: Magic and Psionics
+permalink: /deus/MagicPsionics
+category: deus
+---
+This page describes the workings of mystic magic, psionics, and other supernatural phenomena. The game mechanics for most magical and psionic effects in Deus Ultionis are outlined in the [mystic magic guide](/gaming/mystic/index.html).
 
-This page describes the workings of mystic magic, psionics, and other supernatural phenomena. The game mechanics for most magical and psionic effects in Deus Ultionis are outlined in the [/gaming/mystic/index.html|mystic magic guide].
 
-
-!!!Psionics and magic
+### Psionics and magic
 
 Sentient beings have the capability to affect reality through force of will. This phenomenon, commonly known as __psionics__, is not trivial to attain, however, and takes much training and discipline to unlock the required mental pathways.  Without a teacher, most people have no chance of beginning to develop such powers--psionics really are one of the best-kept secrets throughout history.
 
@@ -12,21 +16,21 @@ However, a being with an exceptionally powerful force of will is capable of best
 According to some theologians, another such entity is the cosmos itself -- known as God, Allah and a thousand other names -- the ultimate pervasive force. The traditional D&amp;D gods are all aspects of the cosmos, as are the ideals of good, neutrality and evil. The cosmic entity pervades every inch of reality, granting power to anyone who seeks it, and many different types of people do so. Most wizards view themselves as tapping into neutral cosmic energy, while clerics usually embrace some ideal and draw energy from their dedication thereof. While the cosmos itself is present everywhere in the universe, its magical energy is not. Magic tends to drift toward dense matter areas, and shy away from sparse ones. Thus, magic works wonderfully on earth, but not so well -- if at all -- in space and other vacuous areas.
 
 
-!!!Mystics vs psions
+### Mystics vs psions
 
 A __mystic__ has the ability to draw on external mystic energy -- such as the omnipresent ambient energy that saturates the earth, or from a psionic being. Only 1 in 1,000 humans possess this ability. The good news is that if your character is mystic, he can discover his powers intuitively over time, without formal training.
 
 A __psion__ is very similar in that he produces the same sort of effects as a mystic (they use the same ruleset), but he does it by drawing from his inner strength. Thus, the psionic character does not require an external source of mystic energy, and can utilize his power in space, for example. Psionics is extremely rare, however. It has been kept a closely guarded secret by the few who know it. You cannot just spontaneously develop psionics -- you must be trained. There are people on earth who could have trained your character in psionics, but not many.
 
 
-!!!Sources of mystic energy
+### Sources of mystic energy
 
 Some mystics -- often called mages or wizards -- draw on the ambient mystic energy saturating the earth. But others pledge themselves to a powerful psionic entity who grants them power within its sphere of influence. For example, the Caretaker is a psionic entity whose influence extends across the entire earth. Some members of Gaia's Ancient Order who have pledged themselves to Gaia (one of the Caretaker's two aspects) can draw mystic energy from the Caretaker and channel it from anywhere on Earth. Note that player character psions have neither the strength (psionically) nor the mass (gravitationally) to encompass a sphere of influence more than a few miles outside their own bodies, at most.
 
 Mystic wards do not function outside the relevant sphere of influence. Thus, Gaians cannot ward an effect too far from Earth. More importantly, player character psions have a limited sphere of influence. Warded effects on other characters are only effective when within the psion's sphere of influence, which is a function of the psion's level: level cubed times 10 feet. So a 1st level psion's sphere of influence extends 10 feet from him, while a 20th level psion's sphere of influence extends 20*20*20*10 = 80,000 feet = ~15 miles.
 
 
-!!!The three types of mystic magic
+### The three types of mystic magic
 
 __Passion magic__ is by far the most common. A desire to do good, right a wrong, achieve a goal--these things make up the essence of life, and magic resonates in response. It is the everyday magic that people learn intuitively. It is laced with a torrent of conflicting emotions.
 
@@ -43,12 +47,12 @@ In order to wield purity magic, your resolve would have to be above and beyond t
 Two people using passion magic against each other is somewhat akin to two people clubbing each other; both get hurt.  Two people using empty magic have trouble affecting each other, much as two master martial artists continually parry each other's blows.  Lastly two people using purity magic simply pollute each other's magic, rendering each other ineffective, unless both people are focusing the same emotion.
 
 
-!!!Racial tendencies regarding magic
+### Racial tendencies regarding magic
 
 As stated above, 0.1% of humans wield mystic magic. About half the gnomes do (gnomes also love technology). The dwarves almost universally do not (although some of them have been trained in anti-magical &quot;spellbreaker&quot; techniques). All elves and halflings, and many creatures of Gaia (pixies, dryads, trolls, beholders, etc.) do, although sometimes they draw their power from Gaia's spirit instead of from ambient mystic energy. The royals are also all mystics, and they favor technology as well.
 
 
-!!!Frequently asked questions
+### Frequently asked questions
 
 __Q1:__ Can mystics and psions sense each other?
 
@@ -66,12 +70,12 @@ Lastly, the devices can also sense Gaians (any race with a connection to Gaia, i
 -----
 __Q3:__ How does wish-level magic work for mystics? For psions?
 
-__A3:__ Every mystic source has a maximum sphere cap, above which effects become wish-level (see the [http://restlesswarrior.com/gaming/mystic/techniques.html#wish|wish-level magic] section of the mystic magic guide for an overview of wish-level magic). For the ambient energy on Terran colonies, see the sphere levels listed on the ((Worlds)) page. For psions, this number is equal to their psion level. However, regardless of the sphere cap, both mystics and psions must be level 20 or higher to attempt wish-level magic.
+__A3:__ Every mystic source has a maximum sphere cap, above which effects become wish-level (see the [wish-level magic](http://restlesswarrior.com/gaming/mystic/techniques.html#wish) section of the mystic magic guide for an overview of wish-level magic). For the ambient energy on Terran colonies, see the sphere levels listed on the [Worlds](Worlds) page. For psions, this number is equal to their psion level. However, regardless of the sphere cap, both mystics and psions must be level 20 or higher to attempt wish-level magic.
 
 -----
 __Q4:__ How does linking work for mystics? For psions? Can mystics and psions interlink?
 
-__A4:__ Linking for mystics and psions works as described in the [http://restlesswarrior.com/gaming/mystic/techniques.html#linking|linking] section of the mystic magic guide. They may freely interlink.
+__A4:__ Linking for mystics and psions works as described in the [linking](http://restlesswarrior.com/gaming/mystic/techniques.html#linking) section of the mystic magic guide. They may freely interlink.
 
 -----
 __Q5:__ Can mystics and psions link to produce a wish-level effect?
@@ -83,9 +87,9 @@ __Q6:__ What is the sphere of influence for a mystic? For a psion? Is there any 
 
 __A6:__ A psion's sphere of influence is his psion level cubed times ten feet. So a 15th level psion has a sphere of influence of 15*15*15*10 = 33,750 ft = ~6.4 miles. A mystic's sphere of influence is equal to the sphere of influence of his source. For ambient energy, this corresponds to all known ambient energy in the universe. In the case of the Caretaker (Emmanuel or Gaia), this corresponds to the entire Earth, as well as all colonies with a healthy Heart Tree.
 
-Reaching outside a sphere of influence is possible, but you must pay for range as described in the guide's [http://restlesswarrior.com/gaming/mystic/components.html#range|Range] section. So reaching more than a few hundred feet outside a sphere of influence is extremely difficult.
+Reaching outside a sphere of influence is possible, but you must pay for range as described in the guide's [Range](http://restlesswarrior.com/gaming/mystic/components.html#range) section. So reaching more than a few hundred feet outside a sphere of influence is extremely difficult.
 
-Temporary effects also continue functioning outside the sphere of influence, but only for the normal duration. This duration can be extended as usual as described in the [http://restlesswarrior.com/gaming/mystic/components.html#duration|Duration] section of the guide, but warding does not function outside the sphere of influence.
+Temporary effects also continue functioning outside the sphere of influence, but only for the normal duration. This duration can be extended as usual as described in the [Duration](http://restlesswarrior.com/gaming/mystic/components.html#duration) section of the guide, but warding does not function outside the sphere of influence.
 
 For example, say Vadril the mystic performs an Illusion effect with Ill 1. This effect lasts for 1 round by default. If he instead pays an additional 3 points (making the effect Ill 4) to increase the duration to 3d6+1 rounds, the Illusion is guaranteed to last that long, even outside his sphere of influence. If after 2 rounds he wards the effect to last indefinitely, it will still only last for 3d6+1 rounds outside his sphere of influence.
 
@@ -94,14 +98,14 @@ To put it succinctly, all wards are suppressed while outside the sphere of influ
 -----
 __Q7:__ How does Divination (specifically &quot;knowledge acquistion&quot;) work? How can it be guarded against?
 
-__A7:__ One power of [http://restlesswarrior.com/gaming/mystic/divination.html|Divination] is the ability to glean truths through magic. Where does this knowledge come from. The current theory held by most mystic scientists is that the information is taken from the mind of some living thing within the relevant sphere of influence. Experiments (&quot;Divine the number I am thinking of!&quot;) have corroborated this theory. To prevent knowledge from being able to be divined, everyone with that knowledge must be warded with a Divination shield equal in power to the Divination.
+__A7:__ One power of [Divination](http://restlesswarrior.com/gaming/mystic/divination.html) is the ability to glean truths through magic. Where does this knowledge come from. The current theory held by most mystic scientists is that the information is taken from the mind of some living thing within the relevant sphere of influence. Experiments (&quot;Divine the number I am thinking of!&quot;) have corroborated this theory. To prevent knowledge from being able to be divined, everyone with that knowledge must be warded with a Divination shield equal in power to the Divination.
 
 There are also several &quot;tricks&quot; that can be used. For example, since AIs are not living things, they are not subject to information retrieval through Divination. To conceal the location of an item you wish to keep hidden, give it to an AI you trust, ask it to put the object in a secure location, and instruct it to tell no one of that location, not even you. Then its location cannot be Divined, although you could instruct the AI to retrieve the item for you at any time. Another idea for player characters is to purchase immunity to Divination, acquire the &quot;Mind Blank&quot; spell-like ability, or similar mental block.
 
 -----
 __Q8:__ How does Displacement work? How can it be guarded against?
 
-__A8:__ One form of [http://restlesswarrior.com/gaming/mystic/displacement.html|Displacement] listed in the guide has no range limit. However, it is still limited to within the sphere of influence like anything else. In addition, you must be familiar with the destination in order to port there. Thus, even if there were ambient mystic energy elsewhere in the universe, humans could not simply travel there.
+__A8:__ One form of [Displacement](http://restlesswarrior.com/gaming/mystic/displacement.html) listed in the guide has no range limit. However, it is still limited to within the sphere of influence like anything else. In addition, you must be familiar with the destination in order to port there. Thus, even if there were ambient mystic energy elsewhere in the universe, humans could not simply travel there.
 
 To guard against Displacement, simply ward an area against Displacement at a certain power level, and like Divination, the mystic using Displacement will need to use more power than that to break through the shield.
 
@@ -118,7 +122,7 @@ However, other uses of mystic nets are possible. In the final session of Pax Art
 
 The following feats allow your character to weave mystic nets:
 
-!!!Net Weaver [[Mystic]
+### Net Weaver [[Mystic]
 You can weave mystic threads, tying them together into a net capable of resonating with mystic energy.
 
 __Prerequisite:__ Reserve 10.
@@ -156,21 +160,21 @@ __Benefit:__ You are capable of weaving nets made of mystic energy. Each thread 
 2,400|24,000 ft|Star Carrier (3,000 ft)||
 All starships are assumed to be approximately 2:1:1 ratio (length:width:height), with linear area computed as 2*(l+w) + 2*(l+h) + 2*(w+h) = 8*l.
 
-!!!Weaver Adept [[Mystic]
+### Weaver Adept [[Mystic]
 You are more proficient at weaving mystic threads, working more quickly and efficiently.
 
 __Prerequisite:__ Net Weaver, Reserve 25.
 
 __Benefit:__ You weave each mystic thread in half the normal time (5 minutes instead of 10 minutes).
 
-!!!Enduring Threads [[Mystic]
+### Enduring Threads [[Mystic]
 Your threads are more robust.
 
 __Prerequisite:__ Net Weaver, Reserve 25.
 
 __Benefit:__ Your threads last for an entire week instead of just one day.
 
-!!!Weavemaster [[Mystic]
+### Weavemaster [[Mystic]
 Your skill at weaving mystic threads has reached its pinnacle.
 
 __Prerequisite:__ Net Weaver, Weaver Adept, Enduring Threads, Reserve 40.
@@ -191,7 +195,7 @@ When a mystic draws from a psion, it depletes that psion's Reserve directly, as 
 -----
 __Q11:__ What other tricks and techniques are possible with mystic magic?
 
-__A11:__ You shouldn't feel limited to what's in the guide. Various players have come up with lots of creative ideas. Some of them are briefly noted on the ((MysticTodo|mystic guide &quot;to do&quot;)) page. If you have an idea, feel free to ask.
+__A11:__ You shouldn't feel limited to what's in the guide. Various players have come up with lots of creative ideas. Some of them are briefly noted on the [mystic guide &quot;to do&quot;](MysticTodo) page. If you have an idea, feel free to ask.
 
 -----
 __Q12:__ How do negative levels affect my mystic magic abilities?
@@ -201,4 +205,4 @@ __A12:__ For each negative level incurred, you lose one sphere rank from the sph
 -----
 __Q13:__ How does Displacement work with multiple targets?
 
-__A13:__ By default, all mystic effects target a single object or creature. You may only target objects at most one size category larger than yourself -- any larger and you must pay for size (+1 per 5 feet) to encompass the object. But any creature with a life force (&quot;soul&quot;) may be individually targeted regardless of size (the life force acts as a focus for the effect). The case of Displacement is no different -- to affect multiple targets you must pay for an area effect (see the [http://restlesswarrior.com/gaming/mystic/components.html#target|Target] section of the guide). In the case of Displacement, you must also pay for the total weight of all affected targets. Note that soulmechs count as the size of the original being the soul came from for the purposes of mystic effects. Lastly, using Enhancement to increase your size does not allow you to affect larger-than-usual targets (since your true size is a property of your soul).
+__A13:__ By default, all mystic effects target a single object or creature. You may only target objects at most one size category larger than yourself -- any larger and you must pay for size (+1 per 5 feet) to encompass the object. But any creature with a life force (&quot;soul&quot;) may be individually targeted regardless of size (the life force acts as a focus for the effect). The case of Displacement is no different -- to affect multiple targets you must pay for an area effect (see the [Target](http://restlesswarrior.com/gaming/mystic/components.html#target) section of the guide). In the case of Displacement, you must also pay for the total weight of all affected targets. Note that soulmechs count as the size of the original being the soul came from for the purposes of mystic effects. Lastly, using Enhancement to increase your size does not allow you to affect larger-than-usual targets (since your true size is a property of your soul).

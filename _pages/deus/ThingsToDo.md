@@ -1,3 +1,9 @@
+---
+layout: page
+title: ThingsToDo
+permalink: /deus/ThingsToDo
+category: deus
+---
 Update events:
 *Mon 16
 *Sat E1

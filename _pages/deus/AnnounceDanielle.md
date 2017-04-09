@@ -1,6 +1,10 @@
--=Danielle's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Danielle's Experience Tally and Other Announcements
+permalink: /deus/AnnounceDanielle
+category: deus
+---
+### Experience
 
 Divination penalty: -40 EP
 

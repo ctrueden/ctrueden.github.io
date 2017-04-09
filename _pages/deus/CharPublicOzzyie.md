@@ -1,5 +1,9 @@
--=Malcolm Biggs=-
-
+---
+layout: page
+title: Malcolm Biggs
+permalink: /deus/CharPublicOzzyie
+category: deus
+---
 ||__Gender:__|Male
 __Race:__|Afro American
 __Height:__| 7'5&quot;

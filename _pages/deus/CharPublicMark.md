@@ -1,5 +1,9 @@
--=Trenton Verner=-
-
+---
+layout: page
+title: Trenton Verner
+permalink: /deus/CharPublicMark
+category: deus
+---
 Sex: Male
 Age: 20
 Height: 6'1&quot;

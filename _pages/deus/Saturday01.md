@@ -1,5 +1,9 @@
--=Saturday group, first session=-
-
+---
+layout: page
+title: Saturday group, first session
+permalink: /deus/Saturday01
+category: deus
+---
 Eva, Griffin, James, John, Mike, Nate
 Rae, D.E.E., Zee, Matt, Vadril, Max
 
@@ -16,14 +20,14 @@ __Vadril__: Receives a note from Harry Bryant of Mercabah Technologies, informin
 __Max__: It's been two months since the Mercury incident, so Max hasn't been on his own for too long. He receives an anonymous note (from McLean) telling him to wait at the VIP landing strip at the Pax Artificium Lunar spaceport at 2200 hours GMT, if he wants to find out more about the Occultem Lapidem.
 
 
-!!!The story of Cain
+### The story of Cain
 
 The first human to whom Emmanuel tried to bond was Cain. It twisted him, driving him mad, shriveling his body. He killed his brother, and was cursed to walk the land blah blah blah as described in the Bible. He was essentially a walking manifestation of Emmanuel's taint. The hand that Josef has is not the Hand of Vecna -- it is the Hand of Cain.
 
 The rest of Cain's body is still somewhere... Gaia wouldn't want him. Vampires may exist; it's something to be discussed later.
 
 
-!!!The Caretaker's mad plan
+### The Caretaker's mad plan
 
 Mercabah is controlled by the Iron Syndicate. They want Cain's Hand from Josef, to reawaken Cain.
 
@@ -37,7 +41,7 @@ Side note: Cain's DNA, if studied, might point to the Fearful's manipulation. At
 For later: think about Loki, Ragnarok, and how to fit that into the Midgard scenario.
 
 
-!!!Cain reborn
+### Cain reborn
 
 How does Mercabah know about the Hand? The Caretaker knows, because it knows many things, and tells the royals the proper coordinates (outside the solar system).
 
@@ -50,7 +54,7 @@ Once Cain is reborn as a Cthuloid creature with the hand at its center, that's t
 The PCs could defeat the creature, driving it off or capturing it.
 
 
-!!!Tricking DEE into cooperating
+### Tricking DEE into cooperating
 
 Adam McLean knows about DEE's development through his connections with Mercabah Earth. Mercabah wants to commandeer DEE to go for the hand, and they have a strategy for doing so.
 
@@ -67,7 +71,7 @@ Hopefully, DEE will play along out of curiosity, visit the location, but not des
 How do Max, Rae, Zee and Vadril get onboard DEE?
 
 
-!!!Unique intelligences
+### Unique intelligences
 
 McLean has arranged for the bringing together of several unique intelligences.
 

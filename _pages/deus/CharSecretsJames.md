@@ -1,5 +1,9 @@
--=James's Character's Secrets=-
-
+---
+layout: page
+title: James's Character's Secrets
+permalink: /deus/CharSecretsJames
+category: deus
+---
 Zebadiah Schinder is not his real name -- Huntington made it up based on his cognomen &quot;Zee&quot; for use with his new ID card.
 
 Zee's real name is Ziegfried Rixmann. He is an experiment to duplicate what happened to John Bishop. His father Varick worked for StratCo, as did the strange man in his basement, a doctor named Holden Wiener. Zee was the 26th attempt (hence &quot;Z&quot;) at infusing mystic energy directly into an unborn child, and the first to show results.

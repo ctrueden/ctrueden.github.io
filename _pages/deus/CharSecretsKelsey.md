@@ -1,9 +1,13 @@
--=Kelsey's Character's Secrets=-
-
-!!-Harry
+---
+layout: page
+title: Kelsey's Character's Secrets
+permalink: /deus/CharSecretsKelsey
+category: deus
+---
+## Harry
 There are no secrets for Harry.  Move along.
 
-!!-Eddie
+## Eddie
 Eddie is a wormhole directly to the Caretaker.  This has some potentially major ramifications.
 
 1. The Caretaker is currently trying to construct a way to make his mystic aura appear to come from another location.  Understanding how Eddie works may be *key* to making the Deus Ex Machina work.  He may have to be sacrificed to the caretaker in order to build it.

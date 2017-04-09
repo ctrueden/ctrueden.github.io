@@ -1,4 +1,10 @@
-!!!Davis, the Syndicate, Pipwhistle, the white virus, and the Damocles project
+---
+layout: page
+title: Monday04
+permalink: /deus/Monday04
+category: deus
+---
+### Davis, the Syndicate, Pipwhistle, the white virus, and the Damocles project
 
 ''&lt;obsolete&gt;''
 ''Ron Davis is a member of the Syndicate, and represents part of StratCo's Syndicate ties. He arranged for Reginald Pipwhistle's parents to have their careers crushed, to intimidate Pipwhistle into continuing his research with the white virus. The Syndicate is responsible for the Damocles Experiments -- specifically, Vittorio is behind them. It was a move to oppose the portion of the Syndicate trying to put the Caretaker's plan into motion.''
@@ -10,18 +16,18 @@
 ''Magitech, Adana and Evan were involved in the conspiracy to ruin Gaddelsmocks. So the only remaining question is: why did Magitech hire Jason's character to &quot;steal&quot; the Delta ship? The answer: though McLean was unable to obtain control of the Damocles Experiments, he was taking steps to shut down the project. After DEE, no further ships were being constructed. The Damocles project had become very insular, with the leading scientist refusing to yield control to anyone. Thus, with Vittorio dead, Magitech could not properly continue the research -- it was falling apart. To regain control, they wanted DEE and/or DED brought back to them, so that they could resume things from there on Luna.''
 ''&lt;/obsolete&gt;''
 
-See ((Monday17)) for an up-to-date explanation of the above events.
+See [Monday17](Monday17) for an up-to-date explanation of the above events.
 
 Bernstein tells Ariona that he is resigning his position at U-Pax to take a full-time post at StratCo on Earth in Glacialis. He says it has been a pleasure working with her, and that he considers their research successfully completed. He offers to write her a stellar reference for her next place of employ.
 
 
-!!!Procuring Cain's body
+### Procuring Cain's body
 
 The Gaians are distrustful of the party, even after they find out Ariona is half-elven (a half-elven guy named Morningbird -- Speed Demon &amp; Anna's son, Lefty's step-brother -- was just chased out after it was discovered that he was a spy for the Luna faction). But Ariona's celestial blood also throws some weight. They can gain audience with the Caretaker after a couple of days if they are diplomatic.
 
 The Caretaker tells the Monday group to assist Moss in any way they can, and that he indeed serves the interests of all Terrans.
 
-See ((Monday03)) for details on the means with which the PCs can infiltrate Magitech's seventh basement level.
+See [Monday03](Monday03) for details on the means with which the PCs can infiltrate Magitech's seventh basement level.
 
 The sixth and seventh Magitech basements are warded against all mystic magic.
 

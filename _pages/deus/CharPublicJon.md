@@ -1,5 +1,9 @@
--=Nikolai=-
-
+---
+layout: page
+title: Nikolai
+permalink: /deus/CharPublicJon
+category: deus
+---
 Nikolai appears to be a young man of perhaps eighteen years of age, with very dark hair and eyes.  He is quite attractive, but shows a frailty of body.  He moves with simplistic grace, yet seems to virtually float, so perfect is his balance.
 
 Outgoing, friendly, and honest, Nikolai is generally eager to please and often goes out of his way to help people.  A touch of naivete and uncertainty can be seen in his behavior, but he clearly means well.  He dresses in ordinary clothes, dark greys for the most part, in a vaguely military cut.

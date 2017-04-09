@@ -1,13 +1,17 @@
--=Lucas=-
-
+---
+layout: page
+title: Lucas
+permalink: /deus/Playerlucas
+category: deus
+---
 Status: confirmed
 Preferred gaming slot:
 ||__1st choice__|Wednesday 6:30pm
 __2nd choice__|Wednesdays or bust||
-!!!Noun
-*((CharPublicLucas|Character description)){GROUP(groups=&gt;lucas|GMs)}
-*((CharPrivateLucas|Private page))
-*((AnnounceLucas|Experience tally and announcements)){GROUP}{GROUP(groups=&gt;GMs)}
-*((CharSecretsLucas|Character secrets)){GROUP}
-Pax Artificium character: [/pax/pcs/daniel.html|Daniel Miller]
+### Noun
+*[Character description](CharPublicLucas){GROUP(groups=&gt;lucas|GMs)}
+*[Private page](CharPrivateLucas)
+*[Experience tally and announcements](AnnounceLucas){GROUP}{GROUP(groups=&gt;GMs)}
+*[Character secrets](CharSecretsLucas){GROUP}
+Pax Artificium character: [Daniel Miller](/pax/pcs/daniel.html)
 

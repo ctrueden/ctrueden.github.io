@@ -1,6 +1,10 @@
--=Griffin's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: Griffin's Experience Tally and Other Announcements
+permalink: /deus/AnnounceGriffin
+category: deus
+---
+### Experience
 
 || |__Session__|__Individual__|__Total so far__|__Level__|__Bonus MP__
 Pre|-|85|85|1|-

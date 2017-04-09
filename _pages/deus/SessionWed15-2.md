@@ -1,3 +1,9 @@
+---
+layout: page
+title: SessionWed15-2
+permalink: /deus/SessionWed15-2
+category: deus
+---
 On the bridge of Obsidian Teknicon, the crew is decompressing from their successful secure of Fey.  Serra relays an official Arcadia communication, "You are wanted for questioning at your earliest convenience.  You are not being charged.  If you are interested please proceed to the central estate.  If not consider yourself fugitives and are free to leave at once."
 
 The estate is a vast solitary structure.  It has a mostly ornamental fence.  There is a walkway leading up to a door, an android in a vaguely military cut, asks that all mystically infused items and weapon to be set aside and that they would be returned.

@@ -1,5 +1,9 @@
--=Megan's Character's Secrets=-
-
+---
+layout: page
+title: Megan's Character's Secrets
+permalink: /deus/CharSecretsMegan
+category: deus
+---
 This page will provide the GMs a restricted page to discuss secrets related to Megan's character.
 
 James: maybe Hep's final hamster has been bonded with one of the Fearful.

@@ -1,12 +1,18 @@
-To refresh everyone's memory, when we last left our "heroes" (more commonly known as ((CharPublicAlex|Ariona Cassyon)), ((CharPublicJon|Nikolai)), ((CharPublicAllen|Vitorrio Garibaldi)), ((CharPublicAndy|Bryce Murphy)), ((CharPublicJoey|Meechum)), ((CharPublicAJ|Ian Thorpe)), and ((CharPublicGriffin|DEE))), they were joined by ((NPCMoss|William Moss)) aboard DEE (the spaceship, not the robot) in a massively impressive research effort. 
+---
+layout: page
+title: SessionMon06
+permalink: /deus/SessionMon06
+category: deus
+---
+To refresh everyone's memory, when we last left our "heroes" (more commonly known as [Ariona Cassyon](CharPublicAlex), [Nikolai](CharPublicJon), [Vitorrio Garibaldi](CharPublicAllen), [Bryce Murphy](CharPublicAndy), [Meechum](CharPublicJoey), [Ian Thorpe](CharPublicAJ), and [DEE](CharPublicGriffin)), they were joined by [William Moss](NPCMoss) aboard DEE (the spaceship, not the robot) in a massively impressive research effort. 
 
-The current day is Friday, June 16th, 2299, and the research was geared toward finding a way to disable Cain before he impacts Mars in 9-13 days.  The upshot of their findings is that there are apparently 7 major artifacts in the world.  These are: Longinus' Spear (Excalibur, Mjollnir); Nebuchadnezzar's Crown (the Crown of Swords); Babylon's Horn (the Flute); Ambrosia (forbidden fruit, Snow White's poison apple); Pandora's Box (Ark of the Covenant, the Obelisk); [http://en.wikipedia.org/wiki/Shroud_of_Turin|the Shroud of Turin]; and the Eye of Odin (Cain's Hand, Medusa's Head).
+The current day is Friday, June 16th, 2299, and the research was geared toward finding a way to disable Cain before he impacts Mars in 9-13 days.  The upshot of their findings is that there are apparently 7 major artifacts in the world.  These are: Longinus' Spear (Excalibur, Mjollnir); Nebuchadnezzar's Crown (the Crown of Swords); Babylon's Horn (the Flute); Ambrosia (forbidden fruit, Snow White's poison apple); Pandora's Box (Ark of the Covenant, the Obelisk); [the Shroud of Turin](http://en.wikipedia.org/wiki/Shroud_of_Turin); and the Eye of Odin (Cain's Hand, Medusa's Head).
 
 Longinus' Spear is the most likely useful to the party.  Supposedly, in one of its guises, it even cut off the hand of Cain once before -- thus causing the "death" of Cain for the first time.  There are several possible sources of information on the location of the Spear, but the group decides that their first order of business is to question Moss directly. 
 
 He's rather vague, noting that he's hungry, but finally says that anyone he could ask that might know anything, he wouldn't trust to answer truthfully. 
 
-Meanwhile, Vittorio informs everyone that he needs to be in New York City in three days' time to meet with the man he thinks is his father, ((NPCOrlando|Sergei Garibaldi)).  Meechum is skeptical that this is really very important right now, but Garibaldi points out that his father may be able to be of assistance in retrieving the artifact once we find it. 
+Meanwhile, Vittorio informs everyone that he needs to be in New York City in three days' time to meet with the man he thinks is his father, [Sergei Garibaldi](NPCOrlando).  Meechum is skeptical that this is really very important right now, but Garibaldi points out that his father may be able to be of assistance in retrieving the artifact once we find it. 
 
 Meechum grows more and more caustic, arguing that we don't even know where to look for it yet, until he finally mutters to himself, "Meechum, get out here and take a twirl; I can't stand these people anymore.  Uh, did I say that out loud?"  After affirmation, he grows quite worried-looking.  "Meechum?  Where are you?  Meechum?"  He then keels over and clutches his arm in pain, and staggers to his feet again and stomps off. 
 
@@ -28,7 +34,7 @@ A significant amount of oddities occur with Meechum, and finally the more cohere
 
 ----- 
 
-Ariona and Nikolai visit Ariona's contacts, and come back with some information.  There are at least two different people interested in collecting such artifacts as those for which they are looking, but Midgard is probably where they should start.  ((NPCXela|Xela)), the queen of the gnomes, is one of the two collectors, who specializes in magical artifacts.  The other is a collector of antiquities (magical or non-magical, so long as they are old) from Canis by the name of ((NPCVolokhov|Mikhael Volokhov)). 
+Ariona and Nikolai visit Ariona's contacts, and come back with some information.  There are at least two different people interested in collecting such artifacts as those for which they are looking, but Midgard is probably where they should start.  [Xela](NPCXela), the queen of the gnomes, is one of the two collectors, who specializes in magical artifacts.  The other is a collector of antiquities (magical or non-magical, so long as they are old) from Canis by the name of [Mikhael Volokhov](NPCVolokhov). 
 
 Upon doing some research, Ariona discovers that the founders of Canis were 4 brothers by the name of Volokhov, one of whom is Mikhael. 
 
@@ -38,7 +44,7 @@ Apparently, there is also a family of vampire slayers, by the name of the Von He
 
 Moss notes that he was hesitant to mention Xela, and Thorpe says he has it on good authority that the Spear is likely to be in Midgard.  Vitorrio wonders if they can just ask to borrow it, or buy it, or what?  Those who know of Xela think this is somewhat unlikely. :P 
 
-Vitorrio insists that Xela might be of assistance to them, and notes that he remembers her as a tall, stately woman with green robes and jewels, who goes by the name of [http://www.restlesswarrior.com/pax/npcs/xela.html|Anastassia Zelakov]. 
+Vitorrio insists that Xela might be of assistance to them, and notes that he remembers her as a tall, stately woman with green robes and jewels, who goes by the name of [Anastassia Zelakov](http://www.restlesswarrior.com/pax/npcs/xela.html). 
 
 Nikolai continues to play with his lantern, trying out various things on a protesting Vittorio.  He then moves on to trying out the entire rainbow gamut on an unsuspecting patch of grass, which changes . . . not at all.  Unfortunately, at the end of this, he accidentally breaks the orange lens. 
 
@@ -78,7 +84,7 @@ Vittorio then orders the goons to give up their weapons.  The fat one says, "We 
 
 They arrive at a Chinese restaurant and proceed to a back room.  Vitto's father regains his composure before he speaks.  He appears surprised, however, and Vitto reassures him that the goons followed his orders; it just didn't work this time.  He explains a bit about what has happened to him, and moves on to informing his father that the Caretaker's will isn't being done, and that it needs to be.  Orlando remarks that he likes the new Vittorio. 
 
-Vitto also remembers more about his past, and begins to wonder if he really has the right of things after all.  He remembers some more names like Constantine and Adriana (the fat and skinny mooks), and finally Orlando tells Vitto that he will take him to the Boss.  Surprise, surprise, ((NPCBryant|Harry Bryant)) walks in the door. 
+Vitto also remembers more about his past, and begins to wonder if he really has the right of things after all.  He remembers some more names like Constantine and Adriana (the fat and skinny mooks), and finally Orlando tells Vitto that he will take him to the Boss.  Surprise, surprise, [Harry Bryant](NPCBryant) walks in the door. 
 
 ----- 
 
@@ -104,7 +110,7 @@ A tall, beautiful human-seeming woman approaches them, and begins conversation. 
 
 This has the rather unpleasant effect of confusing many of the party, and causing them to attack nearby targets.  The dwarven guards attempt to restrain them, and chaos ensues.  Nikolai takes notes on the artifact. 
 
-((NPCGerald|A young dwarf)) walks in, and demands to know what Xela wanted from him.  She explains that she wants to lend these people his sword for a bit.  At around this time, the spell wears off, and everyone straightens themselves out. 
+[A young dwarf](NPCGerald) walks in, and demands to know what Xela wanted from him.  She explains that she wants to lend these people his sword for a bit.  At around this time, the spell wears off, and everyone straightens themselves out. 
 
 "So you called me here to take my toy?  Fine."  He jabs the gigantic crystalline sword from his back into the ground and laughs.  "Good luck; no one can wield it but me." 
 

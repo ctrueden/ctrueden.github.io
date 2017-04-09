@@ -1,4 +1,10 @@
-See ((Talk20060219)) for thoughts on this session.
+---
+layout: page
+title: Joint12-11
+permalink: /deus/Joint12-11
+category: deus
+---
+See [Talk20060219](Talk20060219) for thoughts on this session.
 
 -----
 

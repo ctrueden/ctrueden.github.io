@@ -1,3 +1,9 @@
+---
+layout: page
+title: Wednesday05
+permalink: /deus/Wednesday05
+category: deus
+---
 The seed has been prepared, and it's almost time for it to be taken to the Sun, planted, and watered with mystic energy. But first they must speak to the Caretaker directly. They meet the council (Sledge Greenhorn, Elana Connendeol, and Liza), who quickly agrees they can touch the Heart Tree to speak with Gaia. All their foremost thoughts, questions and fears rise up and the Caretaker respondes, confirming that planting the seed on the Sun will bring the souls home. If the questions are forceful enough, the Caretaker conveys that these souls are crucial for preventing future calamities like what happened to Percepi.
 
 When they reach the sun, the Oversoul reaches out to communicate with the ship. It is hostile at first, but can be talked down. Once it understands they are planting a tree so that it can return to Earth, it is pleased, and helps the tree grow faster. The tree is wreathed in flames.
@@ -12,7 +18,7 @@ If they attempt to locate the rogue planet alien (Rae) on Earth, there is no sig
 
 Glaurung flings them away, but the ship can counter with its new phasing ability. The cloak might also be useful to avoid notice from the locals. But with whom do they try to communicate? The Red Guard is deployed to meet them, if they are seen by anyone. Glaurung actually notifies the Council of Wyrms of the intruders, and the Red Guard brings them directly to the Council.
 
-See ((Saturday03)) for information about the Council.
+See [Saturday03](Saturday03) for information about the Council.
 
 The Council instructs them that Glaurung demands they leave, and never return. No other aliens are to approach or set foot on their world. The party is assured that Dragonstar will not be returning to any Terran system again. They are also assured that Glaurung will leave as soon as possible, before the Beast can catch up to them.
 

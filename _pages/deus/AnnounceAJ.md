@@ -1,6 +1,10 @@
--=AJ's Experience Tally and Other Announcements=-
-
-!!!Experience
+---
+layout: page
+title: AJ's Experience Tally and Other Announcements
+permalink: /deus/AnnounceAJ
+category: deus
+---
+### Experience
 
 || |__Session__|__Individual__|__Total so far__|__Level__
 Pre|-|5|5|1

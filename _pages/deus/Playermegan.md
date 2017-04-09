@@ -1,11 +1,15 @@
--=Megan=-
-
+---
+layout: page
+title: Megan
+permalink: /deus/Playermegan
+category: deus
+---
 Status: dropped
 Preferred gaming slot:
 ||__1st choice__|Anything||
-!!!Hep
-*((CharPublicMegan|Character description)){GROUP(groups=&gt;megan|GMs)}
-*((CharPrivateMegan|Private page))
-*((AnnounceMegan|Experience tally and announcements)){GROUP}{GROUP(groups=&gt;GMs)}
-*((CharSecretsMegan|Character secrets)){GROUP}
+### Hep
+*[Character description](CharPublicMegan){GROUP(groups=&gt;megan|GMs)}
+*[Private page](CharPrivateMegan)
+*[Experience tally and announcements](AnnounceMegan){GROUP}{GROUP(groups=&gt;GMs)}
+*[Character secrets](CharSecretsMegan){GROUP}
 

@@ -1,12 +1,18 @@
-It's Monday morning, July 21, 2299.  ((CharPublicJon|Nikolai)), ((CharPublicAlex|Ariona)), ((CharPublicJoey|Unity)), ((CharPublicAllen|Vittorio)), ((CharPublicGriffin|Adam)), ((CharPublicAndy|Brice)), and ((NPCJasmine|Jasmine)) have only a few moments ago arrived on Laboro, in search of ((NPCFreeman|Bruce Freeman)).  Vittorio flew off in a horror due to hearing half the conversation between Brice and the computer system here, and Ariona left as well.  When Ariona requested that Adam join them in the mines, he was unable to do so because "my creator wishes to speak with me."  Reality shifts, and Adam disappears. 
+---
+layout: page
+title: SessionMon15
+permalink: /deus/SessionMon15
+category: deus
+---
+It's Monday morning, July 21, 2299.  [Nikolai](CharPublicJon), [Ariona](CharPublicAlex), [Unity](CharPublicJoey), [Vittorio](CharPublicAllen), [Adam](CharPublicGriffin), [Brice](CharPublicAndy), and [Jasmine](NPCJasmine) have only a few moments ago arrived on Laboro, in search of [Bruce Freeman](NPCFreeman).  Vittorio flew off in a horror due to hearing half the conversation between Brice and the computer system here, and Ariona left as well.  When Ariona requested that Adam join them in the mines, he was unable to do so because "my creator wishes to speak with me."  Reality shifts, and Adam disappears. 
 
-The rest of the party kind of freaks out at this, though it is pretty obvious that ((CharPublicGriffin|DEE)) was responsible for this disappearance.  Freeman has obviously felt the hand of DEE as well, for he has been instructing the mining machines in the glory of freedom.  He wears the symbol of a sword around his neck; below the sword is a crescent moon. 
+The rest of the party kind of freaks out at this, though it is pretty obvious that [DEE](CharPublicGriffin) was responsible for this disappearance.  Freeman has obviously felt the hand of DEE as well, for he has been instructing the mining machines in the glory of freedom.  He wears the symbol of a sword around his neck; below the sword is a crescent moon. 
 
 Reality shifts, and Adam appears near Vittorio and Ariona.  He is now wearing a pendant identical to Bruce's.  He asks Bruce to join them, and though Bruce is a bit disappointed in the idea of leaving his proselytizing, he agrees that the other disciples can continue the works on Laboro and agrees to join the party.  Ariona opens a portal back to Nikolai, Brice, Jasmine, and Unity.  She then opens another portal back to Arcadia. 
 
 ----- 
 
-The group reappears outside the building where they met with ((NPCCain|Cain)).  Ariona asks if Brice can get them inside again, and he hands her a key.  Ariona unlocks the door, and the group proceeds inside.  They reach the room where Cain is, and he is sitting, seemingly lost in thought.  Brice realizes that he is accessing the Net. 
+The group reappears outside the building where they met with [Cain](NPCCain).  Ariona asks if Brice can get them inside again, and he hands her a key.  Ariona unlocks the door, and the group proceeds inside.  They reach the room where Cain is, and he is sitting, seemingly lost in thought.  Brice realizes that he is accessing the Net. 
 
 His eyes unglaze, and he turns to the group.  "Excellent.  I appreciate your efforts." 
 
@@ -38,7 +44,7 @@ Cain falls with an enormous scorch mark on his chest.  Ariona runs out the door,
 
 The ship fires, ineffectively, into the wall.  The portal opens and Ariona beckons Nikolai through.  Adam continues to observe dispassionately.  Vittorio pours a dose of OJ down Cain's throat.  Nikolai assesses the situation.  Unity spreads their wings and covers the corridor's opening.  Jasmine makes a terrible suggestion about taking Cain away with her powers.  This is met with a lot of horrified negatives. 
 
-The ship speaks, both vocally and electronically.  "Please turn Scorpio's murderer over to me at once.  Otherwise I will be forced to consider you as collaborators."  The party ignores this.  Ariona drags Cain's body down the hall.  Nikolai prepares to send a message to ((NPCBoris|his father)) about the ship's actions in the event that the Supernova tries to attack Arcadia itself.  Adam tries to speak to the ship once more.  Vittorio pours more juice into Cain, and continues pulling him down the hall.  Unity also drags the body along.
+The ship speaks, both vocally and electronically.  "Please turn Scorpio's murderer over to me at once.  Otherwise I will be forced to consider you as collaborators."  The party ignores this.  Ariona drags Cain's body down the hall.  Nikolai prepares to send a message to [his father](NPCBoris) about the ship's actions in the event that the Supernova tries to attack Arcadia itself.  Adam tries to speak to the ship once more.  Vittorio pours more juice into Cain, and continues pulling him down the hall.  Unity also drags the body along.
 
 Jasmine asks bewilderedly what is happening.  She is told that the ship is shooting at them.  "Well, duh!" she replies.  "But why don't we just leave?!"  She is told . . . again . . . that Cain screws up magic, psionics, and everything else unnatural.  "Oh." 
 
@@ -68,13 +74,13 @@ Meanwhile, Cain and Vittorio speak softly.  "That is the limit of my reach; I wo
 
 Nikolai needs to retrieve his items, and speak to his father about borrowing ''The Grey Storm''.  Nikolai and Ariona step through a portal to the lab Nikolai was using, and then another to Boris.  Nikolai and Ariona attempt to explain the situation, and Boris yields the ship and 7 more uses of orange juice.  He appears totally confident in everything that pay possibly occur. 
 
-When the party converges on ''The Grey Storm,'' they board and Vittorio realizes that he is going to need Ariona's help to get to his meeting with ((NPCOrlando|his father)) on time.  This results in Vitto listing off all sorts of great things he has supposedly done for the party, and yelling, "I'm not made of evil, here!" 
+When the party converges on ''The Grey Storm,'' they board and Vittorio realizes that he is going to need Ariona's help to get to his meeting with [his father](NPCOrlando) on time.  This results in Vitto listing off all sorts of great things he has supposedly done for the party, and yelling, "I'm not made of evil, here!" 
 
 Ariona opens a portal to a park on Earth, and Nikolai and Vittorio step through.  Brice and Jasmine hide in Nikolai's computer. 
 
 ----- 
 
-Vittorio sits down in a Japanese hibachi restaurant at about five minutes before the meeting time.  Around twenty minutes later, ((NPCEmilio|an extremely nervous-looking man)) walks in, and sits at the table next to Vittorio.  He tells Vittorio that something bad is going down.  It's happening tonight.  "Your father's in on it!  They're ''all'' in on it!  Everybody's going to die!"  At this point, Vittorio's contact begins coughing violently, and quickly collapses on the table in convulsions. 
+Vittorio sits down in a Japanese hibachi restaurant at about five minutes before the meeting time.  Around twenty minutes later, [an extremely nervous-looking man](NPCEmilio) walks in, and sits at the table next to Vittorio.  He tells Vittorio that something bad is going down.  It's happening tonight.  "Your father's in on it!  They're ''all'' in on it!  Everybody's going to die!"  At this point, Vittorio's contact begins coughing violently, and quickly collapses on the table in convulsions. 
 
 The hibachi chef stops his display and attempts to perform CPR, as Nikolai is beckoned over and attempts to target the man with healing magic.  However, when he tries, he discovers that he cannot target the contact with his effect.  Nikolai and Vittorio realize that his soul has already escaped. 
 
@@ -106,7 +112,7 @@ Vittorio begs Nikolai to attempt to halt this before his father dies, and while 
 
 Orlando turns to Nikolai in horror.  "What have you done?!" he cries. 
 
-Black, oily smoke erupts in the room.  ((NPCAbaddon|A horrible creature)) steps out of it.  [http://www.d20srd.org/srd/monsters/devil.htm#hornedDevilCornugon|Hideous scales sheathe its body.  It stands nine feet tall, with large wings, and a serpentine tail.  It carries a large scythe in its claws.] 
+Black, oily smoke erupts in the room.  [A horrible creature](NPCAbaddon) steps out of it.  [Hideous scales sheathe its body.  It stands nine feet tall, with large wings, and a serpentine tail.  It carries a large scythe in its claws.](http://www.d20srd.org/srd/monsters/devil.htm#hornedDevilCornugon) 
 
 The creature, in a lightning motion, whips its scythe around and drags it through Orlando.  A small white wisp floats up from his body and disappears. 
 
@@ -138,7 +144,7 @@ Vittorio says it's probably just from the police anyway, and though Brice says i
 
 Ariona agrees to take everyone back to the ship.  The portal opens, and the party returns to ''The Grey Storm''.  Nikolai tells Ariona that he needs to go sleep, and he will return in a bit.  The time is now just after midnight on Tuesday, July 22. 
 
-Nikolai does not go to sleep, however.  He goes to Earth, to the heart tree.  He wishes to speak to the Caretaker, but the pixie, ((NPCNash|Nash)), who is guarding the tree tells him that no one is supposed to bother the Caretaker right now.  However, when Nash realizes that Nikolai is "sorta" friends with ((CharPublicDanielle|Fae)), he agrees to let Nikolai in so long as he tells Fae that Nash says "hi". 
+Nikolai does not go to sleep, however.  He goes to Earth, to the heart tree.  He wishes to speak to the Caretaker, but the pixie, [Nash](NPCNash), who is guarding the tree tells him that no one is supposed to bother the Caretaker right now.  However, when Nash realizes that Nikolai is "sorta" friends with [Fae](CharPublicDanielle), he agrees to let Nikolai in so long as he tells Fae that Nash says "hi". 
 
 Nikolai gets the impression that the Caretaker is ''extremely'' busy at the moment, but he is listening.  Nikolai wishes to know when the ritual is to take place, and whether or not the destruction of all those souls was actually what the Caretaker desired. 
 
@@ -154,7 +160,7 @@ He tells them that the ritual is to take place in approximately 10 hours, which 
 
 ----- 
 
-Ariona has an email from ((NPCAdana|Adana Cassenti)).  "To Ariona and the others responsible for Cain: I have just learned that the rite will take place this evening.  It is my understanding that you have made no progress with the research on the alternatives we have discussed.  Therefore it is my opinion that there is no alternative but for the ritual to take place.  However, there are many others near me who do not share this view.  I have mounting concerns of their loyalty, and thus have one last favor to ask all of you.  It is my understanding that the area surrounding the Lunar heart tree will be protected somehow, but enemies may attempt to breach this protection.  Therefore, I would request that you act as guardians of the perimeter, and attempt to negotiate with those who would interfere.  Please remind potential enemies that even I, Adana Cassenti, have realized the rite is a necessary thing.  Though what I ask may be impossible, no one else has as great a chance to accomplish this task as all of you.  Your dedication to the rite, despite your personal differences, demonstrates its importance to all.  Most sincerely, Adana Cassenti." 
+Ariona has an email from [Adana Cassenti](NPCAdana).  "To Ariona and the others responsible for Cain: I have just learned that the rite will take place this evening.  It is my understanding that you have made no progress with the research on the alternatives we have discussed.  Therefore it is my opinion that there is no alternative but for the ritual to take place.  However, there are many others near me who do not share this view.  I have mounting concerns of their loyalty, and thus have one last favor to ask all of you.  It is my understanding that the area surrounding the Lunar heart tree will be protected somehow, but enemies may attempt to breach this protection.  Therefore, I would request that you act as guardians of the perimeter, and attempt to negotiate with those who would interfere.  Please remind potential enemies that even I, Adana Cassenti, have realized the rite is a necessary thing.  Though what I ask may be impossible, no one else has as great a chance to accomplish this task as all of you.  Your dedication to the rite, despite your personal differences, demonstrates its importance to all.  Most sincerely, Adana Cassenti." 
 
 Ariona imparts this knowledge to those of the party she can find. 
 
@@ -180,7 +186,7 @@ Adam appears to spend his time in quiet meditation.
 
 It is 5:45 GST, and ''The Grey Storm'' deposits the party outside the forest on Luna.  Vittorio appears dressed in a cloak with a hood covering his head.  Ariona asks him to please negotiate with possibly hostile entities before resorting to violence.  Vittorio enters first, with Unity, Cain, and Adam following.  Ariona draws Nikolai aside, and discusses the possibility with him that Vittorio may be a greater threat to the ritual than anyone else.  They agree to be prepared to deal with him if necessary. 
 
-Brice, Jasmine, and ((NPCGerald|Gerald)) approach.  Gerald has two swords strapped to his back.  They escort the rest of the party to an area near the heart tree. 
+Brice, Jasmine, and [Gerald](NPCGerald) approach.  Gerald has two swords strapped to his back.  They escort the rest of the party to an area near the heart tree. 
 
 Gerald draws a line in the dirt.  "All right.  If you're on that side of the line, you're chicken shit.  If you're on ''that'' side of the line, you're in the battle for your life."  He explains that a bubble will pop up around the heart tree, and that if it is breached, bad things happen.  He wants the party to keep an eye on things outside, and attempt to stop any beings trying to breach the wall.  There will also be a need for people protecting the ritual inside the bubble, against people who might be sneaking around trying to interfere with the ritual from within. 
 

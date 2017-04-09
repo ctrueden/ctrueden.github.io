@@ -1,3 +1,9 @@
+---
+layout: page
+title: CharPrivateJames
+permalink: /deus/CharPrivateJames
+category: deus
+---
 
 * character name:  "Zee" (a name he pulls from fragmented flashbacks)
 * family history and relations:  Fragmented memories.  Mom is a women with brown hair.  SHE WEARS TOO MUCH PERFUME.  She reads bedtime stories sitting in a wooden rocking chair in a room that smelled like flowers.  WHEN I GET ANGRY OR SAD THE FLOWERS DIE.  When she laughs she squeaks like a mouse.  SHE CRIED THE SAME WAY TOO.  She doesn't like candy.  SHE DOESN'T KNOW HOW I GET IT OFF THE TOP SELF.  Dad is tall and jolly and loves to give shoulder rides.  HE THINKS THERE'S SOMETHING WRONG WITH ME.  He's loosing his hair at the back of his head.  HE BLAMES ME FOR IT WHEN HE'S UPSET.  He lets me borrow the car and lies to Mom about how late I got home last night.  I STARTED IT WITHOUT KEYS THE FIRST TIME WE WENT DRIVING.  Mom and Dad stay in their room until late every Saturday morning or when they aren't working.  THEY MAKE TOO MUCH NOISE.  They love each other.  WHEN THEY FIGHT I GET SAD AND SOMETHING BREAKS IN AN EMPTY ROOM.  Someone else is always at the house.  HE SCARES ME.  He and Mom argue a lot and something about him makes her sad, but she cares about him.  I SEE HIS FACE IN MY NIGHTMARES.  He sleeps on a coat in the basement.  HE'S WATCHING ME.  Dad calls him "Sport."  HE'S LYING ABOUT WHO HE IS.  They have matching rings.  HE KNOWS I KNOW SOMETHING.  He sneaks me candy after dinner.  I FED IT TO THE DOG ONCE AND SHE GOT REALLY SICK.

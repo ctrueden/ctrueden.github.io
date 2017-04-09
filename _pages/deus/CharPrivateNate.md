@@ -1,7 +1,13 @@
-[http://www.soul-guidance.com/houseofthesun/alchemy%202.htm|Rubedo, Albedo, Nigredo][http://www.sacred-texts.com/alc/emerald.htm|, The Emerald Tablet][http://en.wikipedia.org/wiki/Hermes_Trismegistus|, Hermes Trismegistus][http://www.pantheon.org/articles/h/hermes.html|, Hermes][http://altreligion.about.com/library/glossary/symbols/bldefabraxas.htm|, Abrasax][http://www.orderofthegrail.org/chemical_wedding_of_crc.htm|, The Chymical][http://www.levity.com/alchemy/chymwed1.html| Wedding][http://altreligion.about.com/library/glossary/blsymbols.htm|, Symbols][http://www.alchemylab.com/dictionary.htm|, Alchemical Symbol Dictionary][http://www.levity.com/alchemy/emb_index.html|, Alchemical Imagery][http://goldenbraid.blogspot.com/2005/07/infectious-derangements-part-ii.html|, Ahriman &amp; Lucifer][http://www.levity.com/alchemy/I-blksun.html|, Black Sun][http://www.experiencefestival.com/a/Alchemy/id/5870|, Seven Alchemical Operations][http://www.levity.com/alchemy/emb_hermaphrodite.html|, Rebis(the hermaphrodite)][http://www.levity.com/alchemy/emb_green_lion.html|, Green Lion][http://www.levity.com/alchemy/emb_crow.html|, crow][http://www.kheper.net/topics/Kabbalah/Tzimtzum-ET.htm|, Tzimtzum][http://en.wikipedia.org/wiki/Pleroma|, Pleroma][http://www.alchemylab.com/dissolution.htm|, Dissolution]
+---
+layout: page
+title: CharPrivateNate
+permalink: /deus/CharPrivateNate
+category: deus
+---
+[Rubedo, Albedo, Nigredo](http://www.soul-guidance.com/houseofthesun/alchemy%202.htm)[, The Emerald Tablet](http://www.sacred-texts.com/alc/emerald.htm)[, Hermes Trismegistus](http://en.wikipedia.org/wiki/Hermes_Trismegistus)[, Hermes](http://www.pantheon.org/articles/h/hermes.html)[, Abrasax](http://altreligion.about.com/library/glossary/symbols/bldefabraxas.htm)[, The Chymical](http://www.orderofthegrail.org/chemical_wedding_of_crc.htm)[ Wedding](http://www.levity.com/alchemy/chymwed1.html)[, Symbols](http://altreligion.about.com/library/glossary/blsymbols.htm)[, Alchemical Symbol Dictionary](http://www.alchemylab.com/dictionary.htm)[, Alchemical Imagery](http://www.levity.com/alchemy/emb_index.html)[, Ahriman &amp; Lucifer](http://goldenbraid.blogspot.com/2005/07/infectious-derangements-part-ii.html)[, Black Sun](http://www.levity.com/alchemy/I-blksun.html)[, Seven Alchemical Operations](http://www.experiencefestival.com/a/Alchemy/id/5870)[, Rebis(the hermaphrodite)](http://www.levity.com/alchemy/emb_hermaphrodite.html)[, Green Lion](http://www.levity.com/alchemy/emb_green_lion.html)[, crow](http://www.levity.com/alchemy/emb_crow.html)[, Tzimtzum](http://www.kheper.net/topics/Kabbalah/Tzimtzum-ET.htm)[, Pleroma](http://en.wikipedia.org/wiki/Pleroma)[, Dissolution](http://www.alchemylab.com/dissolution.htm)
 
--=Max 4.0=-
-!-O.L. as a class or monster class
+# Max 4.0
+# O.L. as a class or monster class
 ||Level|BAB|Fort|Refl|Will|Def|Rep|Ability
 1|0|2|0|2|2|0|Trapped Will, Alchemical Prowess, Type:Outsider
 2|1|3|1|3|3|0|
@@ -9,28 +15,28 @@
 4|1|4|1|4|4|1|Albedo
 5|2|4|2|4|4|1|Rubedo||
 
-!!-Trapped Will
+## Trapped Will
 If any one traps the OL in a magic circle or similiar device, then the OL's abilities may be used by who ever is in control of the device as if it possessed them himself.
 
-!!-Alchemical Prowess
+## Alchemical Prowess
 The OL may exert control over alchemical items and devices. If the item is in the possession of some one else it gets a will save DC 14 + 2*OL LVL + Chr.  Tho OL may manipulate the object to the best of its capabilities varying to wether it functions or doesn't to full control over autonomous alchemical creations or just allow its possessor to control it.  The OL may double the power(double duration, damage, bonuses, etc) of any alchemical item he controls with the expenditure of an action point.  The OL recognizes whether any object is alchemical or not just by looking at it.
 
-!!-Nigredo
-For an action point as a full round action the OL infects a target with a deadly magical/alchemical disease(Fort DC 12 + 2 * OL LVL + Chr).  This disease affects the target once per round in which he/she takes a physical action or uses a supernatural or spell like ability.  The target when afffected must make a fort save or take 1d2 ability damage randomly to Str, Dex, Con, Int, Wis, or Chr.  Should the target die while affected the OL is affected as if he had cast [http://www.systemreferencedocuments.org/35/sovelior_sage/spellsDtoE.html#death-knell|Death Knell] on the target.  This disease is made aparent by the rotting that accompanies the damage.
+## Nigredo
+For an action point as a full round action the OL infects a target with a deadly magical/alchemical disease(Fort DC 12 + 2 * OL LVL + Chr).  This disease affects the target once per round in which he/she takes a physical action or uses a supernatural or spell like ability.  The target when afffected must make a fort save or take 1d2 ability damage randomly to Str, Dex, Con, Int, Wis, or Chr.  Should the target die while affected the OL is affected as if he had cast [Death Knell](http://www.systemreferencedocuments.org/35/sovelior_sage/spellsDtoE.html#death-knell) on the target.  This disease is made aparent by the rotting that accompanies the damage.
 
-!!-Albedo
+## Albedo
 the OL may bestow a blessing on a target within touch range as a standard action.  This blessing gives the target +20 to SR, AC, all saves, and any defensive rolls.  The target loses this blessing when some one fails to breach the targets SR or hit the target with a melee or ranged attack or when the target succeeds a save or defensive roll at the end of the current turn.  This blessing is made aparent by the soft white glow of the target.
 
-!!-Rubedo
+## Rubedo
 As a free action on his/her turn the OL may remove a blessing of albedo from a target in line of sight to replace it with a blessing of rubedo.  Rubedo gives the target +20 to caster level for purpose of breaching SR, hit on melee attacks, and DC of the targets effects and doubles the damage and duration of the targets attacks and effects.  The blessing is removed at the end of the current turn when the target successfully affects a target with an effect or hits with a melee or ranged attack.
 
-!-Quicksilver Mask
+# Quicksilver Mask
 The when not in some ones possession seems to be an average pool of mercury.  When one attempts to pick it up it quickly forms into a semisolid silver mask with the occasional bead of mercury rolling down or across it.  When worn the mask allows its bearer to see from the eyes of any one they attune the mask to.  It takes 5 minutes to attune the mask to a person.  The wearer must keep the target being attuned in sight for the whole time, any break in sight and the attunement will have to be restarted.  While attuning the wearer can take only the most simple actions.  While looking through the eyes of someone attuned the wearer may also cast affects as if they were where the attuned person is with their line of sight.
 
-!
--=(Max 3.0)=-
 
-!-A Theory of Dissolution
+# (Max 3.0)
+
+# A Theory of Dissolution
 The world we live in, what we call reality or existence, is a border world between two planes of pure and unadulturated nature.  One plane consists of null potential and infinite limitation the other of infinite potential and null limitation.  For easy of language we will name these planes.  We will call the plane of null potential the Void(as popular nomenclature is like to do) and the other the Pleroma.  Where the Pleroma and the Void intersect we have the finite world.  At this intersection the Void cuts potentials away from the Pleroma create a space of limited existence.
 
 It is within the realms of possibility that what we, within our capacity, see as the finite world is not the lone finite world.  It is not a small leap of logic to deduce, though limited to our three dimensional thought, that what we experience would be merely one side of the joint where the Void and the Pleroma.  We being beings of existence of course find ourselves on the pleroma side of this.  I do not wish to say that on the otherside are beings of nonexistence only that this is how we perceive them.  I would proport in fact that on the otherside our Pleroma would be as our Void to them and vice versa. This brings a tragic adversity to both finite worlds.  Where we find creation in one, destruction comes to the other.  This is most likely a tendancy and not without exception or inequity.
@@ -40,15 +46,15 @@ Deviations occure that through this balance off.  Sentience, psionic/mystic capa
 All these ideas are perplexing at best, and as much as they might sate one searching for what is happening in the world now, they truly only leave one more thirsty.  The question is placed as to what the Peacekeeper is protecting us from.
 
 
-!-Hand of Dissolution
+# Hand of Dissolution
 Hit Die:d6
-!!-Skills
+## Skills
 The Hand of Dissolution's class skills (and the key ability for each skill) are:
 
 Bluff (Chr), Diplomacy (Chr), Craft (Int), Gamble (Wis), Intimidate (Int), Knowledge (Int), Profession (Wis), Read/Write Language (none), Sense Motive (Wis), Senses (Wis), Speak Language (none), Survival (Wis), and Treat Injury (Wis).
 
 Skill Points at Each Additional Level: 5 + Int modifier
-!!-Table:Hand of Dissolution
+## Table:Hand of Dissolution
 ||Level|BAB|Fort|Refl|Will|Def|Rep|Ability
 1|0|1|0|2|0|0|Dissolute Nature; Disintigrating Vision
 2|1|2|0|3|1|0|Deep into the Beyond
@@ -61,42 +67,42 @@ Skill Points at Each Additional Level: 5 + Int modifier
 9|6|4|3|6|3|2|Nonbeing
 10|7|4|3|7|3|3|Dissolute Resolve||
 
-!!-Class Abilities
-!!!-Dissolute Nature
+## Class Abilities
+### Dissolute Nature
 Whenever the HoD uses his/her abilities he/she becomes a little more unhinged from the finite world, sometimes ceasing to exist in it all together.  Each of the HoD's abilites gives a condition for when Dissolute Nature is triggered.  When this happens the HoD takes a d6 of &quot;dissolute&quot; damage.  If this damage becomes greater than the HoD's current vitality the HoD phases out of the finite world, the damage is then healed at 1 point every 2 minutes.  This damage can be healed at the rate of 1 per minute as long as the HoD does nothing other than concentrate.  This damage is unhealable otherwise.  Visually this damage is made apparent as the HoD becomes more transparent as he takes more of this type of damage.
-!!!-__Disintigrating Vision__
+### __Disintigrating Vision__
 With this power the HoD is able to see past the veil of seperation that defines the finite world.  He/she can &quot;see&quot; and identify any entity within 10ft + 10ft per HoD lvl, despite anything that would break line of sight, however this sight doesn't give him/her any form of spatial recognition.  He is able target mystic effects on any entity within this sight without paying for range, this does not apply to burst effects, whether or not he/she can see them normally.
 __Dissolute Nature:__The HoD uses his sight to affect something with a mystic effect that he doesn't have line of sight to otherwise or doesn't pay for range on an effect.
-!!!-__Deep into the Beyond__
+### __Deep into the Beyond__
 The HoD dissasociates his will from the finite world and sees his manifestation as only an avatar of it.  When targeted by a mystic spell the caster finds that the HoD is at a further range then the caster thought, and the spell fails.  The caster may opt to spend an amount of reserve equal to the HoD's level in this class, if he/she does so the spell functions as normal.
 __Dissolute Nature:__Whenever the HoD is successfully affected by a mystic effect.
-!!!-__Void of Difference__
+### __Void of Difference__
 An HoD can merge itself with a Humanoid. Will save DC(10 + HoD + Chr) to resist. The process takes 20 minutes and the HoD must be in contact with the target the whole time.  When merged the HoD shares all the victim's knowledge, memories, skills, feats, and extraordinary abilities, but none of his spell-like or supernatural abilities. It retains all of its own supernatural and spell-like abilities
 __Dissolute Nature:__Any time another power triggers dissolute nature.  If the HoD is removed from finite existence he leaves the victim he was merged with behind.
-!!!-__Where and When__
+### __Where and When__
 The HoD is immune to Miller, Miller-2, Divination(including div triggers), and Diplacement effects, for better or worse.  If someone attempts to look at the HoD with true seeing the HoD is then not visible to the one using true seeing.
 __Dissolute Nature:__Any time the HoD avoids being affected  due to this power
-!!!-__Nonexistence__
+### __Nonexistence__
 Spend an action point or a &quot;charge&quot;, transfer all of your &quot;dissolute&quot; damage to one target. (will negates DC 10 + Chr + HoD LVL)  If this power is negated take a &quot;charge.&quot;  The &quot;charge&quot; dissapates in a round.
 __Dissolute Nature:__Target succeeds save
-!!!-Travel Without Movement
+### Travel Without Movement
 The HoD now moves by being at all points between between where he is and his destination all at once.  The HoD can do this in short bursts equal to twice is movement rate as a move action.  This movement does not incure attacks of opportunity.  Also the HoD may reappear anywhere he is familiar with when returning to the finite world.
 __Dissolute Nature:__When the HoD would otherwise incure an attack of opportunity.
-!!!-A View Beyond
-As an action the HoD may inflict someone with the [http://www.systemreferencedocuments.org/35/sovelior_sage/abilitiesAndConditions.html#confused|confused ] status for 1d4 rounds(Will Negates DC 10 + CHR + HoD LVL).
+### A View Beyond
+As an action the HoD may inflict someone with the [confused ](http://www.systemreferencedocuments.org/35/sovelior_sage/abilitiesAndConditions.html#confused) status for 1d4 rounds(Will Negates DC 10 + CHR + HoD LVL).
 __Dissolute Nature:__Once per use.
-!!!-One Point
+### One Point
 The HoD may connect 2 points he/she is familiar with into one point, allowing instant travel between them.  It is a full action to activate this power and maintain it.  The power remains active for 1 round after it is no longer maintained.
 __Dissolute Nature:__Twice per round maintained.
-!!!-Nonbeing
+### Nonbeing
 The HoD soon starts obtain a grasp over his own existence, and finds himself able to force himself out of existence at will.  The HoD may take a full round action to trigger Dissolute Nature.
 __Dissolute Nature:__At the player's option as many times as he/she wishes
-!!!-Dissolute Resolve
+### Dissolute Resolve
 It is not useful for the HoD to blink in and out of existence all the time.  Soon enough his control over his presence solidifies and he is able to cement his existence when needed.  The HoD may take a full round action to rid him/herself of all &quot;Dissolute&quot; damage.
 __Dissolute Nature:__None, however upon use of this power an area 50ft in radius from the HoD phases out of the finite world for a period of a half hour per point of damage removed.  This area does not count against any distances for travel or ranges.  As for describing a lack of location...
 
-!-Character Build
-!!-Hit Die Rolls
+# Character Build
+## Hit Die Rolls
 *4
 *8
 *5
@@ -105,7 +111,7 @@ __Dissolute Nature:__None, however upon use of this power an area 50ft in radius
 *4
 *4
 *1
-!!-Flaws, Merits, Feats, and traits
+## Flaws, Merits, Feats, and traits
 ||Start|+45mp
 Levels x 13|+65mp
 Flaws|+20mp
@@ -115,7 +121,7 @@ Bonus|+12mp
 OLness|-10
 Remaining|0mp||
 
-!!!-Flaws
+### Flaws
 ||__Flaw__|__Price__
 Enemy(Bryant)|3mp
 Str -2|2mp
@@ -123,7 +129,7 @@ Vulnerable|1mp
 Poor(12)|12mp
 Total|20mp||
 
-!!!-Merits
+### Merits
 
 ||__Merit__|__Price__
 Reserve(Mystic) x 15|15mp
@@ -148,7 +154,7 @@ Immunity Nanites|10mp
 5 Action Points|10mp
 Total|119||
 
-!!!-Feats
+### Feats
 #Mystic Charge
 #Improve Mystic Charge
 #Efficient Burst
@@ -158,11 +164,11 @@ Total|119||
 #Temporal Extension
 
 
-!!!-Traits
+### Traits
 *Quick
 
-!!-Allotment
-!!!-Mystic Magic
+## Allotment
+### Mystic Magic
 ||Creation|0|0
 Destruction|5|15
 Displacement|5|15
@@ -176,7 +182,7 @@ Pyrotechnics|3|6
 Transmutation|3|6
 Reserve|60|(15mp)
 Lvl=8+2*1/2|143||
-!!!-Psionic Magic
+### Psionic Magic
 ||Creation|0|0
 Destruction|0|0
 Displacement|0|0
@@ -190,7 +196,7 @@ Pyrotechnics|0|0
 Transmutation|0|0
 Reserve|9|(1mp)+5
 Lvl=1;2(!Lvl)+4Lvl|6||
-!!!-Skills
+### Skills
 ||Bluff|10
 Diplomacy|10
 Disguise|10
@@ -204,29 +210,29 @@ Sense Motive|10||
 *Gnomish
 *Dwarven
 
-!-Proposed Feats
-!!-Persitant Effect
+# Proposed Feats
+## Persitant Effect
 With Persistant Effect a mystic can ward converted instant effects.  In order to do such, the effect must have a duration of twice the sphere level of the effect.  If the effct is targeted the target gets a will save.  If it is an area effect any one moving through it may make a reflex save while moving through it, but if they are in the area at the end of the round they take full damage.
-!!-Aura
+## Aura
 With aura a mystic may opt to have a burst effect affect any set of friends and/or foes in its area for its duration.  Any one who enters such a burst is affected by it whether or not they were present for the initial casting.  Any one who leaves the burst however are no longer affected by it no matter the remaining duration.  Such bursts are considered to be centered on a target and move with him.  Such target gets a will save to negate the burst.
 
-!-A Journal(Written in Hebrew)
-!!-July 17th
+# A Journal(Written in Hebrew)
+## July 17th
 I seem to have a bad habit of dieing.  As such I am starting this journal.  I am keeping it on my person in deadtree format in case that next time is the last time.  The first time I died was on Mercury when it was consumed by nanites, and incident orchastrated by Adam Mclean.  By his hand I was taken from Mercury and given part of the device used to destroy the planet to sustain my existence.  Adam had in mind to use me to forward his agenda, where ever it was to go.  When I next encountered him he presented himself under the alias Harry Bryant, an employee of Merkabah, The company once ran by me and my father.  He hired me to accompany the retreival an item from space.  This object turned out to be the hand of some man we found unconscious on an asteroid.  We had been lucky enough that Adam had procured for us a ship that was capable of FTL travel.  Though in the attempt to return to Earth space the hand caused difficulties.  Myself and others on the ship were accidentally sent to a far of corner of space onto a planet inhabitted by other lifeforms.  We found out that all the lifeforms of the planet were linked to one of five hive minds, one for each type of ecosystem.  After discovering, the hard way, the planets dislike for magic, we were taken up by a traveling planet inhabitted by dragons.  Their planet, like ours, has a being of significant power who sees it as there responsibility to oversee the well being of the planets inhabitants.  After our encounter with there leaders, they begrudgingly returned us to the Terran colony Lupus.  After managing to escape Lupus, we were hired by Magitech to procure an individual from Canis we had encountered and left behind earlier.  Despite the beginings of war, we managed to return with him intact.  We returned to Canis on an errand to retrieve and artifiact, the Crown of Nebuchanezzar, an item of interest to Harry Bryant and some members of Magitech.   According to the news at the time, before Mars had become unreachable, it had been under attack by swarms of undead.  According to Harry Bryant and a gentleman we met on our second trip Canis the crown was need to subdue the source, Cain of supposed biblical renown.  As well, this crown was needed to create a godly creature use Cain as a component.  The Caretaker supposedly needs this creature to be created's help in taking on a force that is trying to destroy the world as we know it.
-!!-July 18th
+## July 18th
 
-!
 
--=Max Cohen's Details=-
-!-Description(For the GMs)
+
+# Max Cohen's Details
+# Description(For the GMs)
 {img src=http://tinypic.com/f0rda9.gif}{img src=http://tinypic.com/f0rewj.gif}
 Max is about 6' tall, 162lbs, and 22 years of age.  The divided portion of the Lapidum Occultem that he bears has given him unnaturally red hair and eyes as opposed to his previously black hair and green eyes with glasses. He wears his hair spiked back and up, which is how he wore it before the Mercury incident however now it seems to be the way it naturally lays.  keeping with his business life he has a preference for suits and ties however try as he might he usually finds them uncomfortable or too warm.  He wears a pair of leather gloves to hide the mark on his right hand.  The events have also made his features more sharp and angular than previous, though he carried decent chiseled features before.  He retains his professional confidence despite his great paranoia.  He approaches anything relating to the government or the royal race with caution and fear, if he has to at all.  Strangely enough it always seems slightly warm in his presence and there is a subtle smell of brimstone to those with a keen enough sense of smell.  He wears fine cologne to try to mask this.
 
-!-The Concept
+# The Concept
 Maximilian Cohen is the former owner of Merkabah Technologies present on Mercury during the recent horrific events that transformed it into grey goo and sole known survivor.  He is not merely saturated with nanobots but consists solely of them.  He holds a piece of the device responsible for the tragedy that took place on Mercury.
 
-!-Into the Mind of Max
-!!-Monologue
+# Into the Mind of Max
+## Monologue
 The dreams and memories still haunt me at night.  Sometimes I can still feel myself connected to that planet.  It calls with its horrible song, and I feel so drawn to return to it.  It is similiar to the addiction one can get to VRNet with its openness and freedom except 100 fold.  I must resist it though.  I know the pain the Occltum Lapidem's dissolution can bring with its freedom.  Some say hell is merely a place where people do whatever they want, and the tortures of it are merely what the denizens inflict upon eachother.  As such I take Mercury to now be hell manifest..
 
 I have merely been surviving up until now.  I have found it difficult to aquaint myself with this new form.  Its hungers, capabilities, limitations are all alien to me.  I understand my father's resentment of such technologies.  Human beings truly aren't made to exist in such strange ways, but technologies like this could have saved my mother.  I don't know what is more noble to maintain and cultivaty ones own humanity despite the trappings of culture or to use any and all available means to survive, prosper, and evolve.  My father would be ashamed of what I have become and what I have lost.  So much was given to make sure I lived a natural and healthy life.
@@ -239,7 +245,7 @@ I need to get my fathers company back together and correct the mistakes I made. 
 
 I've been to hell and back, and I would say I have further to go.  I have enemies abound and no allies.  I need people's help, though everyone I have met as of yet seems mildly unhinged by my presence.  It is easy to tell that the marks of sulphur color me the devil to some eyes.  I guess if the suit fits wear it.
 
-!!-Quirks
+## Quirks
 *Consumes tobacco, fluid, and food in a neurotic fashion with the fleeting hope of  refinding his taste for such things again and thus rekindle his &quot;lost&quot; humanity
 *Dislikes and fears &quot;Royals&quot; for two reasons or pet theories: &quot;Royals&quot; share knowledge and colaberate and That if his nanomachines came in contact with a &quot;Royal&quot; it would create a new O.L.
 *Does not like or use guns
@@ -250,7 +256,7 @@ I've been to hell and back, and I would say I have further to go.  I have enemie
 *if you can't neutralize them, work around them or run.
 *Dislikes any technology that moves humanity away from a more natural existance mainly cybernetic implants, genetech, and some aspects of cloning
 
-!!-Character Notes
+## Character Notes
 
 ;Vadril Korlax:Hehehe!  Humorous how this man I once so worried about is now one of the more reliable allies I have, aside from those who agree with me on the fate Adam should be given.
 ;Rae:I have inherited a preference for those who act as oppossed to those who speak, especially when those who speak don't know when not to.
@@ -259,61 +265,61 @@ I've been to hell and back, and I would say I have further to go.  I have enemie
 ;D.E.E.:It's amazing that mankind has already found a way to break the speed of light.  I wonder who is responsible for this glorious machine.
 ;Noun:From what I can tell this man knows more about the universe then most people should.  
 
-!-Nanomagus
-!!-Planetary Metals
+# Nanomagus
+## Planetary Metals
 Max's &quot;mystic&quot; abilities require that he touch the object or creature to be affected. He cannot ward mystic effects (he must &quot;reseed&quot; the target with more nanites each time he wants to renew the effect). In addition, Max himself must &quot;eat&quot; a number of sphere points (any sphere works, even Reserve) equal to his mystic level, each day. To refill any mystic sphere, including Reserve, he must absorb the proper planetary metal, as follows:
 
 ||__Sphere__|__Metal__
 Reserve|Gold
-[http://restlesswarrior.com/gaming/mystic/creation.html|Creation]|Silver or Aluminum
-[http://restlesswarrior.com/gaming/mystic/transmutation.html|Transmutation]|Mercury/Quicksilver
-[http://restlesswarrior.com/gaming/mystic/destruction.html|Destruction]|Copper or Brass
-[http://restlesswarrior.com/gaming/mystic/healing.html|Healing|]|Tin
-[http://restlesswarrior.com/gaming/mystic/enhancement.html|Enhancement]|Lead
-[http://restlesswarrior.com/gaming/mystic/illusion.html|Illusion]|Radium or Uranium
-[http://restlesswarrior.com/gaming/mystic/mindcontrol.html|Mind Control]|Lithium or Platinum
-[http://restlesswarrior.com/gaming/mystic/pyrotechnics.html|Pyrotechnics]|Tungsten or Plutonium
+[Creation](http://restlesswarrior.com/gaming/mystic/creation.html)|Silver or Aluminum
+[Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html)|Mercury/Quicksilver
+[Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html)|Copper or Brass
+[Healing|](http://restlesswarrior.com/gaming/mystic/healing.html)|Tin
+[Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html)|Lead
+[Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html)|Radium or Uranium
+[Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html)|Lithium or Platinum
+[Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html)|Tungsten or Plutonium
 Unusable|Steel or Iron||
 Max may as a full round action use a free destruction effect to destroy any of the above metals without error.  One cubic foot of the material refills the relevant sphere completely (less refills a proportionate fraction thereof, linearly). Of course, the Occultum Lapidem trumps these rules, but using it has its own disadvantages...
-!!-Sphere Changes
-;[http://restlesswarrior.com/gaming/mystic/creation.html|Creation]:-
-;[http://restlesswarrior.com/gaming/mystic/destruction.html|Destruction]:The nanomagus is unable to use destruction to dispel magic, as well destruction damages undead just as it damages the living.  In the case of enchanted objects enough destruction must be spent to break the enchantment before it damages the object.  This still does not disenchant the object.  These changes are revoked when a nanomagus takes the magic machina feat
-;[http://restlesswarrior.com/gaming/mystic/enhancement.html|Enhancement]:It is unknown whether nanomagi can link as mystics can, but it is an unlikely event to occure seeing as there are only three nanomagi and they probably aren't friends.
-;[http://restlesswarrior.com/gaming/mystic/healing.html|Healing]:The nanomagus can use healing to heal the undead just as well as the living and isn't even able to hurt the undead with it.  A nanomagus is also incapable of healing magical afflictions or any form of resurection.  These changes are revoked if the nanomagus takes the magic machina feat with the exception of the ability to resurect
-;[http://restlesswarrior.com/gaming/mystic/illusion.html|Illusion]:Illusions can only be placed on solid objects until the nanomagus takes the airborn colonies feat.   All powers are still touch range.
-;[http://restlesswarrior.com/gaming/mystic/mindcontrol.html|Mind Control]:Remember all powers are touch range.
-;[http://restlesswarrior.com/gaming/mystic/pyrotechnics.html|Pyrotechnics]:Remember all powers are touch range.
-;[http://restlesswarrior.com/gaming/mystic/transmutation.html|Transmutation]:-
+## Sphere Changes
+;[Creation](http://restlesswarrior.com/gaming/mystic/creation.html):-
+;[Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html):The nanomagus is unable to use destruction to dispel magic, as well destruction damages undead just as it damages the living.  In the case of enchanted objects enough destruction must be spent to break the enchantment before it damages the object.  This still does not disenchant the object.  These changes are revoked when a nanomagus takes the magic machina feat
+;[Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html):It is unknown whether nanomagi can link as mystics can, but it is an unlikely event to occure seeing as there are only three nanomagi and they probably aren't friends.
+;[Healing](http://restlesswarrior.com/gaming/mystic/healing.html):The nanomagus can use healing to heal the undead just as well as the living and isn't even able to hurt the undead with it.  A nanomagus is also incapable of healing magical afflictions or any form of resurection.  These changes are revoked if the nanomagus takes the magic machina feat with the exception of the ability to resurect
+;[Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html):Illusions can only be placed on solid objects until the nanomagus takes the airborn colonies feat.   All powers are still touch range.
+;[Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html):Remember all powers are touch range.
+;[Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html):Remember all powers are touch range.
+;[Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html):-
 
-!!-Nanomagus Feats
-The following feats from the [http://restlesswarrior.com/gaming/mystic/index.html|The Mystic Guide] are available to a Nanomagus:
-*[http://restlesswarrior.com/gaming/mystic/feats.html#empowerSphere|Empower Sphere]
-*[http://restlesswarrior.com/gaming/mystic/feats.html#mysticCharge|Mystic Charge]
-*[http://restlesswarrior.com/gaming/mystic/feats.html#improvedMysticCharge|Mystic Charge, Improved]
-*[http://restlesswarrior.com/gaming/mystic/feats.html#overdraw|Overdraw]
-*[http://restlesswarrior.com/gaming/mystic/feats.html#overdrawFocus|Overdraw Focus]
-*[http://restlesswarrior.com/gaming/mystic/feats.html#steadfastEffect|Steadfast Effect]
+## Nanomagus Feats
+The following feats from the [The Mystic Guide](http://restlesswarrior.com/gaming/mystic/index.html) are available to a Nanomagus:
+*[Empower Sphere](http://restlesswarrior.com/gaming/mystic/feats.html#empowerSphere)
+*[Mystic Charge](http://restlesswarrior.com/gaming/mystic/feats.html#mysticCharge)
+*[Mystic Charge, Improved](http://restlesswarrior.com/gaming/mystic/feats.html#improvedMysticCharge)
+*[Overdraw](http://restlesswarrior.com/gaming/mystic/feats.html#overdraw)
+*[Overdraw Focus](http://restlesswarrior.com/gaming/mystic/feats.html#overdrawFocus)
+*[Steadfast Effect](http://restlesswarrior.com/gaming/mystic/feats.html#steadfastEffect)
 
 In addition a Nanomagus has these feats available to him:
-!!!- Eat and Run
+###  Eat and Run
 With this feat the nanomagus may now preform his free destruction against planetary metals as a standard action as oppossed to a full round action.
 
-!!!-Autonomous Colonies
+### Autonomous Colonies
 This feat allows a nanomagus produce self-sustained, short-lived nanocolonies.  This allows him to use his effects as range touched attacks with a range increment of 15 as opposed to the limited touch attacks.  When used this ability produces a visible grey metallic blob one half inch in diameter per sphere rank used which is hurled at the target.  Note that if the nanomagus missses and hits something or someone else by accident, the effect goes off on whatever was hit.  After effecting a target the the blob attempts to return to the nanomagus(mv 10) losing an inch of diameter per round.  If the blob does not return to the nanomagus its effect is not considered effective for golden pocket or consumptive memory.
 
-!!!-Airborne Colonies
+### Airborne Colonies
 __Prerequisite:__Autonomous Colonies
 With this feat the nanomagus has learned to pass his nanocolonies through the air.  Effectively his thrown colonies are nolonger visible to the bare eye nor is any visible throwing or propulsion necessary to effect the target.  The range increment for the ranged touch attack is now increased to 30 as well.  Also, this feat allows the nanomagus to create illusions off of solid objects.
 
-!!!-Smart Colonies
+### Smart Colonies
 __Prerequisite:__Autonomous Colonies
 With this feat the nanomagus no longer has to endure the embarassment of accidentally effecting the wrong target with an effect.  This feat makes it so the nanomagus only effects the specified target with any effect.
 
-!!!-Piercing Colonies
+### Piercing Colonies
 __Prerequisite:__Smart Colonies, Autonomous Colonies
 With this feat the nanomagus' colonies now can ignore cover or obstacles, with the exception of those composed of iron.  The colonies pass through anything in there path without leaving any trace of passing.
 
-!!!-Object Saturation
+### Object Saturation
 Well here is to thinking outside the box.  As a habit nanomagi tend to think of themselves as one solid object, however with this feat a nanomagus finally gets a hold of the fact that he is in fact many, many tiny machines just pretending to be one object.  With this new insite he can now integrate himself into simple objects with no more than a size catagory difference from himself.  To do this he must make a touch attack against the object, if the object is in someone's possession it then gets a Fort save using the possessor's save.  When he does this he shares the body of the object in question.  They both take half damage after seperate saves and resistances from anything that damages them.  Their weight is now equal to half the nanomagus' plus the object's.  The nanomagus can also make the object move while in it.  The movement rates for such are found in the chart below.  The nanomagus and object also now have a slam attack deal damage according to size.  Though this is a decent technique for hiding, a nanomagus still has telltale signs of his presence from a piece of the O.L..  In the case the nanomagus dies in the object, well, it doesn't matter to him at that point, and it wouldn't help him sleep at night if he new.
 ||Fine|1|1+STR
 Diminutive|2|1d2+STR
@@ -325,34 +331,34 @@ Huge|40|2d6+STR
 Gargantuan|50|3d6+STR
 Colossal|60|4d6+STR||
 
-!!!-Electromechanic Saturation
+### Electromechanic Saturation
 __Prerequisite__:Object Saturation
 With this feat the nanomagus now has the coordination to saturate mechanical and electrical devices.  This is the same as saturating an simple object with the following exceptions.  The nanomagus can only stay saturated in a target for a number hours equal to his caster level.  If the target has a real life-force he can not take control of it, however the target and anything it touches is considered to be touch range.  If the object is psuedo-sentient with no life-force it can make a Will save to gain control every half hour, if it has control it must make a Will save ever hour to maintain it.  In either of the previous cases the target gets a Fort save to avoid the initial saturation.  Once in control the nanomagus has access to all abilities of the target that are not spells, spell-like abilities, or supernatural abilities, as well if the target has physical stats he may use those or his own.  The target always maintains use of his spells, spell-like abilities, and supernatural abilities as well does the nanomagus his own when he is not in control.
 
-!!!-Organic Saturation
+### Organic Saturation
 __Prerequisite:__Electromechanical Saturation
 As Electromechanical Saturation except now complex organisms can be targeted.  When saturating organisms the time is reduced to two minute intervals.
 
-!!!-Consumptive Memory
+### Consumptive Memory
 This feat makes it so the nanomagus is considered properly skilled or knowledgable when creating or transmuting items into objects or devices he has completely consumed through use of destruction.
 
-!!!-Efficient Regurgitation
+### Efficient Regurgitation
 __Prerequisite:__Consumptive Memory
 Using the direct knowledge of items remembered through Consumptive Memory the nanomagus is better able to resolve the complexities of these objects when they are created effectively gaining 4 points towards complexity when creating or transmuting items that are also affected by Consumptive Memory.
 __Special:__This feat can be taken multiple times but only adds 1 level each additional time taken.
 
-!!!-Golden Pocket
+### Golden Pocket
 The nanomagus gains a new sphere called pocket and has 5 ranks in this sphere.  This sphere can not be filled from reserve.  It is only filled when a material of value is desrtoyed using the destruction sphere.  When this is done the value of the material is figured and by that the points of that would be used to increase its value.  This value of points goes into the pocket sphere and can be used as points in creation to increase the value of an object made using creation.
 
-!!!-Cannibalize
+### Cannibalize
 The nanomagus posesses many nanites that are never involved in the act of his &quot;magic,&quot; but instead tend the basic needs and functions that allow the nanomagus's body to exist.  At a sacrifice to his corporeal and mental faculties he can, with this feat, now tap into previously unavailable resources for his &quot;magic.&quot;  As a free action, he may sacrifice one point from his stats or one hit die (being the lose of a hit die and vitality damage equal to max hit die) to refill one point of reserve.  This loss is not healed until two points are sacrificed from one of the nanomagus's spheres, at which point it returns in 8 hours of rest.
 
-!!!-Magic Machina
+### Magic Machina
 __Prerequisite:__Be a potential mystic or have been introduced to psionics
 With the knowledge of the energies present in the nanobots that make up the nanomagus's body and his own mystic potential, the nanomagus can now use his nanobots for more magical purposes.  With this feat, he can now use destruction to dispel magic and heal to treat magical afflictions.  Also, the nanomagus now damages undead with heal and heals them with destruction.
 
-!-Questionnaire
-!!-Would your character:
+# Questionnaire
+## Would your character:
 (1=Never, 5=Always)
 #Lie to a friend to protect his feelings? 4
 #Help a frail old woman cross the street? 2
@@ -360,7 +366,7 @@ With the knowledge of the energies present in the nanobots that make up the nano
 #Give money to a beggar on the street? 4
 #Seek vengeance if wronged? 5
 #Steal if he thought he could get away with it? 3
-!!-Does your character believe in:
+## Does your character believe in:
 (1=Not at all, 5=Strongly)
 #Aliens? 2
 #Karma? 3
@@ -368,7 +374,7 @@ With the knowledge of the energies present in the nanobots that make up the nano
 #Time travel? 3
 #Equality for all sentient beings? 4
 #God or other supreme force? 3
-!!-What does your character think about the following statements:
+## What does your character think about the following statements:
 (1=Strongly disagree, 3=Neutral, 5=Strongly agree)
 #Now that machines are smarter than humans, biological life is obsolete. 1
 #The Caretaker has no business meddling in our affairs. 4
@@ -377,8 +383,8 @@ With the knowledge of the energies present in the nanobots that make up the nano
 
 #Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 4
 #Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 1
-!-Merits, Flaws, and Traits
-!!-Flaws
+# Merits, Flaws, and Traits
+## Flaws
 ||__Flaw__|__Price__
 Sulphur Scent and warm around self|1mp
 Enemy(Board of Directors Merkabah Earth)|1mp
@@ -392,7 +398,7 @@ No Sense of touch|5mp
 Poor(2)|2mp
 Total|20mp||
 
-!!-Merits
+## Merits
 ||__Merit__|__Price__
 Fast Healing:1|Late Bought (2mp)
 Sulphur|3mp
@@ -407,14 +413,14 @@ Liquid Form|6mp
 Stats|20mp
 Total|50mp||
 
-!!-Traits
+## Traits
 #Detached
 #Distinctive
 #Quick
 #Suspicious
 #Skinny
 
-!!-Feats
+## Feats
 *Omniscient Whispers
 *Live My Nightmare
 *Controlled Immolation
@@ -424,7 +430,7 @@ Total|50mp||
 *Object Saturation
 *Electromechanic Saturation
 
-!-Timeline
+# Timeline
 ;August 4th, 2219:Daniel Cohen born in the country of Israel
 ;August 25th, 2245:Daniel Cohen founds Merkabah Technologies in Israel.
 ;December 3rd, 2251:Jonathan Cohen is born to Daniel and Ruth Cohen
@@ -435,26 +441,26 @@ Total|50mp||
 ;October 7th, 2296:Jonathan Cohen falls into a sudden and unexplainable coma, and Maximilian Cohen inherits Merkabah
 ;Novemember 19th, 2298:Maximilian Cohen declares the transfer of Merkabah base office to the Mercury colony as a show of confidence in the prototype radiation shielding slotted to be available on the open market in mid 2299
 ;January 4th, 2299:The Mercury Incident
-!-Dossiers
-!!-People
-;[http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;q=Maximilian+Cohen|Maximillian Cohen]:Former young third generation family owner of Merkabah Technologies.  He had inherited the company three years earlier when his father was found in a mysterious coma.  Pronounced dead by the government, though he is the only known survivor from Mercury.  He has a wife, Livna, who is still on Mercury.  His father Currently resides on Earth.
+# Dossiers
+## People
+;[Maximillian Cohen](http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;q=Maximilian+Cohen):Former young third generation family owner of Merkabah Technologies.  He had inherited the company three years earlier when his father was found in a mysterious coma.  Pronounced dead by the government, though he is the only known survivor from Mercury.  He has a wife, Livna, who is still on Mercury.  His father Currently resides on Earth.
 ;Jonathan Cohen:Father and sole surviving relative of Maximilian Cohen.  Strict practicing jew and financial supporter of the naturalist movement.  Mysteriosly found suffering a coma the morning of October 7th, 2296, power of a attorney, power of medical, and ownership of Merkabah were given to his only heir Maximilian Cohen.  As per his wishes he is kept alive with life support but has not received any bio or mechanical operations opposed by the naturalist movement or his religious convictions, though it is even doubtful whether these would release him from his coma.  He now is the inheritor of the insurance money and liquidated assets of the former Merkabah Technologies.  Merkabah Earth is making attempts to get custody of him to retain these funds.
 ;David Crowe:Seargant of the UNF Military involved in the investigation into the Mercury Incident.  He lost is Wife and kids, Susan, Gretchen, and Tim Crowe, to the Mercury Incident.
-;[http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;q=Adam+McLean&amp;btnG=Search|Adam Mclean]:Arcane scientist specializing in the application of mystic energies in nanomachine construction.  He created the nanomachines responsible for the Mercury Incident while contracted by members of the royal race in a project to create a viable nanotechnology for cloning.  The project was successful, and he had multiple successful attempts on various organisms.  It was, however, when this technology was put to its original purpose that things went horrible wrong.  In attempting to clone a member of the royal race the nanomachines went haywire.  The resultant chaos destroyed the space station Mclean was working on, destroyed Mclean's body and gave him a new one made completely of nanomachines, and resulted in what Mclean calls the Occultem Lapidem.  Many of Mclean's expirements escaped and survived the destruction.
-!!-Items
+;[Adam Mclean](http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;q=Adam+McLean&amp;btnG=Search):Arcane scientist specializing in the application of mystic energies in nanomachine construction.  He created the nanomachines responsible for the Mercury Incident while contracted by members of the royal race in a project to create a viable nanotechnology for cloning.  The project was successful, and he had multiple successful attempts on various organisms.  It was, however, when this technology was put to its original purpose that things went horrible wrong.  In attempting to clone a member of the royal race the nanomachines went haywire.  The resultant chaos destroyed the space station Mclean was working on, destroyed Mclean's body and gave him a new one made completely of nanomachines, and resulted in what Mclean calls the Occultem Lapidem.  Many of Mclean's expirements escaped and survived the destruction.
+## Items
 ;Occultum Lapidem:Often referenced as a device or energy source, it is actually neither of those things.  It is a sentients that can carry itself into the nanocolonies created by Adam Mclean.  It has three parts: Sulphur, Mercury, and salt.  Each part connects the nanocolony to the Occultum Lapidem as a whole.  It otherwise has no real form of its own.  It was created accidentally when Mclean had attempted to nanoclone a member of the royal race.  The subject is what is now the Occultum Lapidem.  It has only one true desire and that is the dissolution of all things.  Luckily, it has not shown the capability to act on its own.  It functions as a filter allowing a nanocolony to to breakdown any matter at an optimal energy return.  When this function is called upon there is a chance that is will enact its own will and the result is the grey goo like wich consumed all of Mercury.  It is unknown whether the individual parts have any function of there own.  Adam Mclean is enamored and obsessed with its power, and Maximilian fears it.  What Maximilian fears more is could another one be made.
 {img src=http://z.about.com/d/altreligion/1/0/G/N/2/ssulfur.jpg}
-;[http://www.soul-guidance.com/houseofthesun/alchemy_5.htm|Sulphur]:It is unknown whether the invidual parts of the Occultum Lapidem have any function of their own other than allowing one to call on the Occultum Lapidem.  It has been observed, however, that each piece carries an imbalance when removed from the whole, and express it upon the visage of the bearer.  For Sulphur, the bearer's hair and eye's redden, his body tempeture rises, and his general vicinity becomes warmer and dryer and takes on a slight smell of sulphur.
+;[Sulphur](http://www.soul-guidance.com/houseofthesun/alchemy_5.htm):It is unknown whether the invidual parts of the Occultum Lapidem have any function of their own other than allowing one to call on the Occultum Lapidem.  It has been observed, however, that each piece carries an imbalance when removed from the whole, and express it upon the visage of the bearer.  For Sulphur, the bearer's hair and eye's redden, his body tempeture rises, and his general vicinity becomes warmer and dryer and takes on a slight smell of sulphur.
 {img src=http://z.about.com/d/altreligion/1/0/r/J/2/smercury.jpg}
-;[http://www.soul-guidance.com/houseofthesun/alchemy_5.htm|Mercury]:It is unknown whether the invidual parts of the Occultum Lapidem have any function of their own other than allowing one to call on the Occultum Lapidem.  It has been observed, however, that each piece carries an imbalance when removed from the whole, and express it upon the visage of the bearer.  For Mercury, the bearer's hair and eye's blacken, his body tempeture lowers, and his general vicinity becomes colder and damper even creating visible frost or condensation under proper weather conditions.
+;[Mercury](http://www.soul-guidance.com/houseofthesun/alchemy_5.htm):It is unknown whether the invidual parts of the Occultum Lapidem have any function of their own other than allowing one to call on the Occultum Lapidem.  It has been observed, however, that each piece carries an imbalance when removed from the whole, and express it upon the visage of the bearer.  For Mercury, the bearer's hair and eye's blacken, his body tempeture lowers, and his general vicinity becomes colder and damper even creating visible frost or condensation under proper weather conditions.
 {img src=http://z.about.com/d/altreligion/1/0/h/P/2/ssalt.jpg}
-;[http://www.soul-guidance.com/houseofthesun/alchemy_5.htm|Salt]:It is unknown whether the invidual parts of the Occultum Lapidem have any function of their own other than allowing one to call on the Occultum Lapidem.  It has been observed, however, that each piece carries an imbalance when removed from the whole, and express it upon the visage of the bearer.  For Salt, the bearer's hair and eyes whiten, his features become jagged and almost crystalline, he carries a slight secnt similiar to the salt of the sea, and salt can be observed crystalizing in his vicinity if he stays in one place for more than a couple of hours.
-!!-Groups
-;[http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;q=merkabah&amp;btnG=Search|Merkabah]:Founded by Daniel Cohen in the year 2225, Merkabah Technologies specializes in what is now referred to as noninvasive technologies, that being technologies inagreement with the modern naturalist world view.  Best known for Jonathan Cohen's licensing of the technologies used to develop the prototype planetary radiation shielding used on Mercury.  Merkabah skyrocketed into popularity and was in talks over going public before the Mercury Incident.  As a show of confidence in its technologies, upon inheriting Merkabah, Maximilian Cohen decided to move the central offices of Merkabah to Mercury.  In truth this was merely a matter of job reassignment, as the only person of import that moved homes was Maximilian himself.  The board of directors choose to remain at their homes on Earth.  After the Mercury incident, The remainants of Merkabah were liquidated, and that with the insurance money resulting from the destruction of Mercury were rewarded to Maximilian Cohen's only living Relative Jonathan Cohen.
+;[Salt](http://www.soul-guidance.com/houseofthesun/alchemy_5.htm):It is unknown whether the invidual parts of the Occultum Lapidem have any function of their own other than allowing one to call on the Occultum Lapidem.  It has been observed, however, that each piece carries an imbalance when removed from the whole, and express it upon the visage of the bearer.  For Salt, the bearer's hair and eyes whiten, his features become jagged and almost crystalline, he carries a slight secnt similiar to the salt of the sea, and salt can be observed crystalizing in his vicinity if he stays in one place for more than a couple of hours.
+## Groups
+;[Merkabah](http://www.google.com/search?hl=en&amp;lr=&amp;safe=off&amp;q=merkabah&amp;btnG=Search):Founded by Daniel Cohen in the year 2225, Merkabah Technologies specializes in what is now referred to as noninvasive technologies, that being technologies inagreement with the modern naturalist world view.  Best known for Jonathan Cohen's licensing of the technologies used to develop the prototype planetary radiation shielding used on Mercury.  Merkabah skyrocketed into popularity and was in talks over going public before the Mercury Incident.  As a show of confidence in its technologies, upon inheriting Merkabah, Maximilian Cohen decided to move the central offices of Merkabah to Mercury.  In truth this was merely a matter of job reassignment, as the only person of import that moved homes was Maximilian himself.  The board of directors choose to remain at their homes on Earth.  After the Mercury incident, The remainants of Merkabah were liquidated, and that with the insurance money resulting from the destruction of Mercury were rewarded to Maximilian Cohen's only living Relative Jonathan Cohen.
 ;Merkabah Earth:Formed as a subsidiary of Merkabah, after the Mercury incident, it was seized by the board of directors, and declared an independent entity from Merkabah.  The board of the directors is working closely with the government to investigate the Mercury Incident.  The board of directors had been informed the Maximilian Cohen is alive and is agressively aiding in his apprehension.  With Merkabah now under its complete control, the board of directors plans to go public with Merkabah and beyond noninvasive technologies.
 ;Naturalist Movement:Don't really care to much about the details on this just thought one might exist so I went with it.  The only question is whether they are a violent group or not.  Either way can fit to my story.  Any other details are found in the other dossiers.
-!-Backstory
-!!-Transcript
+# Backstory
+## Transcript
 The following transcript is from the questioning of Maximillian Cohen by Sergeant David Crowe in concerns to the "Mercury Incident":
 
 David Crowe: Let me cut straight to the point.  We think your company, Merkabah Technologies, is responsible for the technology that resulted in the "Mercury Incident."
@@ -519,7 +525,7 @@ MC: A word of advice.  There are three parts to the Occultum Lapidem.  Adam only
 DC: Susan, Gretchen, Tim.  God damn you, Cohen!
 
 End of transcript.
-!!-An Account of Dissolution
+## An Account of Dissolution
 An Account of Dissolution:
 The First Journal Entry of Maximilian Daniel Cohen
 
@@ -537,12 +543,12 @@ All the people that live on Mercury worked for Merkabah.  I was resposible for t
 
 There I laid fallen reaching for the lever, and suddenly I felt a familiar presence.  I can only compare it to the way I felt in the presence of my father before he had went into a coma.  I felt it protect me and drive the madness from me.  In a moment of clarity, I could see the truth for what is was.  It existed before deceit and would exist after, therefore all I need to do is accept it.
 
-I was told I was in there for a week.  Days seem like centuries when there is nothing between you and the souls of others.  I travelled in search of Mclean.  I travelled to find some way to fix this mess.  Between the wispers of souls and a instinct as to were the center of this world was I found a cave.  Above the door laid an inscription:&quot;Visita Interiora Terrae Rectificando Inveniens Occultum Lapidem Veram Medicinam.&quot;  From what I know now it meant:&quot;See in the interior of the purified earth, and you will find the secret stone, the true medicine.&quot;  Below the inscription at the entrance of the cave stood a statue of a [http://www.triad-publishing.com/stone20e.html|jade lion consuming a disk of gold].  It all seemed so nonsensical at the time.
+I was told I was in there for a week.  Days seem like centuries when there is nothing between you and the souls of others.  I travelled in search of Mclean.  I travelled to find some way to fix this mess.  Between the wispers of souls and a instinct as to were the center of this world was I found a cave.  Above the door laid an inscription:&quot;Visita Interiora Terrae Rectificando Inveniens Occultum Lapidem Veram Medicinam.&quot;  From what I know now it meant:&quot;See in the interior of the purified earth, and you will find the secret stone, the true medicine.&quot;  Below the inscription at the entrance of the cave stood a statue of a [jade lion consuming a disk of gold](http://www.triad-publishing.com/stone20e.html).  It all seemed so nonsensical at the time.
 
 I entered the cave to find my nemesis, and that is where my memory fades.  Occassionally, I have flashbacks of conversation and fighting, but they are all so fleeting.  I feel in entering the cave I had left my concept of self behind, and there are things I know now that I can not recall learning, even such things that only Adam should know that I probably learned in that cave.  Whatever I had ventured to do I must have been successful.  I have escaped, but something calls me back there.  I can here it in the back of my head.  I fear returning, but I feel so separated out here, as if I don't belong anymore.
 
-!
--=Gerald=-
+
+# Gerald
 3 Tough/10 DareDevil/10 Spellbreaker/4 Legendary Dreadnought
 
 MV:30
@@ -584,22 +590,22 @@ Pulse Rifle|25/19/14/9|3d10|20/x2|Fire|80ft|50
 Sonic Beam|25/19/14/9|2d6(Fort vs DC15 or shaken and deaf)|20/x2|Sonic|40ft|50
 Singularity Grenade|Refl DC15|15d6|-|Energy|5ft Burst|20||
 
-!-Talents and Class Abilities
-*Remain Conscious([http://www.12tomidnight.com/d20modernsrd/Tough.php|Tough])
-*Robust([http://www.12tomidnight.com/d20modernsrd/Tough.php|Tough])
-*Fearless([http://www.12tomidnight.com/d20modernsrd/Daredevil.php|Daredevil])
-*Nip Up([http://www.12tomidnight.com/d20modernsrd/Daredevil.php|Daredevil])
-*Adrenaline(Two Ability Scores)([http://www.12tomidnight.com/d20modernsrd/Daredevil.php|Daredevil])
-*Action Boost([http://www.12tomidnight.com/d20modernsrd/Daredevil.php|Daredevil])
-*Delay Damage([http://www.12tomidnight.com/d20modernsrd/Daredevil.php|Daredevil])
-*Damage Threshhold([http://www.12tomidnight.com/d20modernsrd/Daredevil.php|Daredevil])
-*Unstoppable 1/day([http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html|Legendary Dreadnought])
-*Unmovable 1/day([http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html|Legendary Dreadnought])
-*Shrug Off Punishment([http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html|Legendary Dreadnought])
-*Thick Skinned([http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html|Legendary Dreadnought])
+# Talents and Class Abilities
+*Remain Conscious([Tough](http://www.12tomidnight.com/d20modernsrd/Tough.php))
+*Robust([Tough](http://www.12tomidnight.com/d20modernsrd/Tough.php))
+*Fearless([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+*Nip Up([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+*Adrenaline(Two Ability Scores)([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+*Action Boost([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+*Delay Damage([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+*Damage Threshhold([Daredevil](http://www.12tomidnight.com/d20modernsrd/Daredevil.php))
+*Unstoppable 1/day([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
+*Unmovable 1/day([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
+*Shrug Off Punishment([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
+*Thick Skinned([Legendary Dreadnought](http://www.systemreferencedocuments.org/35/sovelior_sage/legendaryDreadnought.html))
 *All Spellbreaker Abilities
 
-!-Merits, Feats, Flaws
+# Merits, Feats, Flaws
 ||Merits|90mp
 Feats|72mp
 Flaws|2mp
@@ -607,7 +613,7 @@ Levels|135mp
 Starting|25mp
 total|0mp||
 
-!!-Merits
+## Merits
 ||Str 25|22mp
 con 25|22mp
 dex 21|14mp
@@ -624,73 +630,73 @@ Immunity Sickness|3mp
 Immunity Stunning|3mp
 total|90mp||
 
-!!-Feats
-!!!-nonepic
-*[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Persoal+Firearms+Proficiency|Personal Fire Arms Proficiency]
-*[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Simple+Weapons+Proficiency|Simple Weapons Proficiency]
+## Feats
+### nonepic
+*[Personal Fire Arms Proficiency](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Persoal+Firearms+Proficiency)
+*[Simple Weapons Proficiency](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Simple+Weapons+Proficiency)
 *Greatsword Proficiency
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#power-attack|Power Attack]
-*[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(light)|Armor Proficiency(Light)]
-*[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(medium)|Armor Proficiency(Medium)]
+*[Power Attack](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#power-attack)
+*[Armor Proficiency(Light)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(light))
+*[Armor Proficiency(Medium)](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Armor%20Proficiency%20(medium))
 
 #Armor Proficiency(Powered)
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#endurance|Endurance]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#combat-reflexes|Combat Reflexes]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-critical|Improved Critical(Greatsword)]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#cleave|Cleave]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-cleave|Great Cleave]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-bull-rush|Improved Bull Rush]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-focus|Weapon Focus(Greatsword)]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-specialization|Weapon Specialization(Greatsword)]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-intiative|Improved Initiative]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#point-blank-shot|Point Blank Shot]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#precise-shot|Precise Shot]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Surface+Vehicle+Operation|Surface Vehicle Operation]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Aircraft+Operation|Aircraft]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Burst+Fire|Burst Fire]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#dodge|Dodge]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#sidestep-charge|Sidestep Charge]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Agile+Riposte|Agile Riposte]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#standstill|Standstill]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Draw|Quick Draw]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Reload|Quick Reload]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Heoric+Surge|Heoric Surge]
-#[http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Sunder|Sunder]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#lightning-reflexes|Lightning Reflexes]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-fortitude|Great Fortitude]
+#[Endurance](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#endurance)
+#[Combat Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#combat-reflexes)
+#[Improved Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-critical)
+#[Cleave](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#cleave)
+#[Great Cleave](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-cleave)
+#[Improved Bull Rush](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-bull-rush)
+#[Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-focus)
+#[Weapon Specialization(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#weapon-specialization)
+#[Improved Initiative](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#improved-intiative)
+#[Point Blank Shot](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#point-blank-shot)
+#[Precise Shot](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#precise-shot)
+#[Surface Vehicle Operation](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Surface+Vehicle+Operation)
+#[Aircraft](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Aircraft+Operation)
+#[Burst Fire](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Burst+Fire)
+#[Dodge](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#dodge)
+#[Sidestep Charge](http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#sidestep-charge)
+#[Agile Riposte](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Agile+Riposte)
+#[Standstill](http://www.systemreferencedocuments.org/35/sovelior_sage/psionicFeats.html#standstill)
+#[Quick Draw](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Draw)
+#[Quick Reload](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Quick+Reload)
+#[Heoric Surge](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Heoric+Surge)
+#[Sunder](http://www.12tomidnight.com/d20modernsrd/Feats.php?Name=Sunder)
+#[Lightning Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#lightning-reflexes)
+#[Great Fortitude](http://www.systemreferencedocuments.org/35/sovelior_sage/featsAll.html#great-fortitude)
 
-!!!-epic
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-combat-reflexes|Improved Combat Reflexes]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#spellcasting-harrier|Spellcasting Harrier]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#superior-initiative|Superior Initiative]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-focus|Epic Weapon Focus(Greatsword)]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-specialization|Epic Weapon Focus(Greatsword)]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#overwhelming-critical|Overwhelming Critical(Greatsword)]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#devastating-critical|Devastating Critical(Greatsword)]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#perfect-health|Perfect Health]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-reflexes|Epic Reflexes]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-fortitude|Epic Fortitude]
-#[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-will|Epic Will]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance|Energy Reistance(Fire)x3]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance|Energy Reistance(Cold)x3]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance|Energy Reistance(Electricity)x3]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance|Energy Reistance(Acid)x3]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance|Energy Reistance(Sonic)x3]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-spell-resistance| Improved Spell Resistancex10]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#damagel-resistance|Damage Resistancex9]
-*[http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic toughness|Epic Toughnessx2]
+### epic
+#[Improved Combat Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-combat-reflexes)
+#[Spellcasting Harrier](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#spellcasting-harrier)
+#[Superior Initiative](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#superior-initiative)
+#[Epic Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-focus)
+#[Epic Weapon Focus(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-weapon-specialization)
+#[Overwhelming Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#overwhelming-critical)
+#[Devastating Critical(Greatsword)](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#devastating-critical)
+#[Perfect Health](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#perfect-health)
+#[Epic Reflexes](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-reflexes)
+#[Epic Fortitude](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-fortitude)
+#[Epic Will](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic-will)
+*[Energy Reistance(Fire)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+*[Energy Reistance(Cold)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+*[Energy Reistance(Electricity)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+*[Energy Reistance(Acid)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+*[Energy Reistance(Sonic)x3](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#energy-resistance)
+*[ Improved Spell Resistancex10](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#improved-spell-resistance)
+*[Damage Resistancex9](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#damagel-resistance)
+*[Epic Toughnessx2](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic toughness)
 
-!!-Flaws
+## Flaws
 ||Chr 8|2mp||
 
-!-Equipment
+# Equipment
 *Standard Spellbreaker Sword
 *Gerald's Sword
 *Boost Armor -Neg Grav Harness -Morphic Metal Alloy -Grav Anchor -Ultrlight Comp -Jetpack -Integrated Particle shield
 *Pulse Rifle -integrated Sonic Beam(-autofire) -Integrated Grappling Tether -Stun module -Variable Charge -Video Scope -range finder laser scope -integrated HUD
 *Hud -Piercing Visor -Motion Sensor -Biosensor -Ammunition Tracker -vehicle link -sensor link -Targetting
 
-!-SpellBreaker
+# SpellBreaker
 Hit Die: d10
 
 The SB's class skills (and the key ability for each skill) are:

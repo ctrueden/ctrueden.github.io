@@ -1,5 +1,9 @@
--=Hep=-
-
+---
+layout: page
+title: Hep
+permalink: /deus/CharPublicMegan
+category: deus
+---
 Do you remember all those little digipets, gigapets, tamogotchis, etc?  No society, no matter how advanced, can avoid the pesty little things for long.  As with many other trends (perms, blue eyeshadow, carpenter pants), they came into and went out of fashion with little notice from anyone.  Advances in nanotechnology and artificial intelligence brought new purpose to their existence in 2200, when Dr. Noonian Soong inadvertently created the first Happy Hampster Educator Pod (HHEP) on his quest to work out the ethical subroutine at the heart of the Logical &amp; Ontological Reasoning &amp; Ethics (LORE) chip.  
 
 As with most successful scientists, Dr. Soong didn't dive right into the most complex experimental task but instead set his sights a little lower.  A lot lower, you might say.  His primary goal with designing the HHEP was to successfully capture, record and program a simple set of ethics.  Seeing as he was using hampsters and ended up with us, we can honestly say that perhaps he was reading a couple too many humanoid emotions into his data.  Hopefully more than a couple, but some folks come from more humble backgrounds than others.  At this point you might be saying to yourself, &quot;but Hep, you're gorgeous.  Shiny exterior...scaley patterning...you're a beautiful woman, not a hampster.  What happened?&quot;

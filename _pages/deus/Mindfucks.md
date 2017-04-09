@@ -1,19 +1,23 @@
--=Mindfucks=-
+---
+layout: page
+title: Mindfucks
+permalink: /deus/Mindfucks
+category: deus
+---
+The flow of the campaign reveals truths (and lies) in an order designed to maximize the intensity and number of shocking revelations both in and out of game. The [GMs Only](GameMastersOnly) section, on the other hand, just tells it like it is. To reconcile this discrepancy, this page explains the order of revelations we plan to use to keep stringing the players along. (:mrgreen:)
 
-The flow of the campaign reveals truths (and lies) in an order designed to maximize the intensity and number of shocking revelations both in and out of game. The ((GameMastersOnly|GMs Only)) section, on the other hand, just tells it like it is. To reconcile this discrepancy, this page explains the order of revelations we plan to use to keep stringing the players along. (:mrgreen:)
-
-((Fearful)) / ((UniverseCreation|Destroyer)) / ((UniverseCreation|Destiny Force)) path:
+[Fearful](Fearful) / [Destroyer](UniverseCreation) / [Destiny Force](UniverseCreation) path:
 *A colony has disappeared without a trace, for reasons unknown.
 *A strange planet with Earth-like biological life is discovered!
 *Exploring the planet, it seems to be alive somehow, and either wishes to help or harm the Terrans exploring it (depending on what they do, and how overtly mystic they are).
-*The ecosystem itself is actually an alien intelligence: the ((Fearful)).
+*The ecosystem itself is actually an alien intelligence: the [Fearful](Fearful).
 *The alien virus has infected the Terrans, and they get glimpses into its mind.
 *Once the alien(s) is aware of the Terrans, and learns they are the ones propagating mystic energy, it/they ceases all communication after sending a final dire warning that we will be destroyed for our sins (also, phrases like &quot;Have you heard the screams?&quot; and such).
 *The aliens use a doomsday device on one of our colonies, obliterating it in a big explosion; it must have been the aliens who were responsible for the disappearance of the first colony.
 *But the explosion doesn't match what happened at the first colony; and why were the aliens friendly at first? It doesn't add up.
-*While engaged in a conflict with the aliens, the true threat -- the ((UniverseCreation|Destroyer)) -- appears to destroy another colony. The aliens freak out, and after calming down, essentially say &quot;I told you so&quot; to the Terrans.
+*While engaged in a conflict with the aliens, the true threat -- the [Destroyer](UniverseCreation) -- appears to destroy another colony. The aliens freak out, and after calming down, essentially say &quot;I told you so&quot; to the Terrans.
 *The PCs learn more about the Destroyer somehow.
-*Somewhere in here, the PCs find out about ((Dragons|Dragonstar)) and the ((UniverseCreation|Destiny Force)) too.
+*Somewhere in here, the PCs find out about [Dragonstar](Dragons) and the [Destiny Force](UniverseCreation) too.
 *Around this point, they learn that the Fearful are responsible for humanity's existence on Earth, as well as how the Fearful took part of Earth's ecosystem to sustain itself.
 *They continue to learn more about dragons, and the story of how Gaia was saved 65 million years ago.
 *They learn the story of how the universe was created.

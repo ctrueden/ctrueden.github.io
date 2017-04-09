@@ -1,9 +1,13 @@
--=Monday group, second session=-
-
-!!!Questions
+---
+layout: page
+title: Monday group, second session
+permalink: /deus/Monday02
+category: deus
+---
+### Questions
 
 Where did Bernstein go?
-*((NPCBernstein|Rudolf Bernstein)), the scientist who was abducted, worked for ((OrgStratCo|StratCo)). Once he notified them of his breakthrough, they arranged for his abduction to keep him from ever revealing the results of his research to anyone. But they can't kill him, or else Divination will work on the knowledge (from the ((NPCCaretaker|Caretaker))). So he's locked in a padded cell somewhere, warded against Divination.
+*[Rudolf Bernstein](NPCBernstein), the scientist who was abducted, worked for [StratCo](OrgStratCo). Once he notified them of his breakthrough, they arranged for his abduction to keep him from ever revealing the results of his research to anyone. But they can't kill him, or else Divination will work on the knowledge (from the [Caretaker](NPCCaretaker)). So he's locked in a padded cell somewhere, warded against Divination.
 *Jasmine brought him to room 101, where Ron Davis (a mystic) was waiting. He then transported Bernstein to a StratCo ship in Europe. From there, Bernstein was handed off to AIs who took him to his cell, so that his location could not be divined. The AIs took him to the Glacialis branch, where he is being held in stasis.
 
 What did StratCo do with the knowledge the gained from dissecting Zee?
@@ -51,11 +55,11 @@ Did Jasmine make a second copy of Bernstein's research results before wiping it?
 *Yes, she has a data crystal containing the formulas. She won't hand it over unless she is damn sure she can trust these people, however. Which won't be right away, no matter what they say. She also gave one copy to Davis.
 
 
-!!!Meeting with William Moss
+### Meeting with William Moss
 
 Ian leads them to a particular location in Luna's Great Forest, where he awkwardly reaches for two knots on a tree that looks much like any other. A portal appears in the tree, which leads to Moss's private sanctum. It appears to be a domed room (about 12 feet high in the center, with a radius of 15 feet) that is very sparse -- there doesn't appear to be anything here other than Moss and a woman dressed all in black. Moss tells her &quot;that will be all for now, Angelique [[du Coudray]&quot; and ports her away when the others enter.
 
-Moss's creepy mannerisms indicate that he may have gone a bit bonkers -- he is no longer the man he was 200 years ago. ((NPCNyx|Everlily Nyx)) doesn't seem to be around. Also, one of Evan and Adana's daughters, ((NPCAstarte|Astarte)) (who together with her sister ((NPCAnat|Anat)) (6th level mystic Charismatic Cha 20) are named for [http://www.christiananswers.net/bible/gen5.html|Seth's] wives in [http://www.geocities.com/Athens/Ithaca/4396/wives.htm|Egyptian mythology]) has invisibly followed them through the portal. She tries to teleport Moss away with her, into captivity. But she does not know that the sanctum disallows anyone to port Moss except Moss himself (a protection Moss added himself after his falling-out with Nyx).
+Moss's creepy mannerisms indicate that he may have gone a bit bonkers -- he is no longer the man he was 200 years ago. [Everlily Nyx](NPCNyx) doesn't seem to be around. Also, one of Evan and Adana's daughters, [Astarte](NPCAstarte) (who together with her sister [Anat](NPCAnat) (6th level mystic Charismatic Cha 20) are named for [Seth's](http://www.christiananswers.net/bible/gen5.html) wives in [Egyptian mythology](http://www.geocities.com/Athens/Ithaca/4396/wives.htm)) has invisibly followed them through the portal. She tries to teleport Moss away with her, into captivity. But she does not know that the sanctum disallows anyone to port Moss except Moss himself (a protection Moss added himself after his falling-out with Nyx).
 
 Astarte (6th level mystic Fast Dex 20 -- Creat 3, Des 2, Dis 6, Enh 3, Kin 4, Mind 2, Res 23) shoots Moss with a tranquilizer dart and tries to teleport him out of there, but the PCs stop her. But she can get away by teleporting herself out of there.
 
