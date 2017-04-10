@@ -36,17 +36,17 @@ Undead, typical tactics against undead (low level stuff).
 
 We get to Earth (Moscow).  Laiden threads us together, Trenton ports us there.  In the grove..  Three Halflings nearby, two run off, Liza comes offer,   Oh you're the ones that planting.  She seems friendly, middle aged, not old, not young (Halfling).
 
-We want to talk to the caretaker, and everyone else has been talking with him.  We say we have spoken with it before, and that Sledge let us.  
+We want to talk to the caretaker, and everyone else has been talking with him.  We say we have spoken with it before, and that Sledge let us.
 
 We all touch the tree.  The weapon has left the hands of king of the people's of the deep (earth).  Knowledge surrounding the lord of the undead is shrouded.  The propheciy may not be enlightening... &quot;The land of blood and tears cries out as the spear of the damned pierces its newly awakened flesh.&quot;
 
 The weapon is on its way to battle the evil one.  There are always other opportunities.
 
-Sun souls were a boon in the continual struggle against the void.  
+Sun souls were a boon in the continual struggle against the void.
 
 The dragon world sharing goes.
 
-Noun wants to know why the Dragons are so dumb.  The keeper of the world of dragons has chosen its own path.  Caretaker is non-judgemental with no opinion.  Gaia's memories fade, so if there was a time that they were more closely related that it was so long ago only a shadow of memory remains. 
+Noun wants to know why the Dragons are so dumb.  The keeper of the world of dragons has chosen its own path.  Caretaker is non-judgemental with no opinion.  Gaia's memories fade, so if there was a time that they were more closely related that it was so long ago only a shadow of memory remains.
 
 Argument that the void is following the dragon world more quickly, but caretaker thinks that is insufficient data.  Even so it is possible we might want to reason with the being.  Caretaker believes noun doing the talking is our best chance.  Noun wants to know how he can do this?  Last time it didn't help.  Wonders whether Noun can help out with this, (the time will come, but not yet) the caretaker says it not time yet -- riddled with depth that Noun appreciates.  Noun senses that the caretaker has not embraced all of what Noun understands.
 
@@ -78,23 +78,23 @@ Pronoun coughs politely, sometimes when you teleport you get lost and don't end 
 
 Wondering whether we can sense unlife and by that find Cain (highest unlife signal).  Serra has done something which might detect them, but is unsure.
 
-In a smaller crater, there is a data crystal in its own crater.  A droid is sent to get it.  Ridge ties herself to the droid's sensors.  The data crystal looks scratched up (there is streaks of blood off of the ship).  
+In a smaller crater, there is a data crystal in its own crater.  A droid is sent to get it.  Ridge ties herself to the droid's sensors.  The data crystal looks scratched up (there is streaks of blood off of the ship).
 
 Droid sent to look at the ship, Ridge repairs the data crystal and reads the log from the UNF Vesta.  The droids feeds back wreckage, one body is there (on the bridge), he seems dead from a blow to the head, but around his neck is a rosary.  The log says, "Captain's own reporting, whatever it was we tracked from Luna has taken over the ship.  It has no mercy no sympathy.  It has taken all the folks, I have taken over this ship and set it crash on Mars.
 
-Ship is wrecked, may take days to restore the ship.  The anti-matter core is missing.  Is believe is needed?  Yes.  Extract the body from the ship.  She grabs a couple parts.  Maybe Cain ported the anti-matter core away. 
+Ship is wrecked, may take days to restore the ship.  The anti-matter core is missing.  Is believe is needed?  Yes.  Extract the body from the ship.  She grabs a couple parts.  Maybe Cain ported the anti-matter core away.
 
 There are obvious tracks leading to the dome.  Large quantities of undead heading that way.  Can the core be detected, yes if we get close enough.  Examine the captian, no assault, blow to the head.  Take the rosary, and the body remains dead for now.
 
 We are flying to the dome.  Body held in gravitic drive.   Laiden creates a portkey on a towel.
 
-Go through an air lock, Serra says take a look at this.  Zooms in on a sigil on a ship (my successor).  Cloak and move.  Laiden is carrying a large duffle bag.  
+Go through an air lock, Serra says take a look at this.  Zooms in on a sigil on a ship (my successor).  Cloak and move.  Laiden is carrying a large duffle bag.
 
 Serra's detecting undead seems to be working, but can sense the difference in strength.
 
-Three zombies on DEE stand back to back, telling them to stop or they will use the anti-matter core (exposing it).   
+Three zombies on DEE stand back to back, telling them to stop or they will use the anti-matter core (exposing it).
 
-Rossner attempts to sense the anti-matter.  
+Rossner attempts to sense the anti-matter.
 
 Laiden sends some hacker on Dee that we're sent on a mission from Gaia to destroy Cain.  Ridge sends Dee the "fatal" flaw of himself in a prepared form letter.
 
@@ -106,7 +106,7 @@ Trenten: Historian
 Malcolm: Preacher
 Dr Peters: Doctor
 
-Vito ghost, Arizona small, Nix stone, pete crazy, dee the ship, meechum split personanilties, brice sickly, nicoli weird 
+Vito ghost, Arizona small, Nix stone, pete crazy, dee the ship, meechum split personanilties, brice sickly, nicoli weird
 
 Dee is communicating with Serra letting him know that its shielding protecting them from the goo.  Serra tells her limitations to protect herself.  It was indicated that she doesn't have access to certain things.
 

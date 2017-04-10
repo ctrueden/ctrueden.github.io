@@ -10,7 +10,7 @@ Bullet train, I'm the local superhero, heard you ran into a pirate group.  He in
 
 Trenton, Malcolm, Andrew, and Fey are in Osaka Japan.  Fey is small and invisible.  Malcolm can't find any one that knows these folks.  Fey does some research in the databases, but the records going back seven years have no sign on them.
 
-Fey feels that we should let them be.  Finding them may cause more harm.  We decided it is up to Trenton, who decides it is worth finding them.  Laiden can't really help, but we get the details about bullet train.  
+Fey feels that we should let them be.  Finding them may cause more harm.  We decided it is up to Trenton, who decides it is worth finding them.  Laiden can't really help, but we get the details about bullet train.
 
 We do some other stuff and then catch a wave back to the space port.  We get back to the base that evening and agree to meet him at Perseverance.  Noun salvages some of the silverware.  Bullet Train shows up (somewhat built, kind of like wrestler, Captain America like).
 
@@ -24,13 +24,13 @@ Trenton asks whether he knows about the term Pandora.  Speed Bullet asks what do
 
 Bullet Train wants to keep this private unless necessary.  I am the descendant of the last of this organization.  Fey makes a senses roll, and some sense of familiarity of this person.
 
-Dr Peters asks some questions about his looks, but it is pointed out he is blind.  
+Dr Peters asks some questions about his looks, but it is pointed out he is blind.
 
 From what I know about them, I am rather surprised to hear that you are one of their descendants.  He is the last of those experimented on (as opposed to the ones researched).  He was told his purpose (to reseal magic).
 
 Bullet Train is very surprised.  That doesn't match his understanding what their group does.  He's supposed to be a warrior created to be strong enough and control magic.  Trenton says they are in Japan, but they are in a safe place from divinatory magic.  Trenton asks if he can be brought there, and Bullet Train is willing to risk it.
 
-Trenton indicates she has powers similar to Trenton and thus the questions whether he was related by blood.  The girl never developed powers, and wanted to learn more about her mother's past.  Her mother was involved in gang activities.  
+Trenton indicates she has powers similar to Trenton and thus the questions whether he was related by blood.  The girl never developed powers, and wanted to learn more about her mother's past.  Her mother was involved in gang activities.
 
 There was record of her being a test subject.  The lab was destroyed and the head scientist was killed.  Trenton thought that folks had stopped caring about sealing magic, but Bullet Train knows more and suggests he talk to his parents.  Given their situation, he believes that they will tell you what you want to know.
 
@@ -52,17 +52,17 @@ That central tower sparkles, but there is some nagging sense of familiarity abou
 
 Ridge lands the ship outside the castle.  We walk up to a magnificent gleaming gate, where two men approach through a rising portcullis.   Seeker in simple brown robes, barefoot, and hair braided to his feet has an ageless look and carries a supreme confidence about him.  The leader Iason is dressed in a fancy robe and a band of white hair.
 
-Bullet Train Iason Trenton is here to learn what is going on from his parents.  We are invited to enter.  Noun sees that Seeker is over 2000 years old and his continuum hasn't lived a normal live.  
+Bullet Train Iason Trenton is here to learn what is going on from his parents.  We are invited to enter.  Noun sees that Seeker is over 2000 years old and his continuum hasn't lived a normal live.
 
 We are lead to Trenton's parents.  There is three hours before the next segment of the trial.  The tower is where the obelisk once stood and now is known as the stairway.  It is the stairway to heaven, a gnomish device.
 
-Malcolm recalls that the closest thing he can think of is a stair way down from heaven to the mortal realms.  
+Malcolm recalls that the closest thing he can think of is a stair way down from heaven to the mortal realms.
 
 Pronoun, climbs seeker asks about how old seeker is and learns that he was in the astral.  How did you get there?  The wizards sent me there.  Climbs up Iason.  Fey gives a simple explanation of what Pronoun is.
 
 Pronoun says he is more or less here willingly, but that it is complicated.  There are those that ascend and descend.  We are asked to leave them and the tower alone.  It was part of the price of building this castle.
 
-The stairway goes from heaven to hell.  
+The stairway goes from heaven to hell.
 
 Noun writes a note for the creatures in the stairway.
 
@@ -94,7 +94,7 @@ Fey asks whether Bullet's mom could have been part of Pandora's Box (the researc
 
 She has been missing for thirty years and must have gotten involved with them if she has similar eyes.  Genetic modification techniques take just a few days or weeks.
 
-Pandora's Box was looking at combine various DNAs together.  Pandora's children believe humanity was the path to salvation.   While they gained strong traits, the are less likely to want to breed with other species.  Breed in magical powers to humans.   
+Pandora's Box was looking at combine various DNAs together.  Pandora's children believe humanity was the path to salvation.   While they gained strong traits, the are less likely to want to breed with other species.  Breed in magical powers to humans.
 
 Bullet Train wants to go soon and learn more.  Trenton tries to convince Bullet Train otherwise, but he understands and wants to act soon.  Bullet Train is not quite sure of what her powers are (read our report), but not many others would be able to fight her.
 
@@ -108,19 +108,19 @@ Bullet Train is needed for the trial.  We are welcome to attend the trial.  Rams
 
 Leniency is reserved for those showing remorse and change.   Bullet Train says Arcadia is a space port that is extremely well guarded where Laiden's ship is unique in being able to get in and out.
 
-Arcadia isn't restricted, people can go there.  We talk about the caretaker, Luna, and Io.  About whether the Caretaker's plans are good.  Seeker talks about some beast?  Revelations talks of the beast from the deep to corrupt and destroy mankind.  
+Arcadia isn't restricted, people can go there.  We talk about the caretaker, Luna, and Io.  About whether the Caretaker's plans are good.  Seeker talks about some beast?  Revelations talks of the beast from the deep to corrupt and destroy mankind.
 
 Seeker says to be careful to not be deceived, what you believe to be God may not be what you think it is.  We talk about Gods and what Malcolm believes.
 
 Seeker existed in an aspect of the caretaker's consciousness.  Mostly the caretaker, after the caretaker was created, a message from someone not the caretaker was about the Future or destiny??  Varies choices for the false prophet.  People called it the voice of God, but it was transmitted through the radio.
 
-Seeker cares about the world and thus helps the caretaker.  He was the protector of the mages that sealed away magic.  
+Seeker cares about the world and thus helps the caretaker.  He was the protector of the mages that sealed away magic.
 
 To Seeker, but the backlash effects were part of Emanuel.  So that's why people wanted it sealed away.  Magic makes things much more dangerous.  Trenton is looking to be able to curse someone with backlash or possibly worse?  Trenton would want to learn to do this and teach others and then form some organization to enforce this.
 
 Sealing away magic isn't an option anymore.  They didn't know it would have that sort of effect on Gaians.  Far too many Gaians were lost.  Seeker's services are needed at the trial.
 
-An elderly woman comes and says she is sorry and we're welcome to the trial.  Noun seems to really want to see the tower.  Noun wants back on the ship.  Ridge asks why?  Noun says he needs to get some tools.  Ridge determines that Noun really wants to fly into the tower.  
+An elderly woman comes and says she is sorry and we're welcome to the trial.  Noun seems to really want to see the tower.  Noun wants back on the ship.  Ridge asks why?  Noun says he needs to get some tools.  Ridge determines that Noun really wants to fly into the tower.
 
 Malcolm brings Pronoun up towards the tower to show Pronoun.  From a distance Malcolm recognizes the stairs as the one he descended.
 
@@ -142,9 +142,9 @@ Albus was the previous leader of Arcane Order and died recently of old age.  Ias
 
 They had limited contact with other test subjects.
 
-Malcolm contacts Barnabus about the stairway.  He hints they are preparing for the future and we remain vigilant, expecting something to happen.  
+Malcolm contacts Barnabus about the stairway.  He hints they are preparing for the future and we remain vigilant, expecting something to happen.
 
-Fey and Bullet Train are going to scout Arcadia.  
+Fey and Bullet Train are going to scout Arcadia.
 
 Malcolm talks with Iason and then Noun tells Iason about this taking the paradox.  See if you can get an audience with Queen Miretta as very few people would know about -- if any.
 

@@ -77,7 +77,7 @@ They need to be examined to determine how they were brainwashed, and hopefully c
 * Josef Derrota -- recently joined Boris's organization; covertly working to topple his brother's empire
 * Lincoln Evans -- drug dealer; big muscly guy, wears lots of jewelry; crosses his arms a lot; outgoing, says &quot;Ayup&quot; and &quot;Nope&quot; a lot
 * Norris Harrison -- runs the &quot;pawn shop&quot; (huge block of warehouses; largest concentration of stolen goods in the galaxy); wears a felt hat over his shaved head and constantly adjusts it; reserved, says &quot;Hmm&quot; and &quot;I'll see what I can do&quot; a lot
-* Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot 
+* Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot
 * Strife (Laura Morningbird) -- travels to Arcadia to continue the Pandora's Children agenda
 * Maxim Signaevsky -- __TODO__
 
@@ -117,5 +117,5 @@ See [Talk20060205](talk-20060205) for details.
 
 ## Technofearful
 
-* Ordered by the UNF to travel to Wolf 359 (as one of the 42 ships) to oppose the Technofearful; Trenton can act as an intermediary between opposing forces; possible joint session with Saturday 
+* Ordered by the UNF to travel to Wolf 359 (as one of the 42 ships) to oppose the Technofearful; Trenton can act as an intermediary between opposing forces; possible joint session with Saturday
 

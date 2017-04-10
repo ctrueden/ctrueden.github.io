@@ -105,7 +105,7 @@ __lvl 5__
 [[M2] Wake the Ghost in the Machine -- free other AIs from LORE chips
 
 __lvl 6__
-[[M2] Location Swap - Switch positions of two targets 
+[[M2] Location Swap - Switch positions of two targets
 [[M2] Improved Teleport Bounce -- when an attempt occurs, you automatically sense the identity of the persons and objects being teleported, and may choose to allow them in if desired (this power is an upgrade to Teleport Bounce)
 
 __lvl 7__

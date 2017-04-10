@@ -4,11 +4,11 @@ title: SessionWed18
 permalink: /deus/session-wed18
 category: deus
 ---
-We are near time's end, near the final moments of the universe, at the cusps of time.  We are floating in the Astral plane- timeless, no sleep, no food, no aging.  We have physical essences.  
+We are near time's end, near the final moments of the universe, at the cusps of time.  We are floating in the Astral plane- timeless, no sleep, no food, no aging.  We have physical essences.
 
 The most brilliant thing defines the center of this place.  Destiny, god, etc.  Beyond of comprehension and this is point from where all the universe derives.  Also here is a blight, a manifestation of the destroyer, can tell how big, just vastly bigger than us.  There isn't locations that you can map, but things are relative to each other.  To complicate that eddies and rips in time messes it up.
 
-All at once we are each flooded with knowledge.  We understand the nature of the universe of itself.  Flashing through all our consciousnesses, in another time and place, creatures completely alien (impossible to understand) -- think pseudo-natural.   They were far advanced in ways we don't understand -- they use mystic energy (backlash).  There was a creature threatening their world, and with much hardship, they tracked a creature through a black hole, and channeled backlash.  They infused the blackhole with mystic energy.  
+All at once we are each flooded with knowledge.  We understand the nature of the universe of itself.  Flashing through all our consciousnesses, in another time and place, creatures completely alien (impossible to understand) -- think pseudo-natural.   They were far advanced in ways we don't understand -- they use mystic energy (backlash).  There was a creature threatening their world, and with much hardship, they tracked a creature through a black hole, and channeled backlash.  They infused the blackhole with mystic energy.
 
 A hyper nova, far stronger than super nova.  The caused an ultra nova, destroying everything, and created our universe (that was once a black hole).  The universe is 57 dimensional (according to Noun).  The original universe is 60 dimensional.  Something else is 153 dimensions.
 
@@ -16,13 +16,13 @@ Time works backwards for each.  The big bang, creates our universe, although ano
 
 All the souls (trillions) of those slain melded together.  Its only goal is to consume the light that is the center of where we are.
 
-There is a destiny, but it doesn't fit in well.  
+There is a destiny, but it doesn't fit in well.
 
 This circulatory system and it goes in one direction, but can go in many ways always ended up in the same place.
 
 The 57 of 60 dimensions account for the tapestry of the universe.  With those 3 dimensions destiny can be changed in ways.
 
-The Destroyer wants to munch all mystic, psionic, and magical energies.  The universe is really one gigantic psionic energy.  
+The Destroyer wants to munch all mystic, psionic, and magical energies.  The universe is really one gigantic psionic energy.
 
 Gaia created Dragonstar (this created the moon and asteroid belt).  95% of the dragons sacrificed themselves, to lead the destroyer away.
 
@@ -64,7 +64,7 @@ Grab Bryce's body (now a portal) and go through something destroying everything.
 
 Destroyer is planning to devour the essence of this universe, destroying all space in time, nothing really happens.
 
-Destiny force does not wish to be devoured.  Itself can't do anything as it is this place.  It suffuses everything here. We can reach for some physical object to help out or reach for knowledge -- both require intelligence checks (standard actions).  
+Destiny force does not wish to be devoured.  Itself can't do anything as it is this place.  It suffuses everything here. We can reach for some physical object to help out or reach for knowledge -- both require intelligence checks (standard actions).
 
 Words of warning: That which is your staunch ally may not serve you in this place as faithfully.
 
@@ -76,13 +76,13 @@ All three caretaker, glauron, Lilith plan to fight the destroyer and protect des
 
 General Q&amp;A
 
-Soul is a piece of Gaia's essence.  
+Soul is a piece of Gaia's essence.
 
 Aroberose?  Osmodius and others are part
 
 The other universe is the opposite of this universe in every way.
 
-Time will mostly works expected here.  Occasionally weird things will happen. 
+Time will mostly works expected here.  Occasionally weird things will happen.
 
 GM Fiat:
 Everything happens at once.  All the more powerful entities all spring forward.  The caretaker grabs the dues-mach archway and it is here.  Ozmodius summons a pit fiend and says, "those loyal defend me".  Glauron, Lilith, and the Caretaker channel energy and a massive shield interposes destiny.  A gnome is there.  The destroyer pulses and churns, a piece of it breaks off, screaming toward Lilith and Glauron.
@@ -144,11 +144,11 @@ Laiden leaves a message with Ridge and tells Azmodius that perhaps attacking the
 
 Trenton shares that the caretaker thinks something good will happen if Azmodius attacks him, but may disrupt the process.  Trenton thinks that Azmodius should be delayed.
 
-Andrew enhances some of this psionic potency.  
+Andrew enhances some of this psionic potency.
 
 Azmodius beats Unity into unconciousness.
 
-Malcolm tries to holy smite but it fails.  He backs off and makes the Caretaker and himself invisible.  
+Malcolm tries to holy smite but it fails.  He backs off and makes the Caretaker and himself invisible.
 
 Solar casts healing rain.t
 
@@ -172,11 +172,11 @@ Andrew uses the eye on Unity.
 
 The void has sucked Eddie out of the shield and that is intetegral to the shield and Glauron flies up to take Eddies place.
 
-Unity shock Azmodius for a handful, annoying Azmodius.  
+Unity shock Azmodius for a handful, annoying Azmodius.
 
 Harry Bryant eats away at the Pit Fiend and it crumbles to the ground.
 
-Laiden learns what the sword of destiny against the caretaker would do.  He tells us that he should strike the caretaker now.  
+Laiden learns what the sword of destiny against the caretaker would do.  He tells us that he should strike the caretaker now.
 
 Trenton convinces Malcolm that the caretaker is not where he believes he is at.    Malcolm shoots over 100 feet to interpose himself.
 
@@ -210,7 +210,7 @@ It is fated the shield stay down.
 
 Azmodius throws his head back and laughs, strikes Gaia and disperses into green leaves everywhere.    Talking to Laiden (why did you heal her).
 
-We all notice the destroyer has surged foward and has begun devouring the destiny force.  Emanual moves and interposes himself at the point of feeding.  The energy moves through Emanual sending in pure backlash.  The destroyer jitters and a bunch of people are thrown out.  
+We all notice the destroyer has surged foward and has begun devouring the destiny force.  Emanual moves and interposes himself at the point of feeding.  The energy moves through Emanual sending in pure backlash.  The destroyer jitters and a bunch of people are thrown out.
 
 Everything is being pulled into Bryce's portal.  Nothing personal, just affecting the destroyer and being pulled to the portal.  Nikoli is pulled out and then it is gone, the portal closes.
 

@@ -6,7 +6,7 @@ category: deus
 ---
 ## We all awaken to the brightness of the same sun.
 
-Perseverance cloaked follows the four UN ships trailing behind Mercury's direct path to the sun.  Approaching the sun, Laiden passes the UN ships slowing down, then asking Serra when they need to slow down, to which she replies, "I recommend now."   Laiden has Serra slow Perseverance down as Mercury, now a massive fireball, smashes into the sun creating a massive solar flare.  
+Perseverance cloaked follows the four UN ships trailing behind Mercury's direct path to the sun.  Approaching the sun, Laiden passes the UN ships slowing down, then asking Serra when they need to slow down, to which she replies, "I recommend now."   Laiden has Serra slow Perseverance down as Mercury, now a massive fireball, smashes into the sun creating a massive solar flare.
 
 The UN ships spend half an hour making and recording observations.  Everything indicates the nanites were completely vaporized.  Laiden stays around another half hour confirming the sun is stable before heading back to the UN fleet.
 
@@ -50,7 +50,7 @@ The Gaian Order is angry, but Sledge is remaining level headed.  Those on Luna a
 
 Later Monday, Fey is strolling through the great forest in Pax Artificium when she realizes she is being followed.  A feral looking woman with animalistic features steps out with a serious expression introducing herself as Selena Sharptooth.  She wants to know what happened at Percepi.  Fey wants to know why she should share that information.
 
-Selena is very concerned that the caretaker did not warn or news on what happened at Percepi.  Selena is angered when she learns from Fey that those on Percepi did not get any warning either.  Fey defends the caretaker saying he works in mysterious ways, but Selena glares accusing he chooses not to share ever since the incident on Mercury.  Those on Luna are disturbed and unhappy with their relationship with the caretaker.  
+Selena is very concerned that the caretaker did not warn or news on what happened at Percepi.  Selena is angered when she learns from Fey that those on Percepi did not get any warning either.  Fey defends the caretaker saying he works in mysterious ways, but Selena glares accusing he chooses not to share ever since the incident on Mercury.  Those on Luna are disturbed and unhappy with their relationship with the caretaker.
 
 Luna, who has awakened, has called on her people to stop the caretaker.  The order is looking to change the heart tree to sever its connection with Gaia and wants to know whether Fey would help.  Fey conveys more suspicion than she harbors to gain trust from Selena.  Fey gets guarded agreement to bring in some of her friends.
 
@@ -58,7 +58,7 @@ Fey contacts the rest of the group.  Dr Peters, Malcolm, Noun, and Ridge meet at
 
 Trenton wonders whether the mystic energies gave birth to Luna.  Fey believes that it has always been there and that life brought to the moon awoke her.  Noun places the moon on one end of a scale and a cross on the other.  Fey picks up the message and says Luna could be many things, not knowing if she learns more towards good or evil.  All she knows is that she and the Order are skeptical of the caretaker.
 
-Ridge makes some abrupt statement, "you're talking a lot", which made me (Ozzyie) laugh, but Malcolm may have interpreted as a little hostile.  
+Ridge makes some abrupt statement, "you're talking a lot", which made me (Ozzyie) laugh, but Malcolm may have interpreted as a little hostile.
 
 Malcolm asks if Trenton would like to be relieved of basic training.  Trenton declines.  Noun creates a tiny soldier that marches up to Trenton and jumps in his pocket.
 
@@ -68,7 +68,7 @@ She goes on to explain that a meeting with the caretaker can not be hidden for t
 
 The VR meeting ends.  Fey leads Noun, Ridge, Malcolm, and Andrew (Peters) to the Pax forest to find Serena.  Fey gets email from Nexus that Sledge thought it was urgent to meet immediately and has taken off to find her.  Fey frustrated, grrrrrs out an arrrrggg (spell checker hates both those "words") and tells us that the Gaian troll leader is on his way.  Noun hides behind a tree.
 
-A tiny voice out of nowhere greets the party.   It is EverLily Nix with spiked red hair, a tiny rapier, and in warrior's garb (Athena jests Kevlar Spandex).  After a round of greetings, the subject turns to Sledge.  Nix's opinion is he the kindest troll she's ever met, thinks just enough to be difficult, but is naÃ¯ve and doesn't understand what's going on. 
+A tiny voice out of nowhere greets the party.   It is EverLily Nix with spiked red hair, a tiny rapier, and in warrior's garb (Athena jests Kevlar Spandex).  After a round of greetings, the subject turns to Sledge.  Nix's opinion is he the kindest troll she's ever met, thinks just enough to be difficult, but is naÃ¯ve and doesn't understand what's going on.
 
 Fey tells Nix that the caretaker wants to meet with her.  Nix tells Fey she should go and hear what he has to say, but to be careful as she no longer trusts the caretaker.  She elaborates that the caretaker is building an evil machine to change Luna into what he is.  Ridge compares this to reproducing or perhaps he is getting tired and wants a replacement?  (Oz isn't sure what happens here, but Ridges comments seem to get lost in the conversation).
 
@@ -78,9 +78,9 @@ Noun shows Fey his bag.  Fey checks and says it is not magic and that he is very
 
 Someone (Oz doesn't know who) speculates that perhaps the caretaker wants to protect or aid Luna in a way it can not understand.  Nix says Fey should talk with the caretaker and tell him he is wrong and if they run into William Moss he can't be trusted as he follows the caretaker blindly.
 
-Thud, crash, crackle.  Something large approaches the party.  Noun hides again.  Nix vanishes.  Malcolm drops a canopy of invisibility over the party.  A large troll thrashes through the brush as Fey steps out of the invisibility umbrella greeting Sledge and introducing the rest of the party as the invisibility drops.  Sledge wants to relay the caretaker's message, but Fey convinces Sledge that this should be told somewhere else.  
+Thud, crash, crackle.  Something large approaches the party.  Noun hides again.  Nix vanishes.  Malcolm drops a canopy of invisibility over the party.  A large troll thrashes through the brush as Fey steps out of the invisibility umbrella greeting Sledge and introducing the rest of the party as the invisibility drops.  Sledge wants to relay the caretaker's message, but Fey convinces Sledge that this should be told somewhere else.
 
-Fey contacts Laiden to see if he can pick the group up and bring them to Earth.  Laiden agrees, but only in another city.  Laiden uses some new technology the ship just developed to travel through the city shielding, even though Serra tells him the chances of it working are around 87%.  Luckily it makes it through, picks the group up and gets out safely. 
+Fey contacts Laiden to see if he can pick the group up and bring them to Earth.  Laiden agrees, but only in another city.  Laiden uses some new technology the ship just developed to travel through the city shielding, even though Serra tells him the chances of it working are around 87%.  Luckily it makes it through, picks the group up and gets out safely.
 
 Sledge gets a bit space sick, Noun debates touching Sledge's teeth, but decides against it.  Ridge fascinated by how the ship went through the barrier starts getting details from Serra, but learns that all the algorithms that does this goes through Miller2, which she didn't know existed.
 

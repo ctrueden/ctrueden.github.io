@@ -158,7 +158,7 @@ Feats: Blind-fight, Improved Initiative, Improved Trip
 
 Str 22 +6
 Dex 16 +3
-Con - 
+Con -
 Int 12 +1
 Wis 14 +2
 Cha 18 +4

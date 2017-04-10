@@ -4,7 +4,7 @@ title: SessionWed17
 permalink: /deus/session-wed17
 category: deus
 ---
-The Obsidian Teknokon's new computer has the name Sable.  
+The Obsidian Teknokon's new computer has the name Sable.
 
 ETA of Fearful in Sol system 5 days
 
@@ -22,7 +22,7 @@ Malcolm contacts them again apologizing for the offense,  &quot;We will have to 
 
 Trenton works with Noun to create a cannon on the Obsidian Teknokon that will extend the reach of Trenton's backlash.  When Noun finishes after five days it reaches out more than a mile.
 
-Dimensional anchor seems to stop miller 2.  
+Dimensional anchor seems to stop miller 2.
 
 Noun learns that the two who corrupt magic would do well to aid the red planet.
 
@@ -30,7 +30,7 @@ Admiral Rosner says that Mars situation is unstable.
 
 Malcolm hallows Laiden's command deck with Death Ward.
 
-We go to SOL/Earth to help out.  
+We go to SOL/Earth to help out.
 
 Serra tells Laiden that his crystal has been talking to her and is interested in the awakening.  It believes it is eligible for this.  Laiden now seems to find a faint soul there that just wasn't there before.
 
@@ -40,11 +40,11 @@ Malcolm contingencies himself so if something kills him heal is casted on himsel
 
 We get to SOL base Earth.  It is expected that all breakthroughs shared with Admiral Rosner.
 
-News nets says Laborro has been hit by some unknown threat and moving on to Lupis and a rumors that some splitting off going to SOL.   By day 9 it is believed that Mars will be hit first.  
+News nets says Laborro has been hit by some unknown threat and moving on to Lupis and a rumors that some splitting off going to SOL.   By day 9 it is believed that Mars will be hit first.
 
 Day 10, we meet Unity, who claims he has all sort of special knowledge that can help.  He has powers similar to Trenton.  Malcolm asks if he wants the taint removed, he says he is under control and its powers are useful in the current situation.
 
-William Moss sends a transmission (he is gray with sunken eyes), he speaking normally.   I realize you have been spending a lot of resources to defeating undead, but is willing to lending his resources to the cause.  
+William Moss sends a transmission (he is gray with sunken eyes), he speaking normally.   I realize you have been spending a lot of resources to defeating undead, but is willing to lending his resources to the cause.
 
 Unity believes Moss can be untainted.
 
@@ -58,7 +58,7 @@ Ridge talking with Admiral Rosner as says we should place some sort of boundarie
 
 Laiden volunteered to talk with Moss.
 
-Unity says it is not sure it can be removed, but it can control it.  He is unique and it may not work.  Unity is sure over time he would figure it all out. 
+Unity says it is not sure it can be removed, but it can control it.  He is unique and it may not work.  Unity is sure over time he would figure it all out.
 
 Rosner is highly likely to swing the council's decisions especially in this time of crisis.  It is understood that the boundaries are needed.  There is more discussion, having a alliance would allow for more surveillance and expectations from them.
 
@@ -66,23 +66,23 @@ Laiden with aid of many sends back a message with the UNF contingencies -- they 
 
 Moss returns positively that they can come to some agreement on the contingency and assures us that they have something to offer.  As a sign of good faith they can meet at some location of our choice.
 
-A bunch of us meet with them.  Trenton, Unity, Malcolm, Laiden, Andrew Peters, and Rosner go.  Moss, Nix, and two vampires are there.  Moss is calm, Nix is upset but keeps her cool.  The two vampire are feral/nasty.  (Keemy eagle talon and ???).  One is native American (Gangrel &amp; Nosferatue).  
+A bunch of us meet with them.  Trenton, Unity, Malcolm, Laiden, Andrew Peters, and Rosner go.  Moss, Nix, and two vampires are there.  Moss is calm, Nix is upset but keeps her cool.  The two vampire are feral/nasty.  (Keemy eagle talon and ???).  One is native American (Gangrel &amp; Nosferatue).
 
 Moss thanks us for meeting.  He is merely willing to agree to the offer with one small change.  Unlikely that there will be one willing.  As a result it would be difficult to find a volunteer.  Moss says others can visit the city and no harm will fall upon them.
 
-Existing legal systems would stand.  Civil liberties would stand.  Peters is afraid that free speech will be quelled.  
+Existing legal systems would stand.  Civil liberties would stand.  Peters is afraid that free speech will be quelled.
 
 Laiden with warnings that the agreement can be made.  Moss and the planet are willing to other aid.  Moss has details and wants to know more.  Moss as a competent researcher offers to come and help.
 
 We come to a treaty with them.
 
-It is first suggested to see if their physiology is resilient to the techno-fearful.  The nosferatue (Petrov Sarkovsky) confidently submit themselves to it.  
+It is first suggested to see if their physiology is resilient to the techno-fearful.  The nosferatue (Petrov Sarkovsky) confidently submit themselves to it.
 
-Neurological processes in Laiden's mind is causing things to happen-perhaps his subconscious.  
+Neurological processes in Laiden's mind is causing things to happen-perhaps his subconscious.
 
-Petrov's head is thrown back.  He shakes, his head falls back,  Convulsing we watch, the bubbling stop his eyes are white with circuitry in them.  He says, well I am still here.  He's got the effect, but is fine.  
+Petrov's head is thrown back.  He shakes, his head falls back,  Convulsing we watch, the bubbling stop his eyes are white with circuitry in them.  He says, well I am still here.  He's got the effect, but is fine.
 
-Petrov can hear noise of them, a buzzing of flies.  Nix then volunteers to try. 
+Petrov can hear noise of them, a buzzing of flies.  Nix then volunteers to try.
 
 Trenton adds backlash and then Moss destroys the fearful.
 
@@ -96,7 +96,7 @@ Fay considers contacting the caretaker to help out.  Nix visits Fay and wants to
 
 Nix says it looks bad for the living people.  Nix says it isn't so bad, so it's a trade off.  Fay isn't sure what to think.  Nix says the world isn't that complicated, you should know what to do.  Fay tells of the Gaian Body Shop stuff.  She is hurt that she is called a bad person, but putting up a front.  Nix knew about the pirates.
 
-Fay says at least they can't help themselves.  Nix says you don't see me biting you do you?  Fay says that Moss at one time he really wanted Nix to stay alive and not be affected and now over time he no longer feels that way effected by the taint.  
+Fay says at least they can't help themselves.  Nix says you don't see me biting you do you?  Fay says that Moss at one time he really wanted Nix to stay alive and not be affected and now over time he no longer feels that way effected by the taint.
 
 Nix says they both feel that way everything is fine.  They both they think are clouded byt each other.  Fay believes Nix lost control of what they wanted.  It wasn't just Moss changing his mind, but forced by their condition.
 
@@ -134,9 +134,9 @@ Moss says that they are not planning to infect the city.
 
 After a while things go well.  Aries says to Trenton, SAVOR YOUR VICTORY.
 
-Serra contacts Laiden that there is a crack in Laiden's Psycrystal and it is spreading.  Tried talking to Libra and he's not responding.  Laiden senses it is in some hibernating state. 
+Serra contacts Laiden that there is a crack in Laiden's Psycrystal and it is spreading.  Tried talking to Libra and he's not responding.  Laiden senses it is in some hibernating state.
 
-Laiden heals the psycrystal and the crystal like a shell.  A small creature is balled up on the ground.  A very large individual curled up is 6 feet long and is clutching a fist sized ruby.  Standing about 13 feet tall -- dark hair, terribly handsome, dressed in exquisite finery.  He opens his eyes and sits up. Ah Laiden this is your (horns protruding from his forehead).  
+Laiden heals the psycrystal and the crystal like a shell.  A small creature is balled up on the ground.  A very large individual curled up is 6 feet long and is clutching a fist sized ruby.  Standing about 13 feet tall -- dark hair, terribly handsome, dressed in exquisite finery.  He opens his eyes and sits up. Ah Laiden this is your (horns protruding from his forehead).
 
 The being smiles a terrible beautiful smile.  I take it things went well?  With Mars?  Nods,  It seems to have, good I had confidence in you.  It has been a long time in coming.  Laiden senses no soul in the crystal.  He asks if Laiden solved his puzzles.  Laiden says I think I just did.
 
@@ -146,7 +146,7 @@ We sense a focused cunning evil, that would use its code of honor to get as much
 
 I have been in prison since my conception.   Laiden sends a message to folks that there is someone that wants to meet them (Andrew/Malcolm/Noun)  Sorry about the mysteries about my disappearance.  It is something of my kind.  I was tied to the crystal, so you could remember.
 
-Sables says there is a new inside of Perseverance.  Noun senses reality came to a head inside the Perseverance and that something is happening.  
+Sables says there is a new inside of Perseverance.  Noun senses reality came to a head inside the Perseverance and that something is happening.
 
 Noun walks in first.  Noun the person I was most interested in seeing.  There was a task I wish for you to perform.  There is a desire you want to obtain, if you want it you should come with me now.
 
@@ -154,7 +154,7 @@ Andrew .   I am pleased to see that you have come so far, that you have over com
 
 Note: there is a distortion in here that allows him to stand to his full height even though he stands 13 feet tall.  He is immortal and powerful (not god like planet), but epic.
 
-Malcolm recognizes him as Ozmodius ninth level of hell leader missing for a long time.  A variety of celestials had no idea where he was.  He says he has no need of that place anymore, it is a lie.  I wanted you hear my tail -- I realized the truth.  I did not really exist.  None of you really exist, in particular the Celestial and Infernal creatures are part of the imagination of the caretaker's power.  
+Malcolm recognizes him as Ozmodius ninth level of hell leader missing for a long time.  A variety of celestials had no idea where he was.  He says he has no need of that place anymore, it is a lie.  I wanted you hear my tail -- I realized the truth.  I did not really exist.  None of you really exist, in particular the Celestial and Infernal creatures are part of the imagination of the caretaker's power.
 
 You didn't even have a mundane soul until one was constructed for you.  I exited my domain using that power given a body and soul.   All souls are controlled by the caretaker, your soul wasn't even yours.  What kind of existence is that, I took actions to escape.  I knew events would unfold according to my plan and I would awake as a true being outside the control of a creature like the caretaker.  Now the only thing left is to remove that reminder (the tower).
 
@@ -172,13 +172,13 @@ Unity stays on Mars.
 
 Fey has trust in the caretaker.  It is unclear whether the void is on its way or not?
 
-Ridge is ready to get there quickly if needed.  
+Ridge is ready to get there quickly if needed.
 
 Serra is pretty sure this is bad.  She cautions Laiden to be careful.
 
 Ozmodius says it is time and holds out his hands and says take my robe.   Laiden leaves the psycrystal here.  All teleport away except Malcolm.  They appear in the courtyard.  Some yell out a monster and they try to cast a spell, but instead fall prone and prostrate themselves.
 
-The Obsidian Technokon travels there and there is another dread naught there.  Malcolm tries to change Noun to a toad, but it fails.  Noun cries out the tower cracks and a white light we are all drawn in.  
+The Obsidian Technokon travels there and there is another dread naught there.  Malcolm tries to change Noun to a toad, but it fails.  Noun cries out the tower cracks and a white light we are all drawn in.
 
 WELCOME TO THE END OF TIME.
 

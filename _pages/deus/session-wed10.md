@@ -27,7 +27,7 @@ The group senses that what he's said is partially true and perhaps he is exagger
 
 Scrawny little guy pats each person down for weapons and takes those and any bags, throwing it in a pile.  He shouts down the hall, and other pirates bring Ridge's five adult relatives onto Perseverance's air lock (a mix of pirates and hostages).
 
-Andrew telepathically asks the hostages if they are okay.  Andrew senses that they are lightly traumatized, but not significantly injured.  It is confirmed they were been injected with something.  None of them have seen the missing two children.  
+Andrew telepathically asks the hostages if they are okay.  Andrew senses that they are lightly traumatized, but not significantly injured.  It is confirmed they were been injected with something.  None of them have seen the missing two children.
 
 "This is how it is.  Every thirty seconds they need to be sent a signal or they die.  You need to do everything we want you to do or they die.  All it takes is a push of a button and they die", Dorian says pointing to a large red button in the hanger bay, "As a sign of good faith I give you these five.  The children are being kept just to make sure you aren't lying or tricking us."
 
@@ -77,7 +77,7 @@ Dorian orders Laiden to snag a bunch of quantum manipulators from the Perseveran
 
 Noun pull out a hologram projector from his bag.  Dorian notices Noun's bag roots around in it.  All sorts of stuff is in the bag.
 
-Dorian punches Noun in the face and turns the bag inside out.  
+Dorian punches Noun in the face and turns the bag inside out.
 
 All the stuff is taken, things are going bad.  Trenton's awesome rail gun is picked up by a guard.  Hostages are escorted out.
 
@@ -87,11 +87,11 @@ Dorian wants a quantum manipulator from perseverance (removed), but Ridge wants 
 
 Strife sends a video feed of the children in one room (10 foot cell of some sort).  How do we know it is real?  The woman is Strife.  Ridge relays a question to them about how they got a scar.  The child answers correctly.
 
-Laiden, Ridge and Malcolm go with 5 guards to remove quantum manipulators.  Laiden goes to his room and gathers tools.  Laiden drops a towel on the duffel bag.  
+Laiden, Ridge and Malcolm go with 5 guards to remove quantum manipulators.  Laiden goes to his room and gathers tools.  Laiden drops a towel on the duffel bag.
 
 Malcolm summons 5 invisible stalkers, Aunt Ridge says grab the towel we're outta here. All teleport to the other ship.
 
-The teleport fails.  Folks wonder what happens.  
+The teleport fails.  Folks wonder what happens.
 
 One of the guards is confused by Malcolm's momentary blink-out. &quot;You're full of shit, I'm telling Ponce (Dorian).&quot;  Ponce says someone just tried something, that's it, he pulls out a detonator device, hits a button and... all of the pirates die! Dorian does not die, but drops to the floor convulsing in agony.
 

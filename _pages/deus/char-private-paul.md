@@ -20,7 +20,7 @@ Give money to a beggar on the street?
 If he knew said beggar was there, yes.
 
 Seek vengeance if wronged?
-Doubtful. 
+Doubtful.
 
 Steal if he thought he could get away with it?
 No. It's hard enough to get by without committing a felony. And what kind of example would that be?
@@ -52,8 +52,8 @@ Technology is more dangerous than mystic energy, and is more likely to destroy u
 
 ---------------------------------------
 
-Details re. character sheet: 
-Traits: 
+Details re. character sheet:
+Traits:
 Torpid: +1 vs. enchantment, -2 init
 Slow: +1 Vit pt. per level, 1/2 speed
 Polite: +1 Diplomacy, -2 intimidate
@@ -68,9 +68,9 @@ Poor Reflexes: -1 mp (-3 to ref save)
 Shaky: -1 mp (-2 on all ranged attack rolls)
 Unreactive: -1 mp (-6 to initiative)
 Vulnerable: -1 mp (-1 AC)
-Dex of 8: -2 mp 
+Dex of 8: -2 mp
 Human: (Effectively) -3 mp
--17 mp 
+-17 mp
 
 Merits:
 Unseen Servant at will: +8 mp
@@ -95,7 +95,7 @@ Paul's feat
 Yes, the total is 24. I have six more points. Not sure where I want them.
 
 
-Sheet: 
+Sheet:
 Andrew: Dedicated 1
 Str: 10 (0)
 Dex: 8  (-1)
@@ -117,7 +117,7 @@ Skill points: 7*4
 Starting Talent: Empathy
 Starting Occupation: Doctor (Knowledge: Behavioral Sciences, Treat Injury) +4
 
-Skills: 
+Skills:
 Knowledge: Behavioural Science: 4+2+1+2
 Knowledge: Earth and life sciences: 2+2+2
 Treat Injury: 4+4+1

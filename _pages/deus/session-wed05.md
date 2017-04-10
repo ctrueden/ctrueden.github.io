@@ -29,7 +29,7 @@ It does not feel anger towards the Order of Luna, rather it feels disappointed t
 
 The greatest weakness in the caretaker's plan is the potential of Cain's merging with Luna resulting in something sinister.  It is powerful enough to defeat this new force, but that wouldn't matter as the void would destroy everything if this happened.
 
-The Royals were created by the caretaker in its image.  
+The Royals were created by the caretaker in its image.
 
 The caretaker tells of another ship that can move at speeds faster than light that could track and reach the rogue planet.  The only lead to find this ship is through William Moss who has gone into hiding.
 
@@ -53,7 +53,7 @@ Luna understands that the caretaker's plan for her.  She conveys "not the bad ma
 
 Fey explains a force worse than Cain, the void.  Luna goes in a "fetal position and cries", mumbling over and over again, "make the bad things go away".  Fey shares happy emotions and beautiful natural images, but is pulled away by the pixies.  The weather on the moon has turned dark and stormy.  The pixies angrily say to get out and not to ever come back.  Fey apologizes saying she didn't know Luna didn't know about the disappearance of the planets.
 
-Serra researches moving at speeds faster than light using data the caretaker sent.  Malcolm runs more training exercises.  Laiden and Malcolm fence.  
+Serra researches moving at speeds faster than light using data the caretaker sent.  Malcolm runs more training exercises.  Laiden and Malcolm fence.
 
 A day later, early Thursday June 22, Serra engages the now perfected phasing technology to reaching the sun's "ground".   Serra has anomalous readings while the crew feels a connection to something enormous, not the Sun.  A voice groans to our souls, "WHY ARE YOU HERE?"
 

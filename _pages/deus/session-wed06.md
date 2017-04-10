@@ -8,9 +8,9 @@ category: deus
 
 Traveling to Luna Space port, Fey contacts Llana to investigate what happened to the souls from the sun.  Noun emerges from his room with a foot tall animated sculpture of a man with a carved wooden face and metallic limbs named Pronoun whose purpose is to be Noun's friend and act as Noun's translator.  Laiden calls ahead for an antimatter recharge.
 
-Perseverance lands at an UNF space port, where a team of mystics immediately begin weaving a web of mystic energy around the ship so that it can be ported.  Noun etches some of these patterns on the ship using &lt;some unknown tool&gt; - this was going to be one of his tools, but the hardness of the ship is really 40, not 10.  Admiral Rossner comes aboard to recharge the antimatter chamber and for a briefing.   
+Perseverance lands at an UNF space port, where a team of mystics immediately begin weaving a web of mystic energy around the ship so that it can be ported.  Noun etches some of these patterns on the ship using &lt;some unknown tool&gt; - this was going to be one of his tools, but the hardness of the ship is really 40, not 10.  Admiral Rossner comes aboard to recharge the antimatter chamber and for a briefing.
 
-Laiden watching this recharging process sees Rossner use an unfamiliar form of creation magic of modest intensity.  It is obvious that Rossner has done this many times in the past.  
+Laiden watching this recharging process sees Rossner use an unfamiliar form of creation magic of modest intensity.  It is obvious that Rossner has done this many times in the past.
 
 At the briefing, Rossner informs the group that the UN has come up with some ways to counteract the gravitational distortions they witnessed at the rogue planet.  The UNF Reliant has been attempting to use this to land on the planet, but the planet has some sort of defense which throws ships back out.  The hope is that Perseverance's abilities may allow it to land.
 
@@ -23,7 +23,7 @@ The web around the ship is complete after half an hour and the Admiral transport
 General Kangi Ti is the 10 ft tall soulmech with chain guns for arms that runs this planet.  Ridge recalls that he was built around the same time as she was, although he went a different route.  The General has given his permission for this mission, but it otherwise engaged in what is alluded to as war preparations against the rogue planet.  The trip to meet up with the Reliance near the rogue planet will take four hours.
 
 ## On the way to Dragon World
-Serra suggests a few alterations to Ridge's plan for landing on the rogue planet, making liberal use of yellow and red flags denoting her suggestions.  Noun attempts to show Trenton his destiny by cutting into his arms, installing wires, and spraying LCD on his other arm.  
+Serra suggests a few alterations to Ridge's plan for landing on the rogue planet, making liberal use of yellow and red flags denoting her suggestions.  Noun attempts to show Trenton his destiny by cutting into his arms, installing wires, and spraying LCD on his other arm.
 
 Laiden and Ridge significantly modify Serra and Perseverance.  The Miller2 Algorithm is moved from Serra to Ridge, some of her LORE safety measures are bypassed, Laiden and Ridge are given direct control of the ship, Serra no longer can control the droids, and who knows what else?
 
@@ -87,7 +87,7 @@ Io interjects with, "I see", all fall silent "This information is very useful.  
 
 Jawzahr admits the attack on Percepi was their fault because the Beast followed them there, but they will now avoid terrans and their territory.
 
-The wyrms are told the caretaker believes the beast can be defeated.  The council dismisses this as incorrect and closes the discussion.  Pronoun speaks up, "Says I don't want to ruffle any feathers, but I think you're all wrong.  Obviously the void can be resisted as I'm here now."  Io states his purpose is to protect this planet and the destruction of Earth is not their concern.   
+The wyrms are told the caretaker believes the beast can be defeated.  The council dismisses this as incorrect and closes the discussion.  Pronoun speaks up, "Says I don't want to ruffle any feathers, but I think you're all wrong.  Obviously the void can be resisted as I'm here now."  Io states his purpose is to protect this planet and the destruction of Earth is not their concern.
 
 Ridge asks whether dragons were taken from Earth.  Io can hardly remember so long ago.  The beast came to paradise and they had to run, but that is now antiquated.  Glaurung is now their home, so Earth is on its own.  Io is bittersweet, still caring, but not enough to help.
 
@@ -99,10 +99,10 @@ The dragons see technology as an eccentric hobby since magic is vastly superior.
 
 Ridge disappointedly learns that the moving faster than light is through the will of Glaurung using displacement magic.
 
-Andrew talks about curing diseases and tries to give Jawzahr a hypospray, but Tiamat incinerates it and are promptly told to leave.  The group leaves the planet and docks with Reliant.  
+Andrew talks about curing diseases and tries to give Jawzahr a hypospray, but Tiamat incinerates it and are promptly told to leave.  The group leaves the planet and docks with Reliant.
 
 ## Undead Symposium (:evil:)
-Ridge turns over transcripts to Admiral Rossner.   He doesn't believe Glaurung is a threat as long as the dragons follow their word. 
+Ridge turns over transcripts to Admiral Rossner.   He doesn't believe Glaurung is a threat as long as the dragons follow their word.
 
 Noun hears the fear and hatred of the void screaming his name.  Everyone else feels the void's signatures mix of pain, hatred, and fear for a moment and then subside.  Looking out the window, the Glauring is gone.  It only took the void 14 hours before to appear and it is hypothesized that in the future it would take less time.  Perseverance heads to Lupis to make sure it is still okay.
 

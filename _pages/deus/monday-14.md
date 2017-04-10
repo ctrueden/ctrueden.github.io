@@ -28,7 +28,7 @@ This will be played very loose, but basically, if they manage to track down Cain
 * Josef Derrota -- recently joined Boris's organization; covertly working to topple his brother's empire
 * Lincoln Evans -- Samoan drug dealer; big muscly guy, wears lots of jewelry; crosses his arms a lot; outgoing, says &quot;Ayup&quot; and &quot;Nope&quot; a lot in his deep voice
 * Norris Harrison -- runs the &quot;pawn shop&quot; (huge block of warehouses; largest concentration of stolen goods in the galaxy); wears a felt hat over his shaved head and constantly adjusts it; reserved, says &quot;Hmm&quot; and &quot;I'll see what I can do&quot; a lot
-* Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot 
+* Felicia Worthington -- a fence, and one of Boris's informants; plump woman with a mohawk and lots of cybernetic body art; fidgets constantly, probably on drugs; rude, says &quot;Fuck off&quot; and &quot;I ain't payin' for that&quot; a lot
 * Maxim Signaevsky -- __TODO__ WTF was this guy's purpose? If you need a quick name, go ahead and use it
 Won a hot dog eating contest in 2287, likes cheap whores.
 

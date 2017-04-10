@@ -7,13 +7,13 @@ category: deus
 ### 1st Session
 There seems to be another virus going around.  It looks like just a proof of concept virus, all for show.  It also targets a known and patched vurlnrability, which means it could be a virus writer in training, or someone wishing to highlight the need to stay current.  Either way, my equipment is safe, but I should look into this later to find the source of the virus.
 
-My arm fell asleep while reseaching this virus.  Of course I didn't know what the problem was at the time.  I made an appointment go to the school's clinic to check it out.  
+My arm fell asleep while reseaching this virus.  Of course I didn't know what the problem was at the time.  I made an appointment go to the school's clinic to check it out.
 
 Before leaving I experienced a strange and powerful feeling of loss.  I cound't find any results at the time, but later I found out that the &lt;insert name of colony&gt; vanished or was destroyed.  I don't know any details other than the same feeling was reportedly felt by a group of survivors which just left the colony.  I have no idea why I felt this, or if anyone else had.  I'll have to keep an eye on this.
 
 I caught a cab to the clinic, but for some reason it dropped me off in back of the clinic.  It didn't want to take me to the front.  I started to walk to the back door to knock on it, rather than find my way to the front.  I made it to the stairs leading to the door, when it burst open and a young woman ran out.  She was being chased by three andriod guards.  They fired at her, and one should have hit, but she had an effect which deflected the shot around her.  She also caused them to disappear, and reappear later falling to the ground.  There was also a building noise behind me, but I didn't look to see what it was.
 
-Her effects seemed similar, but inverted from what I do.  I tried chasing after her, but there was no way I could keep up.  When I was chacing after her, I was hit with a sudden dizzying headache.  I finished making my way accross the street to sit down for a minute.  
+Her effects seemed similar, but inverted from what I do.  I tried chasing after her, but there was no way I could keep up.  When I was chacing after her, I was hit with a sudden dizzying headache.  I finished making my way accross the street to sit down for a minute.
 
 While I was sitting there, this strange man came up to me and asked me if I knew who he was.  I haven't met him before.  He seemed really confused.  He thought that maybe he caused the guards to disappear up into the sky, but I thought it was the girl that caused the effect.
 
@@ -35,8 +35,8 @@ Questions:
 1. Who was chacing after the girl, and why?
 1. What all can this survailence system do?
 
-### 2nd Session 
-The taxi dropped me off by the arobreetum.  I quickly found the group of people who had run out of the clinic.  They were also looking for the girl (jasmine Devide).  Apparently she was the one who kidnapped the professor.  I reviewed the survailence records to see that she did in fact do it.  I also found out there she had just ported into town the day before.  We met up and got a small change to talk to her.  She pulled the same teleporting trick with several of the party members as she did with the guards leaving the clinic.  The ghost played like he was someone important, and Jasmine responded to that.  We found out that she was doing the job for Strat-Co, and they were hoping to pin it on Magitek.  She handed over a data crystal to us.  I 'messaged' her and she reponded when she was leaving.  She emailed me her contact info, and she left.  
+### 2nd Session
+The taxi dropped me off by the arobreetum.  I quickly found the group of people who had run out of the clinic.  They were also looking for the girl (jasmine Devide).  Apparently she was the one who kidnapped the professor.  I reviewed the survailence records to see that she did in fact do it.  I also found out there she had just ported into town the day before.  We met up and got a small change to talk to her.  She pulled the same teleporting trick with several of the party members as she did with the guards leaving the clinic.  The ghost played like he was someone important, and Jasmine responded to that.  We found out that she was doing the job for Strat-Co, and they were hoping to pin it on Magitek.  She handed over a data crystal to us.  I 'messaged' her and she reponded when she was leaving.  She emailed me her contact info, and she left.
 
 I traded her contact info for a chance to read the data crystal.  The info on the data crystal could be used to allow everyone to be a mystic.  I hope this is used to level playing field socially for everyone, and not used by one corporation to gain more power and become more oppressive.
 
@@ -46,21 +46,21 @@ It starts to get late, and I try to leave to get some sleep, but there is some r
 
 We met William Moss hiding in a hidden room in the forest.  Moss was inside along with a pale women waring black.  He called her Angeleque.  As we arrive, Moss dismisses her, and she disappears.
 
-We learn that Moss has been involved in some sort of research since leaving Magitek.  He thinks the professor has been warded against mystic divination.  Zee mentions that he's at Glacialis, but how he knows that is beyond me.  
+We learn that Moss has been involved in some sort of research since leaving Magitek.  He thinks the professor has been warded against mystic divination.  Zee mentions that he's at Glacialis, but how he knows that is beyond me.
 
-Moss tried to get Zee to stay with him, and said he place was safe just before getting hit with a dart in the neck.  Whatever did it managed to get away.  Remember never to mention some place being safe.  He recovers, resets his doorway, and gets Zee to agree to stay with him.  
+Moss tried to get Zee to stay with him, and said he place was safe just before getting hit with a dart in the neck.  Whatever did it managed to get away.  Remember never to mention some place being safe.  He recovers, resets his doorway, and gets Zee to agree to stay with him.
 
 While we were there, we discussed the kidnapping.  The question of how many data crystals there were came up.  I mentioned that she created two data crystals.  I saw this from the city-wide survailence system.  I wanted to add soemthing to the conversation to prove that I was useful.  Ariana was bugging me about how I knew that, and said that there were no cameras in the lab.  She had every reason to expect that this was true, but all I told her is I caught it on the survalence network.
 
 Someone (me?) mentions the fate of the Percepi colony.  I also mention the feeling of sadness that was reported shortly after.  Moss is distressed at the news and we all leave (except for Zee).
 
-6 days pass.  This gives me time to look up additional data on Moss, Ron Davis, and the other party memebers.  I create a new identity for Jasmine, and present it to her on our date on Tuesday.  I also try to make more progress into StratCo's netowrk.  
+6 days pass.  This gives me time to look up additional data on Moss, Ron Davis, and the other party memebers.  I create a new identity for Jasmine, and present it to her on our date on Tuesday.  I also try to make more progress into StratCo's netowrk.
 
 Somehow, we're trying to plan how to get the professor back from Glacialis.  All I could do to help would be to gain information, and possibly access to their network.  We'll see how that goes.
 
-We get called back my Moss.  Moss holding a metal hand, an unconscious man, a creepy droid, but no Zee. The ghost stares at the unconscious man, yells, "You bastard!"  
+We get called back my Moss.  Moss holding a metal hand, an unconscious man, a creepy droid, but no Zee. The ghost stares at the unconscious man, yells, "You bastard!"
 
-Misc notes on observations.  
+Misc notes on observations.
 
 Jon's character appeared out of nowhere in the lab.  Jasmine created two data crystals.  One is with us, the other I would guess is with Strat-Co.  Room 101 in the basement in the clinic isn't part of the survailence network, and doesn't always seem to even be there.  This is where Jasmine met Ron Davis(at least he ordered the kidnapping, I don't know 100% that he was in room 101 at the time) from Strat-Co.  She three guards that chanced her out of the clinic came from this room as well.
 
@@ -75,7 +75,7 @@ I started working my way into Stract-Co's network.  I found the main communicati
 Ron Davis is a 'Mystic Consultant', and lives in Germany.
 
 Questions:
-1. What happened to Percepi?  
+1. What happened to Percepi?
 1. What happened to Mercury?  It's still physically there, but there's no responce.
 1. Who is the ghost?  Who is the man on the table, and how are they related?
 1. How are we going to get the professor back?
@@ -112,9 +112,9 @@ We raided Magitek!  We actually went through with it.  It didn't turn out as wel
 
 As of my last entry, we were verifying the will of the caretaker.  I got in contact with a Professor Almorad at a syberian university, who is also a member of the order of gaea.  I arranged a meeting with him, but found him after one of his classes instead.  Couldn't wait until tomorrow.
 
-We met with him and he introduced us to a guide who would take us to a village of the order.  It was quite a long hike, but worth it.  The village was quite something, being mostly natural in it's make-up.  Molded perhaps, but still amazing. 
+We met with him and he introduced us to a guide who would take us to a village of the order.  It was quite a long hike, but worth it.  The village was quite something, being mostly natural in it's make-up.  Molded perhaps, but still amazing.
 
-We had a little chat with their leaders about talking to the Caretaker.  After some deliberation, they actually agreed to let us contact the caretaker.  
+We had a little chat with their leaders about talking to the Caretaker.  After some deliberation, they actually agreed to let us contact the caretaker.
 
 We all huddled around a tree, touching it and holding hands.  We were now in communication with the Caretaker.  I can't really describe the awe, or the expererince, but I don't think I'll ever forget it.
 
@@ -124,7 +124,7 @@ Another thing that I was 'told' was that I had the most potential of anyone the 
 
 After this we went back to the ship, back to Pax, and raided Magitek.  We were provided with the 'assistance' of several vampires.  They would be useful in carrying the chamber, but are probably more trouble than they're worth.  We also brough some mechanical exo-skeletons to help with the load.  Unfortunatly I couldn't get close enough to help carry it without feeling really ill.
 
-So on to the break in.  I managed to get into their network and remotely shut down any automated security.  I was also able to open the doors on B7 to allow other people in.  There was a lot of discussion, and a lot of activity, a captured girl, some barriors protecting Cain and one other body.  Don't know who that was.  I was also involved with dropping the barriors, just to Cain though.  
+So on to the break in.  I managed to get into their network and remotely shut down any automated security.  I was also able to open the doors on B7 to allow other people in.  There was a lot of discussion, and a lot of activity, a captured girl, some barriors protecting Cain and one other body.  Don't know who that was.  I was also involved with dropping the barriors, just to Cain though.
 
 We ran into the head of Magitek on our way out.  I guess we weren't completely unnoticed.  She agreed to let us go as long as we asked Moss to vacate the grove.  She didn't approve of his actions, and wanted him out.  We agreed to ask him.  I hope he abides by her wishes, I don't want to get in the middle of that fight.
 
@@ -141,9 +141,9 @@ We made it out of Magitek with Cain.  I wasn't feeling all that well, so I kept 
 
 We made it near the grove.  I was hanging back with Nikoli as neither of us wanted to be that close.  Dee noticed someone hiding in the area.  I patched into the observations through my gateway to see what was going on.  We tried to direct the vampires at the intruder, but to no avail.  Someone opened the door and she zipped right in.  Apparently this was the great Everlilly Nix.
 
-I hang back with Nikoli, while everyone else goes in to see moss.  Now it seems obvious what happened inside, but that's only in hindsight.  Nix wanted to stop Moss, and insisted on staying through the procedure.  Moss insisted on performing the procedure.  They released Cain, and started the ritual.  The vampires were encouranged by this and attacked moss.  A brawl breaks out.  I tried to interfere with one of the vampire's computers.  My intrusion was spotted by Dee.  I really need to cover my tracks a little better.  
+I hang back with Nikoli, while everyone else goes in to see moss.  Now it seems obvious what happened inside, but that's only in hindsight.  Nix wanted to stop Moss, and insisted on staying through the procedure.  Moss insisted on performing the procedure.  They released Cain, and started the ritual.  The vampires were encouranged by this and attacked moss.  A brawl breaks out.  I tried to interfere with one of the vampire's computers.  My intrusion was spotted by Dee.  I really need to cover my tracks a little better.
 
-Next thing I know there's a loud crackling sound and I'm in a lot of pain.  Nikoli is feeding me some OJ, which helps a little bit.  
+Next thing I know there's a loud crackling sound and I'm in a lot of pain.  Nikoli is feeding me some OJ, which helps a little bit.
 
 I'm not sure what happened in the mean time, but it doens't look as if things went according to plan.  Moss teleports all of us to Lunar City, where he agrees to stay with us.  Dee was tracking Cain.  Apparently he was shot off the moon and twords mars.  Also, now that he's more awake, Moss's ritual won't work.  The only way to get it to work would be to try and knock cain out again, so that we can try again.
 
@@ -154,11 +154,11 @@ So the search begins...
 ### 6th Session
 I really like instant space travel.  I should look into it more.  Granted it takes almost a day of calculation by our supercomputer of a ship, but still, being able to go anywhere nearly instantly is awesome.
 
-Our quest for the legendary weapon took us from earth, to the outer reaches of known space, back to earth, back to the outer reaches of known space, and back to earth again.  
+Our quest for the legendary weapon took us from earth, to the outer reaches of known space, back to earth, back to the outer reaches of known space, and back to earth again.
 
 We had two possible leads.  The most probable was with a gnome named Xela.  Our only possible contact with her was through the Ghost's real life family.  He had an appointment to meet with his father for the first time since he died in serveral days time.  Since we had time to kill, we followed up on our other lead, a couple of 'antique' dealers on Canis.  The Volokhov brothers.
 
-The 'trip' to Canis was our first instant travel ride.  It imparts a strange sensation, but only for a moment.  Once we arrived I had to hack the flight management system to create an entry so that we could land.  We were on shore leave from a long survey mission.  
+The 'trip' to Canis was our first instant travel ride.  It imparts a strange sensation, but only for a moment.  Once we arrived I had to hack the flight management system to create an entry so that we could land.  We were on shore leave from a long survey mission.
 
 We road around town for a while just wasting time.  We tried to talk to them, but they wouldn't bother unless we had an item of value.  We had several items from Magitek, primarily a lantern with 4 sides, and multipe color filters that could be installed.  Nikoli played around with this on the ship, and even broke one of the filter panels.  Even broken, this item was suitable for the audiance.
 
@@ -166,7 +166,7 @@ They didn't have it, or any real leads either.  They couldn't fix the color filt
 
 We return to earth.  The ghost visits his family and brings with him Harry Bryant.  He was involved with bringing the hand of Cain to 'Crazy Pete' in the first place.  He has had dealings with Xela, and helps us get straight to Midgard to see her.
 
-I stay behind in Dee, watching, while the rest of the party goes to Midgard.  Bryant suggests teleporting dirctly there, otherwise the elevator will take too long.  The party arrives, gets accosted by dwarves, sees a strange blue creater, and meets this Xela.  Initially she doesn't want to help us, but after some convincing, she sees the benefit of both the trade, and in having us deal with Cain.   
+I stay behind in Dee, watching, while the rest of the party goes to Midgard.  Bryant suggests teleporting dirctly there, otherwise the elevator will take too long.  The party arrives, gets accosted by dwarves, sees a strange blue creater, and meets this Xela.  Initially she doesn't want to help us, but after some convincing, she sees the benefit of both the trade, and in having us deal with Cain.
 
 Xela commented the lantern was easily fixed, and tried to play with it.  It shown some strange ligh, and several party members went momentarily crazy, but were easily subdude by the dwarven guards.
 
@@ -184,19 +184,19 @@ Questions
 5) How does Dee travel instantly, what calculations are involved.  I'll have to ask him about it.  Maybe analize the program that does the calculations.
 
 ### Seventh Session
-As a group, we've been through a fair amount.  We've talked to the Caretaker, we'v infultrated Magictek to retrieve the body of Cain.  We met the former head of Magitek, and traveled to distant reaches of known space in an instant.  I was almost killed by a ligntning bolt during the attempted ritual to clense Cain of his taint.  So we've been through quite a bit.  
+As a group, we've been through a fair amount.  We've talked to the Caretaker, we'v infultrated Magictek to retrieve the body of Cain.  We met the former head of Magitek, and traveled to distant reaches of known space in an instant.  I was almost killed by a ligntning bolt during the attempted ritual to clense Cain of his taint.  So we've been through quite a bit.
 
 The group is made up of quite a wide array of people, from various backgrounds.  I can't say I know too much about any one of them, but I still feel some kinship twords them.  I'm not quite sure how to deal with Thorp's demise.  I guess this is the real world, and in the real world, people die and don't come back.  It' not just a game, there are real stakes.  I don't know what caused Xela to disintigrate him.  Apparently there was some past between them, and it finally caught up to him.  I'll need to be careful of any enemies I make along this path.  I don't think anyone hates me enough to kill me yet.  Most of my adversaries are in VR, where the stakes aren't quite so high (and most of them would have a hard time taking me down anyways).
 
-I wish I could say something kind about Thorp, but I didn't really know him well at all.  He supplied mystic enhancing drugs to Moss.  I guess without Thorp, we might not have met Moss, and who knows if we'd still be on this adventure.  
+I wish I could say something kind about Thorp, but I didn't really know him well at all.  He supplied mystic enhancing drugs to Moss.  I guess without Thorp, we might not have met Moss, and who knows if we'd still be on this adventure.
 
-Well Thorp, I hope it was worth it, and I hope you have better luck in whatever place you're in now.  
+Well Thorp, I hope it was worth it, and I hope you have better luck in whatever place you're in now.
 
 
 
-After getting the sword we quickly returned to Dee.  Then we were off to get the crown.  We had to deal with the Volokhovs.  Ariona and Nikoli went to do the wheeling and dealing.  I broke into their network to view their transaction records.  After finding them I relayed them to Ariona to use in the transactions.  I provided a visual feed for everyone else. 
+After getting the sword we quickly returned to Dee.  Then we were off to get the crown.  We had to deal with the Volokhovs.  Ariona and Nikoli went to do the wheeling and dealing.  I broke into their network to view their transaction records.  After finding them I relayed them to Ariona to use in the transactions.  I provided a visual feed for everyone else.
 
-With Meechum's help, we gathered the trade items from Bryant's stash to take to the Volokhovs.  Having a huge thing like Meechum is a good way to get people to leave even someone like me alone with a fair amount of treasure. 
+With Meechum's help, we gathered the trade items from Bryant's stash to take to the Volokhovs.  Having a huge thing like Meechum is a good way to get people to leave even someone like me alone with a fair amount of treasure.
 
 On the way there, Meechum explained that there were two personalities in the body, Meechum and Divin.  Divin is the 'Normal' person, and Meechum is more primal or simple.  They apparently switch every few minutes.  Before Divin could exurt more control.  I don't know what caused this to change, maybe it's the changes to his body, or maybe it's being around some of us who seem to exude strange auras.
 
@@ -204,7 +204,7 @@ Transaction complete, there was more drama on the ship.  Nyx began this journey 
 
 We were on our way back to Earth when we first heard about the trouble on Mars.  By the time we made it to Mars, chaos was in full swing.
 
-Dee starts coodrinating the resistance efford, but they face and ever growing army of undead.  It seems that most (if not all) who fall end up joining the undead.  
+Dee starts coodrinating the resistance efford, but they face and ever growing army of undead.  It seems that most (if not all) who fall end up joining the undead.
 
 The rest of the party spends some time getting buffed by Moss.  As we are about to leave, a dozen or so zombies appear on the ship.  I turn my self invisable and leave the room.  Monitoring it from a safe distance sounds like a much better plan.  It looks like Ariona tried to use the circlet, but to no avail.  Battle begings, but my attentions are drawn elsewhere.
 
@@ -237,9 +237,9 @@ The other ship is identified as the ``Perseverance,'' and claims that they were 
 
 I infultrate their network to find information to send to Dee.  After some discussion with the other ship, we find out the following:
 
-* Sarah (the other ship), is from the same program as Dee. 
+* Sarah (the other ship), is from the same program as Dee.
 * Sarah may have a more current version of software that could be used by Dee.
-* Dee has a flaw in his Lore chip that needs to be compensated for first, before he can install the update.  
+* Dee has a flaw in his Lore chip that needs to be compensated for first, before he can install the update.
 
 Six individuals appear in DEE's Cargo Bay Three, this time non-magically. They introduce themselves as Trenton Vernor, Laiden Rahu, Fey Arius, Dr. Andrew Peters, and Noun and Pronoun.  On the other ship, Malcolm Biggs, Ridge, and Admiral Rossner remain on the bridge. They are able to hear and be heard by the others through the link between DEE and Sarah.
 
@@ -251,7 +251,7 @@ We have the threat of the anti matter core affecting the Heart Tree on Mars, whi
 
 My biggest fear is that we will take the weapons to Cain, and then Cain will blow the Core, and survive.  This would leave him in possession of the weapons.
 
-The other ship will try to find the antimater core and destroy it with mystic magic.  This would go along way to eliminating that threat.  
+The other ship will try to find the antimater core and destroy it with mystic magic.  This would go along way to eliminating that threat.
 
 A group of us is expected to go and parlay with Cain.  The question is who, and how well armed.
 
@@ -262,7 +262,7 @@ Now, onto the exciting conclusion:
 ### Eighth Session
 After much discussion and confusion, several things are decided.
 
-- Bryant will visit with the caretaker.  Mini V and my dog went along with him.  
+- Bryant will visit with the caretaker.  Mini V and my dog went along with him.
 - The crown's a fake.  I think Bryant was going to take it up with the Volohkovs.
 - Nikoli will be taking the sword with him.
 - I would remain on Dee with Meechum.  My job is to coordinate.
@@ -275,7 +275,7 @@ The parlay group lands and 'Cain' wishes to resume talks with person he was comm
 
 Nix was found with some other zombies around where the core was hiding.
 
-Eventually Nikoli agrees to be bound, and is told to drink from a large zombie who just cut his hand.  Nikoli was about to hand the sword over to Dee, but Moss yells 'CUT HIM', and so Nikoli take a swing at the zombie.  Moss also lets out a huge wave of possitive energy that wipes out most of the undead.  It also affects the ship and me (well I can tell it was there, but it didn't do anything for me).  
+Eventually Nikoli agrees to be bound, and is told to drink from a large zombie who just cut his hand.  Nikoli was about to hand the sword over to Dee, but Moss yells 'CUT HIM', and so Nikoli take a swing at the zombie.  Moss also lets out a huge wave of possitive energy that wipes out most of the undead.  It also affects the ship and me (well I can tell it was there, but it didn't do anything for me).
 
 Dee lets me know that Meechum was badly hurt so I rush as fast as I can to where he is.  He was lying there with many cuts.  I poured some of the OJ on him, and it helped him out.  Malcom shows up shortly and tries to remove the taint from Meechum, but it doesn't seem to do the job.
 
@@ -343,7 +343,7 @@ I wrote a quick program for Nikoli's little computer to pass and check messages 
 
 Xela sent a dwarf to look after her interests.  I suppose we're obligated to appease her, since we are borrowing a major artifact.  Unfortunatly, the dwarf had some bad news.  Bryant had retrieved the crown, though his loyalty and motives are now in question.  No more details were forthcoming.
 
-Vitto push for using Bryant's stash to pay for upgrades to Dee.  I'm not big on spending someone else's money, even if it does aid a supposedly common cause.  If we were given permission to do so, it wouldn't be an issue.  Maybe this is just how the mob works.  
+Vitto push for using Bryant's stash to pay for upgrades to Dee.  I'm not big on spending someone else's money, even if it does aid a supposedly common cause.  If we were given permission to do so, it wouldn't be an issue.  Maybe this is just how the mob works.
 
 We did some tests with divination effects.  No one on the ship could break into my mind to read a number, which is good.  However that doesn't preclude anyone else from doing so.  It also seemed like it was blocked by Nikoli's abilities while I was possessing his computer.  These tests results were promising, but not conclusive, as other tests were not performed, such as testing against an unprotected digital system.
 

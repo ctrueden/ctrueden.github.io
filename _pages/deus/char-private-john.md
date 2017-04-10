@@ -109,9 +109,9 @@ Total (110 mp) (0 mp in Reserve)
 
 Level 12 (3 Fast Hero, 9 infiltrator)
 
-Selected class features: Evasion, Uncanny Dodge One, Personal Firearms Prof. (occupational), Stealthy (Bonus feat), 
+Selected class features: Evasion, Uncanny Dodge One, Personal Firearms Prof. (occupational), Stealthy (Bonus feat),
 
-Languages: English, 
+Languages: English,
 
 ## Nanite Powers
 The user has five slots for free. Using a standard action grants an additional five slots. No power may have more ranks than its prerequisite powers, and no power may have more than five ranks. Any power may function at a lower rank than maximum available when desired.
@@ -187,7 +187,7 @@ __Merit cost:__ 1mp per rank
 __Vitality cost:__ 1 vitality times the total cost (continuous)
 __Processing cost:__ 1 slot per rank
 __Cycle:__ Rounds
-__Effect:__ Certain forms of sensory input no longer detect the user. The forms affected are as given for Sensor Blind, 
+__Effect:__ Certain forms of sensory input no longer detect the user. The forms affected are as given for Sensor Blind,
 and the total cost is computed the same way.
 
 ### Collapsable Body
@@ -215,7 +215,7 @@ __Processing cost:__ 1 slot
 __Cycle:__ Minutes
 __Effect:__ Providing the surface has no special properties to counter the effects of this power, and the user has both his hands and feet bare, the user is considered to automatically pass all Climb checks, and may climb the surface at twice the normal rate (no need to look for hand holds). To use this power the user must be able to bring his toes and fingers in contact with the surface he is climbing.
 
-### MonoEdge sword 
+### MonoEdge sword
 __Description:__ The same nanite clusters that create the nano-fibers can also be programed to make larger,  and more complex structures.  In this case, they create a mono edged sword, essentially a blade with an edge one molecule thick.  Nanites that run along the structure can create further structures from available materials as the blade is used, creating fractal patterned barbs along the blade that cause further injury.  If the barbs, which are also approximately one molecule thick are given enough time to grow in complexity, they can increase the friction coefficient to the point where severed material superheats, becoming a plasma.
 __Merit Cost:__ 1mp
 __Vitality Cost:__ 4 vitality per level to create the blade, 2 vitality per level to maintain, (continuous)

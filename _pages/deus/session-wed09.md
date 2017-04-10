@@ -8,12 +8,12 @@ Serra reviewing the computer logs finds that an encrypted transmission was sent 
 
 Moss and Nix are unconsciously resting on the ship separately under video surveillance, with a droid as a sentry at each door, and Trenton walking the hall between them.  Dr Andrews occasionally goes in the rooms to medical monitor them.
 
-Andrew points out Moss took all of Cain's evilness.  He wishes everyone to consider finishing him.  The group wants to consult with the Caretaker first. 
+Andrew points out Moss took all of Cain's evilness.  He wishes everyone to consider finishing him.  The group wants to consult with the Caretaker first.
 
-Admiral Rosner, Laiden, Nix and Malcolm leave the ship to talk with the caretaker.  
+Admiral Rosner, Laiden, Nix and Malcolm leave the ship to talk with the caretaker.
 
 Learned from the Caretaker:
-The Caretaker assures everyone that what was done was a necessary step in saving the universe.  He expresses sorrow for what happened to William Moss.  His future is cloudy and could pose difficulties, but he can be saved depending on this group's and others' actions. 
+The Caretaker assures everyone that what was done was a necessary step in saving the universe.  He expresses sorrow for what happened to William Moss.  His future is cloudy and could pose difficulties, but he can be saved depending on this group's and others' actions.
 
 Moss now has the Cain's undead aspects; his soul can withstand the taint for at least months if not years, but will eventually submit to it if not cleansed.  Nix's undead taint is more typical of undead, where as Moss is now the source of undead.  Curing Nix will be just as difficult as during Moss.
 
@@ -34,7 +34,7 @@ Subjegated souls are considered alive?  Are they just parroting life or is it se
 
 Speak with these souls again?  It is reluctant, to let us.  If you speak to me again in two days time, currently they are being processed in a manner that they can't talk.  This processing will not change them, merely extracting a something from them (its like a foreign body- it won't really notice the difference, better or worse).
 
-The tree on the sun still thriving yes?  Limited time to examine it. 
+The tree on the sun still thriving yes?  Limited time to examine it.
 
 There is a structure of souls will be infused into Cain (that will happen as a mystic rite).  Crown of Nebacanezer is a major item that is needed to make this happen.  The crown's status is in flux, but all predictions that it will be in place as needed.
 
@@ -74,11 +74,11 @@ Lessons of Percepi?  What can the terrans learn?  Need to know more about the vo
 
 Noun says if we control time by our thoughts?  It is theorized that the dragon planet is changing time.
 
-Does the caretaker know this theory?  
+Does the caretaker know this theory?
 
 The dragon is receptive to talking with us?  To help us tell us what's going on?  Perhaps mystic energy does is realign possibilities, thus messing with the void.
 
-What happened at Percepi?  Unknown.  Infused 29 years ago?    His arch was completed?  Lots of traffic through the tree.  
+What happened at Percepi?  Unknown.  Infused 29 years ago?    His arch was completed?  Lots of traffic through the tree.
 
 The structure's status is unchanged.  Scanning surface shows no undead.
 
@@ -88,11 +88,11 @@ Recall that when undead is destroyed, its soul is cast into the sun.
 
 Rosner frees Ridge to vacation and he leaves to redevous with troops on the ground.  Wonders whether the caretaker can be trusted?  What's the point, we're screwed...
 
-Fey goes to Earth to get some things answered.  At Halfling village, they are going about their daily type things that they are doing.  Sledge is there, greets her.  Fey looks to speak with a knowledgeable ones on the undead.  Sledge scratches his head, you could ask some of the really smart people.  Serra Morningcrow (the founder of the Mars colony and a werewolf).  
+Fey goes to Earth to get some things answered.  At Halfling village, they are going about their daily type things that they are doing.  Sledge is there, greets her.  Fey looks to speak with a knowledgeable ones on the undead.  Sledge scratches his head, you could ask some of the really smart people.  Serra Morningcrow (the founder of the Mars colony and a werewolf).
 
 Selena Sharptooth, angry werewolf.
 
-Sandy haired Halfling says to try talking to the pixie (doesn't know much about him except he could drink Rufus under the table) that came back from Mars.  Rufus introduces himself. 
+Sandy haired Halfling says to try talking to the pixie (doesn't know much about him except he could drink Rufus under the table) that came back from Mars.  Rufus introduces himself.
 
 Rufus introduced her to Nash Mistletoe.  Fey and Nash have a rash, somewhat combative talks.  Undead on Earth have been quiet (mostly lurking).  They typically lurk, become a pain in the ass, and then lurk again.  Varies undead live in different places depending on their needs.  Give him the low down.
 
@@ -104,7 +104,7 @@ Fey talks with the caretaker.  Undead souls destroyed on Mars have gone back to 
 
 Fey tells us that we should get away from Mars to help Moss (they influence him badly).  Suggests we get the weapon and remove Moss' hand, heal him and them reattach it.
 
-Moss awakes and wants to know more.  Does he have a pull towards the undead?  He feels them and does not want to reach out and take them.  He says there is no pain.  Andrew Peters wonders what can do to help purify him?  
+Moss awakes and wants to know more.  Does he have a pull towards the undead?  He feels them and does not want to reach out and take them.  He says there is no pain.  Andrew Peters wonders what can do to help purify him?
 
 Moss will try what he can.  He's been studying the phenomena at great length.  He thinks it is still possible to do a real purification.  His sanctum is destroyed, but think he'll head back to Earth do his research there.
 
@@ -134,18 +134,18 @@ Noun creates Fey a flower that has a chair in it for when she is small.  Fey is 
 
 Laiden and Ridge have figured out some technology to send a small object far way (dimension door type ability).  Transporter.
 
-We cut our travel time from 4.5 days to 3.9 days.  
+We cut our travel time from 4.5 days to 3.9 days.
 
 Ridge puts together a electrical interference for mechanical eavedropping.  Dr Peters puts up a telepathic net for all of us.  Pronoun links directly up to Ridge.
 
 Day 2 -- 29-June-2299
-Based on datetimestamp we lost 12 hours.  
+Based on datetimestamp we lost 12 hours.
 
 Greater Scrying is noticeable, slightly.   Requiring a hard check.
 
 Noun connects to these guys out of the future and talks with them.  Find out they were kidnapped, on a ship and injected with a hypo-spray.  And he thought he heard a dwarf's voice.
 
-Moss activates Nix.  
+Moss activates Nix.
 
 Avorals find a business card, Serra senses this is where it came from.   Laiden examines the card and it says Dr Andrew Peters, superior homo sapiens.
 
@@ -159,7 +159,7 @@ Ridge does research on the card's technology.  The technology is pretty advanced
 
 Laiden wants to know how much he knows about genetics.  Dr Peters is evasive about the subject.  Sighing, he states he has at least competent of lower things.  He says that his limitations makes it so he can't do crafting.  Something isn't quite true...
 
-He claims his blindness causes the issue.  
+He claims his blindness causes the issue.
 
 Trenton spills the issue that we found a walking card.  Laiden taks the cover off the box and a card is walking around in the jar.
 

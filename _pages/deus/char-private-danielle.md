@@ -6,7 +6,7 @@ category: deus
 ---
 ## Concept
 
-A technodruid pixie who is a member of Gaia's Ancient Order. She became project manager or the creation of one of the new Great Forests being grown on the outlying colony worlds four years ago.  
+A technodruid pixie who is a member of Gaia's Ancient Order. She became project manager or the creation of one of the new Great Forests being grown on the outlying colony worlds four years ago.
 
 
 ## Questionnaire
@@ -38,16 +38,16 @@ What does your character think about the following statements (1=Strongly disagr
 
 ## Backstory
 
-Like any other Taigan Pixy I was born in the late frosts of early spring from a pod under the strong and slightly abrasive protection of the trees.  I was born to a very old and straggly Tamarack.  My childhood was fairly normal; I played with the others in the bogs and streams, and along the ice banks and mountain caves in the colder weather.  I was always more apt to spend long hours exploring the dark, cold tunnels under the waterfalls and deep in the crevices of the mountains.  Most of my siblings and kindred spirits much more enjoyed basking in the sun and playing tricks on the animals and members of our neighboring communities.  Don't get me wrong, I would have loved to play these tricks with them but I was born much more pale than even our fairest dew drops and my eyes were even without normal coloring.  My appearance seemed a bit unsettling and occasionally extremely alluring or interesting to many Terrans that I came across.  The thing that really changed my life was my eyes.  I always had problems with depth perception and things were generally hazy and sometimes totally indiscernable.  I had no where near the skill at flying as my siblings simply because I was so disoriented that I could not go anywhere unless I was assured by my kindred that there was a large open field that I wouldn't have to navigate, but those flights still ended in poor or even devastating landings.  
+Like any other Taigan Pixy I was born in the late frosts of early spring from a pod under the strong and slightly abrasive protection of the trees.  I was born to a very old and straggly Tamarack.  My childhood was fairly normal; I played with the others in the bogs and streams, and along the ice banks and mountain caves in the colder weather.  I was always more apt to spend long hours exploring the dark, cold tunnels under the waterfalls and deep in the crevices of the mountains.  Most of my siblings and kindred spirits much more enjoyed basking in the sun and playing tricks on the animals and members of our neighboring communities.  Don't get me wrong, I would have loved to play these tricks with them but I was born much more pale than even our fairest dew drops and my eyes were even without normal coloring.  My appearance seemed a bit unsettling and occasionally extremely alluring or interesting to many Terrans that I came across.  The thing that really changed my life was my eyes.  I always had problems with depth perception and things were generally hazy and sometimes totally indiscernable.  I had no where near the skill at flying as my siblings simply because I was so disoriented that I could not go anywhere unless I was assured by my kindred that there was a large open field that I wouldn't have to navigate, but those flights still ended in poor or even devastating landings.
 
-I always investigated plants and objects in great detail.  Even as my siblings were going off on their own paths and venturing farther from our village I was still maticulously discovering and putting to memory all of the elements of my surroundings that I could.  The elders could see that I had become quite fond of nature and her progression.  One warm day one of them told me that I should go see a friend of his in a larger village near the south edge of the forest.  I saw nothing to lose and, at the age of thirty-two, I had 'seen' as much of my portion of the forest as I thought I really could.  So I ventured to Xanadu and met Nexus Almorad, a quirky pixy who was so old that his wings were barely useful to him any longer, and his brain was becoming a bit absent as well.  All in all he was still a wealth of knowledge.  He had worked as a technodruid and was able to show me totally new aspects and advantages to methods of dealing with the forests.  I was useful to him; since even with my impaired sight I was still able to move around better than him and I could, though slowly, fly around to get needed samples and whatnot.  I worked and learned from him for nye on six years, and we became great friends.  
+I always investigated plants and objects in great detail.  Even as my siblings were going off on their own paths and venturing farther from our village I was still maticulously discovering and putting to memory all of the elements of my surroundings that I could.  The elders could see that I had become quite fond of nature and her progression.  One warm day one of them told me that I should go see a friend of his in a larger village near the south edge of the forest.  I saw nothing to lose and, at the age of thirty-two, I had 'seen' as much of my portion of the forest as I thought I really could.  So I ventured to Xanadu and met Nexus Almorad, a quirky pixy who was so old that his wings were barely useful to him any longer, and his brain was becoming a bit absent as well.  All in all he was still a wealth of knowledge.  He had worked as a technodruid and was able to show me totally new aspects and advantages to methods of dealing with the forests.  I was useful to him; since even with my impaired sight I was still able to move around better than him and I could, though slowly, fly around to get needed samples and whatnot.  I worked and learned from him for nye on six years, and we became great friends.
 
-Nexus saw that I was happy enough but he thought that we should use technology to live to our fullest extent.  He saw the limited ability of my eyes as an opportunity.  Eventually he found that one of his former students was fairly established amongst the medical community as well from all of her work with genetic engineering flora.  He and I went to visit her to see how her contacts might be able to rectify my eyes.  Elana Connendeol was a gorgeous, highly intelligent elfvan who was constantly studying new ways to engineer plants in the most efficient and natural ways as possible.  She was easily able to find a docor to perform a few minor surgeries on my retina, and optical nerve to enhance my eyesight to near normal.  (I am now able to see well in general, still and bit better at night, and I only have a little trouble when trying to focus on something fairly close while moving around at the same time.)  
+Nexus saw that I was happy enough but he thought that we should use technology to live to our fullest extent.  He saw the limited ability of my eyes as an opportunity.  Eventually he found that one of his former students was fairly established amongst the medical community as well from all of her work with genetic engineering flora.  He and I went to visit her to see how her contacts might be able to rectify my eyes.  Elana Connendeol was a gorgeous, highly intelligent elfvan who was constantly studying new ways to engineer plants in the most efficient and natural ways as possible.  She was easily able to find a docor to perform a few minor surgeries on my retina, and optical nerve to enhance my eyesight to near normal.  (I am now able to see well in general, still and bit better at night, and I only have a little trouble when trying to focus on something fairly close while moving around at the same time.)
 
 My new eyesight opened up a whole new apect of life to me and I started to explore in different ways.  Nexus was getting to old to carry on enough experiments to keep me busy and since I had already explored his region a great deal I stayed on with Elana for the next four years.  She taught me a great deal about the science and technilogical advances that had and could be utilized with flora, and fauna for that matter.  She expected a lot of dedication and hard work, as well as a sufisticated sort of maturity out of me.  I had little time to explore and enjoy the sights except when we were doing field work.  When we were finally done with a huge fern project that she had been working on I politely took leave of her to find my own path.
 
 I spent a few years exploring the far reaches of the forest and always practicing my manuverability and speed in flight.  I visited home and some of my kindred in their lives as well.  In melancholy reminicance of our childhood years I came to find how much fun I could still have tricking and testing people.  I also found that the arrows mentioned by my comrads in youth were indeed as much fun if not more than they made them out to be.  To have such range on trickery in amazing!
-My interest in plants was never questioned, and now animals were much more interesting, and observable than before, as well.  Through my travels I always took samples and did what I could to do various tests on them and their effects and abilities.  As a result, at the age of forty-eight, I found myself back in Xanadu applying at the university to study Botany.  
+My interest in plants was never questioned, and now animals were much more interesting, and observable than before, as well.  Through my travels I always took samples and did what I could to do various tests on them and their effects and abilities.  As a result, at the age of forty-eight, I found myself back in Xanadu applying at the university to study Botany.
 
 School was an absolutely wonderful place to start making up for lost time in trickery as a youth.  I also made many more friends than ever before.
 
@@ -91,19 +91,19 @@ Gaia's Ancient Order has long been affiliated with a secret organization known a
 
 Equally comfortable in urban and natural surroundings, the technodruids apply the scientific method to improve their natural surroundings responsibly, while honoring the tenets of Gaia to respect all life, be it natural, artificial, or somewhere in between.
 
-### Class Information 
-The following information pertains to the technodruid advanced class. 
+### Class Information
+The following information pertains to the technodruid advanced class.
 
-__Hit Die__ 
-The technodruid gains 1d8 hit points per level. The character's constitution modifier applies. 
+__Hit Die__
+The technodruid gains 1d8 hit points per level. The character's constitution modifier applies.
 
-__Class Skills__ 
+__Class Skills__
 The technodruid's class skills are as follows.
 Computer Use (Int), Concentration (Con), Craft (electronic, mechanical, structural, visual arts) (Int), Diplomacy (Cha), Handle Animal (Cha), Knowledge (earth and life sciences, technology, theology and philosophy) (Int), Mysticraft (Int), Navigate (Int), Profession (Wis), Repair (Int), Ride (Dex), Senses (Wis), Survival (Wis), Swim (Str), Treat Injury (Wis).
 
 The technodruid receives (5 + Int) skill points per level.
 
-### Table: The technodruid 
+### Table: The technodruid
 |__Class Level__ | __Base Attack__ | __Fort Save__ | __Ref Save__ | __Will Save__ | __Special__ | __Def. Bonus__ | __Rep. Bonus__|
 |1st|+0|+2|+0|+2|Animal companion, nature sense, artifice sense|+1|+2|
 |2nd|+1|+3|+0|+3|Wild empathy, machine empathy|+1|+2|
@@ -116,8 +116,8 @@ The technodruid receives (5 + Int) skill points per level.
 |9th|+6|+6|+3|+6|Wild shape (3/day), machina shape (3/day)|+5|+4|
 |10th|+7|+7|+3|+7|Timeless body|+5|+5|
 
-### Class Features 
-The following features pertain to the technodruid advanced class. 
+### Class Features
+The following features pertain to the technodruid advanced class.
 
 __Animal Companion:__ A technodruid may choose to befriend or construct an animal, taking it on as a companion. This animal is a loyal creature that accompanies the druid on her adventures as appropriate for its kind. Both organic and artificial animals are acceptable candidates. If an organic animal is chosen, the technodruid may implant cybernetic devices to protect her friend on their dangerous journeys. If her companion is an artificial animal, she may upgrade the robot's systems for its own protection.
 

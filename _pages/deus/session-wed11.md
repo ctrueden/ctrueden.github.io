@@ -20,7 +20,7 @@ We find cargo marked with the symbol of Arcadia on OT that is body parts from va
 This session took 32 hours game time, it is Wednesday July 3rd.
 
 ----------------
-Laiden sends streaming video to the rest of the crew of Ridge's relatives tearing wires out and smashing consoles in the computer control room.  Malcolm remains behind to watch Dorian, while the rest rush to join Laiden in stopping the destruction.  
+Laiden sends streaming video to the rest of the crew of Ridge's relatives tearing wires out and smashing consoles in the computer control room.  Malcolm remains behind to watch Dorian, while the rest rush to join Laiden in stopping the destruction.
 
 Laiden begins the smack down, punching them.  He returns ship function controls to Serra so she can patch the computers to speed up the calculations for phasing.  The ship rumbles as it shakes a little.  Serra informs everyone that a ship has docked with ours and Strife's ship is near by.  Malcolm learns from Dorian the ship docked is called the Obsidian Teknokon under the direction of Captain Blacksoul.  Trenton turns around to return to the air dock.
 
@@ -47,7 +47,7 @@ Fey invisibly follows Strife around a corner, who then stops and is just looking
 
 Droid fix Ridge a little and she is okay.
 
-Fey not sure what's going on, but believes Trenton and is going back.  
+Fey not sure what's going on, but believes Trenton and is going back.
 
 Laiden working with data sees that near by there is some hull weirdness maybe a hole or foreign substance.  Nanites might be working on it already?
 
@@ -93,9 +93,9 @@ All three bodies (Ariel, Laiden, Noun), Andrew threatens if Ariel dies he dies.
 
 Fey ties up the other family members and put them in a locked room not the computer the room.
 
-Malcolm also find something  strange in the Obsidian Teknokon (a bunch of crates). With symbols on them -- no one knows anything about the symbols.  
+Malcolm also find something  strange in the Obsidian Teknokon (a bunch of crates). With symbols on them -- no one knows anything about the symbols.
 
-Ridge gains four droids from the Teknokon.  
+Ridge gains four droids from the Teknokon.
 
 Hull damage done and sealed of with bulk heads.   Malcolm finishes it off with the wall of iron.
 
@@ -109,9 +109,9 @@ Trenton asks questions to the rest.  Wanted to know what's going on.  They wante
 
 Blacksoul has worked with Strife before.  Up to now everything was good, can't believe that bitch left us.  Trenton says he'll see what he can do.  Trenton suggest that more information can upgrade their situation.
 
-They all say Dorian wasn't backstabbed, but he can't be killed.  
+They all say Dorian wasn't backstabbed, but he can't be killed.
 
-Blacksoul used his eye powers to heal them.  
+Blacksoul used his eye powers to heal them.
 
 Ridge finds that the Obsidian Teknokon has no LORE chip.  The symbol is a space symbol for Arcadia.    Some references to Boneyard 37, no location data.  All sort of conspicuous stuff (logs erased).
 

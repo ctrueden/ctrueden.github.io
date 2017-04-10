@@ -16,7 +16,7 @@ Send message to UNF asking to see if they require action from them.  UN responds
 
 Malcolm asks about where Eli is.  Ridge says he looks to look into himself.  He asks whether this is some sort of mental test.  Ridge explains bluntly that Malcolm died, Eli became goo and melded into him.
 
-Trenton disappears, leaves a note, comes back 2 hours later.  Convenience we arrive at the island of the Santuary.  
+Trenton disappears, leaves a note, comes back 2 hours later.  Convenience we arrive at the island of the Santuary.
 
 Peters and Noun go in.  Wizards are happy to see them.  Woman says, "you've returned".  Noun says he has some new insights and needs to see the tower. Noun walks up to the tower door.  The woman says to not open it, Iason won't be happy.
 
@@ -40,9 +40,9 @@ An older man stops next to him, once he stops praying .  He says it has been a w
 
 Pronoun says begins contemplating the possibilities that Noun doesn't come back.  Pronoun tells Peters that they need to go to the ship and get help to get Noun.
 
-Peters picks up Noun's bag.  Peters tells the crew that Noun went through the door. 
+Peters picks up Noun's bag.  Peters tells the crew that Noun went through the door.
 
-Russell is told that as a member of the living, it is not yet your time.  Russell argues that he wants to meet God and was just in the middle of being baptized.  He suggests that Russell close his eyes and relax will be able to realize God.  
+Russell is told that as a member of the living, it is not yet your time.  Russell argues that he wants to meet God and was just in the middle of being baptized.  He suggests that Russell close his eyes and relax will be able to realize God.
 
 It feel pure, clean, perfect, and understands what he meant about God being everywhere.  Russell wishes to achieve rapture.  Russell stay for a time and reaches and inner peace.   Russell senses the stair beneath him and is ready to go into the world to share the word.
 
@@ -64,7 +64,7 @@ Noun goes back to the ship and contemplates himself.  Trenton talks with Noun an
 
 Trenton seems adamant to go to Arcadia.
 
-Malcolm contacts the Ancient Order of Gaians and they are really busy with more important things.  
+Malcolm contacts the Ancient Order of Gaians and they are really busy with more important things.
 
 Peters fills out the forms and buys force field armor.  Trenton picks Dorian up.  There is much discussion about Ponce.  Trenton and Laiden plan to use Ponce as a tool.  Trenton tells Ponce that we're going to Arcadia and that we have his ship.
 
@@ -76,13 +76,13 @@ Ridge sends a message to Fey, no response. One to Bullet Train, no response.  Fe
 
 After some thought, we wait too long, we get a message that, you're one of those from that funky ship, gringo.  Ridge says her ship is big, beat up, normal.
 
-Ridge responds back, if you have her we want her.  I don't suppose you have Ponce Dorian.  Let's just say I know where to find him.  We debate whether we can trade Ponce.  Ridge says it will take time to secure his release.  
+Ridge responds back, if you have her we want her.  I don't suppose you have Ponce Dorian.  Let's just say I know where to find him.  We debate whether we can trade Ponce.  Ridge says it will take time to secure his release.
 
 Fine.  When we do, tell him he wouldn't be alive if it wasn't for me.  I can't believe I have to get him out of another jam.
 
 Ridge attempts to use the Miller 2 stuff to try to find Fey.
 
-We talk with Noun to have Fey brought to our ship.  Fey begins convulsing, Noun stabilizes her and she is not doing well.  It appears that Fey was in cold sleep.  Peters and Malcolm rush in there and heal her.  
+We talk with Noun to have Fey brought to our ship.  Fey begins convulsing, Noun stabilizes her and she is not doing well.  It appears that Fey was in cold sleep.  Peters and Malcolm rush in there and heal her.
 
 Malcolm wakes her up.
 
@@ -104,7 +104,7 @@ Ponce says he tell them he'll tell them about it.  Ponce wants to be released fr
 
 Hernando runs this shop is sometimes they deliver stuff given to him.
 
-They release him from the floor.  
+They release him from the floor.
 
 Malcolm communicates with Dorian asking whether Dorian knows of special access.  What sort of secret shop stuff, shops on lake street, the basement level has stuff that no one knows about.  The entry is through some special door that only opens for Hernando.
 
@@ -122,6 +122,6 @@ Trying again, Ridge sets off the alarm, cannons come out the wall.
 
 Laiden steps forward and breathes fire, destroying 15 of the 24 cannons.   One of the cannons hits him, but he doesn't really get hurt.  Laiden is partially dragon.
 
-We all get stuff out and grab the towel and we teleport to the other side of the door.    We open all the doors than are empty.  Fey is returned safetly.  
+We all get stuff out and grab the towel and we teleport to the other side of the door.    We open all the doors than are empty.  Fey is returned safetly.
 
 We all teleport to the ship as a group.

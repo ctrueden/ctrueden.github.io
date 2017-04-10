@@ -36,9 +36,9 @@ Malcolm meditates and can only see sister Assisi's back and feels.  Blacksoul is
 
 Dr Peters scans behind Blacksoul's patch finds his eye is deteriorating as well.
 
-Dorian shares that his skin was completely replaced by the skin of a rare breed of forest troll.  His understanding is that Blacksoul's eye came from some giant-sized baby.  Fey knows these transplants are near impossible to do and has never seen this sort of success.   There is only one guy in Arcadia who does these procedures.  
+Dorian shares that his skin was completely replaced by the skin of a rare breed of forest troll.  His understanding is that Blacksoul's eye came from some giant-sized baby.  Fey knows these transplants are near impossible to do and has never seen this sort of success.   There is only one guy in Arcadia who does these procedures.
 
-As long as Dorian can remember, Strife has always had her silvery eyes.  Trenton mentions something about Pandora's children and that he knows of someone on Mars who is giving orders for that organization.  Dorian chimes in that Strife and Blacksoul are both members of Pandora's children. 
+As long as Dorian can remember, Strife has always had her silvery eyes.  Trenton mentions something about Pandora's children and that he knows of someone on Mars who is giving orders for that organization.  Dorian chimes in that Strife and Blacksoul are both members of Pandora's children.
 
 Dorian had this skin grafted three weeks ago as advance payment for killing us, and reaping our body parts for future procedures.  He claims that he isn't totally dishonorable, so he gave killing us a try.  Dorian wants something for his information on how Arcadia gets these magical creatures.  Trenton responds, "You're just kind of a jerk, and not as dangerous as the others.  One of our crew members is a Gaian and I can't guarantee she would be agreeable to any deal."
 
@@ -50,7 +50,7 @@ Contact in Arcadia is Butler (name) or what they called him.
 
 Dorian hopes he can get his ship back, but is told an undead lord has it.
 
-Noun is making some structures and uses the bag.  
+Noun is making some structures and uses the bag.
 
 Noun is fixing his bag and building some structure.
 
@@ -70,7 +70,7 @@ Dr Peters wants to determine what sort of compulsion it was, but is new to this 
 
 Laiden will maintain threads on Perseverance uses various feats and abilities.
 
-Trenton sends out a broadcast.  This group has ties to this.  His ancient family believed that magic should be sealed.  They created technicians to succeed in this goal and they are the last of this cause.  Trenton is not sure this is his path anymore.  He believes these folks are related to him.  These people are important to him and he feels personally responsible for stopping these.  Trenton was part of this experimentation, and is been geneticly modified.  He has special powers through his optical modifications that provides him with special perceptions and powers.  The group Pandora's box are the children and are related.  His parents are rather secluded in Idaho.  He doesn't want to share their locations.  
+Trenton sends out a broadcast.  This group has ties to this.  His ancient family believed that magic should be sealed.  They created technicians to succeed in this goal and they are the last of this cause.  Trenton is not sure this is his path anymore.  He believes these folks are related to him.  These people are important to him and he feels personally responsible for stopping these.  Trenton was part of this experimentation, and is been geneticly modified.  He has special powers through his optical modifications that provides him with special perceptions and powers.  The group Pandora's box are the children and are related.  His parents are rather secluded in Idaho.  He doesn't want to share their locations.
 
 Trenton wants to contact his parents and get answers to determine what is happening.  Trenton explains what's going on being careful to not drive Fey crazy.  These guys are destroying sentient lives and it is terrible.
 
@@ -92,9 +92,9 @@ We turn over everyone except for Ponce as we request that we be able to keep him
 
 Laiden and Ridge work to replace his normal image with his "fake" image.
 
-Dock with station, go through quarantined.  And we are then in debriefing meeting, lengthy process (the whole day).  UN are glad Ridge is back.  He were a little concerned about her loyalty as on the nets the soul mechs on Mars went bad, and that she is the ring leader.  Supposedly soul mechs joined the undead; Ridge quickly disappears and it was recorded that classified information was send to the ground (tactical data).  The business card is turned over, Dr Peters is questioned.  Ridge's name is cleared. 
+Dock with station, go through quarantined.  And we are then in debriefing meeting, lengthy process (the whole day).  UN are glad Ridge is back.  He were a little concerned about her loyalty as on the nets the soul mechs on Mars went bad, and that she is the ring leader.  Supposedly soul mechs joined the undead; Ridge quickly disappears and it was recorded that classified information was send to the ground (tactical data).  The business card is turned over, Dr Peters is questioned.  Ridge's name is cleared.
 
-Response for Fey: If this is a matter that can not wait we can arrange a meeting immediately.  
+Response for Fey: If this is a matter that can not wait we can arrange a meeting immediately.
 
 We are free to leave on 6-July, except Dr Peters who has been requested to stay for some additional questions, and will be grilled deeper about things that happened.  Using of human test subject, Dr Peters says he needed to do this to secure the safety of the crew.  It was radiating some sort of energy, and wanted to remove it.  Dr Peters motives are questioned.  He questioned the stasis device on a ship that he has not examined before.
 
@@ -106,7 +106,7 @@ UN agrees to repair Perseverance.
 
 Dr Peters turns over healing of Ridge's family to the UN, knowing that they can't help them and believes they will likely not be a threat to us again, but we can deal with them again as needed.  If they are on the ship he will heal them, but right now he's taking a vacation and it will take a week or so.
 
-Fey takes the crates of Gaian parts with her to the Order.  Meets with Llana first.  The souls aren't in these parts, but probably in the main body wherever they are.  She does some DNA testing to see who they are and wants to find out when they disappeared and let their families know what happened.  It is fairly late by the time they get there -- locally dawn of the 7th locally 2 am GST.  
+Fey takes the crates of Gaian parts with her to the Order.  Meets with Llana first.  The souls aren't in these parts, but probably in the main body wherever they are.  She does some DNA testing to see who they are and wants to find out when they disappeared and let their families know what happened.  It is fairly late by the time they get there -- locally dawn of the 7th locally 2 am GST.
 
 Llana says this is necrophasia, and she thought they were all dead.  Supposedly there is a member of Arcadia that has the ability to do this and their hatred of Soul mechs.  Soul mechs were also affected by Kane as well.  Wondering what happened with Moss.
 
@@ -124,7 +124,7 @@ Our best hope for tracking Moss down is divination ward (if something happens, t
 
 Fey turns over the body parts to Llana and she is to inform the counsel and have them start the process of examining the crates.  Fey goes to talk with the caretaker.
 
-Ridge prepares a treatment program and a suitable billing plan for that.  It will be a fair market price, which are high, but not exclusive rich high.  
+Ridge prepares a treatment program and a suitable billing plan for that.  It will be a fair market price, which are high, but not exclusive rich high.
 
 Malcolm is dropped of in Xanadu.  Malcolm raises Blacksoul in a church, has a soulful talk with him.  Blacksoul leaves in awe and has much to consider.
 

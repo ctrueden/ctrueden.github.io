@@ -68,7 +68,7 @@ To qualify to become an AI Researcher, a character must fulfill the following cr
 __Skills:__ 6 ranks in Computer Use, plus 6 ranks in either Craft (mechanical) or Craft (electronic), plus 6 ranks in Knowledge (technology), plus 6 ranks in Research.
 Class Information
 The following information pertains to the AI Researcher Â­advanced class.
-__Hit Die:__ 1d8 
+__Hit Die:__ 1d8
 __Action Points:__ 6 + one-half character level, rounded down, every time the AI Researcher attains a new level in this class.
 Class Skills
 ++The AI Researcher's class skills (and the key ability for each skill) are:__ Computer Use (Int), Craft (electronic, mechanical), Decipher Script (Int), Disable Device (Int), Investigate (Int), Knowledge (beÂ­havioral sciences, earth and life sciences, physical sciences, technology) (Int), Mysticraft (Int), Navigate (Int), Profession (Wis), Read/Write Language (none), Research (Int), Search (Int), Speak Language (none).
@@ -94,8 +94,8 @@ At 1st, level, a AI Researcher can perform a Computer Use check in half the norm
 
 __Scientific Improvisation__
 At 2nd level, an AI Researcher gains the ability to improvise solutions using common objects and scientific know-how. This ability lets the Field Scientist create objects in a dramatic situation quickly and cheaply, but that have a limited duration.
-By spending 1 action point and combining common objects with a Craft check that corresponds to the function desired, the Field Scientist can build a tool or device to deal with any situation. The DC for the Craft check is equal to 5 + the purchase DC of the object that most closely matches the desired function. 
-Only objects that can normally be used more than once can be improvised. 
+By spending 1 action point and combining common objects with a Craft check that corresponds to the function desired, the Field Scientist can build a tool or device to deal with any situation. The DC for the Craft check is equal to 5 + the purchase DC of the object that most closely matches the desired function.
+Only objects that can normally be used more than once can be improvised.
 Electronic devices, special tools, weapons, mechanical devices, and more can be built with scientific improvisation. It takes a full-round action to make an object with scientific improvisation. The object, when put into use, lasts for a number of rounds equal to the AI Researcher's class level, or until the end of the current encounter, before it breaks down. It can't be repaired.
 
 __Program Software Utility__
@@ -112,7 +112,7 @@ __Strategy Analysis__
 At level 8, an AI Researcher and quickly come up with algorithms for combat strategy analysis.  These algorithms constantly evaluate a combat situation and gives strategic &quot;tips&quot; to the AI Researcher (tips such as &quot;stand here for a better shot&quot; or &quot;go here and you'll see them a second before they see you&quot;).  The AI Researcher can choose to send this strategic analysis to allies that have neural computers configured to accept the data, thus granting them the advantage as well.  This will grant a +2 insight bonus to attacking, defending, and saving throws.
 
 __Build Robot__
-An AI Researcher of 10th level or higher can build remote-controlled robots that are Tiny or Diminutive in size. These robots serve as the AI Researcher's eyes, ears, or hands out to a predetermined distance away from the character when the AI Researcher wants to use one of the following skills: Computer Use, Demolitions, Disable Device, or Repair.  The robot can inherently use the Spot/Listen skill (if the audio/visual sensor is installed), in which the robot will instantly return the data to the AI Researcher.  The AI Researcher must have at least 1 rank in the skill that he wants to program into the robot. 
+An AI Researcher of 10th level or higher can build remote-controlled robots that are Tiny or Diminutive in size. These robots serve as the AI Researcher's eyes, ears, or hands out to a predetermined distance away from the character when the AI Researcher wants to use one of the following skills: Computer Use, Demolitions, Disable Device, or Repair.  The robot can inherently use the Spot/Listen skill (if the audio/visual sensor is installed), in which the robot will instantly return the data to the AI Researcher.  The AI Researcher must have at least 1 rank in the skill that he wants to program into the robot.
 
 Follow these steps to build a robot.
 Wealth Check:The purchase DC for the components needed to construct a robot is based on the robot's size.

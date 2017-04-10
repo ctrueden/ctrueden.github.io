@@ -9,7 +9,7 @@ category: deus
 Harry Bryant shares the following
 * The grey goo was designed to clone and create things.
 * Adam McGlean used a device to control the nanites that was destroyed by the grey goo.
-* It is unknown why these nanites can survive this close to the sun.  
+* It is unknown why these nanites can survive this close to the sun.
 * Three gravimetric lenses would be used to scoop and contain the grey goo.
 
 The military believe they can maintain the secret of Mercury for a long time, even use what happened at Percepi to guide public perception of what happened at Mercury and its three million inhabitants.  Weapons fire does seem to have some effect in destroying the grey goo, but it would take too long to destroy that many.
@@ -30,13 +30,13 @@ As the frigate approaches the planet surface, Malcolm feels the pain and sufferi
 
 Malcolm suddenly stops transmitting his sense of the souls in pain, stares through people in the distance, snaps out of it and yells for Ridge to get away from the planet (Malcolm seems more focused and serious than normal).  Ridge does so, as the entire planet of Mercury begins moving suddenly towards the sun.  Left behind is a 200 foot long green egg.
 
-Ridge immediately chases the planet.  Dr Peters goes to heal Malcolm, but then realizes that Malcolm is not injured and almost pulses with a tremendous well of positive energy.   
+Ridge immediately chases the planet.  Dr Peters goes to heal Malcolm, but then realizes that Malcolm is not injured and almost pulses with a tremendous well of positive energy.
 
-The frigate catches up with the planet and Ridge attempts to capture some of the grey goo.  In the collection process something goes wrong and the nanites get onto the ship's wings.  The green egg shimmers, the shell falls leaving a lightning class escort ship, which closes on the frigate and begins shooting at the grey goo on the frigate's wing.   Ridge commands everyone to evacuate.  
+The frigate catches up with the planet and Ridge attempts to capture some of the grey goo.  In the collection process something goes wrong and the nanites get onto the ship's wings.  The green egg shimmers, the shell falls leaving a lightning class escort ship, which closes on the frigate and begins shooting at the grey goo on the frigate's wing.   Ridge commands everyone to evacuate.
 
 Once the crew is off the ship using the escape pods, Ridge sets off an EMP pulse.  The escort ship, which has no markings except a crescent moon with a sword handing over it in its nose, tractors the escape pod.  Ridge gets outside the ship to survey the damage and repairs.
 
-Trenton contacts Ridge using the communications system on the escape pod.  Ridge shares what has happened.  Trenton spares sarcastically with Ridge on her judgment.  The Behemoth contacts the unidentified ship (escort ship) to identify itself and release the escape pod.  
+Trenton contacts Ridge using the communications system on the escape pod.  Ridge shares what has happened.  Trenton spares sarcastically with Ridge on her judgment.  The Behemoth contacts the unidentified ship (escort ship) to identify itself and release the escape pod.
 
 The pilot of the escort ship identifies himself as Layden as he releases the escape pod.  Noun uses the communications system to send Layden his business card, to which Layden is confused by.  The Behemoth thanks Layden for his help, but requests that he dock and answer some questions.  Layden agrees to this.
 

@@ -18,7 +18,7 @@ Nikoli shows Trenton "the weapon".  Trenton sees a crispy black energy around it
 
 Ridge doing some research finds that there is another core in this city, but the military has already drained it as a precautionary measure.
 
-In the sweep for the core, Malcolm sees Cain, two undead, and an invisible robot which has a dark sinister aura about it.  Malcolm sends warning to the group who will be meeting with him of the invisible 
+In the sweep for the core, Malcolm sees Cain, two undead, and an invisible robot which has a dark sinister aura about it.  Malcolm sends warning to the group who will be meeting with him of the invisible
 
 Meechum and Bryce stay on DEE, while the rest leave on a shuttle to meet with Cain (including DEE in a droid).  The group (except for the droid) exits the shuttle at the open field of short grass where they are supposed to meet.  Cain in a thin gray robe flanked by two undead step out of forest to greet them.  Ariana senses two mystic auras on the henchmen and three on Cain.  Cain looks over and asks, "where is the one I spoke with?"   DEE tells Ariana to tell him he spoke to the ship's computer.  The droid exits the shuttle, saying this is his physical form.
 
@@ -28,7 +28,7 @@ Cain: You are clearly not trained warriors, why have you come here?
 
 Tell your small friend to stop doing whatever he's doing.  (
 
-Our initial purpose was to halt the attack on the colony.  We wish to dicuss more.  The awakening was a purposeful action by us.  We wish to offer you now what you would have received then.  
+Our initial purpose was to halt the attack on the colony.  We wish to dicuss more.  The awakening was a purposeful action by us.  We wish to offer you now what you would have received then.
 
 That being?  -&gt; Cain
 
@@ -56,12 +56,12 @@ DEE says this was Cain's choice there are others who are more than willing to ju
 
 Fey says this is the best way and benifiical to Cain as well.
 
-Cain finds it interesting that the Caretaker would send such a motley crew.  
+Cain finds it interesting that the Caretaker would send such a motley crew.
 
-We say this is because of various unique abilities.  
+We say this is because of various unique abilities.
 
 
-We just found the antimatter, navigate to the underground, 
+We just found the antimatter, navigate to the underground,
 
 We navigate into the underground.  Malcolm goes blind, the core disappears.  Cain ends the meeting
 
@@ -73,7 +73,7 @@ The ship sensors are unreliable, some effects on the cavern has a magical effect
 
 One of the Zombies is the source of this confusion and is causing the sensors from not completely working.  A dispel magic on that zombie doesn't happen, almost corrupting Malcolm's mind.
 
-Malcolm heads out to remove curse from Meecham.  Meecham begins to retch blood.  Bryce feeds Meecham with OJ.  
+Malcolm heads out to remove curse from Meecham.  Meecham begins to retch blood.  Bryce feeds Meecham with OJ.
 
 Perseverance goes and picks Everlily Nix.
 

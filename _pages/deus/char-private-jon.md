@@ -66,7 +66,7 @@ Those who can wield magic are obligated to use their power for the good of all T
 
 No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  1.  &quot;If it's real enough to think it's real, how does that make it different from the rest of us?&quot;
 
-Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 
+Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications.
 
 Technology is more dangerous than mystic energy, and is more likely to destroy us some day.   3.  &quot;I, uh, really don't know.&quot;
 
@@ -177,12 +177,12 @@ A student of the Void is, technically, a student of nothing.  But unlike those s
 
 Most of those who become Disciples of the Void are people who seek understanding without focusing on one of the more classical elements (air, earth, fire, and water).
 
-Disciples of the Void attempt to attune themselves to this nothingness, and by doing so come to understand it.  This, they believe, will bring them a heightened awareness or, in the case of those who follow the path of the Void seeking power, the power to unleash the Void upon their enemies. 
+Disciples of the Void attempt to attune themselves to this nothingness, and by doing so come to understand it.  This, they believe, will bring them a heightened awareness or, in the case of those who follow the path of the Void seeking power, the power to unleash the Void upon their enemies.
 
-__Hit Die:__ d8 
+__Hit Die:__ d8
 __Skill Points:__ 5 + Int Mod
 
-__Class Skills:__  Balance(Dex), Craft(Int), Hide(Dex), Intimidate(Cha), Knowledge(Int, all skills taken individually), Listen(Wis), Move Silently(Dex), Navigate(Int), Profession(Wis), Read/Write Language(None), Research(Int), Search(Int), Speak Language(None), Spot(Wis), Survival(Wis), Tumble(Dex). 
+__Class Skills:__  Balance(Dex), Craft(Int), Hide(Dex), Intimidate(Cha), Knowledge(Int, all skills taken individually), Listen(Wis), Move Silently(Dex), Navigate(Int), Profession(Wis), Read/Write Language(None), Research(Int), Search(Int), Speak Language(None), Spot(Wis), Survival(Wis), Tumble(Dex).
 
 |__Level__|__Base Att. Bonus__|__Fort Save__|__Reflex Save__|__Will Save__|__Reputation__|__Defense Bonus__|__Special__|
 |1|+0|+0|+1|+2|+0|+0|Sense the Void|
@@ -191,7 +191,7 @@ __Class Skills:__  Balance(Dex), Craft(Int), Hide(Dex), Intimidate(Cha), Knowled
 |4|+2|+1|+2|+4|+0|+1|Channel Void|
 |5|+2|+1|+3|+4|+0|+2|One with the Void|
 
-As a Disciple of the Void progresses down the paths of understanding, he gains the following abilities: 
+As a Disciple of the Void progresses down the paths of understanding, he gains the following abilities:
 
 __Sense The Void (Ex):__  The Void becomes the place of safety for the student of the Void.  At 1st level, the Disciple of the Void learns to sense the point of greatest safety in any situation.  Anytime the Disciple is subject to a Reflex save to avoid damage from an effect in an area where the Disciple could reach a place of safety, a successful saving throw causes no damage, and a failed save only causes half damage.  The Disciple of the Void knows where to be, and moves to that spot almost instantly.
 
@@ -207,7 +207,7 @@ At this stage, the Disciple's awareness of the Void is such that when there is m
 
 Additionally, his new closeness to the Void allows him to use his Channel Void ability to affect two smaller objects with his free use of the ability, no dimension of which can be larger than 5', or remove two 5' by 5' sections of a larger object.
 
-Finally, the Disciple gains the supernatural ability to step out of mundane reality into a shadow world, remaining there for up to five minutes.  While there, he regains five Vitality points per minute, as the latent Void energies refresh the Disciple.  If the Disciple's Vitality pool is full, he regains 1 Wound point per minute, as his wounds rapidly close themselves.  The world of Void is a shadowy transmutation of the real world.  The Disciple can glimpse shadows of those left behind in the real world, but cannot make out much with clarity.  Objects exist as shadows in the Void, and manipulations of these objects that occur in the real world are reflected in the Void.  However, objects manipulated in the Void (doors, for example) are not altered in the real world.  Still, manipulating things in the Void can occasionally have bizarre consequences. 
+Finally, the Disciple gains the supernatural ability to step out of mundane reality into a shadow world, remaining there for up to five minutes.  While there, he regains five Vitality points per minute, as the latent Void energies refresh the Disciple.  If the Disciple's Vitality pool is full, he regains 1 Wound point per minute, as his wounds rapidly close themselves.  The world of Void is a shadowy transmutation of the real world.  The Disciple can glimpse shadows of those left behind in the real world, but cannot make out much with clarity.  Objects exist as shadows in the Void, and manipulations of these objects that occur in the real world are reflected in the Void.  However, objects manipulated in the Void (doors, for example) are not altered in the real world.  Still, manipulating things in the Void can occasionally have bizarre consequences.
 
 
 ### Advanced class: Void Ascendant

@@ -24,7 +24,7 @@ In such cases he buys them out and returns parts to the Gaian order.  Borris hea
 
 He indicates that Fey's companion has had more success in these investigations.  Bullet train is led in with some wounds.  Two more body guards and an elderly gentleman, fairly well off.
 
-Fey flies off and hugs bullet train.  He is distracted and upset.  Bullet Train says he is sorry he could not save her, he was captured (looking at the old man indicates he caught him) and was not treated with dignity.  
+Fey flies off and hugs bullet train.  He is distracted and upset.  Bullet Train says he is sorry he could not save her, he was captured (looking at the old man indicates he caught him) and was not treated with dignity.
 
 He exceeded what was legal.  The old man was just protecting his property.  What is legal and what is right are different things.  What matters is that bullet train is good person with good intentions.
 
@@ -32,7 +32,7 @@ Bullet train has learned what he needs to.  Bullet Train learns that Strife is h
 
 She was going to buy me from him (looking to Mr Jurota).  You can ask her yourself.
 
-Borris is more interesting in this organization we're talking about that harvests Gaian parts.   He has heard rumors of people using these abilities.  Trenton looks to trust Borris in secrecy.  He would use that information to protect this city.  
+Borris is more interesting in this organization we're talking about that harvests Gaian parts.   He has heard rumors of people using these abilities.  Trenton looks to trust Borris in secrecy.  He would use that information to protect this city.
 
 Property damage and breaking entry are some of the most serious offenses.  Killing is illegal, but carrying in parts is legal, although discouraged.
 
@@ -56,7 +56,7 @@ Borris pings Strife to see if she is interested.  What of the deal I brokered, w
 
 Strife agrees to meet with us and expects her interests are respected.
 
-Trenton and Strife banter.  Strife says that it is her family's fault that she did not get what she was promised.  She says she bears no ill-will to Gaian's but a necessity.  Justice has nothing to do with it.  The world is not just.  
+Trenton and Strife banter.  Strife says that it is her family's fault that she did not get what she was promised.  She says she bears no ill-will to Gaian's but a necessity.  Justice has nothing to do with it.  The world is not just.
 
 Strife says that furthering her own power is worth it.  Verner should not exist, his power should be mine.  I was there he was still in his mother's womb.  They burned down the facility and only by luck not all of the results were not lost, was that by a stroke of luck only one of researchers is missing.
 
@@ -78,7 +78,7 @@ The butcher shop keeper is also being held for questioning.  Borris is planning 
 
 Trenton tries to broker a deal with Borris to set Dorian free, misleading that he promised to set him free.  The butcher wants to trade for the Dorian.  Borris is interested in gaining control of this pirate -- Borris is not asking for a gift.  Borris would like to procure him for a unidentified of time, before returning him to you.
 
-Borris is interested in knowing what the UNF would be interested in bartering to question him.  It is stated that Ridge would gladly do this if so ordered and that he should contact Earth directly.  
+Borris is interested in knowing what the UNF would be interested in bartering to question him.  It is stated that Ridge would gladly do this if so ordered and that he should contact Earth directly.
 
 Fey says that he can be questioned, but only on our ship.
 
@@ -90,13 +90,13 @@ Trenton wishes to strike a bargain with the UNF.
 
 Bullet Train hears that the Baron likely has knowledge of this.  There was a trading of information with the Baron and learned of the butcher.  When he tried to escape he was captured.  The baron told him he would be sold to the highest bidder, and if no one wanted him it was insinuated he would be killed.
 
-Strife has been working with this scientist.  When I (Bullet Train) took him into custody, he was working on a number of projects.  
+Strife has been working with this scientist.  When I (Bullet Train) took him into custody, he was working on a number of projects.
 
 A series of transactions from the butcher shop is obfuscated.  Much of it gets taken off the station.  The people all spend money in different places.  Butcher hoards money, and owns a lot of property -- none of them directly connect to this situation.
 
-The butcher owns a lot of properties.  
+The butcher owns a lot of properties.
 
-The UNF sends an official warrant to transfer custody of Ponce Dorrian to Arcadia authorities, Admiral Jefferson (who we had never heard of).  
+The UNF sends an official warrant to transfer custody of Ponce Dorrian to Arcadia authorities, Admiral Jefferson (who we had never heard of).
 
 Looking around Malcolm and Trenton find that many pirates who have been augmented, and their captain has abandoned them,  Their lieutenant tried to take control of them and  a bunch of them worked went to work for the Arcadia authorities.
 
@@ -104,9 +104,9 @@ They are trying to get a new ship and are procuring one now.  Any rumors about w
 
 Malcolm pulls a pirate (Flint) with grafts on him and tries to find who else he can contact.  I could hook you up with a fence, not sure what her status is.  Felisha Worthington -- a fence who has had dealings with this.
 
-Dark Soul quit the organization and changed it back to his old name -- Bernard Sinclair.  
+Dark Soul quit the organization and changed it back to his old name -- Bernard Sinclair.
 
-Looking over parts we get a Umber Hulk kidney or something that Trenton perceives that is sensitive to vibrations.  
+Looking over parts we get a Umber Hulk kidney or something that Trenton perceives that is sensitive to vibrations.
 
 We find her in a tattoo parlor and she is quite busy.  Hernando pretends to know more , try Butler.  Looking around, we hear about a Butler.  The sellers get his input and clients go to him to arrange for grafts.
 
@@ -118,7 +118,7 @@ Everything is changed now; all the people I worked with are gone.  I didn't care
 
 Do you know who did the surgeries?  No I just know he keeps himself well protected.  I'm pretty sure there is only one who knows how to do this.  Strife's eyes are bloodshot.
 
-I was only interested in the grafts.  Strife does not have grafts, kept meaning to get one, but didn't.  I would have eventually, defensively.  I kept thinking about that dust you have and that it allows you to sense things.  All your parts are good for many things; you are worth more dead than alive.  She says humans are worthless.  She was in the facility for ten years before it was burnt down.  
+I was only interested in the grafts.  Strife does not have grafts, kept meaning to get one, but didn't.  I would have eventually, defensively.  I kept thinking about that dust you have and that it allows you to sense things.  All your parts are good for many things; you are worth more dead than alive.  She says humans are worthless.  She was in the facility for ten years before it was burnt down.
 
 The most recent iteration, they were able to fuse beholder dna into humans, and they were working on it with Trenton's parents.  Something about it would give humans abilities using their eyes.
 
@@ -132,7 +132,7 @@ It is rumored that beholders have only been around for a while.  Like the careta
 
 Fey says lots of things that her brother and father say that she can do well with what she has.  Strife tells her to stop and that it isn't possible, you need some edge to do well.  What have you done?  Fey tells about a lot of things that they have done (working through our campaign telling everything).
 
-Strife thinks a bit and falls into cathartic laughter.  She seems to turn a corner in how she feels admitting that perhaps she has stupid.  Her eyes came with a price.  Fey and Finesse build a good rapport.   
+Strife thinks a bit and falls into cathartic laughter.  She seems to turn a corner in how she feels admitting that perhaps she has stupid.  Her eyes came with a price.  Fey and Finesse build a good rapport.
 
 Pronoun jumps in saying they are normal humans.  Noun burns himself with a blow torch.  Noun says you can use your pain as a focus to listen to yourself and figure out what you know.
 

@@ -90,14 +90,14 @@ What does your character think about the following statements (1=Strongly disagr
 1. Now that machines are smarter than humans, biological life is obsolete.  2
 1. The Caretaker has no business meddling in our affairs.  5
 1. Those who can wield magic are obligated to use their power for the good of all Terrans.  2
-1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 2 
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. 2
 1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. 3 (I don't know how well it was tested before.)  He sees it as a way for the fortunate to become more fortunate, but it doesn't do much to help in general.
 1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 2  Technology has the possiblity of helping everyone and being equitably distributed, while mystic engergy creates a favored class.
 
 
 ## Advanced Class: Netmind
 
-### Class Information 
+### Class Information
 To qualify to become a Netmind, a character must fulfill the following criteria.
 __Skills:__  10 ranks in Computer Use
 __Special:__ Ability to use &quot;net&quot; magic
@@ -107,8 +107,8 @@ The following information pertains to the Netmind advanced class.
 __Hit Die__
 The Netmind gains 1d6 hit points per level. The character's Constitution modifier  applies.
 
-__Class Skills__ 
-The Netmind's class skills are as follows. 
+__Class Skills__
+The Netmind's class skills are as follows.
 Computer Use (Int), Concentration (Con), Craft (electronic) (Int), Decipher  Script (Int), Disable Device (Int), Knowledge (technology) (Int), Profession  (Wis), Repair (Int) and Research (Int).
 
 The Netmind receives (5 + Int) skill points per level.
@@ -129,7 +129,7 @@ The Netmind receives (5 + Int) skill points per level.
 |12th|+6|+4|+4|+8|Being the code|+6|+4|
 
 ### Class Features
-The following features pertain to the Netmind advanced class. 
+The following features pertain to the Netmind advanced class.
 
 __Seeing the Code:__ At 1st level, the Netmind begins to perceive the physical  universe as just another incarnation of virtual reality. By expending an action  point, he can substitute a Research check in place of any of the following skill checks: Decipher Script, Gather Information, Investigate, Knowledge, Search,  Sense Motive, and Senses.
 

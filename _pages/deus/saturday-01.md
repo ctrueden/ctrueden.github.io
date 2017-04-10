@@ -33,7 +33,7 @@ Mercabah is controlled by the Iron Syndicate. They want Cain's Hand from Josef, 
 
 Adam McLean works for the Caretaker, hence his involvement with the royals. His position as the leader of the sacrificial faction of the Iron Syndicate is useful for a variety of reasons.
 
-The Caretaker is responsible for McLean's (and the Syndicate's) attempts at obtaining the 
+The Caretaker is responsible for McLean's (and the Syndicate's) attempts at obtaining the
 Hand of Cain. The Caretaker wants to revive Cain, because he possesses abilities no longer available to the Caretaker, and it wants Cain to assist in the creation of a strange defensive soul structure it is building.
 
 Side note: Cain's DNA, if studied, might point to the Fearful's manipulation. At the least, it will be obvious humans were doctored from the other elder races by an external influence.

@@ -22,12 +22,12 @@ Daughter of Yeni Der'ken (and unknown father)
 Moved to the lower west slopes of the mountain when her mother kicked her out at 8 winters old
 (bored as hell with her &quot;people&quot; by age 11)
 
-Met Morijin Illindra, brass adult, on the hills below the mountain in her 14th winter 
+Met Morijin Illindra, brass adult, on the hills below the mountain in her 14th winter
 moved to New StarShine in the Ven Valley below the mountain in the spring after her 14th winter
 
 New StarShine is a city of about 300,000 dragons in the semi-arid Ven Valley. It is 60% brass but many other colors are represented (15% gold is the largest minority group). It is slightly isolated but known for its world famous Andernian Museums and the New Starshine Institute for the Psyonically Gifted (teaches young dragons aged 10 through 75 advanced psyonic arts). Though the city sprawls out into the valley many of the buildings (especially downtown) are very tall, allowing the wealthy to live at higher altitudes where the mountains block out the sun for less of the day.
 
-Rekari lives with Morijin and his wife Ange (also brass) in the suburbs 
+Rekari lives with Morijin and his wife Ange (also brass) in the suburbs
 Ange is barren and they eventually treat Rekari much like their own child
 
 Morijin enrolls her in the Institute, where Morijin teaches advanced classes (~50 year old students)
@@ -40,13 +40,13 @@ I her fifth year she begins to be frustrated with the &quot;slow&quot; pace that
 Near the beginning of 7th year of school an exhibit of relic space crafts comes to the Andernian Museum of History and the news begins reporting about the new star system that astronomers have discovered that Glaurung will be passing near (folks get crazy because there is some evidence that there may be a sentient magic using race in the star system, with more evidence each week that Glaurung gets nearer).
 
 Rekari begins having nightmares every night about being chased through dark, bone chillingly cold tunnels by a creature that breathes pure terror at her heels two days after she is caught stealing from one of the students at the institute and is suspended for a month (and has a major falling out with Morijin).
-Angry and hurt she leaves Morijin's home and spends most of her days hanging out with &quot;acquaintances&quot; from New Starshine's underworld. She is miserable and the nightmares continue. 
+Angry and hurt she leaves Morijin's home and spends most of her days hanging out with &quot;acquaintances&quot; from New Starshine's underworld. She is miserable and the nightmares continue.
 
 She visits the Andernian Museum of History and is intrigued by an ancient teleportation device that is on display as well as the recent evidence that the sentient race in the Sol system may posses space travel. She convinces one of her acquaintances to help her steal the device and get it operation by paying him her entire savings.
 
 She trys to tell Morijin and Ange that she is going to try to find out what really is out there in the near by solar system. She is trying to do what she can to do the &quot;right&quot; thing but only provokes a screaming fight where Morijin forbids her to leave Glaurung (to her &quot;certain death&quot;). Rekari tells him that he and his &quot;damned elitist Institute can rot in hell&quot; and leaves for the last time. (Morijin doesn't really believe that she can get off of Glaurung, but he is upset by the thought that she wants to throw away her life and worried about her.)
 
-Rekari and her acquaintance succeed in breaking into the museum and getting a teleporter working, Rekari teleports to the third planet of the Sol system (which the astronomers are currently saying is the most likely to be the home world of a sentient species). 
+Rekari and her acquaintance succeed in breaking into the museum and getting a teleporter working, Rekari teleports to the third planet of the Sol system (which the astronomers are currently saying is the most likely to be the home world of a sentient species).
 She initially is teleported to the far north part of Earth and skirts one of the larger cities in the north (using her powers to be invisible) learning more about the self named &quot;humans&quot;
 
 Rekari's nighmares become less frequent (once a week or so) as she is busy learning about the human world

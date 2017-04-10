@@ -18,7 +18,7 @@ I apologize for deceiving you.  These apologies are extended to the rest of your
 
 No secret has been better kept, since Arcadia's inception, than the necrophagic grafts and those who administer them.
 
-You had a profound effect on Finesse.  She has tried very hard to make up for her misdeeds, and she, with the aid of her brother, has managed to do something her father could never have managed.  They uncovered the truth of the grafts, as I had to an extent hoped they would, and they discerned my involvement before I arrived on the scene to ensure they were not killed. 
+You had a profound effect on Finesse.  She has tried very hard to make up for her misdeeds, and she, with the aid of her brother, has managed to do something her father could never have managed.  They uncovered the truth of the grafts, as I had to an extent hoped they would, and they discerned my involvement before I arrived on the scene to ensure they were not killed.
 
 A long time ago now, I spoke in depth to the caretaker.  In those times there was another powerful Necrophage, a doctor capable of taking gaians and performing the grafts which enabled a good number of soldiers to be magically augmented at the cost of your people.  I and my brother killed this man, but I was able to discover the secrets of the art, which would otherwise have been lost.  At the time, it was idle curiosity, and I had no intention of using it save to have an extra ace up my sleeve if for whatever reason things did not work out and it was necessary to battle the gaians.
 

@@ -58,9 +58,9 @@ T3h Session 17 N0t3s!!!
 
 -Arianna opens a portal to her home on Luna.  Rest of party passes through.  Nikolai hops into Lupus, then hops to Luna, then hops to Earth and jumps out through Unity.  Arianna FINALLY opens her package.  Inside is a book.  Black with blue trim.  Seems faded.  On spine it says &quot;The blue rose.&quot;  Has a magical aura, clearly around entire book, protecting it.  Book is Arcane Locked.  She dissolves the lock, the book has a ribbon marking the page, page has a woman on it.  When she reads it, she's confused until she realizes it's a picture of her mother, caption reads Erica.  Pages flip, and she sees her own name, and then she feels herself being pulled into the book.  Then the book closes.  Brice does a search on The Blue Rose, gets to read a Wikipedia article.
 
--People discuss options, which mostly involves fucking around and not accomplishing anything.  
+-People discuss options, which mostly involves fucking around and not accomplishing anything.
 
--Nikolai returns, reads the book, first chapter is about Baba Yaga, second is about Erica.  Erica started talking, discussiong how she got caught in the book.  
+-Nikolai returns, reads the book, first chapter is about Baba Yaga, second is about Erica.  Erica started talking, discussiong how she got caught in the book.
 
 -Brice traces the book's travel back to Stratco, and the book is marked as a gift from Bernstein.  Tracks him back to his office, where he is working on 'the juice'.  Sends message to Bernstein saying that Arianna is in need of help and asking him if he'll help her out.  He asks what kind of trouble, and Brice explains.  He expresses that he knew nothing about this, and says he'd be willing to help.  Brice ignores anything resembling common sense or self-restraint and makes himself invisible, then hops out and grabs Bernstein.  He is immediately stricken with nausea and clubbed into unconsciousness by a Mithril golem.
 
@@ -78,7 +78,7 @@ T3h Session 17 N0t3s!!!
 
 -Brice finds Nald on the grounds of Eric Lencher of the Brotherhood, looking at the criminal record of Devlin Gasomethinorother.  Puts message on his screen saying that Vondre needs his help.  Nald freaks out.  Brice asks for location of page.  Nald says he can't trust her, and refuses to give her page.  Brice shows playback of Vondre in book.  Argument ensues.  Brice explains Vondre's actions with book, and tries to convince him to help.  Establishes permanent connection.  Nald attempts to shut him out, but Brice maintains access.  Nald tells Brice that he'll tell Brice what was on the page if Brice agrees to bail his mother, Devlin.  Brice unfreezes one of Nald's accounts and posts bail for her.  Nald tells rules of book as he remembers.  1:  Put name in, captures.  2:  If you let the book sit open, they can do stuff.  3:  If you say their names three times, they'll be free.
 
--Nald tells Brice that he was fired because he didn't like the way they were using his research, and said he was fired also for being a Brotherhood spy.  Which he was.  
+-Nald tells Brice that he was fired because he didn't like the way they were using his research, and said he was fired also for being a Brotherhood spy.  Which he was.
 
 -Erica is freed.  Nikolai picks up the book.
 

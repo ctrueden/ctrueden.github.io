@@ -262,7 +262,7 @@ I've been to hell and back, and I would say I have further to go.  I have enemie
 ;Matt:Technology gave him a question.  Magic provided an answer.  There was once a time when men would line the bookshelves of mansions to find an answer to whether they had a soul.
 ;Zee:To my father this man would be proof of the horrors abused technology has brought to the world.  To me he is another misfortunate victim of those who recklessly use the tools of technology and magic.
 ;D.E.E.:It's amazing that mankind has already found a way to break the speed of light.  I wonder who is responsible for this glorious machine.
-;Noun:From what I can tell this man knows more about the universe then most people should.  
+;Noun:From what I can tell this man knows more about the universe then most people should.
 
 # Nanomagus
 ## Planetary Metals

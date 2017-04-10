@@ -17,7 +17,7 @@ The units had traveled to Lupus to follow Matt and Zee's trail. When the party r
 
 Also, Zee still needs to remember [his past](char-secrets-james). He will be able to now, though, because one of the people who shows up to take Matt and Zee into custody is Dr. Holden Weiner, who tells Zee that his parents have been taken into custody, and that he cannot promise their safety unless Zee turns himself in.
 
-If they fight back, the Units and Weiner will attack the magic users with StratCo's enervin/tranquilizer shots (Fort save DC 20 for the enervin, DC 15 for the tranquilizer). Weiner is a level 9 mystic -- Destr 1, Dis 1, Div 1, Enh 7, Heal 1, Kin 7, Mind 9, Trans 1, Res 20 -- so he also throws down Mind effects to stop them from resisting, and then 
+If they fight back, the Units and Weiner will attack the magic users with StratCo's enervin/tranquilizer shots (Fort save DC 20 for the enervin, DC 15 for the tranquilizer). Weiner is a level 9 mystic -- Destr 1, Dis 1, Div 1, Enh 7, Heal 1, Kin 7, Mind 9, Trans 1, Res 20 -- so he also throws down Mind effects to stop them from resisting, and then
 
 ## Huntington's return
 He tells the party about what is happening to Laboro, and the coming threat (the virus spreads, so the Technofearful do not have to remain on the planet to finish devouring it).

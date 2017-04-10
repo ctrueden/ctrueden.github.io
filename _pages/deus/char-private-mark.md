@@ -97,7 +97,7 @@ If it was a correct time and place.  He wouldn't go screaming thru the streets.
 Yes, but not a lot.
 5. Seek vengeance if wronged?
 He wouldn't seek it, but he would take an oppurtunity to give back as good as he got.
-6. Steal if he thought he could get away with it? 
+6. Steal if he thought he could get away with it?
 Only if the stealing was related to the Order, or if helping a good friend.
 
 
@@ -114,7 +114,7 @@ He thinks its possible but not a great idea.  Time Paradox's hurt his head.
 5. Equality for all sentient beings?
 No, he thinks some sentient beings are not the same, and as such do need to be treated differently.
 6. God or other supreme force?
-Yes, but doesn't ascribe to any specific religion, though he does have faith, and its roots stem from catholisim.  But he doesn't believe that god hates anyone not catholic.  But more he(god) wants people to be good to each other. 
+Yes, but doesn't ascribe to any specific religion, though he does have faith, and its roots stem from catholisim.  But he doesn't believe that god hates anyone not catholic.  But more he(god) wants people to be good to each other.
 
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
@@ -129,7 +129,7 @@ Yes, but until it is sealed.
 No, they are as sentient as any geneticly created human.  They've both been created.  So its not that odd to see them as sentient.
 5. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications.
 YES!!!!!111one.
-6. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. 
+6. Technology is more dangerous than mystic energy, and is more likely to destroy us some day.
 No, technology is the future.  Magic is being relyed on too heavily, and is not nearly as controlable as technology is.  If anything it is magic that will bring ruin.
 
 

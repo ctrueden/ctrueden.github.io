@@ -13,14 +13,14 @@ Adam McGlean: Mercabah Technologies Mercury division
 Admiral Rossner: UN Forces Mystic
 
 ## Relevant review of past news:
-Day 28, still no communications with Mercury and no one has traveled to or from the planet.  Scientists still have no explanation of its change in being more silvery. 
+Day 28, still no communications with Mercury and no one has traveled to or from the planet.  Scientists still have no explanation of its change in being more silvery.
 
 ## The story continues...
 Early Friday morning, 9-Jun-2299 after the briefing, Ridge asks whether anyone is adept at FTL theory, but everyone shrugs indicated they are not.  Ridge hopes for a scientific explanation for FTL and not a magical cause.  The spectral and thermal reading from the probes of the planet shows the dragons are warm-blooded.
 
-Fey and Dr Peters head to crew quarters to get some well deserved rest.    Noun and Trenton leave for the mess hall.  
+Fey and Dr Peters head to crew quarters to get some well deserved rest.    Noun and Trenton leave for the mess hall.
 
-In the mess hall Noun shows Trenton and Malcolm his fork structure which he claims has been tampered with by some unidentified individual on the ship.  Malcolm touches the forks in question and Noun is convinced the forks are now even more out of alignment, which neither Malcolm nor Trenton can tell the difference.  
+In the mess hall Noun shows Trenton and Malcolm his fork structure which he claims has been tampered with by some unidentified individual on the ship.  Malcolm touches the forks in question and Noun is convinced the forks are now even more out of alignment, which neither Malcolm nor Trenton can tell the difference.
 
 Trenton contacts Ridge and informs her of Noun's impression that someone else is on board.  Ridge has the computer run more diagnostics.  Trenton hypotheses that some one else came through the archway that the ship sensors can't detect.  The three of them physically search the mess hall.  Trenton notices a breeze near the hall door go by him and calls on Ridge to check with the computers.
 
@@ -50,17 +50,17 @@ We dock with the space settlement.
 
 Noun gives Dr Peters his wooden sculpture of a Chinese dragon (rather than European dragon).
 
-The crew is sequestered for ten minutes as the 28 guests from the settlement enter.  Once the guests settled, the crew moves to the briefing room, where Noun gets under a table and sleeps.  The rest of the crew has some small talk while they wait for the briefing to begin.  
+The crew is sequestered for ten minutes as the 28 guests from the settlement enter.  Once the guests settled, the crew moves to the briefing room, where Noun gets under a table and sleeps.  The rest of the crew has some small talk while they wait for the briefing to begin.
 
 Admiral Rossner and Major Bradley arrive.  Malcolm starts with his understanding of the void, the archway, and its potential danger.  Malcolm is asked to leave for the rest of the briefing since he did not sign the non-disclosure agreement.  Malcolm contests he is cleared for the briefing.  Admiral Rossner makes a check and tells Ridge that Malcolm is clear for all data.
 
-A chronographic presentation is given, a complete briefing is done. 
+A chronographic presentation is given, a complete briefing is done.
 
 Andrew Peters adds he heard terrible things, undescribable.  Infused every fiber of being, horrendeous fear, anger.
 
-How did they survive?  Noun shows his understandings, using tons of arrows.  Ridge extrapolates, based on the Noun's stuff, and shows the archway have tendrils stretching out saving them.  
+How did they survive?  Noun shows his understandings, using tons of arrows.  Ridge extrapolates, based on the Noun's stuff, and shows the archway have tendrils stretching out saving them.
 
-Fey says while inside they felt disembodied, and separate from everything else.  
+Fey says while inside they felt disembodied, and separate from everything else.
 
 Dr Peters doesn't quite understand, and wonders if anyone knows.  Scientists will examine the arch.  Trenton speaks that it was a pocket of safety.  Noun seems to indicate it was just dumb luck that they got out in the ship and not in space.  Maybe the ship found them, perhaps the light, or something?  Ridge concurs they were lucky they exited in the ship.  Perhaps the gravitic field opened it.
 
@@ -125,7 +125,7 @@ A number of the group notices Dr Peters stare intently on Harry Bryant, some sur
 
 Admiral Rossner, Major Bradley.
 
-Any scientists in Midguard, might be able to talk with them.  Besides that's not the task you are assigned to right now.  
+Any scientists in Midguard, might be able to talk with them.  Besides that's not the task you are assigned to right now.
 
 The "woman" (possibly a smaller dragon from the rogue planet) left the bookstore and is walking around in Central Park (currently by Bethesda fountain).
 

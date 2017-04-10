@@ -215,7 +215,7 @@ Some sort of bag, like today's side bags (I keep thinking man-purse) would hold 
 
 A Wazzahusit named Eli, a cute cuddly mouse-like celestial pet known for its odd color contrast (like reverse camouflage). Most of the time it hops on two legs and stands erect like a mere cat. They eat any nuts they can find and love nuzzling.  Has no combat ability, purely for color.  It would have 1 hp, AC 10, Int 3, Dex 12, Str 6, Con 10, Wis 10, Chr 10, no skill points, no attack ability, etc.
 
-##### Family history and relations 
+##### Family history and relations
 
 Extended sister/brother hood probably of a couple hundred.  Has a dozen or so close friends?  All children of God.  Couple of elders he has contact with are Saint Barnabas (image often invoked as peacemaker) and Sister Assisi an Angel who helps the sick, has a love for animals, and helps those that are less fortunate forgiving those tresspasses that are done in mortal need (stealing for hunger, etc).
 
@@ -233,11 +233,11 @@ Hobbies: Yummy foods, great drinks, hilarious jokes, and a good time.
 
 Friends: Makes friends everywhere he goes.  On Earth, he has no &quot;best&quot; friends yet.
 
-Enemies: 
+Enemies:
 
-Greatest achievement 
+Greatest achievement
 
-Greatest failure or disappointment 
+Greatest failure or disappointment
 
 He would never lie to a friend to protect his feelings, but would term things in the best possible way that he believes is most benificial for that friend's well being.
 

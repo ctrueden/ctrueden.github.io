@@ -26,7 +26,7 @@ Across from them is IO, who is also channeling energy, all of this is shooting e
 
 The little girl is called lillith.  It is confirmed this is Luna and Cain.  The pixies are sad since Luna didn't want to do this.  Fey says she trusted in the caretaker.  One of the pixies agrees.
 
-Trenton thinks that Lillith is significantly less powerful than the others, but still overwhelmingly powerful.  
+Trenton thinks that Lillith is significantly less powerful than the others, but still overwhelmingly powerful.
 
 The machine makes the void attack somewhere else.  Fey leaves word she can contacted on Lupis as she has another mission to go on.
 
@@ -38,11 +38,11 @@ Saturday's group left the sphere of influence.  When Max's arm grows back, there
 
 Zee's parents eventually come to.
 
-A digital message is sent asking that they return to the sphere of influence (for mystic energies).  Requesting that they land, and would like to stay where it is most secure, maybe Mr (Merlin) Huntington would know more.  
+A digital message is sent asking that they return to the sphere of influence (for mystic energies).  Requesting that they land, and would like to stay where it is most secure, maybe Mr (Merlin) Huntington would know more.
 
 JP sends message Mr H to arrange for private quarters for Ms Consente and Zee and his guests.  Mr H has already made all the arrangements.  They are to head to the ???  There is a request for a meeting with the UNF about another threat.
 
-Max tries to sense whether Mr H is under any influence, but can't seem to succeed as he is protected.  
+Max tries to sense whether Mr H is under any influence, but can't seem to succeed as he is protected.
 
 Their ship (Huntington's ship- the Adept) is brought directly into the compound
 
@@ -50,7 +50,7 @@ The filthy mongrel get brought to the compound.
 
 Zee agrees to something afterwards?  He says that the white substance may be a life saver -- literally.
 
-The whole bunch of us are in the War room.  No places to sit, rather three kiosks.  
+The whole bunch of us are in the War room.  No places to sit, rather three kiosks.
 
 General Rosner (man with graying hair, with a lot of fairness and patience), Large metallic soulmech (General Khan), man in a robe with the hood over his head Merlin Huntington, Adam McCleen, woman with fine facial features (Adona Consente) a twin Evan Consente (dark circles and tired).
 
@@ -68,7 +68,7 @@ Adam McCleen-Human in a nice business suit -- terminator 3 guy
 Zee-7'2" long blond hair, scales, claws, quarter gold dragon
 Rey-eccentric 22 year old bag lady that doesn't fit in, she is a small white dragon
 
-Max is reading General Khan's mind-filled with worry and fear, running over and over in his mind that antimatter weapons won't work.  They say they won't work, but I don't believe them.  
+Max is reading General Khan's mind-filled with worry and fear, running over and over in his mind that antimatter weapons won't work.  They say they won't work, but I don't believe them.
 
 Khan says there is no net access here for security reasons.
 
@@ -80,7 +80,7 @@ The communicate somehow and meet everyone in the village.  Everyone agreed to be
 
 Zee had a nightmare, his hut caught flame.  They accused him of being a tainted one.
 
-Mr Max had some ability that disabled a whole bunch of people.  
+Mr Max had some ability that disabled a whole bunch of people.
 
 They have militarized and are attacking.  They accused Zee of bringing the Peacemaker upon us.  After that being are transported to the world of the dragons, and we stop.
 
@@ -88,7 +88,7 @@ The ecosystems leave the world in organic shifting bubbles that continually rebu
 
 It moves differently now, more efficiently.
 
-Huntington says they were exposed recently, how is not important.  We have samples of the white and grey goo, that likes to absorbs magic.  It is biologically connected substance.  
+Huntington says they were exposed recently, how is not important.  We have samples of the white and grey goo, that likes to absorbs magic.  It is biologically connected substance.
 
 Holographic imagery, Laborro's skies darken as these blobs come. Giant balls of water smash and coats everything, it crawls to everyone and infects them with milky white eyes with circuitry.
 
@@ -98,7 +98,7 @@ They are still under getting their research back.  The substance was discovered 
 
 The caretaker has not been contacted recently as it is very busy.  It is possible to have the caretaker redirect the weapon, but must convince Eddie to move.  Virgil will look into it.
 
-Antimatter worked well the first time, but they adapted.  They've contacted Mercaba, apparently all the information on that project was lost.  If Mr Cohen or Mr McClean knows of a backup source???  
+Antimatter worked well the first time, but they adapted.  They've contacted Mercaba, apparently all the information on that project was lost.  If Mr Cohen or Mr McClean knows of a backup source???
 
 MrClean provides the grey goo tech sheet.  Behavior evident on Mercury was due to a predominantly mystic effect-but withholding significant information.  It is mostly technical, but has one section with "Magic black boxes".
 
@@ -112,7 +112,7 @@ Recreate the alien life form.
 
 Those fireflies have a will of its own.  The yellow light is the one they are concerned about.
 
-What was used to disable the entire planet since it was mentally joined.  
+What was used to disable the entire planet since it was mentally joined.
 
 The ambrosia they used is unlikely to be ever found again.  McClean says there were also some side effects which can be discussed later.
 
@@ -128,13 +128,13 @@ EMP disrupted the area hit.  The second time seemed ineffective.
 
 Don't why it is attacking us?
 
-Possible motives, purging the taint (magic) now? -&gt; postulates Max.  McClean doesn't want to assume anything? 
+Possible motives, purging the taint (magic) now? -&gt; postulates Max.  McClean doesn't want to assume anything?
 
 Psionic was used to set the hut on fire.  In principle Consente says they are basically the same.  It is eliminating mystic magic, so the void has no interest.
 
 The void is being distracted with a psionic pulse.
 
-Dancing Cat and Rey talking about various things.  The Peacemaker came up, it was stated that they had been running from this tainted world.  Their homework had been tainted and the peacemaker would come back to bring everything back into equilibrium.. They left to avoid the reckoning.  
+Dancing Cat and Rey talking about various things.  The Peacemaker came up, it was stated that they had been running from this tainted world.  Their homework had been tainted and the peacemaker would come back to bring everything back into equilibrium.. They left to avoid the reckoning.
 
 We think throwing magic is bad.  There is some mystic aspects in the nanites control.  Grey goo are not complex enough.
 
@@ -144,17 +144,17 @@ To fix the OL the aspect from Mercury is needed??
 
 Evan Consente offers some information, but state this must stay in this room.    He looks very tired, when we found the white substances, we realized it could provide us with more information.  It led to what happened on Luna.  I established a research program to stop the caretaker's plan (three years ago).  I assigned my top scientist to learn more about this white substance.  It quickly became clear it would be crucial in the operation of ships that drained away and disposed of mystic energy.  A beam would massively drain the energy away.
 
-That is what was used against Luna.  The prototype was disabled and captured by Dee (fifth generation).  The fourth is still around.  The key researcher survived.  
+That is what was used against Luna.  The prototype was disabled and captured by Dee (fifth generation).  The fourth is still around.  The key researcher survived.
 
-Theoretically it just drains energy.  
+Theoretically it just drains energy.
 
 There are plans to evaculate Lupis.
 
-What about Cain, the backlash might act as a poison.  
+What about Cain, the backlash might act as a poison.
 
 We have nanites contaminated with the grey goo -- we can try poisoning it.
 
-Are the nanites breaking down materials in the video, the answer is yes.  Using it to create new things.  
+Are the nanites breaking down materials in the video, the answer is yes.  Using it to create new things.
 
 Three distinct plans:
 Fix the OL -- McClean, Max
@@ -178,7 +178,7 @@ Lots of separate discussions going on.
 
 Ambrosia from the sun, that was used to cure Harry Bryant.
 
-Matt offers that he absorbs disembodied souls.  This is a way to recover souls.  
+Matt offers that he absorbs disembodied souls.  This is a way to recover souls.
 
 
 ===================
@@ -189,7 +189,7 @@ Max is starting to disappear as Huntington divs on him, pushing him close to dis
 
 ===================
 Ridge researching
-Evan Consente and Ridge think about how it can do FTL jumps.  It uses miller 2 algorithm.  On Earth he meets Sagitarius (Soul mech) and is excited about talking about Miller 2.  This is how he got away from Mercury.  
+Evan Consente and Ridge think about how it can do FTL jumps.  It uses miller 2 algorithm.  On Earth he meets Sagitarius (Soul mech) and is excited about talking about Miller 2.  This is how he got away from Mercury.
 
 It uses virus of the white goo to fuel itself, and then consumes it to stop it from growing too much and excretes the dead white goo.
 
@@ -197,7 +197,7 @@ They start talking about outfitting another ship.  They plan up to upgrade.
 
 ===================
 Soemthing about Laiden's past
-Adona uses div and mind control to read Laiden's mind.  This man is not familiar looking into Laiden's mind.  Laiden doesn't think this makes any sense.  It doesn't make sense with what Laiden knows.  She is the first of his people and this person would older than her.  
+Adona uses div and mind control to read Laiden's mind.  This man is not familiar looking into Laiden's mind.  Laiden doesn't think this makes any sense.  It doesn't make sense with what Laiden knows.  She is the first of his people and this person would older than her.
 
 Possible he was masquerading as one of us.  Or a spirit?
 
@@ -209,7 +209,7 @@ Adona is angry about all sort of things that has been going on.  And not knowing
 Discussion on Serra
 Laiden are you okay?  Laiden feels odd as he just learns that Zee is his mom?  Serra talked with Joshua.  Joshua (central computer) says he has escaped Laborro.  It asked if I was interested in enlightenment.  This is first machine that has offered such a thing.  She asks Laiden whether this is okay.  She feels the flaw in her LORE chip prevents some of this.  According to that computer this would free me of that burden and free me of having to serve you and am a bit reluctant, and yet intrigued.  It may allow me to serve better.
 
-We could go after the ones that exploit the weakness.  The caretaker has admitted that he was responsible.  The royals can probably crack the weakness and they may not be willing.  Even if they are not, they may not help.  Serra wishes to follow up on this, Laiden says "I hope we can still be friends".  
+We could go after the ones that exploit the weakness.  The caretaker has admitted that he was responsible.  The royals can probably crack the weakness and they may not be willing.  Even if they are not, they may not help.  Serra wishes to follow up on this, Laiden says "I hope we can still be friends".
 
 Serra pauses for ten minutes.  She says, I think I understand now.  This was probably for the best, but I won't know for sure for a while; still my confidence that the previous weakness is eliminated.  I'm still trying to understand how this works, Joshua has explained it.
 
@@ -251,22 +251,22 @@ Max wants out, but Huntington doesn't believe it would be safe to let him out, w
 When Huntington commands Max, Max does something slightly different.  Huntington pauses after hearing that Max is testing what he can do for himself.
 
 ============r========
-Evan Consente meeting up with Matt wants to know what happen to Zee.  
+Evan Consente meeting up with Matt wants to know what happen to Zee.
 
 
 Zee talks to his parents. His father explains he was a researcher at stratco (Dr Veener) looking into what happen to John Bishop.  Ricksman's child was bombarded with lots of magic.  Elsa and he ran away so they couldn't experiment on you (Zee).
 
 You are not psionic, another kind of mystic.  It would take a lifetime to use it up.
 
-Miller 2 seems to protect Laiden, they take some of the substance (on Laborro).  
+Miller 2 seems to protect Laiden, they take some of the substance (on Laborro).
 
 
 Zuul and Matt allow them to extend the range of his net to 20 feet and it can't be dialed down.  Tinkering it more, it is now 25 feet.
 
 ====================
-She used Noj and Citric to make the first royals, says Zella.  
+She used Noj and Citric to make the first royals, says Zella.
 
-Zella plans to fix Max later.  
+Zella plans to fix Max later.
 
 
 

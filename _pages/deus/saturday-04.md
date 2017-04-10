@@ -43,7 +43,7 @@ However, the growing fear on Lupus during the 12 hours of Dragonstar's thaw pull
 
 Either way, the PCs have some down time back on Earth/Luna (actually useful this time). Rae is probably pretty open to anything. Matt wants to speak with his mother. Vadril might want to return home and speak to the Caretaker. Max wants to find the holder of the Mercury O.L. fragment (everyone will hear the news about Mercury being plunged into the Sun). Zee is still in a coma -- whatever happened to him must have been really bad. And many of them probably want to find Harry Bryant.
 
-Next time Rae sleeps, she has a nightmare about being chased, as usual, but this time it's Glaurung chasing her, not the Beast... or maybe Glaurung ''is'' the Beast. Zee appears in her dream, all creepy-like, and whispers, &quot;You foolish child. You 
+Next time Rae sleeps, she has a nightmare about being chased, as usual, but this time it's Glaurung chasing her, not the Beast... or maybe Glaurung ''is'' the Beast. Zee appears in her dream, all creepy-like, and whispers, &quot;You foolish child. You
 
 __What has Bryant been up to these past few days? He got the Hand.__
 * After learning of Mercury's fate, he has been researching a way to recover those souls, but meeting with little success.

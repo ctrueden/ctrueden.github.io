@@ -15,7 +15,7 @@ Then, unbeknownst to all (even Gaia), an extradimensional being arrived circa 60
 
 The parasite's whispers changed the humans, increasing their ambitions and scientific curiosity.  The humans had been living in the fields, in harmony with nature and practicing shamanic magic.  Now, they multiplied and built cities, slowly leaving their old civilization structure behind.  Emmanuel encouraged a certain lifestyle--one that would result in an advanced, technological society--but most importantly, one that would result in the greatest number of humans for Emmanuel to harvest.  It wasn't enough for many humans simply to exist.  The longer and more satisfying the lives they led, the more appetizing their experiences were to the creature.
 
-Those who heard the whispers most clearly were called prophets.  Emmanuel touched many throughout history, but Moses was one of the first, and from his visions the Ten Commandments were born.  
+Those who heard the whispers most clearly were called prophets.  Emmanuel touched many throughout history, but Moses was one of the first, and from his visions the Ten Commandments were born.
 
 As the humans grew and conquered, the other races retreated deeper into the untamed earth, the elves into the forests, the dwarves into the mountains, and the gnomes and halflings into the hills.  Unfortunately, the Romans lived a life distasteful to Emmanuel, and he grew hungry for them to return to a more noble way of life.  He sent an avatar to convert people back to his cause--an avatar named Jesus of Nazareth.
 
