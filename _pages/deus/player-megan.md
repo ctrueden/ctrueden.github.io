@@ -8,8 +8,8 @@ Status: dropped
 Preferred gaming slot:
 |__1st choice__|Anything|
 ### Hep
-* [Character description](char-public-megan){GROUP(groups=&gt;megan|GMs)}
+* [Character description](char-public-megan)
 * [Private page](char-private-megan)
-* [Experience tally and announcements](announce-megan){GROUP}{GROUP(groups=&gt;GMs)}
-* [Character secrets](char-secrets-megan){GROUP}
+* [Experience tally and announcements](announce-megan)
+* [Character secrets](char-secrets-megan)
 

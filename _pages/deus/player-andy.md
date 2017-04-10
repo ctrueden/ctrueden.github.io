@@ -10,9 +10,9 @@ Preferred gaming slot:
 |__2nd choice__|Any|
 |__3rd choice__|Any|
 ### Brice Murphy
-* [Character description](char-public-andy){GROUP(groups=&gt;andy|GMs)}
+* [Character description](char-public-andy)
 * [Private page](char-private-andy)
-* [Experience tally and announcements](announce-andy){GROUP}{GROUP(groups=&gt;GMs)}
-* [Character secrets](char-secrets-andy){GROUP}
+* [Experience tally and announcements](announce-andy)
+* [Character secrets](char-secrets-andy)
 Pax Artificium character: [Jack Daniels](/pax/pcs/jack.html)
 

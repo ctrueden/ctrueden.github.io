@@ -10,9 +10,9 @@ Preferred gaming slot:
 |__2nd choice__|Wednesday 6:30pm|
 |__3rd choice__|Monday 6:30pm|
 ### Max Cohen
-* [Character description](char-public-nate){GROUP(groups=&gt;nate|GMs)}
+* [Character description](char-public-nate)
 * [Private page](char-private-nate)
-* [Experience tally and announcements](announce-nate){GROUP}{GROUP(groups=&gt;GMs)}
-* [Character secrets](char-secrets-nate){GROUP}
+* [Experience tally and announcements](announce-nate)
+* [Character secrets](char-secrets-nate)
 Pax Artificium character: [Gerald](/pax/pcs/gerald.html)
 

@@ -8,9 +8,9 @@ Status: confirmed
 Preferred gaming slot:
 |__1st choice__|Anything but Wednesday|
 ### Rae Denisen
-* [Character description](char-public-eva){GROUP(groups=&gt;eva|GMs)}
+* [Character description](char-public-eva)
 * [Private page](char-private-eva)
-* [Experience tally and announcements](announce-eva){GROUP}{GROUP(groups=&gt;GMs)}
-* [Character secrets](char-secrets-eva){GROUP}
+* [Experience tally and announcements](announce-eva)
+* [Character secrets](char-secrets-eva)
 Pax Artificium character: [Sara Cassenti](/pax/pcs/sara.html)
 

@@ -7,8 +7,8 @@ category: deus
 Status: confirmed
 
 ### Laiden Rahu
-* [Character description](char-public-jason){GROUP(groups=&gt;jason|GMs)}
+* [Character description](char-public-jason)
 * [Private page](char-private-jason)
-* [Experience tally and announcements](announce-jason){GROUP}{GROUP(groups=&gt;GMs)}
-* [Character secrets](char-secrets-jason){GROUP}
+* [Experience tally and announcements](announce-jason)
+* [Character secrets](char-secrets-jason)
 
