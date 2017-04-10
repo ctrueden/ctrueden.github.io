@@ -4,8 +4,8 @@ title: Non-Player Characters
 permalink: /deus/non-player-characters
 category: deus
 ---
-{SPLIT()}
 ## Entities
+
 * [Aries](npc-mars)
 * [Caretaker, The](npc-caretaker)
 * [Destroyer, The](npc-destroyer)
@@ -21,6 +21,7 @@ category: deus
 * [Void, The](npc-void)
 
 ## Organizations
+
 * [Arcane Order, The](org-arcane-order)
 * [Brotherhood of Homo Sapiens Superior, The](org-brotherhood)
 * [Gaia's Ancient Order](org-gaia)
@@ -34,9 +35,8 @@ category: deus
 * [U.N. Forces](org-un-forces)
 * [World Mystics Guild](org-mystics)
 
----
 ## NPCs
-### A-B
+
 * [Abaddon](npc-abaddon)
 * [Albus](npc-albus) ''deceased''
 * [Alfadir](npc-alfadir)
@@ -50,7 +50,6 @@ category: deus
 * [Brains](npc-brains) ''deceased''
 * [Briarnas, Golren](npc-golren)
 * [Bryant, Harry](npc-bryant)
-### C
 * [Cain](npc-cain) ''transformed''
 * [Cassenti, Aben](npc-aben)
 * [Cassenti, Adana](npc-adana)
@@ -76,7 +75,6 @@ category: deus
     * [Smaug](npc-smaug)
     * [Tiamat](npc-tiamat)
     * [Tien-Lung](npc-tien-lung)
-### D-G
 * [Dancing Cat](npc-dancing-cat)
 * [Darkeye, Himpur](npc-himpur)
 * [Davis, Ron](npc-davis)
@@ -98,7 +96,6 @@ category: deus
 * [Greenhorn, Sledge](npc-sledge)
 * [Growling Bear](npc-growling-bear)
 * [Gryffinclaw, Etnia](npc-etnia) ''deceased''
-### H-L
 * [Hoenir](npc-hoenir)
 * [Huntington, Merlin](npc-merlin)
 * [Iason](npc-iason)
@@ -115,7 +112,6 @@ category: deus
     * [Jungel](npc-jungel)
     * [Myr](npc-myr)
 * [Liza](npc-liza)
-### M
 * Machine Disciples, The:
     * [Freeman, Bruce](npc-freeman)
     * [Annie](npc-annie)
@@ -141,7 +137,6 @@ category: deus
 * [Morningcrow, Sarah](npc-morningcrow)
 * [Morningdew, Sartus](npc-sartus) ''evanesced''
 * [Moss, William](npc-moss)
-### N-R
 * [Nyx, Everlily](npc-nyx)
 * [Ocean, Daniel](npc-ocean)
 * [Pandemonium, Penelope](npc-penelope)
@@ -151,7 +146,6 @@ category: deus
 * [Rixmann, Varick](npc-varick)
 * [Rufus](npc-rufus)
 * [Rossner, Admiral](npc-rossner)
-### S-U
 * [Savage, Hunter](npc-hunter) ''destroyed''
 * [Seeker](npc-seeker)
 * [Serendipity/Serra](npc-serra)
@@ -170,7 +164,6 @@ category: deus
 * [Thirsty Sapling](npc-thirsty-sapling)
 * [Ti-Lung](npc-ti-lung)
 * [Tolorin, Benek](npc-benek)
-### V-Y
 * [Verner, Felix](npc-felix)
 * [Verner, Madison](npc-madison)
 * [Volokhov, Ivan](npc-ivan-volokhov) ''consumed''
@@ -182,7 +175,6 @@ category: deus
 * [Welsh, Brian](npc-welsh)
 * [Weiner, Holden](npc-weiner)
 * [Xela](npc-xela)
-### Z
 * [Zarkovsky, Petrov](npc-petrov)
 * Zodiac computers:
     * [Aquarius](npc-aquarius)
@@ -197,5 +189,3 @@ category: deus
     * [Scorpio](npc-scorpio) ''destroyed''
     * [Taurus](npc-taurus)
     * [Virgo](npc-virgo)
-{SPLIT}
-
