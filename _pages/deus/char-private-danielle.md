@@ -12,28 +12,28 @@ A technodruid pixie who is a member of Gaia's Ancient Order. She became project 
 ## Questionnaire
 
 Would your character (1=Never, 5=Always):
-1. Lie to a friend to protect his feelings? ~~#FF0000:2 - I would also lie to them for fun, as long as it was not truly malicious.~~
-1. Help a frail old woman cross the street? ~~#FF0000:3 - fairly neutral, the more &quot;worthy&quot; she was and the more in dire need the better chance that I would do it; otherwise it seems kinda demoralizing for her and boring for me~~
-1. Tell anyone if he saw something widely believed to be impossible? ~~#FF0000:4 - if I care to share then of course I would~~
-1. Give money to a beggar on the street? ~~#FF0000:2 - muwahahahaa....we'll see~~
-1. Seek vengeance if wronged? ~~#FF0000:5 - oh yeah, but usually with a tricky prank or making them understand worth more (not really the 'eye for an eye' thing)~~
-1. Steal if he thought he could get away with it? ~~#FF0000:4 - almost all of the time~~
+1. Lie to a friend to protect his feelings? <span style="color: #FF0000">2 - I would also lie to them for fun, as long as it was not truly malicious.</span>
+1. Help a frail old woman cross the street? <span style="color: #FF0000">3 - fairly neutral, the more &quot;worthy&quot; she was and the more in dire need the better chance that I would do it; otherwise it seems kinda demoralizing for her and boring for me</span>
+1. Tell anyone if he saw something widely believed to be impossible? <span style="color: #FF0000">4 - if I care to share then of course I would</span>
+1. Give money to a beggar on the street? <span style="color: #FF0000">2 - muwahahahaa....we'll see</span>
+1. Seek vengeance if wronged? <span style="color: #FF0000">5 - oh yeah, but usually with a tricky prank or making them understand worth more (not really the 'eye for an eye' thing)</span>
+1. Steal if he thought he could get away with it? <span style="color: #FF0000">4 - almost all of the time</span>
 
 Does your character believe in (1=Not at all, 5=Strongly):
-1. Aliens? ~~#FF0000:5~~
-1. Karma? ~~#FF0000:5 (I strongly believe in it yet I strangely do some things that are fun but would generally be considered more of something to provoke bad karma and yet I don't think not that much, if any, will/should ever come my way)~~
-1. Free will (i.e., many possible futures)? ~~#FF0000:5~~
-1. Time travel? ~~#FF0000:4~~
-1. Equality for all sentient beings? ~~#FF0000:4 - I believe that they should be treated equal and I do my best in this but I have some doubts about some that I do not mention, except rarely to other Gaians.~~
-1. God or other supreme force? ~~#FF0000:5 (though they may be a little overbearing at times)~~
+1. Aliens? <span style="color: #FF0000">5</span>
+1. Karma? <span style="color: #FF0000">5 (I strongly believe in it yet I strangely do some things that are fun but would generally be considered more of something to provoke bad karma and yet I don't think not that much, if any, will/should ever come my way)</span>
+1. Free will (i.e., many possible futures)? <span style="color: #FF0000">5</span>
+1. Time travel? <span style="color: #FF0000">4</span>
+1. Equality for all sentient beings? <span style="color: #FF0000">4 - I believe that they should be treated equal and I do my best in this but I have some doubts about some that I do not mention, except rarely to other Gaians.</span>
+1. God or other supreme force? <span style="color: #FF0000">5 (though they may be a little overbearing at times)</span>
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-1. Now that machines are smarter than humans, biological life is obsolete. ~~#FF0000:1 - a soul, and maybe even a body, make you more sacred~~
-1. The Caretaker has no business meddling in our affairs. ~~#FF0000:3~~
-1. Those who can wield magic are obligated to use their power for the good of all Terrans. ~~#FF0000:4~~
-1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  ~~#FF0000:2 - I do not believe that it is an illusion but I do think they do not have a natural magestic tie to those around them and their creator and that they are therefore a bit inferior and plain unlucky.~~
-1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. ~~#FF0000:1 - mystic energy is too natural and good for it to cause any ramifications of any real concern.~~
-1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. ~~#FF0000:5 ~~
+1. Now that machines are smarter than humans, biological life is obsolete. <span style="color: #FF0000">1 - a soul, and maybe even a body, make you more sacred</span>
+1. The Caretaker has no business meddling in our affairs. <span style="color: #FF0000">3</span>
+1. Those who can wield magic are obligated to use their power for the good of all Terrans. <span style="color: #FF0000">4</span>
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life.  <span style="color: #FF0000">2 - I do not believe that it is an illusion but I do think they do not have a natural magestic tie to those around them and their creator and that they are therefore a bit inferior and plain unlucky.</span>
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. <span style="color: #FF0000">1 - mystic energy is too natural and good for it to cause any ramifications of any real concern.</span>
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. <span style="color: #FF0000">5 </span>
 
 
 ## Backstory

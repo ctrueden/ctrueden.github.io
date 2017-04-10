@@ -80,7 +80,7 @@ I don't know how broken the eyes are, if they are, but give me your thoughts ple
 
 What I wanted, was that the eyes are tied into his undeveloped magical abilities.  You made a mention of how noone had figured out how to mess with magic in genetics.  And I wanted a certain degree of mystery around his eyes.  In that its very unlikely for someone else to have gotten a treatment and now has the same abilities.  So I figured if his ancestors from the order had been tinkering with better ways to fight magic, by experimenting on themselves with what limited genetic engineering there was, and enchantments and such.  He has become the legacy of the order, as oposed to being the legacy of his crazy parants.  I think it would make the character more tied to his goal.  As for why the power finally manifested, I again wanted it to be mysterious.  His parents could have finished the last piece of the 'puzzle' perhaps when genetically modifying him.
 
-~~#FF0000:This makes sense. Sounds good!~~
+<span style="color: #FF0000">This makes sense. Sounds good!</span>
 
 
 ## Questionnaire

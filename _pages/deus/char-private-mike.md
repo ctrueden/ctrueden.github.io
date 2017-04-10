@@ -36,28 +36,28 @@ There are enough royals in existence now that Vadril is probably not too high in
 ### Questionnaire
 
 Would your character (1=Never, 5=Always):
-1. Lie to a friend to protect his feelings? ~~#7F007F:2~~
-1. Help a frail old woman cross the street? ~~#7F007F:4~~
-1. Tell anyone if he saw something widely believed to be impossible? ~~#7F007F:4 (for the purpose of finding an explanation)~~
-1. Give money to a beggar on the street? ~~#7F007F:3~~
-1. Seek vengeance if wronged? ~~#7F007F:1~~
-1. Steal if he thought he could get away with it? ~~#7F007F:1~~
+1. Lie to a friend to protect his feelings? <span style="color: #7F007F">2</span>
+1. Help a frail old woman cross the street? <span style="color: #7F007F">4</span>
+1. Tell anyone if he saw something widely believed to be impossible? <span style="color: #7F007F">4 (for the purpose of finding an explanation)</span>
+1. Give money to a beggar on the street? <span style="color: #7F007F">3</span>
+1. Seek vengeance if wronged? <span style="color: #7F007F">1</span>
+1. Steal if he thought he could get away with it? <span style="color: #7F007F">1</span>
 
 Does your character believe in (1=Not at all, 5=Strongly):
-1. Aliens? ~~#7F007F:5~~
-1. Karma? ~~#7F007F:1~~
-1. Free will (i.e., many possible futures)? ~~#7F007F:5~~
-1. Time travel? ~~#7F007F:3~~
-1. Equality for all sentient beings? ~~#7F007F:5~~
-1. God or other supreme force? ~~#7F007F:1~~
+1. Aliens? <span style="color: #7F007F">5</span>
+1. Karma? <span style="color: #7F007F">1</span>
+1. Free will (i.e., many possible futures)? <span style="color: #7F007F">5</span>
+1. Time travel? <span style="color: #7F007F">3</span>
+1. Equality for all sentient beings? <span style="color: #7F007F">5</span>
+1. God or other supreme force? <span style="color: #7F007F">1</span>
 
 What does your character think about the following statements (1=Strongly disagree, 3=Neutral, 5=Strongly agree):
-1. Now that machines are smarter than humans, biological life is obsolete. ~~#7F007F:4 (Perfection through machines, but so much to learn about humans yet)~~
-1. The Caretaker has no business meddling in our affairs. ~~#7F007F:1~~
-1. Those who can wield magic are obligated to use their power for the good of all Terrans. ~~#7F007F:5~~
-1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. ~~#7F007F:1~~
-1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. ~~#7F007F:2~~
-1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. ~~#7F007F:1~~
+1. Now that machines are smarter than humans, biological life is obsolete. <span style="color: #7F007F">4 (Perfection through machines, but so much to learn about humans yet)</span>
+1. The Caretaker has no business meddling in our affairs. <span style="color: #7F007F">1</span>
+1. Those who can wield magic are obligated to use their power for the good of all Terrans. <span style="color: #7F007F">5</span>
+1. No matter how realistic the programming, machine intelligence is an illusion; thus, machines should not be afforded the same rights as true sentient life. <span style="color: #7F007F">1</span>
+1. Humanity has been rash in seeding other worlds with mystic energy before fully grasping the ramifications. <span style="color: #7F007F">2</span>
+1. Technology is more dangerous than mystic energy, and is more likely to destroy us some day. <span style="color: #7F007F">1</span>
 
 
 __AI Researcher__
