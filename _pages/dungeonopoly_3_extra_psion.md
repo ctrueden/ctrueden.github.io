@@ -33,7 +33,7 @@ At level 1, the psion begins play with the "**Mind Thrust**" power. The psion de
 
 At level 2, the psion learns the "**Empty Mind**" power. The psion floats in an expanse of vacuous conception, emptying her mind of all transitory and distracting thoughts. In response to owing money, the amount owed is reduced according to the table given above. Empty Mind is a defensive power.
 
-At level 3, the psion learns the "**Ego Whip**" power. The psion's rapid mental lashings assault the ego of a character within limited range. The character is dazed: the next time she rolls for movement, the movement is forfeit. She moves no squares, and counts as landing on her current square again. Ego Whip is a mental enchantment effect, which costs 2 PP to manifest.
+At level 3, the psion learns the "**Ego Whip**" power. The psion's rapid mental lashings assault the ego of an opponent within limited range. The opponent is dazed: the next time she rolls for movement, the movement is forfeit. She moves no squares, and counts as landing on her current square again. Ego Whip is a mental enchantment effect, which costs 2 PP to manifest.
 
 At level 4, the psion learns the "**Modify Memory**" power. The psion reaches into the mind of an opponent within limited range, manipulating her memories. Control of the opponent's least expensive property, including any improvements, transfers to the psion.
 
@@ -41,9 +41,9 @@ Each time someone owes rent on the property, the original owner rolls a d20: if 
 
 Modify Memory cannot be stacked—that is, casting it twice on the same opponent has no additional effect. Modify Memory is a mental enchantment effect, which costs 2 PP to manifest.
 
-At level 5, the psion learns the "**Thought Leech**" power. The psion's brow erupts with an arc of crackling dark energy that connects with a creature within limited range. For every 3 PP spent, an enchantment currently affecting the target creature transfers to the psion, affecting her instead.
+At level 5, the psion learns the "**Thought Leech**" power. The psion's brow erupts with an arc of crackling dark energy that connects with an opponent within limited range. For every 3 PP spent, an enchantment currently affecting the target opponent transfers to the psion, affecting her instead.
 
-At level 6, the psion learns the "**Id Insinuation**" power. Tendrils of thought disrupt a characters's unconscious mind, slicing through her mental defenses. The character is confused: the next time she rolls for movement, she moves backwards around the board instead of forwards. She counts as passing over and landing on squares as normal. Id Insinuation is a mental enchantment effect, which costs 3 PP to manifest.
+At level 6, the psion learns the "**Id Insinuation**" power. Tendrils of thought disrupt an opponent's unconscious mind, slicing through her mental defenses. The opponent is confused: the next time she rolls for movement, she moves backwards around the board instead of forwards. She counts as passing over and landing on squares as normal. Id Insinuation is a mental enchantment effect, which costs 3 PP to manifest.
 
 At level 7, the psion learns the "**Genesis**" power. A local density fluctuation precipitates the creation of a unique demiplane between two adjacent squares of the board within limited range. The psion chooses a card from the discard pile of either Community Chest or Chance, placing it under the edge of the board between the two adjacent squares. The chosen card is not returned to the deck—even for shuffling—unless the demiplane is dispelled.
 
@@ -65,7 +65,6 @@ At level 10, the psion learns the "**Psychic Crush**" power. The psion's will cr
 
 *   Your powers are well suited to monopolizing the first edge of the board:
     *   Use Modify Memory to subvert opponents' weak properties.
-    *   Use Id Insinuation on yourself for extra chances at purchasing property.
     *   Use Genesis to create Chance demiplanes on the first edge.
     *   Use Ego Whip on opponents after they land on your most punishing properties.
     *   Use Id Insinuation and Psychic Crush on opponents to inflict multiple rounds of pain.
