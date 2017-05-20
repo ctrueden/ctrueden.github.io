@@ -17,9 +17,11 @@ Like normal Monopoly, Dungeonopoly can become very political. For example, a fou
 
 ### Quicker game
 
+*   Start with the Monopoly fast game rules:
+    *   Shuffle properties and deal three to each player to start
+    *   Spend only one turn max in jail rather than three
+    *   Houses cap out at three rather than four
 *   5 EP per level
-*   Double all fees: damage, Community Chest/Chance, jail, etc.
-*   Cut all gains in half: Pick Pockets, Community Chest/Chance, etc.
 
 ### Blitz game
 
