@@ -18,7 +18,7 @@ At level 3, the wizard learns "**Mage Armor**." After casting this spell she is 
 
 At level 4, the wizard learns "**Slow**." This spell slows a character within limited range. The next time that character rolls for movement, she rolls only 1d6 instead of 2d6\. A slowed fighter who runs rolls only 2d6 instead of 3d6, and since one of these dice is an "extra" die, the fighter cannot roll doubles or lucky seven. A slowed rogue who sneaks moves only half as far—1 square on a roll of 1 or 2, 2 squares on a roll of 3 or 4, or 3 squares on a roll of 5 or 6\. Slow is an enchantment effect.
 
-At level 5, the wizard learns "**Invisibility**." Before a movement roll, she may cast this spell to become unseen. During that turn's movement, she does not count as passing over or landing on any squares—his figurine moves, but there are no consequences to the move: she owes no rent, collects no money from passing GO, etc. Invisibility is an enchantment effect.
+At level 5, the wizard learns "**Invisibility**." She may cast this spell to become unseen. During any subsequent movement that turn, she does not count as passing over or landing on any squares—his figurine moves, but there are no consequences to the move: she owes no rent, collects no money from passing GO, etc. Invisibility is an enchantment effect.
 
 Until her next turn, the wizard is considered hidden.
 
