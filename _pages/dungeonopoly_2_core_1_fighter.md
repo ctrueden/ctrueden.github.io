@@ -22,7 +22,7 @@ At level 6, the fighter can "**Raze**" enemy buildings. Whenever she lands on an
 
 At level 7, the fighter can "**Fortify**" her own property. Whenever she lands on her own property, she can add a house, to a maximum of four. Four houses cannot be fortified into a hotel, and the fighter cannot purchase a property and fortify it on the same turn—that is, it must be her when she lands on it. Mortgaged properties cannot be fortified. The fighter need not have a monopoly to fortify a given property.
 
-At level 8, the fighter can "**Conquer**" opponents' property. Whenever she lands on an opponent's mortgaged property, she gains control of it—i.e., the title transfers to her. She need not pay any transfer fees, although the property remains mortgaged.
+At level 8, the fighter can "**Conquer**" opponents' property. Whenever she lands on an opponent's mortgaged property, she may choose to gain control of it—i.e., transfer the title to her. As usual when a mortgaged property changes hands, she must either pay to unmortgage the property on the spot (110% of the mortgage value) or pay a 10% transfer fee and leave the property mortgaged.
 
 At level 9, the fighter gains "**Veteran**" status. When damaged, she pays half the usual amount. This is an automatic effect which does not award EP.
 
