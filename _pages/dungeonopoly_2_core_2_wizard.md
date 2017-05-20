@@ -26,7 +26,7 @@ At level 6, the wizard learns "**Charm Person**." This spell charms an opponent 
 
 At level 7, the wizard learns "**Counterspell**." This spell dispels an enchantment within limited range. Thus, the wizard could use it to dispel Bless or Curse from the current property, Charm Person from herself, Mage Armor or Shield of Faith from an opponent on the same square, etc.
 
-Alternately, she can cast Counterspell to cancel out a spell being cast by another character anywhere on the board. Since casting in this manner happens during a different character's turn, it does not count toward the one spell per turn limit.
+Alternately, she can cast Counterspell to cancel out a spell being cast by another character anywhere on the board.
 
 Note that Counterspell targets spells and enchantments, not the character casting them—hence, a cleric with Shield of Faith active can still have her spells countered, and a cleric protected by Sanctuary can have the Sanctuary dispelled.
 
