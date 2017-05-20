@@ -10,7 +10,7 @@ Wizards have a variety of useful spells in their arsenal.
 
 Wizards begin play with one spell, and obtain another spell each time they gain a level.
 
-At level 1, the wizard begins with "**Magic Missile**." This spell damages an opponent within limited range.
+At level 1, the wizard begins with "**Magic Missile**." This spell damages an opponent within limited range. Magic Missile is a cantrip.
 
 At level 2, the wizard learns "**Expeditious Retreat**." Before a movement roll, she may cast this spell to double the results of the next movement roll this turn.
 

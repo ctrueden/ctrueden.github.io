@@ -41,7 +41,7 @@ The following additional basic rules are in effect when playing Dungeonopoly:
     *   "_Hidden_" - A hidden character is immune to spells and abilities that target her. Thus, she cannot be attacked, nor can she be affected by Magic Missile, Charm Person, Telekinesis or Holy Smite, although Fireball would still damage her since it does not target her specifically.
 
 11. Spellcasting has a few special rules:
-    *   All spells are single use only.
+    *   Unless otherwise noted, spells are single use only. Spells without this limitation are called _cantrips_.
     *   Unless otherwise noted, spells can be cast either before or after moving, but only one spell can be cast per turn, even if doubles are rolled. If casting before moving, the spell must be cast before rolling dice for movement. Casting between movement rolls (if doubles are rolled) is allowed, but casting on the way to jail—e.g., after rolling doubles for the third time—is not.
     *   Some spells have specific conditions which allow them to be cast during another character's turn; such castings do not count toward the one spell per turn limit.
 
