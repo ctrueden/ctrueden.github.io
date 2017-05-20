@@ -45,6 +45,5 @@ At level 10, the bard gains "**Jack-of-All-Trades**" status, learning three abil
 *   There are many great choices for Jack-of-All-Trades—e.g.:
     *   Song of Freedom combos well with Combat Reflexes to damage many opponents as you fly around the board.
     *   Fascinate combos well with Attack and/or Pick Pockets to pull in and then punish nearby opponents.
-    *   It is especially helpful to have more tools for refining your movement such as Sneak, Run or Expeditious Retreat. Such abilities make it easier to tow opponents onto your properties effectively.
+    *   It is especially helpful to have more tools for refining your movement such as Sneak or Expeditious Retreat. Such abilities make it easier to tow opponents onto your properties effectively.
 *   Dealing with Ascended clerics can be difficult since you cannot tow them. Consider focusing on enemy clerics early on in the game. You can also select Jack-of-All-Trades abilities which offer ways to punish the cleric such as Holy Smite and Far Shot, as well as defensive abilities such as Intimidate.
-
