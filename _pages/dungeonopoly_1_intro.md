@@ -34,7 +34,7 @@ The following additional basic rules are in effect when playing Dungeonopoly:
 
 10. There are a few technical terms which help to describe abilities succinctly:
     *   "_Single use only_" - These abilities may only be used once each time around the board. Passing GO clears these abilities for another use.
-    *   "_Limited range_" - If the user is level four or less, these abilities can target a character on the same square, or up to one square away in either direction. If the user is between levels five and eight, they can target a character up to two squares away. If the user is level nine or ten, they can target a character up to three squares away.
+    *   "_Limited range_" - These abilities can target a nearby character on the same square or up to some number of squares away in either direction. The level of the user determines the maximum distance as follows: 1-2 = 1 square, 3-4 = 2 squares, 5-6 = 3 squares, 7-8 = 4 squares, 9-10 = 5 squares.
     *   "_Line of sight_" - These abilities can target a character on the same edge of the board. If the user is on a corner square, she counts as on both adjoining edges.
     *   "_Enchantment effect_" - These abilities leave a lasting impression which can be targeted by certain other abilities such as Counterspell.
     *   "_Mental effect_" - These abilities target a character's mind. Certain characters (e.g., Ascended clerics) are immune to such effects.
