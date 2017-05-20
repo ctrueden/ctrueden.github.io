@@ -34,7 +34,10 @@ At level 8, the wizard learns "**Fireball**." When cast, all houses and hotels o
 
 At level 9, the wizard learns "**Telekinesis**." Any character on the board may be targeted, including the wizard herself. The targeted character moves between one and five squares, either forward or backward. The character does count as passing over any squares that get crossed—so passing GO and collecting $200 due to Telekinesis is possible. However, the character does not count as having landed on the final square. Thus, using Telekinesis to push an opponent three spaces back onto a property with a hotel does not cause that opponent to owe rent for that property. In the case of landing on GO with telekinesis, collect $200 for "passing" GO but not the extra $200 for landing on it.
 
-At level 10, the wizard learns "**Wish**." She can cast it to duplicate the effects of any other spell of any class. Alternatively, when the current square is already owned, the wizard may use Wish to place a hotel on the property, even if it is not part of a monopoly. Wish has a $500 casting cost.
+At level 10, the wizard learns "**Wish**." She can cast it to perform one of the following actions:
+
+* Duplicate the effects of any other spell of any class. Using Wish in this way has a casting cost equal to that of the duplicated spell, or $20, whichever is higher.
+* When the current square is owned and unmortgaged, the wizard may use Wish to place a hotel on the property, even if it is not part of a monopoly. Using Wish in this way has a $500 casting cost.
 
 #### Wizard tactics
 
