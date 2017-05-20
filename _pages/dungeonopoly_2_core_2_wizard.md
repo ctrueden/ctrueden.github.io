@@ -36,8 +36,10 @@ At level 9, the wizard learns "**Telekinesis**." Any character on the board may 
 
 At level 10, the wizard learns "**Wish**." She can cast it to perform one of the following actions:
 
-* Duplicate the effects of any other spell of any class. Using Wish in this way has a casting cost equal to that of the duplicated spell, or $20, whichever is higher.
-* When the current square is owned and unmortgaged, the wizard may use Wish to place a hotel on the property, even if it is not part of a monopoly. Using Wish in this way has a $500 casting cost.
+* Duplicate the effects of any other spell of any class. Using Wish in this way has a casting cost equal to that of the duplicated spell, or $10, whichever is higher.
+* Unmortgage the current property. The property must be mortgaged. Using Wish in this way has a $20 casting cost.
+* Gain ownership of the current property. The property must be unowned. Using Wish in this way has a $50 casting cost.
+* Place a hotel on the current property, even if it is not part of a monopoly. The property must be owned and unmortgaged. Using Wish in this way has a $500 casting cost.
 
 #### Wizard tactics
 
@@ -49,4 +51,5 @@ At level 10, the wizard learns "**Wish**." She can cast it to perform one of the
 *   Keep all your opponents charmed whenever possible.
 *   Use Counterspell, Fireball and Wish to make deals with opponents. Threaten to destroy all their houses, offer to dispel an enemy Curse, or even place a hotel on their property, in exchange for money, property or services.
 *   Use Telekinesis to maneuver an opponent to a location with the greatest chance of landing on your improved properties—seven squares away is statistically most likely.
+*   Use Wish with Telekinesis to cheaply unmortgage or upgrade your own properties, as well as to pick up any properties which are still unowned.
 *   Study the cleric spells as well, since Wish can duplicate any cleric spell.
