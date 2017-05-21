@@ -35,7 +35,7 @@ At level 5, the warlock develops supernatural fortitude. This is an automatic ef
 
 At level 6, the warlock selects a second Eldritch Blast enhancement from the above list.
 
-At level 7, the warlock learns the "**Dark One's Own Luck**" ability. Before rolling 2d6 for movement, she may invoke this ability to roll 3d6 and choose which two dice to keep after seeing the results. This is a single use ability.
+At level 7, the warlock learns the "**Dark One's Own Luck**" ability. Before rolling 2d6 for movement, she may invoke this ability to roll 3d6 and choose which two dice to keep after seeing the results. This ability is single use only.
 
 At level 8, the warlock selects a third Eldritch Blast enhancement from the above list.
 
