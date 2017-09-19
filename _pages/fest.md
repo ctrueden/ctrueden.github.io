@@ -391,9 +391,9 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
-    <tr>
+    <tr style="background: #ddd">
       <th><a href="https://en.wikipedia.org/wiki/Persona_5">Persona 5</a></th>
-      <td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td><td>?</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>+</td><td>-</td><td>-</td>
     </tr>
 
   </tbody>
