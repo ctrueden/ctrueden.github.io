@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Healing
-permalink: /mystic/spheres/healing/
+permalink: /mystic/spheres/healing
 category: mystic2
 ---
 Healing is the sphere for **repairing things that are broken**. With

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Important techniques
-permalink: /mystic/techniques/
+permalink: /mystic/techniques
 category: mystic1
 ---
 Mystics have some powerful tools at their disposal. The following

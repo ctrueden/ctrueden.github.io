@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic classes
-permalink: /mystic/classes/
+permalink: /mystic/classes
 category: mystic1
 ---
 There are many ways to incorporate mystic magic into a campaign. The

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Holy Sorcerer
-permalink: /rules/holy-sorcerer/
+permalink: /rules/holy-sorcerer
 category: rules
 snippet: A hybrid arcane/divine class for D&D 3rd edition.
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Normal and Half progressions
-permalink: /mystic/points/types/
+permalink: /mystic/points/types
 category: mystic2
 ---
 When following the Normal sphere point progression, the mystic gains

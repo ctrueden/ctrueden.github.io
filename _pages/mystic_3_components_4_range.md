@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Range
-permalink: /mystic/components/range/
+permalink: /mystic/components/range
 category: mystic2
 ---
 Initially, a mystic effect has a range of five feet from the mystic

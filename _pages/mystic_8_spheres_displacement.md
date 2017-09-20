@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Displacement
-permalink: /mystic/spheres/displacement/
+permalink: /mystic/spheres/displacement
 category: mystic2
 ---
 Displacement is the sphere for **altering the spatial and temporal

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cleric
-permalink: /rules/dungeonopoly/cleric/
+permalink: /rules/dungeonopoly/cleric
 category: dungeonopoly2
 ---
 The cleric is chosen by the gods, granted holy powers and blessings.

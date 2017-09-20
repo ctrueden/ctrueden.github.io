@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Efficient Burst [Metamagic]
-permalink: /mystic/feats/efficientBurst/
+permalink: /mystic/feats/efficientBurst
 category: mystic2
 ---
 When converting a single-target effect to a five-foot area effect (see

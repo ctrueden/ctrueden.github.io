@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Destruction
-permalink: /mystic/spheres/destruction/
+permalink: /mystic/spheres/destruction
 category: mystic2
 ---
 Destruction is the sphere for **eliminating matter and magic**. With

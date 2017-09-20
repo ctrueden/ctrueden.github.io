@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Basics of mystic magic
-permalink: /mystic/basics/
+permalink: /mystic/basics
 category: mystic1
 ---
 Instead of casting spells, a mystic performs magic by combining flows of

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Paladin
-permalink: /rules/dungeonopoly/paladin/
+permalink: /rules/dungeonopoly/paladin
 category: dungeonopoly2
 ---
 The paladin is a holy knight who focuses on chivalry and defense.

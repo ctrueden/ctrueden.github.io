@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wizard
-permalink: /rules/dungeonopoly/wizard/
+permalink: /rules/dungeonopoly/wizard
 category: dungeonopoly2
 ---
 Wizards have a variety of useful spells in their arsenal.

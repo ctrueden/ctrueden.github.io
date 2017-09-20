@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Fest
-permalink: /fest/
+permalink: /fest
 category: menu
 ---
 

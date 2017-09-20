@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Psion
-permalink: /rules/dungeonopoly/psion/
+permalink: /rules/dungeonopoly/psion
 category: dungeonopoly2
 ---
 The psion manipulates her enemies with barrages of mental energy.

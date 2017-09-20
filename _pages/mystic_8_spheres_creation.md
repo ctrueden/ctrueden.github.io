@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creation
-permalink: /mystic/spheres/creation/
+permalink: /mystic/spheres/creation
 category: mystic2
 ---
 Creation is the sphere for conceiving matter from nothing. With

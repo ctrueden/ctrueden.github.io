@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The spheres in detail
-permalink: /mystic/spheres/
+permalink: /mystic/spheres
 category: mystic1
 ---
 The following sections give information about each sphere, including a

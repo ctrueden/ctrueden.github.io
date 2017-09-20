@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mass Combat: Heroic"
-permalink: /rules/mass-combat-heroic/
+permalink: /rules/mass-combat-heroic
 category: rules
 snippet: Simple D&D3E combat on a massive scale
 ---

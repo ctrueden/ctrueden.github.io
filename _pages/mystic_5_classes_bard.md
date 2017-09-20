@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic bard
-permalink: /mystic/classes/bard/
+permalink: /mystic/classes/bard
 category: mystic2
 ---
 The mystic bard is a special breed, one that has decided to pursue a

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Far Reach [Metamagic]
-permalink: /mystic/feats/farReach/
+permalink: /mystic/feats/farReach
 category: mystic2
 ---
 Whenever the mystic spends any extra sphere points to increase an

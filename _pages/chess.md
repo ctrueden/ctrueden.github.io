@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chess
-permalink: /checkmate/
+permalink: /checkmate
 category: menu
 ---
 

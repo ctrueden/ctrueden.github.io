@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kinetics
-permalink: /mystic/spheres/kinetics/
+permalink: /mystic/spheres/kinetics
 category: mystic2
 ---
 Kinetics is the sphere for **moving things with magical force**. With

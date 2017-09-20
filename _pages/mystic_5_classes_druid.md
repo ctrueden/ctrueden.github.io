@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic druid
-permalink: /mystic/classes/druid/
+permalink: /mystic/classes/druid
 category: mystic2
 ---
 Mystic druids are just as strongly tied to their natural surroundings as

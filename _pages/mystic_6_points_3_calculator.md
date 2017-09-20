@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sphere point calculator
-permalink: /mystic/points/calculator/
+permalink: /mystic/points/calculator
 category: mystic2
 ---
 For convenience, here is a calculator for computing the number of points

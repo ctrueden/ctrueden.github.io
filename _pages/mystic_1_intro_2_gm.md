@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A note to the GM
-permalink: /mystic/intro/gm/
+permalink: /mystic/intro/gm
 category: mystic2
 ---
 When someone asks if a particular effect is possible using the mystic

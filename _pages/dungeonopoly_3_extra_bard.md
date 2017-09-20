@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bard
-permalink: /rules/dungeonopoly/bard/
+permalink: /rules/dungeonopoly/bard
 category: dungeonopoly2
 ---
 The bard sings sweet songs, lulling her opponents into a false sense of security.

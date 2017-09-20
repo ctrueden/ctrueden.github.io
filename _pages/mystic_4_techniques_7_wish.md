@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wish-level magic
-permalink: /mystic/techniques/wish/
+permalink: /mystic/techniques/wish
 category: mystic2
 ---
 Sometimes, a mystic desires results more drastic than reasonably

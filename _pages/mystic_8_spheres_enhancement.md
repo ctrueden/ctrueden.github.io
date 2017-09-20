@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enhancement
-permalink: /mystic/spheres/enhancement/
+permalink: /mystic/spheres/enhancement
 category: mystic2
 ---
 Enhancement is the sphere for **increasing qualities already present**.

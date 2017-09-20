@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic ranger
-permalink: /mystic/classes/ranger/
+permalink: /mystic/classes/ranger
 category: mystic2
 ---
 Mystic rangers usually utilize their mystic abilities to aid their

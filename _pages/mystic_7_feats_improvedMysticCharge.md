@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Improved Mystic Charge [Metamagic]
-permalink: /mystic/feats/improvedMysticCharge/
+permalink: /mystic/feats/improvedMysticCharge
 category: mystic2
 ---
 **Prerequisite:** [Mystic Charge](/mystic/feats/mysticCharge)

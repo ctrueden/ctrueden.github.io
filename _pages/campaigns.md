@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Campaigns
-permalink: /campaigns/
+permalink: campaigns
 category: menu
 ---
 

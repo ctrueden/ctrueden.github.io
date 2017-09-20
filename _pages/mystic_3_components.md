@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Components of a mystic effect
-permalink: /mystic/components/
+permalink: /mystic/components
 category: mystic1
 ---
 In general, a mystic effect has one or more [primary

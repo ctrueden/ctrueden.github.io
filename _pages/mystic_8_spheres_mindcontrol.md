@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mind Control
-permalink: /mystic/spheres/mindcontrol/
+permalink: /mystic/spheres/mindcontrol
 category: mystic2
 ---
 Mind Control is the sphere for **influencing the thoughts of others**.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mass Combat: Gridless"
-permalink: /rules/mass-combat/
+permalink: /rules/mass-combat
 category: rules
 snippet: A combat system for D&D3E which expedites large encounters
 ---

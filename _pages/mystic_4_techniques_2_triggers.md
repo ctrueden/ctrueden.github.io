@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Divination triggers
-permalink: /mystic/techniques/triggers/
+permalink: /mystic/techniques/triggers
 category: mystic2
 ---
 Charging objects using the [Improved Mystic

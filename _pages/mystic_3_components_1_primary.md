@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Primary sphere
-permalink: /mystic/components/primary/
+permalink: /mystic/components/primary
 category: mystic2
 ---
 The sphere that represents the main focus of an effect is called the

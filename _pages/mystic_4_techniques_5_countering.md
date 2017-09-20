@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Countering mystic effects
-permalink: /mystic/techniques/countering/
+permalink: /mystic/techniques/countering
 category: mystic2
 ---
 By readying an action, a mystic can counter a mystic effect as it is

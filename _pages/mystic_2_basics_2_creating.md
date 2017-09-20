@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Creating mystic effects
-permalink: /mystic/basics/creating/
+permalink: /mystic/basics/creating
 category: mystic2
 ---
 Like casting a spell, creating a mystic effect is a standard action, but

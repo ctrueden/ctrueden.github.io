@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Divination
-permalink: /mystic/spheres/divination/
+permalink: /mystic/spheres/divination
 category: mystic2
 ---
 Divination is the sphere for **revealing the unknown**. With Divination,

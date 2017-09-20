@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic spheres
-permalink: /mystic/basics/spheres/
+permalink: /mystic/basics/spheres
 category: mystic2
 ---
 The spheres are listed in the following table. More detailed discussions

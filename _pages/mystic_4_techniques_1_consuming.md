@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Consuming points
-permalink: /mystic/techniques/consuming/
+permalink: /mystic/techniques/consuming
 category: mystic2
 ---
 Certain mystic techniques such as [warding](/mystic/techniques/warding)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Target
-permalink: /mystic/components/target/
+permalink: /mystic/components/target
 category: mystic2
 ---
 Unless otherwise specified, mystic effects target a single object or

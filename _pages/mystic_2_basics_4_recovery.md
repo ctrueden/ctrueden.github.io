@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Recovering points
-permalink: /mystic/basics/recovery/
+permalink: /mystic/basics/recovery
 category: mystic2
 ---
 The Reserve sphere is a special sphere that allows the mystic to refill

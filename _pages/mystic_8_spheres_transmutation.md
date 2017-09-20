@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transmutation
-permalink: /mystic/spheres/transmutation/
+permalink: /mystic/spheres/transmutation
 category: mystic2
 ---
 Transmutation is the sphere for **transforming the essence of a thing**.

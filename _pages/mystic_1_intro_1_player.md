@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A note to the player
-permalink: /mystic/intro/player/
+permalink: /mystic/intro/player
 category: mystic2
 ---
 Using the mystic system to do nothing but throw fireballs gets old,

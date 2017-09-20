@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic cleric
-permalink: /mystic/classes/cleric/
+permalink: /mystic/classes/cleric
 category: mystic2
 ---
 Although mystic clerics draw their power from mystic energies rather

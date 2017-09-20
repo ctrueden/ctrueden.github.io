@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Warding
-permalink: /mystic/techniques/warding/
+permalink: /mystic/techniques/warding
 category: mystic2
 ---
 With warding, any creature, item or area's temporary mystic effects can

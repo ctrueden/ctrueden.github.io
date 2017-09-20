@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overdraw [Metamagic]
-permalink: /mystic/feats/overdraw/
+permalink: /mystic/feats/overdraw
 category: mystic2
 ---
 The Overdraw feat allows mystics to attempt magical effects up to three

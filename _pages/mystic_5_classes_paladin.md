@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic paladin
-permalink: /mystic/classes/paladin/
+permalink: /mystic/classes/paladin
 category: mystic2
 ---
 Mystic paladins are every bit as honorable (and every bit as blustery)

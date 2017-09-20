@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction
-permalink: /mystic/intro/
+permalink: /mystic/intro
 category: mystic1
 ---
 The mystic magic system is designed for flexibility and creativity. Its

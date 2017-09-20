@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic sorcerer
-permalink: /mystic/classes/sorcerer/
+permalink: /mystic/classes/sorcerer
 category: mystic2
 ---
 Of all the mystics, the mystic sorcerer is the one who seeks truly great

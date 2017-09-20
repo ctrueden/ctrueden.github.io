@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quotes
-permalink: /quotes/
+permalink: /quotes
 category: menu
 ---
 

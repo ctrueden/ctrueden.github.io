@@ -1,7 +1,7 @@
 ---
 layout: page
 title: d12 Combat System
-permalink: /rules/d12combat/
+permalink: /rules/d12combat
 category: rules
 snippet: A (more) fluid battle model for D&D3E.
 ---

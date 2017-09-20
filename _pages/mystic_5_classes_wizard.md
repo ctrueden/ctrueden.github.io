@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic wizard
-permalink: /mystic/classes/wizard/
+permalink: /mystic/classes/wizard
 category: mystic2
 ---
 Mystic wizards are the ones who crave maximum magical flexibility. Their

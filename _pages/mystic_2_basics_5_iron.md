@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystics and iron
-permalink: /mystic/basics/iron/
+permalink: /mystic/basics/iron
 category: mystic2
 ---
 **Optional rule:** Ferrous metals have strange properties that inhibit

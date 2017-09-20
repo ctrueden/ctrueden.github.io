@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Duration
-permalink: /mystic/components/duration/
+permalink: /mystic/components/duration
 category: mystic2
 ---
 There are three types of mystic effects. **Instantaneous** effects, such

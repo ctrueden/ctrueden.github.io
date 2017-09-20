@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rogue
-permalink: /rules/dungeonopoly/rogue/
+permalink: /rules/dungeonopoly/rogue
 category: dungeonopoly2
 ---
 The rogue is wily and crafty, stealing what she needs to survive.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dew Cups
-permalink: /dewcups/
+permalink: /dewcups
 category: menu
 ---
 

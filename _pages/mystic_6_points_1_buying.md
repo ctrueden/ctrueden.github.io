@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buying sphere ranks
-permalink: /mystic/points/buying/
+permalink: /mystic/points/buying
 category: mystic2
 ---
 All mystic spheres start at zero ranks. Each level, a mystic has a

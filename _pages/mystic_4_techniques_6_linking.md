@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Linking
-permalink: /mystic/techniques/linking/
+permalink: /mystic/techniques/linking
 category: mystic2
 ---
 Multiple mystics can combine their efforts to produce more powerful

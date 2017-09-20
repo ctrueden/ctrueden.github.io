@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pyrotechnics
-permalink: /mystic/spheres/pyrotechnics/
+permalink: /mystic/spheres/pyrotechnics
 category: mystic2
 ---
 Pyrotechnics is the sphere for **wielding pure magical energy**. With

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Illusion
-permalink: /mystic/spheres/illusion/
+permalink: /mystic/spheres/illusion
 category: mystic2
 ---
 Illusion is the sphere for projecting **false sensory experiences**.

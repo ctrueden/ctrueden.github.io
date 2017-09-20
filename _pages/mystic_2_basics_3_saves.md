@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Saving throws and ability checks
-permalink: /mystic/basics/saves/
+permalink: /mystic/basics/saves
 category: mystic2
 ---
 Many mystic effects call for a saving throw to resist their effects. The

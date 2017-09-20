@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mysticraft
-permalink: /mystic/techniques/mysticraft/
+permalink: /mystic/techniques/mysticraft
 category: mystic2
 ---
 All mystics have access to an additional class skill called Mysticraft,

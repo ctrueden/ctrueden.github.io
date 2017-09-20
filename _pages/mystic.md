@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic Magic
-permalink: /mystic/
+permalink: /mystic
 category: rules
 snippet: A flexible alternative D&D magic system.
 ---
