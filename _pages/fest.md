@@ -285,7 +285,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles">FFCC</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td>
       <td>-</td><td>-</td><td>-</td>
-      <td>Eva</td>
+      <td>Eva, Kyle</td>
     </tr>
 
     <tr>
