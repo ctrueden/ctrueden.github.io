@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dungeonopoly
-permalink: /rules/dungeonopoly
+permalink: /rules/dungeonopoly/index
 category: rules
 snippet: A horrific Monopoly/D&amp;D crossbreed.
 ---
