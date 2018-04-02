@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Imbue Mystic Energy [Item Creation]
-permalink: /mystic/feats/imbueMysticEnergy
+permalink: /mystic/feats/imbue-mystic-energy
 category: mystic2
 ---
 With Imbue Mystic Energy, the mystic can charge an object with a

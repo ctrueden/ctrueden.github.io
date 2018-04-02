@@ -15,7 +15,7 @@ or divine spellcasting. That is, mystics use the same die type, base
 attack bonus, saving throws, class skills (but see the
 [Mysticraft](/mystic/techniques/mysticraft) section), skill point
 progression, weapon and armor proficiencies (but see the [Mystics and
-iron](/mystic/basics/iron) section), bonus feats (but see thee [Mystic
+iron](/mystic/basics/iron) section), bonus feats (but see the [Mystic
 feats](/mystic/feats) section) and bonus languages as their respective
 base classes. Information on special abilities and mystic sphere
 progression for each class are detailed in the following sections.

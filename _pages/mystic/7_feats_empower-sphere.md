@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Empower Sphere [Metamagic]
-permalink: /mystic/feats/empowerSphere
+permalink: /mystic/feats/empower-sphere
 category: mystic2
 ---
 Choose a sphere. All dice for effects with that sphere as the primary

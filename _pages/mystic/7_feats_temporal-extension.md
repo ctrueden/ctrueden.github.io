@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Temporal Extension [Metamagic]
-permalink: /mystic/feats/temporalExtension
+permalink: /mystic/feats/temporal-extension
 category: mystic2
 ---
 Whenever the mystic spends any extra sphere points to increase an

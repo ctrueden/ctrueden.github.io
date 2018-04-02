@@ -5,9 +5,9 @@ permalink: /mystic/techniques/triggers
 category: mystic2
 ---
 Charging objects using the [Improved Mystic
-Charge](/mystic/feats/improvedMysticCharge) feat and imparting objects
+Charge](/mystic/feats/improved-mystic-charge) feat and imparting objects
 with magical charges using the [Imbue Mystic
-Energy](/mystic/feats/imbueMysticEnergy) feat both allow the mystic to
+Energy](/mystic/feats/imbue-mystic-energy) feat both allow the mystic to
 release one or more charges mentally as a free action when desired. They
 also allow the mystic to utilize a special form of Divination that
 causes the charges to be automatically released when certain conditions
@@ -21,5 +21,5 @@ someone touches the orb" or "when someone is about to pickpocket me"),
 use Div 12.
 
 For examples of use, see the [Improved Mystic
-Charge](/mystic/feats/improvedMysticCharge) and [Imbue Mystic
-Energy](/mystic/feats/imbueMysticEnergy) feats.
+Charge](/mystic/feats/improved-mystic-charge) and [Imbue Mystic
+Energy](/mystic/feats/imbue-mystic-energy) feats.

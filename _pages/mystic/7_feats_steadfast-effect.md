@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Steadfast Effect [Metamagic]
-permalink: /mystic/feats/steadfastEffect
+permalink: /mystic/feats/steadfast-effect
 category: mystic2
 ---
 Instead of rolling dice for a mystic effect, the mystic may choose to

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mystic Charge [Metamagic]
-permalink: /mystic/feats/mysticCharge
+permalink: /mystic/feats/mystic-charge
 category: mystic2
 ---
 With Mystic Charge, the mystic can charge the air around himself with a

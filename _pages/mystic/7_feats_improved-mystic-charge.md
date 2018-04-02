@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Improved Mystic Charge [Metamagic]
-permalink: /mystic/feats/improvedMysticCharge
+permalink: /mystic/feats/improved-mystic-charge
 category: mystic2
 ---
-**Prerequisite:** [Mystic Charge](/mystic/feats/mysticCharge)
+**Prerequisite:** [Mystic Charge](/mystic/feats/mystic-charge)
 
 Improved Mystic Charge allows the mystic to store mystic energy within
 an item or area as a charge. Just like storing energy with Mystic

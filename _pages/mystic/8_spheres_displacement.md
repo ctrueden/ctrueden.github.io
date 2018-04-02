@@ -100,7 +100,7 @@ rapidly until it collapses. Nonetheless, warding Displacement is a
 common technique among mystics for extending the duration past normal
 limits. See the types of Displacement listed below for details on
 warding deterioration rates. Note that charged Displacement (see the
-[Mystic Charge](/mystic/feats/mysticCharge) feat) can be warded without
+[Mystic Charge](/mystic/feats/mystic-charge) feat) can be warded without
 such deterioration.
 
 #### Short-range teleport

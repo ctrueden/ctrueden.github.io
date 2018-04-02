@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jon's Feat [Metamagic]
-permalink: /mystic/feats/jonsFeat
+permalink: /mystic/feats/jons-feat
 category: mystic2
 ---
 With Jon's feat, all spheres raise to 20 ranks automatically, regardless

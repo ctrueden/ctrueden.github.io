@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Craft Mystic Item [Item Creation]
-permalink: /mystic/feats/craftMysticItem
+permalink: /mystic/feats/craft-mystic-item
 category: mystic2
 ---
 Craft Mystic Item allows mystics to create magic items fueled by mystic

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Overdraw Focus [Metamagic]
-permalink: /mystic/feats/overdrawFocus
+permalink: /mystic/feats/overdraw-focus
 category: mystic2
 ---
 **Prerequisite:** [Overdraw](/mystic/feats/overdraw)
