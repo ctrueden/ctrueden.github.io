@@ -182,3 +182,37 @@ th.rotate > div > span {
   padding-right: 10px;
   text-align: right;
 }
+
+/* Chess */
+
+table.chessboard {
+	border-collapse: collapse;
+}
+table.chessboard tr:first-child td {
+	border-top: 1px solid gray;
+}
+table.chessboard tr td:nth-child(2) {
+	border-left: 1px solid gray;
+}
+table.chessboard tr:nth-child(8) td {
+	border-bottom: 1px solid gray;
+}
+table.chessboard tr td:last-child {
+	border-right: 1px solid gray;
+}
+table.chessboard td, table.chessboard th {
+	width: 40px;
+	height: 40px;
+	margin: none;
+	padding: none;
+	text-align: center;
+	vertical-align: middle;
+}
+table.chessboard td {
+	font-size: 24px;
+}
+table.chessboard tr:nth-child(odd) td:nth-child(odd),
+table.chessboard tr:nth-child(even) td:nth-child(even)
+{
+	background: #ccc;
+}
