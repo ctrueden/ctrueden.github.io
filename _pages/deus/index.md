@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deus Ultionis
-permalink: /deus/home
+permalink: /deus/index
 category: deus
 ---
 Welcome to Deus Ultionis! Use the menu bar to the left to navigate the site.
