@@ -24,15 +24,15 @@ She chooses one of the following stances:
 
 At level 5, the paladin learns the "**Knight's Move**" ability. Either before or after moving, the paladin maneuvers a character—either herself or an opponent within line of sight—three squares either forward or backward. This movement does not count as passing over the intervening squares, but does count as landing on the destination square. This ability is single use only.
 
-At level 6, the paladin gains a new power, "**Divine Grace**." When the paladin rolls doubles, she is surrounded by an aura of protection. Until the end of her current turn, she is invulnerable, ignoring all damage, fees and rental payments.
+At level 6, the paladin gains a new blessing, "**Divine Grace**." When the paladin rolls doubles, she is surrounded by an aura of protection. Until the end of her current turn, she is invulnerable, ignoring all damage, fees and rental payments.
 
-At level 7, the paladin gains a new power, "**Holy Nimbus.**" Any time an opponent, even a hidden one, starts her turn within the paladin's reach, that opponent takes damage.
+At level 7, the paladin gains a new blessing, "**Holy Aura.**" Any time an opponent, even a hidden one, starts her turn within the paladin's reach, that opponent takes damage.
 
 At level 8, the paladin masters a second stance from those listed above. Only one stance may be active at a time.
 
-At level 9, the paladin gains a new power, "**Heart of the Titan**." She sets aside $500 from the bank into an isolated reservoir. This money forms a "buffer" against damage which is spent before the paladin's own funds whenever she takes damage. The fund is replenished whenever the paladin passes GO. This is an automatic effect which does not award EP.
+At level 9, the paladin gains a new blessing, "**Heart of the Titan**." She sets aside $500 from the bank into an isolated reservoir. This money forms a "buffer" against damage which is spent before the paladin's own funds whenever she takes damage. The fund is replenished whenever the paladin passes GO. This is an automatic effect which does not award EP.
 
-At level 10, the paladin gains a new power, "**Holy Sword**." The paladin's reach increases to two squares away.
+At level 10, the paladin gains a new blessing, "**Holy Sword**." The paladin's reach increases to two squares away.
 
 #### Paladin tactics
 
