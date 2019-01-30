@@ -55,6 +55,13 @@ header {
 		width: $content-width;
 	}
 }
+@media screen and (max-width: 600px) {
+	nav li a {
+		font-size: calc(17.6 * 100vw / 600);
+		padding-left: calc(15 * 100vw / 600) !important;
+		padding-right: calc(15 * 100vw / 600) !important;
+	}
+}
 main {
 	padding: 0 15px;
 	max-width: $content-width;
