@@ -216,6 +216,24 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>N/A</td>
       <td>(Not an actual fest)</td>
     </tr>
+    <tr>
+      <td class="right">21</td>
+      <td>2018-Jan-05</td>
+      <td>2017-Mar-07</td>
+      <td><a href="https://en.wikipedia.org/wiki/Nier_Automata">Nier: Automata</a></td>
+      <td>Monticello house</td>
+      <td>?</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td class="right">22</td>
+      <td>2018-Jul-06</td>
+      <td>2018-Mar-23</td>
+      <td><a href="https://en.wikipedia.org/wiki/Ni_no_Kuni_2">Ni no Kuni 2</a></td>
+      <td>Monticello house</td>
+      <td>?</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
@@ -394,6 +412,16 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     <tr style="background: #ddd">
       <th><a href="https://en.wikipedia.org/wiki/Persona_5">Persona 5</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>+</td><td>-</td><td>-</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Nier_Automata">Nier: Automata</a></th>
+      <td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>+</td><td>-</td><td>-</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Ni_no_Kuni_2">Ni no Kuni 2</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
   </tbody>
