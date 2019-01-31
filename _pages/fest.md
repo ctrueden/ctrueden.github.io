@@ -416,7 +416,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Nier_Automata">Nier: Automata</a></th>
-      <td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>+</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>+</td><td>-</td><td>-</td>
     </tr>
 
     <tr>
