@@ -18,6 +18,7 @@ category: menu
 * [Drowned Hopes (Jon)](#drowned)
 * [Mechanical Dream (Greg)](#dream)
 * [ReBeer and Pretzels](#rebeer)
+* [Age of Worms](#aow)
 
 <a name="deadlands"></a>
 * * *
@@ -812,6 +813,17 @@ _Thursday, October 15, 2009_
 
 _Friday, September 13, 2013 - 10:20 pm_  
 **Kelsey (to Moe)** - "Are you trying to disarm a bomb the size of the universe with thievery?"
+
+<a name="aow"></a>
+* * *
+## Age of Worms
+
+_Sunday, April 28, 2019_
+[We find some jail cells underground.]
+Kelsey [GM]: In the cell, there appears to be a man.
+Athena: Can he be a jelly bean, so that when we kill him, we get to eat him?
+Kelsey [GM]: He appears to be dead.
+Athena: So... I can eat him now?
 
 * * *
 When I get to the future, [things will be different](http://asofterworld.com/index.php?id=42)
