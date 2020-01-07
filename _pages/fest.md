@@ -234,6 +234,15 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>?</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td class="right">23</td>
+      <td>2019-Jul-19</td>
+      <td>2018-Sep-04</td>
+      <td><a href="https://en.wikipedia.org/wiki/Dragon_Quest_XI">Dragon Quest XI</a></td>
+      <td>Monticello house</td>
+      <td>?</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
@@ -422,6 +431,11 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Ni_no_Kuni_2">Ni no Kuni 2</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_XI">Dragon Quest XI</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
   </tbody>
