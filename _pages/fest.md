@@ -243,6 +243,15 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>?</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td class="right">24</td>
+      <td>2020-Jun-26</td>
+      <td>2020-Apr-10</td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake (Part I)</a></td>
+      <td>THE INTERNET</td>
+      <td>?</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
@@ -436,6 +445,11 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_XI">Dragon Quest XI</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake (Part I)</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
   </tbody>
