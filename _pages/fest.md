@@ -184,7 +184,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td class="right">18</td>
       <td>2015-Mar-27</td>
       <td>2014-Nov-18</td>
-      <td><a href="https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition">Dragon Age: Origins</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition">Dragon Age: Inquisition</a></td>
       <td>Monticello house</td>
       <td>?</td>
       <td>-</td>
@@ -247,7 +247,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td class="right">24</td>
       <td>2020-Jun-26</td>
       <td>2020-Apr-10</td>
-      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake (Part I)</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake</a></td>
       <td>THE INTERNET</td>
       <td>?</td>
       <td>-</td>
@@ -448,7 +448,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     </tr>
 
     <tr>
-      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake (Part I)</a></th>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
