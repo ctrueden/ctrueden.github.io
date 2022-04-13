@@ -230,9 +230,9 @@ _Sunday, October 6, 2002 - 12:45 am_
 **Keleth [Brian]** - "Oh, shut up and grab a shovel."
 
 _Saturday, December 21, 2002 - 5:10 am_  
-**Jon (as old man with long beard)** - "Come a little closer sonny, I can't quite hear you..."
-**Animated vorpal beard** - "\<SHOONK!\>"
-**Newly decapitated head** - "\<Thump\>"
+**Jon (as old man with long beard)** - "Come a little closer sonny, I can't quite hear you..."  
+**Animated vorpal beard** - "\<SHOONK!\>"  
+**Newly decapitated head** - "\<Thump\>"  
 **Curtis** - "That would have to be at least a +1 beard to have that enchantment, Jon."  
 **Jon** - "Indeed it would."
 
