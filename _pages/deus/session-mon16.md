@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon16
-permalink: /deus/session-mon16
 category: deus
 ---
 is evening on Luna on Saturday, July 22, 2299.  [Ariona](char-public-alex), [Nikolai](char-public-jon), [Unity](char-public-joey), [Vittorio](char-public-allen), [Adam](char-public-griffin) have arrived at the edge of the Great Forest and been led to the site of the Heart Tree (and the ritual) by [Brice](char-public-andy), [Jasmine](npc-jasmine), and [Gerald](npc-gerald).  Ariona plans to start the rite inside the "bubble," where other forces will be defending the central rite, while the rest of the group will be aiding Gerald outside the "bubble" in holding off any forces which may try to interfere after the rite has begun.  Brice, of course, will be in both places at once.

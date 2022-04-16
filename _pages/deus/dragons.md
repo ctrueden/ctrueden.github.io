@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Dragons
-permalink: /deus/dragons
 category: deus
 ---
 65 million years ago, before the other races existed, dragons were Gaia's original progeny. The dragons were very powerfully psionic (compared to the &quot;lesser races&quot;). The [Destroyer](universe-creation) came to Earth, and the dragons acted quickly to save the earth.

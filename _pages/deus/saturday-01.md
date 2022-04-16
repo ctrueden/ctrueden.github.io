@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday group, first session
-permalink: /deus/saturday-01
 category: deus
 ---
 Eva, Griffin, James, John, Mike, Nate

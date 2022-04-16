@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed07
-permalink: /deus/session-wed07
 category: deus
 ---
 Date: 24-June-2299 (late that Saturday)

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Megan
-permalink: /deus/player-megan
 category: deus
 ---
 Status: dropped

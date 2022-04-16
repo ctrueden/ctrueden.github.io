@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mind Control
 permalink: /mystic/spheres/mindcontrol
 category: mystic2

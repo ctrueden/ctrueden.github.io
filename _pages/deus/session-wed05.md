@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed05
-permalink: /deus/session-wed05
 category: deus
 ---
 ## What does God need with a starship?

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Player Characters
-permalink: /deus/player-characters
 category: deus
 ---
 Here is a list of the PCs in the campaign.

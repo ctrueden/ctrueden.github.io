@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Alex's Character's Details
-permalink: /deus/char-private-alex
 category: deus
 ---
 This page will provide private details of Alex's character, for Alex and the GMs only.

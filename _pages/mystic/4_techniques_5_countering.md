@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Countering mystic effects
 permalink: /mystic/techniques/countering
 category: mystic2

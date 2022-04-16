@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Character traits
-permalink: /deus/traits
 category: deus
 ---
 Character traits, introduced in Unearthed Arcana, help to define your character in more depth. They neither cost merit points nor grant them (each trait has pros and cons). Characters may possess up to five traits.

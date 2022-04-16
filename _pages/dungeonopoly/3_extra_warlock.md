@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Warlock
-permalink: /rules/dungeonopoly/warlock
+permalink: /dungeonopoly/warlock
 category: dungeonopoly2
 ---
 The warlock draws power from a sinister pact with powerful entities.

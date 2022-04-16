@@ -1,5 +1,4 @@
 ---
-layout: page
 title: SessionMon17Jon
 permalink: /deus/session-mon17Jon
 category: deus

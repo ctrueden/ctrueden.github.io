@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Far Reach [Metamagic]
 permalink: /mystic/feats/far-reach
 category: mystic2

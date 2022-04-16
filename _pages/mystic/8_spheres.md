@@ -1,5 +1,4 @@
 ---
-layout: page
 title: The spheres in detail
 permalink: /mystic/spheres
 category: mystic1

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic Charge [Metamagic]
 permalink: /mystic/feats/mystic-charge
 category: mystic2

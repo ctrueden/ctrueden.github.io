@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Malcolm Biggs
-permalink: /deus/char-public-ozzyie
 category: deus
 ---
 |__Gender:__|Male|

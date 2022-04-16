@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Life Forms
-permalink: /deus/life-forms
 category: deus
 ---
 Terran races include: humans, elves, dwarves, gnomes, royals, halflings, and all the creatures of Gaia (pixies, dryads, trolls, beholders, giants, and many others).

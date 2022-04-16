@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Andy
-permalink: /deus/player-andy
 category: deus
 ---
 Status: confirmed

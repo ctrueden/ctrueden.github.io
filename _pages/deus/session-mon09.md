@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon09
-permalink: /deus/session-mon09
 category: deus
 ---
 Upon the firm statement of goals made by [DEE](char-public-griffin), [Ariona Cassyon](char-public-alex), [Nikolai](char-public-jon), and [Vitorrio Garibaldi](char-public-allen) re-board the shuttle to return to Earth with [Cain](npc-cain)'s cleansed body.  [Bryce Murphy](char-public-andy) and [Meechum](char-public-joey) are already aboard, though Meechum is not in a state in which he is of much use at the moment.
@@ -113,7 +111,7 @@ Nothing else of note happens on this day.
 
 -----
 
-It is now NOT Friday, June 23rd, but rather Monday, June 26th.   Time appears to have gone wonky while DEE was on Mars.  Nikolai returns to his parents' home and requests a stasis chamber, giving them the LORE chip from the "freed" ship as a present.  [Boris](http://www.restlesswarrior.com/pax/pcs/josef.html) is rather dubious, and quite a bit worried, but he eventually agrees.  They have a few lying around that aren't being used right now.  He also informs Nikolai that the colony might be moving soon, situated as it is in the Sirius 2 system.
+It is now NOT Friday, June 23rd, but rather Monday, June 26th.   Time appears to have gone wonky while DEE was on Mars.  Nikolai returns to his parents' home and requests a stasis chamber, giving them the LORE chip from the "freed" ship as a present.  [Boris](/pax/pcs/josef) is rather dubious, and quite a bit worried, but he eventually agrees.  They have a few lying around that aren't being used right now.  He also informs Nikolai that the colony might be moving soon, situated as it is in the Sirius 2 system.
 
 -----
 
@@ -173,6 +171,6 @@ Ultimately, they determine that the "Crown" is cursed, and Ariona manages to wre
 
 Several weeks will pass without anything significant going on.  Nikolai works on some alchemical experiments, assisted by Ariona and observed by Divin and mini-Vee.  Eddie and Bryce work on improving portions of the ship.  Eddie also pokes through everything on the ship, including everyone's personal items.  The grocery runs go off without a problem.
 
-During the alchemy experiments, slowly Nikolai and Ariona begin to notice that when Divin/Meechum is present, the alchemy is being warped negatively.  It seems that Divin/Meechum screws up the magical energies around him, even things which are not specifically targeted at him, or things that do not use actual sphere points (like alchemy).  In fact, after Ariona racks her brain for some time, she realizes it reminds her of nothing so much as a man she's heard stories of, namely [Raphael Douglas](http://www.restlesswarrior.com/pax/chars.html).  Two weeks of research determine that his range is a 20 foot radius, either near the caster or near the effect.
+During the alchemy experiments, slowly Nikolai and Ariona begin to notice that when Divin/Meechum is present, the alchemy is being warped negatively.  It seems that Divin/Meechum screws up the magical energies around him, even things which are not specifically targeted at him, or things that do not use actual sphere points (like alchemy).  In fact, after Ariona racks her brain for some time, she realizes it reminds her of nothing so much as a man she's heard stories of, namely [Raphael Douglas](/pax/chars).  Two weeks of research determine that his range is a 20 foot radius, either near the caster or near the effect.
 
 

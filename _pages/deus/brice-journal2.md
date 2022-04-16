@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Brice's Journal: 11-18"
-permalink: /deus/brice-journal2
 category: deus
 ---
 ### Eleventh Session

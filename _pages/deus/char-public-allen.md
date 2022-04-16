@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Vittorio Garibaldi
-permalink: /deus/char-public-allen
 category: deus
 ---
 Physcial first:

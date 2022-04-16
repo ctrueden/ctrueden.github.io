@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Ozzyie's Character's Secrets
-permalink: /deus/char-secrets-ozzyie
 category: deus
 ---
 This page will provide the GMs a restricted page to discuss secrets related to Ozzyie's character.

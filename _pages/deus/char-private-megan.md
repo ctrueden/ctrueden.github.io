@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Megan's Character's Details
-permalink: /deus/char-private-megan
 category: deus
 ---
 This page will provide private details of Megan's character, for Megan and the GMs only.

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Ancient History
-permalink: /deus/ancient-history
 category: deus
 ---
 The following timeline is a brief history of Earth from approximately 6,000 BC through 2,000 CE. For a more recent history of events, see the [timeline](timeline).

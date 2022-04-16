@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Andy's Experience Tally and Other Announcements
-permalink: /deus/announce-andy
 category: deus
 ---
 ### Experience

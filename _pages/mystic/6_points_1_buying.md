@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Buying sphere ranks
 permalink: /mystic/points/buying
 category: mystic2

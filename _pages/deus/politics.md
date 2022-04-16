@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Politics
-permalink: /deus/politics
 category: deus
 ---
 This page will describe the current political situation on Earth and throughout explored space, as well as briefly covering the history that led to this point.

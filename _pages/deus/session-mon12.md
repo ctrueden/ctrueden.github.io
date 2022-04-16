@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon12
-permalink: /deus/session-mon12
 category: deus
 ---
 It is still Friday, July 18th, 2399.  It is now about 5:25 am GMT, and [Ariona](char-public-alex), [Meechum](char-public-joey), [Ned/Max](char-public-nate), [Vittorio](char-public-allen), [Rae Denison](char-public-eva), [Vadril Korlax](char-public-mike), and [Zee](char-public-james) are still on Lupus, though they are about to leave.  [Merlin Huntington](npc-merlin) has just returned from his unsuccessful trip to [Harry Bryant](npc-bryant)'s office in search of the erstwhile terrorist.

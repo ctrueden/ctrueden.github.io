@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Efficient Burst [Metamagic]
 permalink: /mystic/feats/efficient-burst
 category: mystic2

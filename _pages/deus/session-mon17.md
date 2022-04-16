@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon17
-permalink: /deus/session-mon17
 category: deus
 ---
 Alex and Jon each took notes this session. Alex's notes are below. Jon's notes are on a [separate page](session-mon17-jon).

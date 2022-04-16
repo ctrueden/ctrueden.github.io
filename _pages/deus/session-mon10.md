@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon10
-permalink: /deus/session-mon10
 category: deus
 ---
 To refresh everyone's memories, the party, defined currently as [Ariona](char-public-alex), [Nikolai](char-public-jon), [Vitto](char-public-allen), [Brice](char-public-andy), [Meechum](char-public-joey), and [DEE](char-public-griffin), are sitting in deep space.  Joining them is [Eddie](char-public-kelsey), a strange ghostly halfling . . . singularity point?  Also in their possession is the cause for their desire to remain away from anywhere within a mystic sphere of influence, namely the cleansed body of [Cain](npc-cain).

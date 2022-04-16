@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic cleric
 permalink: /mystic/classes/cleric
 category: mystic2

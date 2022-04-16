@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic ranger
 permalink: /mystic/classes/ranger
 category: mystic2

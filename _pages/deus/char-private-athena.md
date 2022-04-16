@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Athena's Character's Details
-permalink: /deus/char-private-athena
 category: deus
 ---
 This page will provide private details of Athena's character, for Athena and the GMs only.

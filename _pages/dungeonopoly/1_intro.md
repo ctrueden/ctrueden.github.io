@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Introduction and basic rules
-permalink: /rules/dungeonopoly/intro
+permalink: /dungeonopoly/intro
 category: dungeonopoly1
 ---
 Dungeonopoly utilizes all the normal Monopoly rules, with additional rules described below. Before you begin, be certain you are familiar with the regular Monopoly rules. Familiarity with the D&D 3rd edition rule set is also useful, but not required.

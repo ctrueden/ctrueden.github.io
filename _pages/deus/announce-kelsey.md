@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Kelsey's Experience Tally and Other Announcements
-permalink: /deus/announce-kelsey
 category: deus
 ---
 ### Experience

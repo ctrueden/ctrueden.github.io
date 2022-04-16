@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic classes
 permalink: /mystic/classes
 category: mystic1

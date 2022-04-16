@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed06
-permalink: /deus/session-wed06
 category: deus
 ---
 ## &quot;Do not trifle with dragons, for you are small and crunchy and taste good with ketchup.&quot; -unknown

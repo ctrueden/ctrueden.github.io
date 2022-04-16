@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Laiden Brinsop
-permalink: /deus/char-private-jason
 category: deus
 ---
 This page will provide private details of Jason's character, for Jason and the GMs only.

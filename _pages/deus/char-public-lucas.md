@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Noun
-permalink: /deus/char-public-lucas
 category: deus
 ---
 Noun is shortish, approximately 5'6&quot;, and skinny as a rail.  He has slighty bugging, intense eyes, and disheveled brown hair, which is lately worn unkempt and matted, and has stubble lining his jaw.  He is not at all attractive.  (Think Tim Burton with a skinnier face and brown hair); however, he has the undeniable charisma of a train wreck. In terms of fashion, Noun prefers simple, workman-like affair, generally jeans and a t-shirt, with a multip-pocketted vest over both.  He has a tangle of wire on his hip, which serves as a bag.  Noun does not make eye contact.  He carries himself with the air of one who is worried or paranoid, a shifty-eyed sort of fidgety nervousness.  This is exascerbated by the fact that he always looks like he doesn't know what to do with his hands.

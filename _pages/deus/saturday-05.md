@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday05
-permalink: /deus/saturday-05
 category: deus
 ---
 The goal is to draw the Saturday group into the Lupus/Canis war. Merlin Huntington is probably involved in this process.

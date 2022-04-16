@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday03
-permalink: /deus/wednesday-03
 category: deus
 ---
 [Most of this session's planning here](talk-20051002)

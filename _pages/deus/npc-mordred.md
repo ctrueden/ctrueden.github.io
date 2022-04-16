@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mordred
-permalink: /deus/npc-mordred
 category: deus
 ---
 A mysterious man was found sealed within a reinforced stasis chamber in the depths of Magitech headquarters. Is he related to the [Mordred of Arthurian legend](http://www.google.com/search?q=mordred)? Why was he sealed behind three feet of transparent composite alloy?

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Illusion
 permalink: /mystic/spheres/illusion
 category: mystic2

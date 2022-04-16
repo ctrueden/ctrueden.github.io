@@ -1,7 +1,5 @@
 ---
-layout: page
 title: The Universe's Creation
-permalink: /deus/universe-creation
 category: deus
 ---
 Long, long ago, in a galaxy far, far away... (:mrgreen:)

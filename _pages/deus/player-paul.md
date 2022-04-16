@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Paul
-permalink: /deus/player-paul
 category: deus
 ---
 Status: confirmed

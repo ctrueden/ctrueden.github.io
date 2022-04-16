@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed02
-permalink: /deus/session-wed02
 category: deus
 ---
 # Kick the puppy.

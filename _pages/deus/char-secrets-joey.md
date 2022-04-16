@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Joey's Character's Secrets
-permalink: /deus/char-secrets-joey
 category: deus
 ---
 This page will provide the GMs a restricted page to discuss secrets related to Joey's character.

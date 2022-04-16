@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon10-2
-permalink: /deus/session-mon10-2
 category: deus
 ---
 We join our party, namely [Ariona](char-public-alex), [Nikolai](char-public-jon), [Vittorio](char-public-allen), [Brice](char-public-andy), [Meechum](char-public-joey), [DEE](char-public-griffin), and [Eddy](char-public-kelsey), along with [Ned](char-public-nate), sitting aboard DEE in deep space guarding the body of [Cain](npc-cain).

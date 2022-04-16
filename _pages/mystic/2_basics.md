@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Basics of mystic magic
 permalink: /mystic/basics
 category: mystic1

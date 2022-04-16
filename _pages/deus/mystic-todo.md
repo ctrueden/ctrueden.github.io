@@ -1,7 +1,5 @@
 ---
-layout: page
 title: MysticTodo
-permalink: /deus/mystic-todo
 category: deus
 ---
 Mystic feat for &quot;toggling warding&quot; -- costs twice the normal reserve warding costs, but effect can be freely toggled until the warding wears off

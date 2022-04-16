@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Lucas
-permalink: /deus/player-lucas
 category: deus
 ---
 Status: confirmed

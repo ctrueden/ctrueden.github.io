@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Ozzyie's Experience Tally and Other Announcements
-permalink: /deus/announce-ozzyie
 category: deus
 ---
 ### Experience

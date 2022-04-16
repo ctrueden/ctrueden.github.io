@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Events timeline
-permalink: /deus/events
 category: deus
 ---
 ## Past years

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Brice's Journal: 1-10.5"
-permalink: /deus/brice-journal
 category: deus
 ---
 ### 1st Session

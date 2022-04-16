@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Joint16
-permalink: /deus/joint-16
 category: deus
 ---
 __[[Wed/Sat 16]:__

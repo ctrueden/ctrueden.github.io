@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Merit System
-permalink: /deus/merit-system
 category: deus
 ---
 The Merits &amp; Flaws system allows everyone to play character possessing whatever combination of abilities they want (within reason) without raping game balance too badly.

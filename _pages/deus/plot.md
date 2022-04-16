@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Plot Threads
-permalink: /deus/plot
 category: deus
 ---
 There are three starting threads, as follows:

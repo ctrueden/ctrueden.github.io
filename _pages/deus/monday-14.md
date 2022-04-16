@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday14
-permalink: /deus/monday-14
 category: deus
 ---
 First, Monday will almost certainly attempt to locate Cain, and potentially reunite with DEE (if they follow the lead from Scorpio's henchman to Lupus).

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed17
-permalink: /deus/session-wed17
 category: deus
 ---
 The Obsidian Teknokon's new computer has the name Sable.

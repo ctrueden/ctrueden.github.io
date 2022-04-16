@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday06
-permalink: /deus/saturday-06
 category: deus
 ---
 Merlin Huntington is engineering a war between Lupus and Canis for revenge, but also to cause confusion so that he can steal the circlet. He had a hand somehow in Ocean's decision to sell the crown to the Volokhovs, maybe?

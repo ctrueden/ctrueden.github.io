@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon02
-permalink: /deus/session-mon02
 category: deus
 ---
 The session opens with [Ariona Cassyon](char-public-alex), [Nikolai](char-public-jon), [Zee](char-public-james), [Meechum](char-public-joey), [Ian Thorpe](char-public-aj), and [the ghost](char-public-allen) wandering into an arboretum.  The first of the "great forests" to be completed, it is actually a true, magically-grown forest on the Moon.   The strange group is still in hot pursuit of [the mysterious woman](npc-jasmine) who is the apparent cause of the disappearance of [Rudolph Bernstein](npc-bernstein).

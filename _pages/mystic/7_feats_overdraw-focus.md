@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Overdraw Focus [Metamagic]
 permalink: /mystic/feats/overdraw-focus
 category: mystic2

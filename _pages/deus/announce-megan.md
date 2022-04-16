@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Megan's Experience Tally and Other Announcements
-permalink: /deus/announce-megan
 category: deus
 ---
 ### Experience

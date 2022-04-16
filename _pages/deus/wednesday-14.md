@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday14
-permalink: /deus/wednesday-14
 category: deus
 ---
 ## The stairway to heaven

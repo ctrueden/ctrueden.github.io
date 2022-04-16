@@ -1,7 +1,5 @@
 ---
-layout: page
 title: AJ's Experience Tally and Other Announcements
-permalink: /deus/announce-aj
 category: deus
 ---
 ### Experience

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Megan's Character's Secrets
-permalink: /deus/char-secrets-megan
 category: deus
 ---
 This page will provide the GMs a restricted page to discuss secrets related to Megan's character.

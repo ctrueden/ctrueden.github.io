@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystics and iron
 permalink: /mystic/basics/iron
 category: mystic2

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionSat15
-permalink: /deus/session-sat15
 category: deus
 ---
 Thanks to [Eva](player-eva) for this session summary.

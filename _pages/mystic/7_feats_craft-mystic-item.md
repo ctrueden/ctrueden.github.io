@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Craft Mystic Item [Item Creation]
 permalink: /mystic/feats/craft-mystic-item
 category: mystic2

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Athena's Experience Tally and Other Announcements
-permalink: /deus/announce-athena
 category: deus
 ---
 ### Experience

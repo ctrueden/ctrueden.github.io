@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon05
-permalink: /deus/session-mon05
 category: deus
 ---
 The session opens with [Ariona Cassyon](char-public-alex), [Nikolai](char-public-jon), [Vitorrio Garibaldi](char-public-allen), [Bryce Murphy](char-public-andy), [Meechum](char-public-joey), and [Ian Thorpe](char-public-aj), accompanied by [Angelique du Coudray](npc-angelique), [Petrov Zarkovsky](npc-petrov), [Kimi Eagle Talon](npc-kimi), and [Hunter Savage](npc-hunter).  Kimi and Hunter are holding the coffin-type container housing the earthly remains of [Cain](npc-cain).

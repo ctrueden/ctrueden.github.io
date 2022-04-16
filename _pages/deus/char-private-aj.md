@@ -1,7 +1,5 @@
 ---
-layout: page
 title: CharPrivateAJ
-permalink: /deus/char-private-aj
 category: deus
 ---
 Canadian Secret Service Soulmech

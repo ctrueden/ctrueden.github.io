@@ -1,7 +1,5 @@
 ---
-layout: page
 title: D.E.E. (Damocles Experiment Epsilon) Details
-permalink: /deus/char-private-griffin
 category: deus
 ---
 ## The concept

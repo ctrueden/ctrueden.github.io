@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon01
-permalink: /deus/session-mon01
 category: deus
 ---
 Thanks to [Alex](player-alex) for this session summary.

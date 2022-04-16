@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Flaws
-permalink: /deus/flaws
 category: deus
 ---
 * __Bad ability scores:__ 1mp per -1 to a stat (minimum 3)

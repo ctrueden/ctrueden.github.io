@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Soren Corsair
-permalink: /deus/npc-soren
 category: deus
 ---
 Soren was one of the seven members of the [Arcane Order](org-arcane-order) exiled for disagreeing with its policy of noninterference in world affairs. He was very forceful, acting as spokesperson for those who wished to &quot;use our powers for the betterment of humanity, as we once did.&quot;

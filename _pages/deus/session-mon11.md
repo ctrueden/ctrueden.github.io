@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon11
-permalink: /deus/session-mon11
 category: deus
 ---
 Today is Friday, July 18th, 2399.  As a reminder, [Ariona](char-public-alex), [Meechum](char-public-joey), and [Eddie](char-public-kelsey), along with the body of [Cain](npc-cain), are hanging out in the vicinity of the asteroid belt aboard [DEE](char-public-griffin).  [Ned](char-public-nate) is in Valhalla, attempting to contact [Matt Smith](char-public-john), [Rae Denison](char-public-eva), [Vadril Korlax](char-public-mike), and [Zee](char-public-james).  [Nikolai](char-public-jon) went home to visit his folks, [Vittorio](char-public-allen) is on Earth attempting to contact his father and the "organization," and [Brice](char-public-andy) is somewhere in the security network on Pax.

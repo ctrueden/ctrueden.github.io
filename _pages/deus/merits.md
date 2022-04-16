@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Merits
-permalink: /deus/merits
 category: deus
 ---
 ### Ability scores

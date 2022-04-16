@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Warding
 permalink: /mystic/techniques/warding
 category: mystic2

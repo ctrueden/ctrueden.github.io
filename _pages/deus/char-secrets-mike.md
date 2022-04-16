@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mike's Character's Secrets
-permalink: /deus/char-secrets-mike
 category: deus
 ---
 This page will provide the GMs a restricted page to discuss secrets related to Mike's character.

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Duration
 permalink: /mystic/components/duration
 category: mystic2

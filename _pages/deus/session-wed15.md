@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed15
-permalink: /deus/session-wed15
 category: deus
 ---
 Ridge reports the Necropalis to the UN.  Sent information to Gaia's Order.

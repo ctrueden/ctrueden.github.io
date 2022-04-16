@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Divination
 permalink: /mystic/spheres/divination
 category: mystic2

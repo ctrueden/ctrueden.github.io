@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Eva's Experience Tally and Other Announcements
-permalink: /deus/announce-eva
 category: deus
 ---
 ### Experience

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon08
-permalink: /deus/session-mon08
 category: deus
 ---
 We return to our band of rabble, heroes, and assorted sentients about the good ship [DEE](char-public-griffin).  45 minutes have passed since the end of the previous session.  Everyone on board the ship (which include [Ariona Cassyon](char-public-alex), [Nikolai](char-public-jon), [Vitorrio Garibaldi](char-public-allen), [Meechum](char-public-joey), [Bryce Murphy](char-public-andy), [Trenton Vernor](char-public-mark), [Laiden Rahu](char-public-jason), [Fey Arius](char-public-danielle), [Dr. Andrew Peters](char-public-paul), and [Noun and Pronoun](char-public-lucas), as well as [William Moss](npc-moss) and [Harry Bryant](npc-bryant)) has been engaged in a discussion about what to do next.  ''(For more information, read the General Discussion message boards.)''.  On the Perseverance, [Malcolm Biggs](char-public-ozzyie), [Ridge](char-public-athena), [Admiral Rossner](npc-rossner), and the ship Sarah also participate in this discussion while they beginning sweeping the city for any trace of the antimatter core.

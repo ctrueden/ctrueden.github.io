@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Jon's Character's Details
-permalink: /deus/char-private-jon
 category: deus
 ---
 ### The concept

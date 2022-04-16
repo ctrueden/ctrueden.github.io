@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Creating mystic effects
 permalink: /mystic/basics/creating
 category: mystic2

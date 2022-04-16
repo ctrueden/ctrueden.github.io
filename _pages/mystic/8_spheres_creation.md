@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Creation
 permalink: /mystic/spheres/creation
 category: mystic2

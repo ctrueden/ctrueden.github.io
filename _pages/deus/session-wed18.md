@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed18
-permalink: /deus/session-wed18
 category: deus
 ---
 We are near time's end, near the final moments of the universe, at the cusps of time.  We are floating in the Astral plane- timeless, no sleep, no food, no aging.  We have physical essences.

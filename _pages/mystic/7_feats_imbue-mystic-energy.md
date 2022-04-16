@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Imbue Mystic Energy [Item Creation]
 permalink: /mystic/feats/imbue-mystic-energy
 category: mystic2

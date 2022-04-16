@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed15-2
-permalink: /deus/session-wed15-2
 category: deus
 ---
 On the bridge of Obsidian Teknicon, the crew is decompressing from their successful secure of Fey.  Serra relays an official Arcadia communication, "You are wanted for questioning at your earliest convenience.  You are not being charged.  If you are interested please proceed to the central estate.  If not consider yourself fugitives and are free to leave at once."

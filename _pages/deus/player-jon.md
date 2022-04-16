@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Jon
-permalink: /deus/player-jon
 category: deus
 ---
 Status: confirmed

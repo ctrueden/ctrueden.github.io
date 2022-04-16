@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Allen
-permalink: /deus/player-allen
 category: deus
 ---
 Status: confirmed

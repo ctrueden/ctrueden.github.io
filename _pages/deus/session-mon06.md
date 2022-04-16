@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon06
-permalink: /deus/session-mon06
 category: deus
 ---
 To refresh everyone's memory, when we last left our "heroes" (more commonly known as [Ariona Cassyon](char-public-alex), [Nikolai](char-public-jon), [Vitorrio Garibaldi](char-public-allen), [Bryce Murphy](char-public-andy), [Meechum](char-public-joey), [Ian Thorpe](char-public-aj), and [DEE](char-public-griffin)), they were joined by [William Moss](npc-moss) aboard DEE (the spaceship, not the robot) in a massively impressive research effort.
@@ -44,7 +42,7 @@ Apparently, there is also a family of vampire slayers, by the name of the Von He
 
 Moss notes that he was hesitant to mention Xela, and Thorpe says he has it on good authority that the Spear is likely to be in Midgard.  Vitorrio wonders if they can just ask to borrow it, or buy it, or what?  Those who know of Xela think this is somewhat unlikely. :P
 
-Vitorrio insists that Xela might be of assistance to them, and notes that he remembers her as a tall, stately woman with green robes and jewels, who goes by the name of [Anastassia Zelakov](http://www.restlesswarrior.com/pax/npcs/xela.html).
+Vitorrio insists that Xela might be of assistance to them, and notes that he remembers her as a tall, stately woman with green robes and jewels, who goes by the name of [Anastassia Zelakov](/pax/npcs/xela).
 
 Nikolai continues to play with his lantern, trying out various things on a protesting Vittorio.  He then moves on to trying out the entire rainbow gamut on an unsuspecting patch of grass, which changes . . . not at all.  Unfortunately, at the end of this, he accidentally breaks the orange lens.
 

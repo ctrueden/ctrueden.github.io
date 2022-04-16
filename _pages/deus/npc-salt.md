@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Salt
-permalink: /deus/npc-salt
 category: deus
 ---
 Salt is one of the three shards of the Occultem Lapidem. Until recently, it was in the possession of [Harry Bryant](npc-bryant). During an incident on Lupus, the Salt glyph was destroyed by [Zee](char-public-james).

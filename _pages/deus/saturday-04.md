@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday04
-permalink: /deus/saturday-04
 category: deus
 ---
 Glaurung and the dragons have forgotten their original purpose: to lure the Destroyer away from Earth.

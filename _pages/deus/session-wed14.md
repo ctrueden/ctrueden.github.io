@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed14
-permalink: /deus/session-wed14
 category: deus
 ---
 Rudy, a member of the Arcane Order, teleports Malcolm and Noun to Valhalla.  Iason asks that they not divulge the existence of the Arcane Order to outsiders.

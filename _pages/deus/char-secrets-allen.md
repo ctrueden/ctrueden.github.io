@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Vittorio Garibaldi's Secrets
-permalink: /deus/char-secrets-allen
 category: deus
 ---
 Psionic ghost - soul knife

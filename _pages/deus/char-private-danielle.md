@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Danielle's Character's Details
-permalink: /deus/char-private-danielle
 category: deus
 ---
 ## Concept

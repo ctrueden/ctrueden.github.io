@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Advanced and alternative rules
-permalink: /rules/dungeonopoly/alt
+permalink: /dungeonopoly/alt
 category: dungeonopoly1
 ---
 ### Politics

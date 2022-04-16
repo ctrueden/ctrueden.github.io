@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday group, first session
-permalink: /deus/wednesday-01
 category: deus
 ---
 [Percepi](worlds), the colony in question is the one [Ariona](char-private-alex) grew up near, and went to University at. It was settled in 2070, and her parents moved there in 2072. Ariona graduated from the University there in 2097, and moved back to Earth with her parents, where she has been ever since. The colony is ~8 light years away from Sol.

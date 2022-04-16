@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Baron von Petrol
-permalink: /deus/npc-von-petrol
 category: deus
 ---
 The Baron is one of the wealthiest residents of Arcadia, and perhaps the best-informed (apart from [Boris](npc-boris) and [Annika](npc-annika)). He is &quot;old money&quot; left over from the time of the oil tycoons in the 20th and 21st centuries. He is a cunning villain who does not engage in narcissistic &quot;supervillain tomfoolery&quot; such as leaving the room before the hero is confirmed dead.

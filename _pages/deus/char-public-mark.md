@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Trenton Verner
-permalink: /deus/char-public-mark
 category: deus
 ---
 Sex: Male

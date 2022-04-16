@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Vadril Korlax
-permalink: /deus/char-private-mike
 category: deus
 ---
 ### Vadril's backstory

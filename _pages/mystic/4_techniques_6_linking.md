@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Linking
 permalink: /mystic/techniques/linking
 category: mystic2

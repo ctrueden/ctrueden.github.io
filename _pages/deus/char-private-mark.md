@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mark's Character's Details
-permalink: /deus/char-private-mark
 category: deus
 ---
 ## Backstory for Trenton

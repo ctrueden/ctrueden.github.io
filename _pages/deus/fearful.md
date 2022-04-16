@@ -1,7 +1,5 @@
 ---
-layout: page
 title: The Fearful
-permalink: /deus/fearful
 category: deus
 ---
 An alien race far from Earth lived on a mystic planet. At one level, the Fearful consist of a non-sentient virus that infects whatever organic life it touches. The mystic planet where the Fearful first evolved was quite different from Earth. The life forms there fed on mystic energy, which was plentiful. The Fearful, once infecting an entire ecosystem, acquire sentience, with each ecosystem corresponding to one individual. To communicate, they swap pieces of their ecosystems with each other.

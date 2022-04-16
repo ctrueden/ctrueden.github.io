@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday02
-permalink: /deus/saturday-02
 category: deus
 ---
 Goals:

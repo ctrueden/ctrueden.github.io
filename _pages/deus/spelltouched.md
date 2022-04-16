@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Spelltouched Feats
-permalink: /deus/spelltouched
 category: deus
 ---
 The following Spelltouched feats are taken from Unearthed Arcana. They cost two merit points each.

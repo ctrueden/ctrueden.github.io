@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday group, first session
-permalink: /deus/monday-01
 category: deus
 ---
 ### The scientist's abduction

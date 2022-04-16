@@ -1,7 +1,5 @@
 ---
-layout: page
 title: BorisLetter
-permalink: /deus/boris-letter
 category: deus
 ---
 To:  Fey Arius

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Sphere point calculator
 permalink: /mystic/points/calculator
 category: mystic2

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Wish-level magic
 permalink: /mystic/techniques/wish
 category: mystic2

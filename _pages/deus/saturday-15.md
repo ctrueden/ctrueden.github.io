@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday15
-permalink: /deus/saturday-15
 category: deus
 ---
 ## Glaurung returns to Luna

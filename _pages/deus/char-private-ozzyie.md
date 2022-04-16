@@ -1,7 +1,5 @@
 ---
-layout: page
 title: CharPrivateOzzyie
-permalink: /deus/char-private-ozzyie
 category: deus
 ---
 ### The concept

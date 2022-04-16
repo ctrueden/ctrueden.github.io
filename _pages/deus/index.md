@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Deus Ultionis
-permalink: /deus/index
 category: deus
 ---
 Welcome to Deus Ultionis! Use the menu bar to the left to navigate the site.
@@ -75,4 +73,4 @@ The following is a list of emails I have sent to the Deus mailing list:
 * [2005 May 24, 03:52 pm](email-200505241552) -- preliminary campaign setting and scheduling information
 
 ---
-[that man](http://www.asofterworld.com/index.php?id=97) isn't my father
+[that man](https://www.asofterworld.com/index.php?id=97) isn't my father

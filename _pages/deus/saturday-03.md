@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday03
-permalink: /deus/saturday-03
 category: deus
 ---
 As previously mentioned, the woman is wearing skins, and carrying a spear, with a sling around her waist. Her eyes are milky white. She is tall and sinewy, with tanned, leathery skin. She appears middle-aged, with long, unbrushed brown hair tied back with a small leather strip.

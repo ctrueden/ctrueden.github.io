@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed13
-permalink: /deus/session-wed13
 category: deus
 ---
 WARNING: ALmost no editing :(

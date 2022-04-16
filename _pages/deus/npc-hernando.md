@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Hernando Dorian
-permalink: /deus/npc-hernando
 category: deus
 ---
 Hernando is the owner of a butcher shop in Arcadia, and [Ponce's](npc-dorian) older brother. Much more prudent (some might say paranoid) than Ponce, Hernando avoids taking unnecessary risks whenever possible, and is always bailing his brother out of trouble, which Ponce does not appreciate.

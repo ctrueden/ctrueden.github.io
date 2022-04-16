@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon15
-permalink: /deus/session-mon15
 category: deus
 ---
 It's Monday morning, July 21, 2299.  [Nikolai](char-public-jon), [Ariona](char-public-alex), [Unity](char-public-joey), [Vittorio](char-public-allen), [Adam](char-public-griffin), [Brice](char-public-andy), and [Jasmine](npc-jasmine) have only a few moments ago arrived on Laboro, in search of [Bruce Freeman](npc-freeman).  Vittorio flew off in a horror due to hearing half the conversation between Brice and the computer system here, and Ariona left as well.  When Ariona requested that Adam join them in the mines, he was unable to do so because "my creator wishes to speak with me."  Reality shifts, and Adam disappears.

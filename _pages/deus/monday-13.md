@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday13
-permalink: /deus/monday-13
 category: deus
 ---
 ## What happens to Cain

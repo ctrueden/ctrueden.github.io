@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday12
-permalink: /deus/saturday-12
 category: deus
 ---
 Max is going to Valhalla.

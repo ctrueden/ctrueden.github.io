@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Seeker
-permalink: /deus/npc-seeker
 category: deus
 ---
 Seeker is a mysterious monk who is over 2000 years old. He appears middle-aged, and has sworn a vow of poverty.
@@ -10,4 +8,4 @@ During World War IV, he acted as the arbiter appointed by the Caretaker to forci
 
 Seeker has had a very eventful life, having been present during the sealing of magic 2300 years ago, the birth of the Caretaker nearly three centuries ago, and the recent Deus rite.
 
-Seeker is [Paul's fourth character](http://restlesswarrior.com/pax/pcs/theodolous.html) from Pax Artificium.
+Seeker is [Paul's fourth character](/pax/pcs/theodolous) from Pax Artificium.

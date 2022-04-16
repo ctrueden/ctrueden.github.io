@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Pyrotechnics
 permalink: /mystic/spheres/pyrotechnics
 category: mystic2

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Worlds
-permalink: /deus/worlds
 category: deus
 ---
 ### Colonies in orbit vs. colonies on planetary surfaces

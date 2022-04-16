@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Druid
-permalink: /rules/dungeonopoly/druid
+permalink: /dungeonopoly/druid
 category: dungeonopoly2
 ---
 The druid is a primal avatar of natural forces.

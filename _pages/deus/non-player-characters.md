@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Non-Player Characters
-permalink: /deus/non-player-characters
 category: deus
 ---
 ## Entities

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mark's Character's Secrets
-permalink: /deus/char-secrets-mark
 category: deus
 ---
 ## The origin of Pandora's Box

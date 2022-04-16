@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Ariona Cassyon
-permalink: /deus/char-public-alex
 category: deus
 ---
 Age: 25

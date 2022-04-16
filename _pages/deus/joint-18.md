@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Joint18
-permalink: /deus/joint-18
 category: deus
 ---
 __[[Joint 18]:__

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon03
-permalink: /deus/session-mon03
 category: deus
 ---
 Remember that down time the party got at the end of last session?  A lot of people did a lot of secret stuff during that time.  Some people did things that were only kind of secret.

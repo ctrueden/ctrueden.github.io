@@ -1,7 +1,5 @@
 ---
-layout: page
 title: System
-permalink: /deus/system
 category: deus
 ---
 This page contains information about the mechanics of the campaign, including the merit point system used for character creation and advancement:
@@ -21,8 +19,8 @@ Resources:
 * [d20 Modern SRD](http://www.12tomidnight.com/d20modernsrd/Home.php)
 * [d20 Modern/Future SRD](http://www.wizards.com/default.asp?x=d20/article/msrd) -- system reference documents from WotC
 * [d20 Modern/Future web enhancements](http://www.wizards.com/default.asp?x=d20modern/wea/full) -- some additional documents (e.g., the VRNet, Even More Modern)
-* [D&amp;D hypertext SRD](http://www.d20srd.org/) -- a very useful resource
-* [Mystic magic guide](/gaming/mystic/index.html) -- the mechanics of magic
+* [D&amp;D hypertext SRD](https://www.d20srd.org/) -- a very useful resource
+* [Mystic magic guide](/mystic) -- the mechanics of magic
 
 You are encouraged to read the d20 Future SRD for ideas and inspiration, but please ask before using any of the chapters to customize your character. For example:
 * __Robots:__ I am not using the biodroid/bioreplica rules for playing an android. Rather, create your character using the merit system. It might make sense for a robot to require no food, but if you do not take the &quot;No need to eat&quot; merit, it still requires some alternative form of regular energy replenishment such as new batteries or plugging into a recharge socket. The exact details depend on your character concept, but the idea is to preserve game balance between organic and machine-based characters.

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Nikolai
-permalink: /deus/char-public-jon
 category: deus
 ---
 Nikolai appears to be a young man of perhaps eighteen years of age, with very dark hair and eyes.  He is quite attractive, but shows a frailty of body.  He moves with simplistic grace, yet seems to virtually float, so perfect is his balance.

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon04
-permalink: /deus/session-mon04
 category: deus
 ---
 To refresh everyone's memories, [Ariona Cassyon](char-public-alex), [Nikolai](char-public-jon), [Vitorrio Garibaldi](char-public-allen), [Bryce Murphy](char-public-andy), [Meechum](char-public-joey), and [Ian Thorpe](char-public-aj) are currently aboard [DEE](char-public-griffin) en route to Earth to find an enclave of Gaia's Ancient Order.  Their intended destination is the Taiga Forest in Siberia, near Xanadu.

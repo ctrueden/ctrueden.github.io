@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Transmutation
 permalink: /mystic/spheres/transmutation
 category: mystic2

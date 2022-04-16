@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Character Questionnaire
-permalink: /deus/questionnaire
 category: deus
 ---
 Please complete the following requirements when developing your character concept on your private character page. It will help the GMs to understand your character better.

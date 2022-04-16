@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday11
-permalink: /deus/wednesday-11
 category: deus
 ---
 Wednesday pirate situation:

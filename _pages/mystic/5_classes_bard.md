@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic bard
 permalink: /mystic/classes/bard
 category: mystic2

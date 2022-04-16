@@ -1,5 +1,4 @@
 ---
-layout: page
 title: A note to the player
 permalink: /mystic/intro/player
 category: mystic2

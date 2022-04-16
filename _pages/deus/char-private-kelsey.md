@@ -1,7 +1,5 @@
 ---
-layout: page
 title: CharPrivateKelsey
-permalink: /deus/char-private-kelsey
 category: deus
 ---
 ## Harry Bryant
@@ -107,7 +105,7 @@ DR 5/magic
 SR 18
 +4 Fort Save vs. Poison
 Str+4, Dex+2, Con+4, Int+2, Wis+4, Cha+4
-[Spell-like Abilities](http://www.d20srd.org/indexes/spells.htm)
+[Spell-like Abilities](https://www.d20srd.org/indexes/spells.htm)
 ''Protection from Evil'' 3/day
 ''Bless'' 1/day
 ''Aid'' 1/day

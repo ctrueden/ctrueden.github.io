@@ -1,7 +1,5 @@
 ---
-layout: page
 title: The Void
-permalink: /deus/npc-void
 category: deus
 ---
 The term &quot;Void&quot; has been used to describe both an omnipresent nothingness and a physical presence of some sort, responsible for the disappearance of the Percepi colony, which shall be called the [Destroyer](npc-destroyer) for the sake of clarity.

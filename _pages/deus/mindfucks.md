@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mindfucks
-permalink: /deus/mindfucks
 category: deus
 ---
 The flow of the campaign reveals truths (and lies) in an order designed to maximize the intensity and number of shocking revelations both in and out of game. The [GMs Only](game-masters-only) section, on the other hand, just tells it like it is. To reconcile this discrepancy, this page explains the order of revelations we plan to use to keep stringing the players along. (:mrgreen:)

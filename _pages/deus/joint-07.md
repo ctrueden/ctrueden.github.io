@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Joint07
-permalink: /deus/joint-07
 category: deus
 ---
 Mars is newly awakened. The consciousness is called Ares.

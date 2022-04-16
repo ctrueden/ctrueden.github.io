@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Lucas's Character's Details
-permalink: /deus/char-private-lucas
 category: deus
 ---
 This page will provide private details of Lucas's character, for Lucas and the GMs only.

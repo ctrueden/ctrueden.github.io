@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday13
-permalink: /deus/saturday-13
 category: deus
 ---
 ## Vadril's escape

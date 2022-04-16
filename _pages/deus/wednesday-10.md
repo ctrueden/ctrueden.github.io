@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday10
-permalink: /deus/wednesday-10
 category: deus
 ---
 Order of events:

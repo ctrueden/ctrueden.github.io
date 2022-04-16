@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Sacred Protector of Elvenkind
-permalink: /rules/sacred-protector
 category: rules
 snippet: "A D&D3E prestige class pledged to protect the elven race."
 ---

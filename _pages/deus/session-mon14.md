@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon14
-permalink: /deus/session-mon14
 category: deus
 ---
 Today is Sunday, July 20, 2299.  [Nikolai](char-public-jon), [Ariona](char-public-alex), ["Unity"](char-public-joey), [Vittorio](char-public-allen), [Adam](char-public-griffin), and [Brice](char-public-andy) are aboard the ship ''The Grey Storm.''  They have arrived at the former location of [Cain](npc-cain)'s body, in the asteroid belt, only to discover that the stasis chamber which held him has been damaged -- and worse, is now empty.

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Andy's Character's Secrets
-permalink: /deus/char-secrets-andy
 category: deus
 ---
 This page will provide the GMs a restricted page to discuss secrets related to Andy's character.

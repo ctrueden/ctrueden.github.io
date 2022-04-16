@@ -1,7 +1,5 @@
 ---
-layout: page
 title: James's Character's Secrets
-permalink: /deus/char-secrets-james
 category: deus
 ---
 Zebadiah Schinder is not his real name -- Huntington made it up based on his cognomen &quot;Zee&quot; for use with his new ID card.

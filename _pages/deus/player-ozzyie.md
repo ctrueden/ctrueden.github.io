@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Ozzyie
-permalink: /deus/player-ozzyie
 category: deus
 ---
 Status: confirmed

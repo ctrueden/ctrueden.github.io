@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Jason's Experience Tally and Other Announcements
-permalink: /deus/announce-jason
 category: deus
 ---
 ### Experience

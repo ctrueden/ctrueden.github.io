@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Technology
-permalink: /deus/technology
 category: deus
 ---
 This page describes the technological status of the [Terran races](life-forms).

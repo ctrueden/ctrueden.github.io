@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Jonathan Cohen
-permalink: /deus/npc-cohen
 category: deus
 ---
 Jonathan is [Max](char-public-nate)'s father. He has recently awakened from a coma lasting nearly three years, and resumed control of his dying company, [Mercabah Technologies](org-mercabah).

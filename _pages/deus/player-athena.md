@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Athena
-permalink: /deus/player-athena
 category: deus
 ---
 Status: confirmed

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday14
-permalink: /deus/saturday-14
 category: deus
 ---
 See [Talk20060409](talk-20060409) for a list of participants in the Deus rite.

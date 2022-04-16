@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Selena Sharptooth
-permalink: /deus/npc-selena
 category: deus
 ---
 Selena is a werewolf, and influential member of the New Lunar Order. She, along with other New Lunar Order members including [Everlily Nyx](npc-nyx), blames the Caretaker for the recent tragedies of Percepi and Mercury.

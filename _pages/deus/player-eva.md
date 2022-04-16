@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Eva
-permalink: /deus/player-eva
 category: deus
 ---
 Status: confirmed

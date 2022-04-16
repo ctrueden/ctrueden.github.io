@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Sphere point progression
 permalink: /mystic/points
 category: mystic1

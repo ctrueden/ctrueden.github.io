@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday15-2
-permalink: /deus/saturday-15-2
 category: deus
 ---
 __[[Sat E1]:__

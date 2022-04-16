@@ -1,7 +1,5 @@
 ---
-layout: page
 title: CharPrivateJames
-permalink: /deus/char-private-james
 category: deus
 ---
 

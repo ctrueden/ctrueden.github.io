@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Cain
-permalink: /deus/npc-cain
 category: deus
 ---
 According to legend, Cain was one of the first humans, and the first to be fully touched by Emmanuel. The exact circumstances behind the situation are no longer known, but it seems Emmanuel's touch had a powerful effect on Cain, tainting him with backlash, and infecting his soul, such that Cain became the first undead creature, and father to all the others.

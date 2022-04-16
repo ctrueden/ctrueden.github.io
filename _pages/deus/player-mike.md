@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mike
-permalink: /deus/player-mike
 category: deus
 ---
 Status: confirmed

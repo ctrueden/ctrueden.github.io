@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Recovering points
 permalink: /mystic/basics/recovery
 category: mystic2

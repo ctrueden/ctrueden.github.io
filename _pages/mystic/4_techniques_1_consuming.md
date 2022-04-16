@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Consuming points
 permalink: /mystic/techniques/consuming
 category: mystic2

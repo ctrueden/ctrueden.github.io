@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Introduction
 permalink: /mystic/intro
 category: mystic1

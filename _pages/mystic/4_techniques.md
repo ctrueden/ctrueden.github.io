@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Important techniques
 permalink: /mystic/techniques
 category: mystic1

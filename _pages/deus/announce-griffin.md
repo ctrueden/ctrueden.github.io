@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Griffin's Experience Tally and Other Announcements
-permalink: /deus/announce-griffin
 category: deus
 ---
 ### Experience

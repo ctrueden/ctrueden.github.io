@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Joey
-permalink: /deus/player-joey
 category: deus
 ---
 Status: confirmed

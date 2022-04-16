@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Setting
-permalink: /deus/setting
 category: deus
 ---
 Deus Ultionis takes place in the year 2299, a few decades after sentient life from Earth has begun settling colonies outside our solar system.

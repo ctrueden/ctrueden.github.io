@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Destruction
 permalink: /mystic/spheres/destruction
 category: mystic2

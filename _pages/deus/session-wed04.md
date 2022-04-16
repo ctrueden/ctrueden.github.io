@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed04
-permalink: /deus/session-wed04
 category: deus
 ---
 ## We all awaken to the brightness of the same sun.

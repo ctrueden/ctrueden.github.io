@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Primary sphere
 permalink: /mystic/components/primary
 category: mystic2

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Empower Sphere [Metamagic]
 permalink: /mystic/feats/empower-sphere
 category: mystic2

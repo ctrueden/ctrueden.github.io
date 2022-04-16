@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Range
 permalink: /mystic/components/range
 category: mystic2

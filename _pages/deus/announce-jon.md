@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Jon's Experience Tally and Other Announcements
-permalink: /deus/announce-jon
 category: deus
 ---
 ### Experience

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Andy's Character's Details
-permalink: /deus/char-private-andy
 category: deus
 ---
 [Brice's Journal 1-10.5](brice-journal)

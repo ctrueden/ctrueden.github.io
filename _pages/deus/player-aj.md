@@ -1,7 +1,5 @@
 ---
-layout: page
 title: AJ
-permalink: /deus/player-aj
 category: deus
 ---
 Status: ex

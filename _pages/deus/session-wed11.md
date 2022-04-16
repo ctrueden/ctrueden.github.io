@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed11
-permalink: /deus/session-wed11
 category: deus
 ---
 SUMMARY

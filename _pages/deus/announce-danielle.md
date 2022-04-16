@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Danielle's Experience Tally and Other Announcements
-permalink: /deus/announce-danielle
 category: deus
 ---
 ### Experience

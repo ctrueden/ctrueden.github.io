@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed03
-permalink: /deus/session-wed03
 category: deus
 ---
 # Green Eggs and Ham

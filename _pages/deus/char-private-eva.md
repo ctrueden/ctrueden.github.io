@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Eva's Character's Details
-permalink: /deus/char-private-eva
 category: deus
 ---
 This page will provide private details of Eva's character, for Eva and the GMs only.

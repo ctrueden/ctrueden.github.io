@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday15
-permalink: /deus/monday-15
 category: deus
 ---
 ## Laboro

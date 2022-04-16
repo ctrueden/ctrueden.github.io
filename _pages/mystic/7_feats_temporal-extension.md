@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Temporal Extension [Metamagic]
 permalink: /mystic/feats/temporal-extension
 category: mystic2

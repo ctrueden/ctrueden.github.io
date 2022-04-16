@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Current Description
-permalink: /deus/char-public-nate
 category: deus
 ---
 Currently Max is found in a small glowing speck format.  Also he is trapped in a rock.

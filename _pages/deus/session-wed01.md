@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed01
-permalink: /deus/session-wed01
 category: deus
 ---
 Thanks to [Oz](player-ozzyie) for this session summary.

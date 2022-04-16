@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Character concepts
-permalink: /deus/character-concepts
 category: deus
 ---
 Here are some possibilities for character concepts:

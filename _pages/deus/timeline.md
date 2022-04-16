@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Timeline
-permalink: /deus/timeline
 category: deus
 ---
 The following timeline is a brief history of the [Terran races](life-forms) from present day through the start of the campaign (2299). For a history of events from 6,000 B.C. through 2,000 C.E., see the [ancient history](ancient-history) page.
@@ -72,11 +70,11 @@ __2032:__
 
 __2033:__
 1. By this time, Asia has become much more fascist, controlled, authoritarian (rather than communist), the countries there have become more of a confederation, with one single leader -- a council head over the Council of Four (the other three being the leaders of Russia, India &amp; China)
-1. __[Pax Artificium](/pax/index.html), first half__: A group of adventurers discovers that magic is leaking back into the world, and that the leaders of the East and West are actually a pair of gnomes scheming against one another in some sort of twisted game; many of the drastic changes over the past 30 years have been due to their influence
+1. __[Pax Artificium](/pax), first half__: A group of adventurers discovers that magic is leaking back into the world, and that the leaders of the East and West are actually a pair of gnomes scheming against one another in some sort of twisted game; many of the drastic changes over the past 30 years have been due to their influence
 1. The gnomes are ousted from power, the India-China-Russo Pact is dissolved, the East falls into chaos, and the U.S. travel embargo is lifted
 
 __2034:__
-1. __[Pax Artificium](/pax/index.html), second half__: An entity from another dimension known as Emmanuel is discovered to have infested the earth, and is learned to be the cause of the strange backlash effect tainting magic
+1. __[Pax Artificium](/pax), second half__: An entity from another dimension known as Emmanuel is discovered to have infested the earth, and is learned to be the cause of the strange backlash effect tainting magic
 1. Gaia, the spirit of the earth, has been largely driven insane by the infestation
 1. The same group of adventurers overcomes the machinations of several conflicting groups, and helps a mystic named John Bishop to cure Gaia and cleanse Emmanuel by merging them into a gestalt entity known as the Caretaker
 1. On that day, January 4th, 2034, the Voice of God radio station goes dead as the obelisk sealing away mystic energy from the world is undone, and magic floods back into the world completely.

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday04
-permalink: /deus/monday-04
 category: deus
 ---
 ### Davis, the Syndicate, Pipwhistle, the white virus, and the Damocles project

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Healing
 permalink: /mystic/spheres/healing
 category: mystic2

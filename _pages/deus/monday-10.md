@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday10
-permalink: /deus/monday-10
 category: deus
 ---
 ### Max

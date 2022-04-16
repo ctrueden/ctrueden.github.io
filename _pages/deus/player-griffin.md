@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Griffin
-permalink: /deus/player-griffin
 category: deus
 ---
 Status: confirmed

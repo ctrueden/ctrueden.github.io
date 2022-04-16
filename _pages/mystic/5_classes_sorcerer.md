@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic sorcerer
 permalink: /mystic/classes/sorcerer
 category: mystic2

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: John's Character's Secrets
-permalink: /deus/char-secrets-john
 category: deus
 ---
 Zuul's &quot;son&quot;

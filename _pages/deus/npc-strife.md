@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Strife
-permalink: /deus/npc-strife
 category: deus
 ---
 Strife is a half-elven pirate with gray skin and strange eyes similar to those of [Trenton](char-public-mark). She and her ship, the Tenacious Devil, seem to possess strange powers of illusion and misdirection.

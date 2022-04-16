@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Allen's Character's Details
-permalink: /deus/char-private-allen
 category: deus
 ---
 This page will provide private details of Allen's character, for Allen and the GMs only.

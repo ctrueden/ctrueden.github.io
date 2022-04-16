@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Steadfast Effect [Metamagic]
 permalink: /mystic/feats/steadfast-effect
 category: mystic2

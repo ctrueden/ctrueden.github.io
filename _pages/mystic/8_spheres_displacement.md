@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Displacement
 permalink: /mystic/spheres/displacement
 category: mystic2

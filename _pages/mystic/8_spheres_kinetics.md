@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Kinetics
 permalink: /mystic/spheres/kinetics
 category: mystic2

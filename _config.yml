@@ -1,10 +1,7 @@
 # Site settings
-title: restlessgamer.net
-email: ctrueden@gmail.com
+title: ctrue.name
 description: >
-  Gaming stuff.
-baseurl: ""
-url: "http://localhost:4000"
+  Personal website of Curtis Rueden.
 twitter_username: ctrueden
 github_username:  ctrueden
 
@@ -13,6 +10,15 @@ markdown: kramdown
 theme: minima
 sass:
   sass_dir: _sass
-include: ['_pages']
 kramdown:
-  input: GFM
+  syntax_highlighter: rogue
+collections:
+  pages:
+    output: true
+    permalink: /:path
+defaults:
+  - scope:
+      path: "_pages" # NB: all files in the project
+      type: pages
+    values:
+      layout: page

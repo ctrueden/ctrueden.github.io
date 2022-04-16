@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Paul's Character's Details
-permalink: /deus/char-private-paul
 category: deus
 ---
 This page will provide private details of Paul's character, for Paul and the GMs only.

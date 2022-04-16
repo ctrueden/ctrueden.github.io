@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Improved Mystic Charge [Metamagic]
 permalink: /mystic/feats/improved-mystic-charge
 category: mystic2

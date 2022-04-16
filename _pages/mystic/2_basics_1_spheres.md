@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic spheres
 permalink: /mystic/basics/spheres
 category: mystic2

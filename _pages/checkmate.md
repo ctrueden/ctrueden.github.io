@@ -1,8 +1,6 @@
 ---
-layout: page
-title: Chess
-permalink: /checkmate
-category: menu
+title: Checkmate
+nav: Chess
 ---
 
 I love chess. But I don't have much interesting to say about it, except that chess is awesome, and you should play it!
@@ -37,4 +35,4 @@ Here is a dumb cookie for clicking this link. All sixteen black pieces are requi
 </table>
 
 * * *
-What kind of person [talks trash during a chess game](http://asofterworld.com/index.php?id=82)?
+What kind of person [talks trash during a chess game](https://asofterworld.com/index.php?id=82)?

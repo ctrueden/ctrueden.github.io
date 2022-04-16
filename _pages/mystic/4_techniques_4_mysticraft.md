@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mysticraft
 permalink: /mystic/techniques/mysticraft
 category: mystic2

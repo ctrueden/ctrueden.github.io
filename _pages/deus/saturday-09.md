@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday09
-permalink: /deus/saturday-09
 category: deus
 ---
 The start date is Wednesday, June 28th, 0100.

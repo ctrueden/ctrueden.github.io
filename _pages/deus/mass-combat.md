@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Mass Combat Rules
-permalink: /deus/mass-combat
 category: deus
 ---
 These mass battle rules have been adapted from Savage  Worlds (starting on page 104) and the Lord of the Rings  (starting on page 238).

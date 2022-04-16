@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Components of a mystic effect
 permalink: /mystic/components
 category: mystic1

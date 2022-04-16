@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Jasmine de Vide
-permalink: /deus/npc-jasmine
 category: deus
 ---
 Jasmine is short at only 5' 3&quot; tall with a small frame, and appears in her early twenties. She has wavy, shoulder-length raven black hair and black eyes. Her creamy smooth skin is typical of the genetically engineered masses of today. She usually wears utilitarian clothes -- in particular, her cargo pants contain many pockets containing various useful trinkets and tools. She usually wears an unbuttoned designer jean or polyfiber jacket over her shirt, and keeps her hair tied back in a ponytail. A faint French influence can occasionally be heard in her speech.

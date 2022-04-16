@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Villains
-permalink: /deus/villains
 category: deus
 ---
 |__Character__|__Level__|__Notes__|

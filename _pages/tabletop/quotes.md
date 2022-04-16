@@ -1,8 +1,5 @@
 ---
-layout: page
-title: Quotes
-permalink: /quotes
-category: menu
+title: Gaming Quotes
 ---
 
 * [James's Deadlands](#deadlands)
@@ -826,4 +823,4 @@ _Sunday, April 28, 2019_
 **Athena** - So... I can eat him now?
 
 * * *
-When I get to the future, [things will be different](http://asofterworld.com/index.php?id=42)
+When I get to the future, [things will be different](https://asofterworld.com/index.php?id=42)

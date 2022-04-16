@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Shen-Lung
-permalink: /deus/npc-shen-lung
 category: deus
 ---
 Shen-Lung is the gold dragon representative on the Council of Wyrms, presiding over the metallic dragons. He is wise and just, and strives to hear all sides of an argument before reaching a decision.

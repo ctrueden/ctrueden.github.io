@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday02
-permalink: /deus/wednesday-02
 category: deus
 ---
 The scouting mission departure date is Thursday, June 8, 2299. After hours of traveling through space it is now early on Friday, June 9. Those on a standard sleep schedule will need to sleep soon.

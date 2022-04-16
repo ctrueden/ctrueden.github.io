@@ -1,7 +1,5 @@
 ---
-layout: page
 title: The Arcane Order
-permalink: /deus/org-arcane-order
 category: deus
 ---
 Although the island has changed a lot over the past 265 years -- instead of huts, the Order has constructed a castle called the Sanctuary in which they all live, around 7 stories tall, with some towers as many as 20 stories in height -- the wizards who reside there have not. Until recently, the wizards enforced a policy of strict noninterference in the affairs of the outside world.

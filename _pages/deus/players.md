@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Players
-permalink: /deus/players
 category: deus
 ---
 Players are listed in order of priority. Note that better priority has been given to people further along in their character design. Those not meeting the [character deadlines](email-200507081414) will be cut from the game.

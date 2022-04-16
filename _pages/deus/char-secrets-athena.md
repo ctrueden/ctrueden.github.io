@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Athena's Character's Secrets
-permalink: /deus/char-secrets-athena
 category: deus
 ---
 This page will provide the GMs a restricted page to discuss secrets related to Athena's character.

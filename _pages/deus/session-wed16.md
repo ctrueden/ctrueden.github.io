@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed16
-permalink: /deus/session-wed16
 category: deus
 ---
 An hour away from Luna the mad screams of the void ring in everyone's minds as the ship sensors show nothing.   Another half hour later the echoes begin to subside.  All are coping in their own way, deeply fundamentally disturbed.

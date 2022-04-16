@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Fighter
-permalink: /rules/dungeonopoly/fighter
+permalink: /dungeonopoly/fighter
 category: dungeonopoly2
 ---
 Fighters excel at dealing damage, debilitating their opponents' properties and strengthening their own.

@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Mystic feats
 permalink: /mystic/feats
 category: mystic1

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday group, second session
-permalink: /deus/monday-02
 category: deus
 ---
 ### Questions

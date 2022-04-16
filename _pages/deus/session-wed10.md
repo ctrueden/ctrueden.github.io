@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed10
-permalink: /deus/session-wed10
 category: deus
 ---
 July 1, Saturday

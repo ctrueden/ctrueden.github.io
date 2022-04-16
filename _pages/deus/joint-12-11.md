@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Joint12-11
-permalink: /deus/joint-12-11
 category: deus
 ---
 See [Talk20060219](talk-20060219) for thoughts on this session.

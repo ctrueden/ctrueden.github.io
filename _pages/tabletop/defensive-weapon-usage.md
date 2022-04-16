@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Defensive Weapon Usage
-permalink: /rules/defensive-weapon-usage
 category: rules
 snippet: Parrying, counterattacks and fencing in D&D3E.
 ---

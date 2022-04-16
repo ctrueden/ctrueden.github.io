@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Kelsey's Character's Secrets
-permalink: /deus/char-secrets-kelsey
 category: deus
 ---
 ## Harry

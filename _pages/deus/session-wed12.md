@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed12
-permalink: /deus/session-wed12
 category: deus
 ---
 Trenton sees that the various Gaian body parts are very well preserved in jars and containers.  Andrew Peters hearing about these body parts begins moving quickly to Trenton and Noun as he is concerned that the opening the crates has exposed them to a biohazard.

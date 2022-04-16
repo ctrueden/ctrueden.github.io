@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Divination triggers
 permalink: /mystic/techniques/triggers
 category: mystic2

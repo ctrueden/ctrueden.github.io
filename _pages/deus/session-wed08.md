@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionWed08
-permalink: /deus/session-wed08
 category: deus
 ---
 Fey believes blowing up the heart tree on Mars is a potential dire threat should the conduit be open.  Someone could send a kamikaze run at the same time someone tree strides.  Harry Bryant wishes to go warn the caretaker of this impending threat.  Fey tries using detect thoughts and alignment on Harry Bryant, but he is protected by a magical ward.  Harry Bryant understanding Fey is doing, assures her he has the caretaker's best interest in mind.

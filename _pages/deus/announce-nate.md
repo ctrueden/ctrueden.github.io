@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Nate's Experience Tally and Other Announcements
-permalink: /deus/announce-nate
 category: deus
 ---
 ### Experience

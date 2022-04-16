@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Lucas's Experience Tally and Other Announcements
-permalink: /deus/announce-lucas
 category: deus
 ---
 ### Experience

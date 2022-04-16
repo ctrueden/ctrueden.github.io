@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Jon's Feat [Metamagic]
 permalink: /mystic/feats/jons-feat
 category: mystic2

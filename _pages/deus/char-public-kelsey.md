@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Harry Bryant
-permalink: /deus/char-public-kelsey
 category: deus
 ---
 See [Bryant's NPC page](npc-bryant) for a description.

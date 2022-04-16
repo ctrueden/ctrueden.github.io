@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Ramses Corsair
-permalink: /deus/npc-ramses
 category: deus
 ---
 Ramses is the grandson of [Soren Corsair](npc-soren), one of the Seven exiled from the island of the Arcane Order. He was interested in the human experiments being performed by [Pandora's Box](org-pandora) and joined up, eventually becoming [Etnia Gryffinclaw's](npc-etnia) right-hand man.

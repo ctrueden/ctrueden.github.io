@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionSat06
-permalink: /deus/session-sat06
 category: deus
 ---
 Sunday, June 25th, 2299: At Matt's apartment, [Adana Cassenti](npc-adana) sends sensor data illustrating Cain's recovery from Magitech HQ, and subsequent expulsion from Luna.

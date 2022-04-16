@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Albus
-permalink: /deus/npc-albus
 category: deus
 ---
 Albus became the new head of the [Arcane Order](org-arcane-order) after [Yeslek's](/pax/npcs/yeslek.html) untimely death during the Pax Artificium campaign. He presided over the Order from 2034 until 2299, at which time he died of old age and was succeeded by [Iason](npc-iason).

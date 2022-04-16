@@ -1,7 +1,5 @@
 ---
-layout: page
 title: For GMs Only
-permalink: /deus/game-masters-only
 category: deus
 ---
 This page is for GMs only, and serves as the central repository of all the game's plotlines and secrets.
@@ -72,7 +70,7 @@ This page is for GMs only, and serves as the central repository of all the game'
 
 ## To do
 * [ThingsToDo](things-to-do)
-* Revise HTMLized [mystic magic guide](/gaming/mystic/index.html) to incorporate [tweaks and changes](mystic-todo).
+* Revise HTMLized [mystic magic guide](/mystic) to incorporate [tweaks and changes](mystic-todo).
 * Convert Pax campaign notes into short session summaries.
 * Write up unfinished Pax PC descriptions.
 * Finish writing up Pax NPC descriptions, briefly.

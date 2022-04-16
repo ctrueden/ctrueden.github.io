@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Sulphur
-permalink: /deus/npc-sulphur
 category: deus
 ---
 Sulphur is one of the three shards of the Occultem Lapidem. Until recently, it was in the possession of [Max Cohen](char-public-nate). [Harry Bryant](npc-bryant) then took possession of it, along with Nebuchadnezzar's Crown, during a confrontation with Max. After Bryant dropped the Crown during the Lupus incident, the Sulphur glyph was discovered within one of the Crown's gemstones, and was destroyed by [Lin Huntington](npc-merlin).

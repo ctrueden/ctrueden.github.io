@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Lucas's Character's Secrets
-permalink: /deus/char-secrets-lucas
 category: deus
 ---
 This page will provide the GMs a restricted page to discuss secrets related to Lucas's character.

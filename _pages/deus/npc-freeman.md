@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Bruce Freeman
-permalink: /deus/npc-freeman
 category: deus
 ---
 Freeman is an android, and until recently one of [Scorpio's](npc-scorpio) servants -- together with [Capricorn](npc-capricorn) and [Aries](npc-aries), Scorpio hacked Freeman while they were being transferred out of storage for termination, then betrayed his comrades, locking them out of the android's systems and ordering Freeman to carry him to safety.

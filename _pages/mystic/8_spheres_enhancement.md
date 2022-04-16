@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Enhancement
 permalink: /mystic/spheres/enhancement
 category: mystic2

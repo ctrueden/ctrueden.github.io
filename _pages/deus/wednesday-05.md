@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday05
-permalink: /deus/wednesday-05
 category: deus
 ---
 The seed has been prepared, and it's almost time for it to be taken to the Sun, planted, and watered with mystic energy. But first they must speak to the Caretaker directly. They meet the council (Sledge Greenhorn, Elana Connendeol, and Liza), who quickly agrees they can touch the Heart Tree to speak with Gaia. All their foremost thoughts, questions and fears rise up and the Caretaker respondes, confirming that planting the seed on the Sun will bring the souls home. If the questions are forceful enough, the Caretaker conveys that these souls are crucial for preventing future calamities like what happened to Percepi.

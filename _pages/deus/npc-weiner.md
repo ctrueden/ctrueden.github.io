@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Holden Weiner
-permalink: /deus/npc-weiner
 category: deus
 ---
 Dr. Weiner worked for [StratCo](org-strat-co) with [Varick Rixmann](npc-varick) on a secret project. They decided to try an experimental technique on Varick's unborn son [Siegfried](char-public-james) (&quot;Subject Z&quot;), but halfway through the process Varick changed his mind and ran away with his wife [Elsa](npc-elsa) while she was still pregnant. Weiner, who had a history of alcoholism, quickly devolved into his old habits and lost his job.

@@ -1,8 +1,5 @@
 ---
-layout: page
 title: Dew Cups
-permalink: /dewcups
-category: menu
 ---
 
 The Dew Cup tradition began several years ago amongst some of my gaming friends. The idea is to create the most powerful character possible under a given set of constraints, then beat the tar out of each other in grueling matches to the death.
@@ -15,13 +12,13 @@ The Dew Cup tradition began several years ago amongst some of my gaming friends.
 *   A monk cannot, in fact, take any additional actions immediately following use of his _dimension step_ ability. He cannot, for example, beat the shit out of the sorcerer hiding inside a spherical _wall of force_.
 *   On the other hand, the sorcerer cannot throw down three maximized _ice storm_ spells in a single round (as this Cup took place prior to the existence of "Metamagic Specialist" or other such variant rules).
 
-**[PowerGame 2K1](/legacy/pg2k1) (December 2001-January 2002)**: The next year, a Dew Cup-like event was arranged with 30th level characters (prior to the release of the Epic Level Handbook), but interest quickly died down and most matches were never finished. See the [original PowerGame 2K1 site](/legacy/pg2k1/) for complete rules, match results and other information. Highlights:
+**[PowerGame 2K1](/pg2k1) (December 2001-January 2002)**: The next year, a Dew Cup-like event was arranged with 30th level characters (prior to the release of the Epic Level Handbook), but interest quickly died down and most matches were never finished. See the [original PowerGame 2K1 site](/pg2k1) for complete rules, match results and other information. Highlights:
 
 *   Recipe for Hobbes's now-infamous "blender" technique: start with _time stop_, throw down an _insect swarm_ (which in 3.0 made spellcasting "impossible"), a couple of _blade barriers_ and cap it off with a spherical _wall of force_. Throw in a _deeper darkness_ or _cloudkill_ for extra flavor. Then sit back and learn the answer to the age-old question: "Will it blend?"
 *   What happens to a spellcaster who _shapechanges_ into a Tarrasque, swallows his enemy whole, then reverts to his normal form? The world may never know!
 *   When a lycanthrope changes form and regains hit points "as though having rested for a day," he does not get to factor in hit points regained from magical sources such as _rings of regeneration_. So sad.
 
-**[Dew Cup III](/legacy/dewcup3) (February-April 2003)**: Eventually we organized another Dew Cup, this time with 16th level characters and more splat books allowed. This Cup was informally dubbed the "Zoo Cup" do to its inclusion of several ways to possess a familiar, animal companion or other loyal creature. It also spawned the "no recursion" rule, for reasons clear from the highlights below. Though most matches were fought, several players' lack of interest resulted in another early demise. See the [original Dew Cup III site](/legacy/dewcup3/) for complete rules, match results and other information. Highlights:
+**[Dew Cup III](/dewcup3) (February-April 2003)**: Eventually we organized another Dew Cup, this time with 16th level characters and more splat books allowed. This Cup was informally dubbed the "Zoo Cup" do to its inclusion of several ways to possess a familiar, animal companion or other loyal creature. It also spawned the "no recursion" rule, for reasons clear from the highlights below. Though most matches were fought, several players' lack of interest resulted in another early demise. See the [original Dew Cup III site](/dewcup3) for complete rules, match results and other information. Highlights:
 
 *   A half-orc cleric riding a half-dragon direbear is slightly more terrifying than a paladin with a _shield of absorption_ on a dragon mount.
 *   Slightly less frightening, but no less awesome, is the ninja with an _eversmoking bottle_ and a locking garrotte. You're not afraid of the dark, are you?

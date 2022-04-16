@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon07
-permalink: /deus/session-mon07
 category: deus
 ---
 The party (specifically, [Ariona Cassyon](char-public-alex), [Nikolai](char-public-jon), [Vitorrio Garibaldi](char-public-allen), and [Meechum](char-public-joey)), still reeling from the shock of Thorpe's destruction, returns to [DEE](char-public-griffin) with the aid of [Harry Bryant](npc-bryant).  Onboard the ship, they are rejoined by [Bryce Murphy](char-public-andy) and [William Moss](npc-moss), the latter of whom is working feverishly to restore [Everlily Nyx](npc-nyx).

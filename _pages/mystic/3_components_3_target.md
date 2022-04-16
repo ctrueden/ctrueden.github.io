@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Target
 permalink: /mystic/components/target
 category: mystic2

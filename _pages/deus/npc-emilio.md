@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Emilio Falconi
-permalink: /deus/npc-emilio
 category: deus
 ---
 Emilio is a thin, somewhat weasely fellow, often nervous but good with guns. Despite his appearance, however, he has managed to have a continuous string of girlfriends throughout his youth. He is one of [Orlando Garibaldi's](npc-orlando) bodyguards.

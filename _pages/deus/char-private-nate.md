@@ -1,7 +1,5 @@
 ---
-layout: page
 title: CharPrivateNate
-permalink: /deus/char-private-nate
 category: deus
 ---
 [Rubedo, Albedo, Nigredo](http://www.soul-guidance.com/houseofthesun/alchemy%202.htm)[, The Emerald Tablet](http://www.sacred-texts.com/alc/emerald.htm)[, Hermes Trismegistus](http://en.wikipedia.org/wiki/Hermes_Trismegistus)[, Hermes](http://www.pantheon.org/articles/h/hermes.html)[, Abrasax](http://altreligion.about.com/library/glossary/symbols/bldefabraxas.htm)[, The Chymical](http://www.orderofthegrail.org/chemical_wedding_of_crc.htm)[ Wedding](http://www.levity.com/alchemy/chymwed1.html)[, Symbols](http://altreligion.about.com/library/glossary/blsymbols.htm)[, Alchemical Symbol Dictionary](http://www.alchemylab.com/dictionary.htm)[, Alchemical Imagery](http://www.levity.com/alchemy/emb_index.html)[, Ahriman &amp; Lucifer](http://goldenbraid.blogspot.com/2005/07/infectious-derangements-part-ii.html)[, Black Sun](http://www.levity.com/alchemy/I-blksun.html)[, Seven Alchemical Operations](http://www.experiencefestival.com/a/Alchemy/id/5870)[, Rebis(the hermaphrodite)](http://www.levity.com/alchemy/emb_hermaphrodite.html)[, Green Lion](http://www.levity.com/alchemy/emb_green_lion.html)[, crow](http://www.levity.com/alchemy/emb_crow.html)[, Tzimtzum](http://www.kheper.net/topics/Kabbalah/Tzimtzum-ET.htm)[, Pleroma](http://en.wikipedia.org/wiki/Pleroma)[, Dissolution](http://www.alchemylab.com/dissolution.htm)
@@ -270,37 +268,37 @@ Max's &quot;mystic&quot; abilities require that he touch the object or creature 
 
 |__Sphere__|__Metal__|
 |Reserve|Gold|
-|[Creation](http://restlesswarrior.com/gaming/mystic/creation.html)|Silver or Aluminum|
-|[Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html)|Mercury/Quicksilver|
-|[Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html)|Copper or Brass|
-|[Healing|](http://restlesswarrior.com/gaming/mystic/healing.html)|Tin|
-|[Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html)|Lead|
-|[Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html)|Radium or Uranium|
-|[Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html)|Lithium or Platinum|
-|[Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html)|Tungsten or Plutonium|
+|[Creation](/mystic/spheres/creation)|Silver or Aluminum|
+|[Transmutation](/mystic/spheres/transmutation)|Mercury/Quicksilver|
+|[Destruction](/mystic/spheres/destruction)|Copper or Brass|
+|[Healing|](/mystic/spheres/healing)|Tin|
+|[Enhancement](/mystic/spheres/enhancement)|Lead|
+|[Illusion](/mystic/spheres/illusion)|Radium or Uranium|
+|[Mind Control](/mystic/spheres/mindcontrol)|Lithium or Platinum|
+|[Pyrotechnics](/mystic/spheres/pyrotechnics)|Tungsten or Plutonium|
 |Unusable|Steel or Iron|
 
 Max may as a full round action use a free destruction effect to destroy any of the above metals without error.  One cubic foot of the material refills the relevant sphere completely (less refills a proportionate fraction thereof, linearly). Of course, the Occultum Lapidem trumps these rules, but using it has its own disadvantages...
 
 ## Sphere Changes
 
-* [Creation](http://restlesswarrior.com/gaming/mystic/creation.html):-
-* [Destruction](http://restlesswarrior.com/gaming/mystic/destruction.html):The nanomagus is unable to use destruction to dispel magic, as well destruction damages undead just as it damages the living.  In the case of enchanted objects enough destruction must be spent to break the enchantment before it damages the object.  This still does not disenchant the object.  These changes are revoked when a nanomagus takes the magic machina feat
-* [Enhancement](http://restlesswarrior.com/gaming/mystic/enhancement.html):It is unknown whether nanomagi can link as mystics can, but it is an unlikely event to occure seeing as there are only three nanomagi and they probably aren't friends.
-* [Healing](http://restlesswarrior.com/gaming/mystic/healing.html):The nanomagus can use healing to heal the undead just as well as the living and isn't even able to hurt the undead with it.  A nanomagus is also incapable of healing magical afflictions or any form of resurection.  These changes are revoked if the nanomagus takes the magic machina feat with the exception of the ability to resurect
-* [Illusion](http://restlesswarrior.com/gaming/mystic/illusion.html):Illusions can only be placed on solid objects until the nanomagus takes the airborn colonies feat.   All powers are still touch range.
-* [Mind Control](http://restlesswarrior.com/gaming/mystic/mindcontrol.html):Remember all powers are touch range.
-* [Pyrotechnics](http://restlesswarrior.com/gaming/mystic/pyrotechnics.html):Remember all powers are touch range.
-* [Transmutation](http://restlesswarrior.com/gaming/mystic/transmutation.html):-
+* [Creation](/mystic/spheres/creation):-
+* [Destruction](/mystic/spheres/destruction):The nanomagus is unable to use destruction to dispel magic, as well destruction damages undead just as it damages the living.  In the case of enchanted objects enough destruction must be spent to break the enchantment before it damages the object.  This still does not disenchant the object.  These changes are revoked when a nanomagus takes the magic machina feat
+* [Enhancement](/mystic/spheres/enhancement):It is unknown whether nanomagi can link as mystics can, but it is an unlikely event to occure seeing as there are only three nanomagi and they probably aren't friends.
+* [Healing](/mystic/spheres/healing):The nanomagus can use healing to heal the undead just as well as the living and isn't even able to hurt the undead with it.  A nanomagus is also incapable of healing magical afflictions or any form of resurection.  These changes are revoked if the nanomagus takes the magic machina feat with the exception of the ability to resurect
+* [Illusion](/mystic/spheres/illusion):Illusions can only be placed on solid objects until the nanomagus takes the airborn colonies feat.   All powers are still touch range.
+* [Mind Control](/mystic/spheres/mindcontrol):Remember all powers are touch range.
+* [Pyrotechnics](/mystic/spheres/pyrotechnics):Remember all powers are touch range.
+* [Transmutation](/mystic/spheres/transmutation):-
 
 ## Nanomagus Feats
-The following feats from the [The Mystic Guide](http://restlesswarrior.com/gaming/mystic/index.html) are available to a Nanomagus:
-* [Empower Sphere](http://restlesswarrior.com/gaming/mystic/feats.html#empowerSphere)
-* [Mystic Charge](http://restlesswarrior.com/gaming/mystic/feats.html#mysticCharge)
-* [Mystic Charge, Improved](http://restlesswarrior.com/gaming/mystic/feats.html#improvedMysticCharge)
-* [Overdraw](http://restlesswarrior.com/gaming/mystic/feats.html#overdraw)
-* [Overdraw Focus](http://restlesswarrior.com/gaming/mystic/feats.html#overdrawFocus)
-* [Steadfast Effect](http://restlesswarrior.com/gaming/mystic/feats.html#steadfastEffect)
+The following feats from the [The Mystic Guide](/mystic) are available to a Nanomagus:
+* [Empower Sphere](/mystic/feats#empowerSphere)
+* [Mystic Charge](/mystic/feats#mysticCharge)
+* [Mystic Charge, Improved](/mystic/feats#improvedMysticCharge)
+* [Overdraw](/mystic/feats#overdraw)
+* [Overdraw Focus](/mystic/feats#overdrawFocus)
+* [Steadfast Effect](/mystic/feats#steadfastEffect)
 
 In addition a Nanomagus has these feats available to him:
 ###  Eat and Run
@@ -690,6 +688,8 @@ Concentration:19
 * [Epic Toughnessx2](http://www.systemreferencedocuments.org/35/sovelior_sage/epicFeats.html#epic toughness)
 
 ## Flaws
+|     |   |
+|-----|---|
 |Chr 8|2mp|
 
 # Equipment
@@ -711,6 +711,7 @@ Also, the starting occupation the character selects can provide additional class
 Skill Points at Each Additional Level: 3 + Int modifier
 
 |lvl|BAB|Frt|Rfl|Wll|Def|Rep|Ability|
+|---|---|---|---|---|---|---|-------|
 |1|1|1|0|1|1|0|SR 10 + SB Lvl(Dwarves gain proficiency with greatsword)|
 |2|2|2|0|2|1|1|Spell Refelction(1)|
 |3|3|3|1|3|2|1|Slippery Mind, Evasion|

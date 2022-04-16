@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday07
-permalink: /deus/saturday-07
 category: deus
 ---
 The Volokhov brothers are tied to the Syndicate. They do not trust the Syndicate, but provide a shelter for their operatives in exchange for connections and power. The Volokhovs have leveraged these connections to obtain many items in their collection.

@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday06
-permalink: /deus/monday-06
 category: deus
 ---
 Events:

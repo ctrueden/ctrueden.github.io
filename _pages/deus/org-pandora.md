@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Pandora's Box
-permalink: /deus/org-pandora
 category: deus
 ---
 Pandora's Box is an organization founded by four exiles from the [Arcane Order](org-arcane-order) -- [Jendu](npc-jendu), [Tungoa](npc-tungoa), [Sai](npc-sai), and [Vixlecais](npc-vix) -- with the goal of adapting the human genome to absorb mystic traits from other races without losing cross-species potency. The work continued for decades, eventually being taken over by the grandson of the original founders, [Etnia Gryffinclaw](npc-etnia), and his assistant [Ramses Corsair](npc-ramses).

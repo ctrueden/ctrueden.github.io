@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Overdraw [Metamagic]
 permalink: /mystic/feats/overdraw
 category: mystic2

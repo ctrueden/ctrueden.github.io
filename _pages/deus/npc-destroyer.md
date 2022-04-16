@@ -1,7 +1,5 @@
 ---
-layout: page
 title: The Destroyer
-permalink: /deus/npc-destroyer
 category: deus
 ---
 This strange and profoundly frightening phenomenon has been witnessed several times, and describes the supposed entity responsible for the Percepi colony's disappearance.

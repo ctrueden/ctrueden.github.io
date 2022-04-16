@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday04
-permalink: /deus/wednesday-04
 category: deus
 ---
 Admiral Rossner says that everyone is free to go about their business, and thanks them for their service regarding the Mercury incident. Ridge receives a medal of valor for her bravery in attempting to acquire the substance despite the extremely hazardous nature. Trenton Verner's dereliction of duty is overlooked, provided that he resume and complete basic training over the next two weeks.

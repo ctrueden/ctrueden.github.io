@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Saturday08
-permalink: /deus/saturday-08
 category: deus
 ---
 Huntington learned to make the cursed crown from an ancient book writ by the infamous Baba Yaga. =)

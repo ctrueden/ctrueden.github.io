@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Joey's Character's Details
-permalink: /deus/char-private-joey
 category: deus
 ---
 This page will provide private details of Joey's character, for Joey and the GMs only.

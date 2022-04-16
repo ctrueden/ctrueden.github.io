@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Meera
-permalink: /deus/npc-meera
 category: deus
 ---
 Until recently, this woman was locked in Magitech's seventh basement level. When the building collapsed, [Vittorio](char-public-allen) found her dead beneath the rubble.

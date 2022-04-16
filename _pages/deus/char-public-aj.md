@@ -1,7 +1,5 @@
 ---
-layout: page
 title: CharPublicAJ
-permalink: /deus/char-public-aj
 category: deus
 ---
 Ian Thorpe

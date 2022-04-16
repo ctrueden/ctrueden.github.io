@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Wednesday12
-permalink: /deus/wednesday-12
 category: deus
 ---
 ## Events

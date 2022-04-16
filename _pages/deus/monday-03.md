@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Monday03
-permalink: /deus/monday-03
 category: deus
 ---
 Mon hears the news that Mercury plunged into the sun during the six day downtime. U.N. Forces announces the truth about Mercury -- that it was gooed, but that they successfully defused this volatile situation.

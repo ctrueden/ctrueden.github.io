@@ -1,7 +1,5 @@
 ---
-layout: page
 title: SessionMon13
-permalink: /deus/session-mon13
 category: deus
 ---
 It is STILL Friday, July 18th, 2399, though it is now much later in the day.  [Nikolai](char-public-jon) is somewhere en route to [DEE](char-public-griffin)'s former location, where among other things the body of [Cain](npc-cain) is now floating in deep space.  (CharPublicAlex|Ariona)), [Meechum](char-public-joey), [Vittorio](char-public-allen), and [Brice](char-public-andy) are still on Lupus, trying to figure out how to rendezvous with Nikolai.

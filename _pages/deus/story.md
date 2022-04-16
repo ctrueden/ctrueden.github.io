@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Story
-permalink: /deus/story
 category: deus
 ---
 This page provides a summary of the Deus Ultionis story so far. It is organized by session date. Note that you only have access to session summaries for the group in which you play.

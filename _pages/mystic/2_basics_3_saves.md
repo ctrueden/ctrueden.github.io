@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Saving throws and ability checks
 permalink: /mystic/basics/saves
 category: mystic2

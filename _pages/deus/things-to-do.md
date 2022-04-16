@@ -1,7 +1,5 @@
 ---
-layout: page
 title: ThingsToDo
-permalink: /deus/things-to-do
 category: deus
 ---
 Update events:
