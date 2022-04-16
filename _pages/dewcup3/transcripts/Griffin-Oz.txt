@@ -1,0 +1,106 @@
+Griffin vs Oz
+
+DM: Curt
+Date: Wednesday, 2 April 2003
+Time: 8:00 pm
+Map: Curt's map #1
+
+Oz is using spell configuration #13
+
+Starting positions:
+	Griffin: 2
+	Oz: 1
+
+Round 1
+-------
+Adamant (22):
+Delay till 17+.
+
+Oz (18+):
+Delay till 18-.
+
+Mymarch (18):
+Lower spell resistance.
+
+Oz (18-):
+Cast Extended Haste on Mymarch.
+
+Adamant (17+):
+Ready action to charge any enemy seen.
+
+Griffin (17):
+Cast Antimagic Field.
+
+Round 2
+-------
+Mymarch (18):
+Delay until 18--.
+
+Oz (18-):
+Ready action to cast Horrid Wilting upon seeing Griffin.
+
+Mymarch (18--):
+Teleport Without Error to southeast corner.
+Cast Aid on Oz.
+
+Adamant (17+):
+Move 10 feet west.
+Ready action to charge enemy.
+
+Griffin (17):
+Move 10 feet west.
+Ready action to net Oz.
+
+Round 3
+-------
+Oz (18-):
+Ready action to cast Horrid Wilting upon seeing Griffin.
+
+Mymarch (18--):
+Teleport Without Error to northeast corner.
+
+They all see each other. Oz's action goes off first. The effect fizzles due to the Antimagic Field.
+
+Then Griffin's action goes off. He successfully nets Oz.
+
+Then Adamant's action goes off. He charges the Mymarch (Griffin winds the net rope to 5 feet as Adamant charges). The Mymarch takes an attack of opportunity (due to it having reach 10), dealing 16 damage to Adamant. Adamant attacks the Mymarch, dealing 21 damage, and successfully grapples the Mymarch.
+
+Round 4
+-------
+Mymarch (18--):
+Attempts to break the grapple, and fails. Then attacks the net holding Oz and crits for 31 points of damage, sundering the net and freeing Oz. Then attacks Griffin, dealing 18 damage.
+
+Oz (17++):
+Attempts to move away. Incurs an attack of opportunity from Griffin, who attempts to start a grapple. This in turn incurs an attack of opportunity from Oz, who attacks but misses. Griffin succeeds at grappling Oz. With his remaining standard action, Oz attempts to break the grapple and fails. As a free action, farts.
+
+Griffin (17+):
+Attempts to pin Oz, and succeeds. Then damages Oz with remaining attacks for 16 damage.
+
+Adamant (17):
+Attempts to pin Mymarch, and succeeds. Then damages Mymarch for 51 damage.
+
+Round 5
+-------
+Mymarch (18--):
+Attempts to break the grapple three times, and fails.
+
+Oz (17++):
+Attempts to break the pin, and fails.
+
+Griffin (17+):
+Attempts to pin Oz, and succeeds. Then damages Oz with remaining attacks for 20 damage.
+
+Adamant (17):
+Attempts to pin Mymarch, and succeeds. Then damages Mymarch for 57 damage.
+
+Round 6
+-------
+Mymarch (18--):
+Attempts to break the grapple three times, and fails.
+
+Oz (17++):
+Attempts to break the pin, and fails.
+
+Oz concedes the match.
+
+Time concluded: 9:30 pm.

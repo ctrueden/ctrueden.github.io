@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #caccb4;
+  font: 1em/1.7em verdana, arial, sans-serif;
+}
+
+#title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height:48px;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  border-bottom: 4px solid black;
+  color: black;
+  background: #abad85;
+  white-space: nowrap;
+  z-index: 5;
+}
+
+body>#title {
+  position: fixed;
+}
+
+#title h1 {
+  margin: 0;
+  padding: 10px 5px 5px 5px;
+}
+
+#tabs {
+  color: black;
+  position: absolute;
+  top: 48px;
+  padding: 0px;
+  z-index: 10;
+  margin-left: 15px;
+}
+
+body>#tabs {
+  position: fixed; top: 49px;
+} /*Opera and Mozilla*/
+
+:root #tabs {
+  position: fixed; top: 32px;
+} /*Mozilla*/
+
+#tabs li {
+  display: inline;
+  overflow: hidden;
+  list-style-type: none;
+}
+
+#tabs a, a.active {
+  color: #dedecf;
+  background: #898b5e;
+  font-weight: bold;
+  border: 3px solid black;
+  padding: 2px;
+  margin: 2px;
+  text-decoration: none;
+}
+
+#tabs a.active {
+  background: #abad85;
+  border-top: 3px solid #abad85; z-index: 30;
+}
+
+#tabs a:hover {
+  color: white;
+  background: #adc09f;
+}
+
+#tabs a:visited {
+  color: #e8e9be;
+}
+
+#tabs a.active:hover {
+  background: #abad85;
+  color: #d3dbcb;
+}
+
+#content {
+  background: #caccb4;
+  height: auto;
+  text-align: justify;
+  padding: 70px 30px 15px 30px;
+  z-index: 0;
+}
+
+#content a {
+  text-decoration: none;
+  color: #86862d;
+}
+
+#content a:hover {
+  background: #adc09f;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table td {
+  border-left: 1px solid #abad85;
+  border-top: 1px solid #abad85;
+  padding: 5px;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+table th {
+  padding: 5px;
+}
+
+table th.column {
+  border-left: 1px solid #abad85;
+  text-align: center;
+}
+
+table th.row {
+  border-top: 1px solid #abad85;
+  text-align: right;
+  vertical-align: top;
+}
+
+.boxed-list {
+  border: 1px solid black;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.header {
+  background: #abad85;
+  border-bottom: 1px solid black;
+  font-weight: bold;
+  padding: 5px;
+  text-align: center;
+}
+
+.boxed-list ul {
+  padding: 15px;
+  list-style: none;
+  margin: 0px;
+}
+
+h2, .divider {
+  clear: left;
+  padding-top: 5px;
+}
+
+img {
+  border: none;
+  margin: 10px;
+  float: left;
+}

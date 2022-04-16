@@ -1,0 +1,202 @@
+Game Start 10:00PM
+Start Location:
+	Fighter: 3
+	Tonberry: 4
+
+initiative:
+	Everybody's Grudge: 34
+	Fighter: 24
+	Tonberry: 20
+	Indiscriminate Justice: 5
+
+Round 1:
+	Everybody's Grudge: 
+		Move Silent: 43
+		Free Action: Turn invisible
+		Move: Move up 20 ft.
+		Standard Action: Activate Unhole Aura
+		Listen Check:36
+		Note: Hears wings flapping to the west
+	Fighter:
+		Move Silent: 23
+		Free Action: Draw Dust of Disappearance
+		Stamdrad Action: Apply dust of dissapearance to 
+			self lasting 7 minutes
+		Free Action: Fast Dismount
+		Move: Move to northeast corner of starting point
+		Listen: 27
+	Tonberry:
+		Move SIlent: 29
+		Standard Action: Cast Haste
+		Move: Hop
+		Partial action: Cast Wall of Force 2' diameter around self
+		Listen:10
+	Indiscriminate Justice: 
+		Move Silent: 11
+		Standard Action: Invisibilty self
+		Move: Fly to the ceiling
+		Listen: 36
+
+Round 2:
+	Everybody's Grudge: 
+		Standard Action: Prepare action to use Blasphemy if 
+			anyone is detected within 30ft
+	Fighter:
+ 		Free Action: Draw potion of See Invisibility
+		Standard Action: Drink potion of See invisibilty
+		Free Action: Mount IJ when he comes down
+	Tonberry: 
+		Free Action: Drop lantern
+		Standard Action: Activate Telepathy with EG
+		Move Equivalant: Draw Horn of Blasting
+	Indiscriminate Justice: 
+		Move: Move to southeast corner of the start location and is
+			mounted
+		Standard Action: Move to 20' feet above spikes in the
+	 		spiked pit around start location
+
+Round 3:
+	Everybody's Grudge: 
+		Standard Action: countinue last action 
+	Fighter: 
+		Free Action: Put away hammer
+		Free Action: Draw coin
+		Free Action: Draw Wand of Silence
+		Standard Action: Cast Silence on coin
+		Free Action: Put wand of Silince away
+	Tonberry: 
+		Standrad Action: Cast Shield on self
+		Partial Action: Cast Expeditious Retreat
+	Indiscriminate Justice: 
+		Move: Move to the top of the pit
+
+Round 4:
+	Everybody's Grudge: 
+		Move: Up 10 and and toward the center 30
+		Listen: 41 Hears silence go by
+		Spot: 44 Sees invisible object returning to start 3
+	Fighter: 
+		rides dragon
+	Tonberry: 
+		Standard Action: keep prepared action
+	Indiscriminate Justice: 
+		Move: Moves to start point 4 and goes back to 3
+
+Round 5
+	Everybody's Grudge: 
+		Standard Action: Prepare action to destruction IJ
+		Move: Move 50' towards center
+	Fighter: 
+		Free Actiom: Take out Potion of Bull's Strength
+		Standard Action: Drink Potion of Bull's Strength
+	Tonberry: 
+		Standard Action: Cast Teleport on self to next to EG
+		Partial Action: Casts a wall of force sphere around self 
+			and EG
+	Indiscriminate Justice:
+		Move: Moves to 150' SW of EG and Tonberry
+
+Round 6
+	Everybody's Grudge: 
+		Takes no action
+	Fighter: 
+		Standard Action: Prepares a charge on Tonberry
+	Tonberry: 
+		Standard Action: Dimension Door himself and EG to corner
+			wall of start point 4 and thus shunt to astral 
+			plain 
+	Indiscriminate Justice: -
+
+Tonberry uses Dust of Disappearance Carefully
+
+Round 40203
+	Tonberry:
+		Standard Action: Casts Fly on Self
+Round 40204
+	Tonberry:
+		Standard Action: Expeditious Retreat
+		Free Action: Cast Shield on self
+
+round 40205
+	Tonberry:
+		Standard Action: Haste
+		Free Action: See invisibility
+
+Round 40206
+	Tonberry:
+		Standard Action: Prepares action to cast wall of force
+	Everyone's Grudge:
+		Standard Action: Prepares action to cast Destruction on the
+			 Dragon if it is within range
+Iniative:
+	Fighter: 25
+	Everybody's Grudge: 24
+	Tonberry: 26
+	Indiscriminate Justice: 20
+
+Tonberry reapears 90' west
+
+Round 40207
+	Fighter: keeps same prepared action
+	Everybody's Grudge: -
+	Tonberry: Teleports to EG and then dimension doors them both to
+	Indiscriminate Justice: -
+
+Tonberry Repeats same actions as from before 40203 to 40206
+
+Init:
+	Tonberry: 30
+	Everyone's Grudge: 19
+	Indiscriminate Justice: 20
+	Fighter: 6
+
+Round 96607
+	Tonberry:
+		Standard Action: Prepare action to teleport to 10' above  
+			EG if he is annihilated
+		Partial Action: Does a fucking taunt
+	Everyone's Grudge:
+		Move: Moves toward center
+	Indiscriminate Justice: 
+		Standard Action: Cast invisibility on Fighter
+		Move: Directly over Start Point 1
+	Fighter:
+		Standard Action: Activate Boots of Speed
+		Free Action: Draw wand of silence
+		Partial Action: Cast Silence on coin
+		Free Action: Put away wand
+		Free Action: Mount Dragon
+
+Round 96608
+	Tonberry: 
+		Standard Action: Prepare action to Teleport 70' above EG if 
+			she gets annihilated
+	Everone's Grudge:
+		Move: Go to center of arena
+		Standard Action: Prepare action to destruction Dragon when 
+			in range
+	Indescriminate Justice:
+		Standard Action: Prepare and action to Grapple when the 
+			Wall of Force comes down
+		Move: Over the wall to Tonberry
+	Fighter:
+		Standard Action: Attack Wall of Force with Rod of 
+			Cancellation
+		Partial Action: Attack with Sheild and Annihilate
+
+Question for WOTC? Under haste can one take a full-round move and then cast a spell without incuring an attack of opportunity?  Also, does Expeditious Retreat + Fly grant 180 ft perfect flight?
+
+Round 96609
+	Tonberry:
+		Full Move: Move to north the wall of point 2
+		Partial Action: Cast Wall of Force around self
+	Everone's Grudge:
+		Move: Move 50' toward Fighter and cast destruction for 39 
+			to IJ
+	Indescriminate Justice:
+		Move: into pit 18'
+	Fighter:
+		Standard Action: Turn off boots
+		Free Action: Pull out Lance
+
+2:45 Match is a draw

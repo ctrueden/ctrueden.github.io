@@ -1,0 +1,9 @@
+Griffin's map
+
+500 x 500 x 500 foot cube
+
+Each wall is an invisible, artifact-level teleportation field, transporting anyone who touches it to the corresponding opposite wall.  Also, the entire arena is affected by a permanent, artifact-level Air Walk effect.
+
+There are eight starting positions, each 125 feet across all axes, one from each of the cube's eight corners.
+
+The arena is fully lit by natural daylight.

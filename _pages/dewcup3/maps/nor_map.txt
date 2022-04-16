@@ -1,0 +1,9 @@
+NOR's map
+
+500 x 500 x 500 cube
+
+At 250 foot high, there is a floating platform 250 x 250 in size, in the center of the arena. At the four corners are 10 x 10 platforms. These are the four starting positions. The four platforms are interconnected by 1 foot beams running from the center of each platform to the center of each other platform (including the diagonals). All platforms are artifact-level material that cannot be affected in any way. Each platform has a can of Mountain Dew (alchemical in nature) that removes all magical effects for the imbiber. This effect is an artifact-level dispel, affecting ALL magical effects automatically.
+
+At the bottom of the arena is a 10 foot deep pool of water with calm surface. At the surface of the water is an artifact-level dispel magic field. The field causes anything passing into or out of the water to have all magical effects automatically dispeled. The water is breathable as normal air.
+
+The arena has natural light with no impediments to visibility.

@@ -1,0 +1,38 @@
+Game Start 6:10
+Map: Griffin's Cube
+Start Location:
+	Tonberry: 4
+	Sinbad: 
+
+initiative:
+	Everybody's Grudge: 24
+	Tonberry: 22
+	Sinbad: 22
+
+Round 1
+
+-E.G.: Uses Horrid Wilting on Sinbad, does 98 damage (but actually only 49, because Sinbad saved).
+-Tonberry: Casts Haste and then Ice Storm (does 17 damage).
+-Sinbad: Activates Rod of Security.
+
+Round 2
+
+-E.G.: Moves to 10' from where Sinbad disappeared.  Prepares action to use Blasphemy on Sinbad when he reappears.
+-Tonberry: Moves to 10' away from where Sinbad disappeared, prepares action to use Horn of Blasting as soon as Sinbad reappears.
+-Sinbad:  Begins burning healing spells to heal self.
+
+60 days pass.  Sinbad heals, E.G. and Tonberry prepare to kick Sinbad's ass when he comes back.  Sinbad accrues 15 spin by fireballing himself and then healing himself.  Then he spends another month or two doing Auguries to determine when it would be safe to go back (when Tonberry is sleeping).  8:00am seems to be the preferred time.  Sinbad then Casts Mage Armor, Prot. From Elements (Ice), Expeditious Retreat, Fly, Shield of Faith, Protection from Evil, Invisibility, Sanctuary, Displacement, and Haste.  Reappears, triggers E.G.'s prepared action, gets pwned (dazed for 1 round).  Unfortunately for Tonberry, Tonberry is also dazed for 1 round.
+
+Round 3
+
+-E.G.: Moves to Tonberry and casts Darkness on his belt pouch!
+-Tonberry: Dazed
+-Sinbad: Dazed
+
+Round 4
+
+-E.G.: Casts Unholy Blight to hit Sinbad but not Tonberry.  Does 34 damage reduced to 8...
+-Tonberry: Casts Haste, then Wall of Force around himself with a 1.5' radius. 
+-Sinbad: Moves down 180' and uses his goddamn Rod of Security again.
+
+Curtis offers a draw.  NOR refuses.  Curtis plane-shifts and forces a draw.
