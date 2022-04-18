@@ -250,6 +250,15 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>?</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td class="right">25</td>
+      <td>2021-Jul-03</td>
+      <td>2021-Jul-10</td>
+      <td><a href="https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses">Fire Emblem: Three Houses</a></td>
+      <td>Monticello house</td>
+      <td>I am Ferdinand von Aegir!</td>
+      <td>Pedro's</td>
+    </tr>
   </tbody>
 </table>
 
@@ -447,6 +456,11 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses">Fire Emblem: Three Houses</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
