@@ -1,4 +1,5 @@
 ---
+title: CV
 nav: CV
 ---
 
