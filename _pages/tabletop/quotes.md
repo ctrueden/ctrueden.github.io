@@ -3,6 +3,7 @@ title: Gaming Quotes
 ---
 
 * [Age of Worms](#aow)
+* [Equilibrium](#equilibrium)
 * [ReBeer and Pretzels](#rebeer)
 * [Mechanical Dream (Greg)](#dream)
 * [Drowned Hopes (Jon)](#drowned)
@@ -27,6 +28,17 @@ _Sunday, April 28, 2019_
 **Athena** - Can he be a jelly bean, so that when we kill him, we get to eat him?  
 **Kelsey [GM]** - He appears to be dead.  
 **Athena** - So... I can eat him now?
+
+<a name="equilibrium"></a>
+* * *
+## Equilibrium
+
+_Friday, April 15, 2022_  
+**Curt [GM]** (talking about Freki's promised salary, in comparison to adventuring loot): At this point you've inherited vast wealth beyond any salary.  
+**Michael [Freki, a werewolf]** (glancing at Nate, a.k.a. Ozborn the lying rogue): I was told they were only chocolate coins.  
+**Curt**: At least you won't go hungry.  
+**Michael**: True.  
+**Nate**: No dogs can't eat chocolate.
 
 <a name="rebeer"></a>
 * * *
