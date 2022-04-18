@@ -2,7 +2,7 @@
 title: Gaming Quotes
 ---
 
-* [Age of Worms](#aow)
+* [Age of Worms (Kelsey)](#aow)
 * [Equilibrium](#equilibrium)
 * [ReBeer and Pretzels](#rebeer)
 * [Mechanical Dream (Greg)](#dream)
@@ -12,15 +12,15 @@ title: Gaming Quotes
 * [Pax Artificium](#pax)
 * [Kelsey's 7-Shot](#7shot)
 * [Eva's BESM Game](#besm)
-* [A Hole in the World](#hole)
-* [The Fall of Brekken](#brekken)
+* [A Hole in the World (Jason)](#hole)
+* [The Fall of Brekken (Jason)](#brekken)
 * [Scot's Game](#scot)
 * [Jon's Adventuring Game](#jonadv)
 * [James's Deadlands](#deadlands)
 
 <a name="aow"></a>
 * * *
-## Age of Worms
+## Age of Worms (Kelsey)
 
 _Sunday, April 28, 2019_  
 [We find some jail cells underground.]  
@@ -584,7 +584,7 @@ _Friday, September 5, 2003 - 9:58 pm_
 
 <a name="hole"></a>
 * * *
-## A Hole in the World (Jason's 2nd Game)
+## A Hole in the World (Jason)
 
 _Saturday, February 8, 2003 - 10:55 pm_  
 **Danielle** - "There's lots of chips, and some cake over there, and a pizza in the fridge."  
@@ -604,7 +604,7 @@ _Sunday, February 9, 2003 - 3:30 am_
 
 <a name="brekken"></a>
 * * *
-## The Fall of Brekken (Jason's Game)
+## The Fall of Brekken (Jason)
 
 _Saturday, December 27, 2003 - 10:17 pm_  
 **Cal [Danielle] (to Sebastian, Joey's character)** - "You said your slitted eyes led you to believe you're not human. What other attributes make you think this?"  
