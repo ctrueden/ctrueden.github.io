@@ -450,12 +450,12 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     </tr>
 
     <tr>
-      <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_XI">Dragon Quest XI</a></th>
+      <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_XI">DQ11</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
     <tr>
-      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">Final Fantasy VII Remake</a></th>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">FF7 Remake</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
