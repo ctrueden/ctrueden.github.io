@@ -482,7 +482,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 
 **What to expect:** Fest is a 5-day game-a-thon. People generally stay in one place, and we don't "do other stuff" (although we will occasionally go out for a meal or a walk or what have you). We will all start at the same time on day one (so don't play the game beforehand!), and finish whenever. If people haven't finished by the last day, it is encouraged (but not required) to finish the game later, since discussing the game with others is part of the fun. Also, some people who finish early will sometimes play a secondary game if there is still time.
 
-**First time through:** Fest demands that you have not played the game beforehand. It is more fun if we are all discovering it together.
+**First time through:** Fest <strike>demands</strike>prefers that you have not played the game beforehand. It is more fun if we are all discovering it together.
 
 **Stay till the end:** People generally commit to staying for the entire time. There will be sleeping space, although there are a limited number of couches and beds, so you may want to bring a sleeping bag, etc. See "Stuff to bring" below for details.
 
