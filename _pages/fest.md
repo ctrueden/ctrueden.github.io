@@ -250,8 +250,8 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     </tr>
     <tr>
       <td class="right">25</td>
-      <td>2021-Jul-03</td>
       <td>2021-Jul-10</td>
+      <td>2021-Jul-03</td>
       <td><a href="https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses">Fire Emblem: Three Houses</a></td>
       <td>Monticello house</td>
       <td>I am Ferdinand von Aegir!</td>
