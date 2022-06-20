@@ -257,6 +257,15 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>I am Ferdinand von Aegir!</td>
       <td>Pedro's</td>
     </tr>
+    <tr>
+      <td class="right">26</td>
+      <td>2022-Jul-01</td>
+      <td>2021-Nov-12</td>
+      <td><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V">Shin Megami Tensei V</a></td>
+      <td>Monticello house</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
   </tbody>
 </table>
 
@@ -462,6 +471,10 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
     </tr>
 
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V">Shin Megami Tensei V</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
+    </tr>
   </tbody>
 </table>
 
