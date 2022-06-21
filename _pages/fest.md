@@ -156,7 +156,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>2012-May-15</td>
       <td><a href="http://en.wikipedia.org/wiki/Diablo_3">Diablo 3</a></td>
       <td>Monticello house</td>
-      <td>N/A</td><td>(Not an actual fest)</td>
+      <td>N/A</td><td>(Not an official fest)</td>
     </tr>
     <tr>
       <td class="right">16</td>
@@ -210,7 +210,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td><a href="https://en.wikipedia.org/wiki/Persona_5">Persona 5</a></td>
       <td>Monticello house</td>
       <td>N/A</td>
-      <td>(Not an actual fest)</td>
+      <td>(Not an official fest)</td>
     </tr>
     <tr>
       <td class="right">21</td>
