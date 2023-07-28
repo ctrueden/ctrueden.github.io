@@ -3,19 +3,19 @@ title: Fest
 nav: Fest
 ---
 
-**Fest** (originally known as **Final Fantasy Fest**) is a mostly-annual event where a small group of friends gathers for several days to play through a [role-playing video game](http://en.wikipedia.org/wiki/Role-playing_video_game), typically a single-player [JRPG](http://en.wikipedia.org/wiki/History_of_Eastern_role-playing_video_games). Each person has their own TV and game system, and plays through the game in parallel. In this way, we enjoy and discuss the game together, while each making our own choices and controlling our own progress.
+**Fest** (originally known as **Final Fantasy Fest**) is a mostly-annual event where a small group of friends gathers for several days to play through a [role-playing video game](https://en.wikipedia.org/wiki/Role-playing_video_game), typically a single-player [JRPG](https://en.wikipedia.org/wiki/History_of_Eastern_role-playing_video_games). Each person has their own TV and game system, and plays through the game in parallel. In this way, we enjoy and discuss the game together, while each making our own choices and controlling our own progress.
 
 ## Origins
 
-Fest began with the release of [Final Fantasy VII](http://en.wikipedia.org/wiki/Final_Fantasy_VII) for the PlayStation in 1997\. Three friends decided to play through the game as quickly as possible, stopping only for short breaks, eating and sleeping. The event was successful, and the group decided to do it again two years later when [Final Fantasy VIII](http://en.wikipedia.org/wiki/Final_Fantasy_VIII) was released.
+Fest began with the release of [Final Fantasy VII](https://en.wikipedia.org/wiki/Final_Fantasy_VII) for the PlayStation in 1997\. Three friends decided to play through the game as quickly as possible, stopping only for short breaks, eating and sleeping. The event was successful, and the group decided to do it again two years later when [Final Fantasy VIII](https://en.wikipedia.org/wiki/Final_Fantasy_VIII) was released.
 
-The third and fourth fests ([Final Fantasy IX](http://en.wikipedia.org/wiki/Final_Fantasy_IX) and [Final Fantasy X](http://en.wikipedia.org/wiki/Final_Fantasy_X)) saw an infusion of new players. However, the group then faced a crossroads. [Final Fantasy X-2](http://en.wikipedia.org/wiki/Final_Fantasy_X-2) was announced, but should we really Fest a sequel? To find out, we imported the Japanese version of the game, but were unimpressed, and decided it was not Fest-worthy. Meanwhile, [Final Fantasy XI](http://en.wikipedia.org/wiki/Final_Fantasy_XI) was confirmed as an [MMORPG](http://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) rather than traditional single player, and [Final Fantasy XII](http://en.wikipedia.org/wiki/Final_Fantasy_XII) was still clearly many years away. How could we feed our addiction to Fest in the meantime?
+The third and fourth fests ([Final Fantasy IX](https://en.wikipedia.org/wiki/Final_Fantasy_IX) and [Final Fantasy X](https://en.wikipedia.org/wiki/Final_Fantasy_X)) saw an infusion of new players. However, the group then faced a crossroads. [Final Fantasy X-2](https://en.wikipedia.org/wiki/Final_Fantasy_X-2) was announced, but should we really Fest a sequel? To find out, we imported the Japanese version of the game, but were unimpressed, and decided it was not Fest-worthy. Meanwhile, [Final Fantasy XI](https://en.wikipedia.org/wiki/Final_Fantasy_XI) was confirmed as an [MMORPG](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) rather than traditional single player, and [Final Fantasy XII](https://en.wikipedia.org/wiki/Final_Fantasy_XII) was still clearly many years away. How could we feed our addiction to Fest in the meantime?
 
-We decided to fill the gaps with RPGs other than Final Fantasy, and chose to play [Suikoden III](http://en.wikipedia.org/wiki/Suikoden_III). After that, the timing of Fest became more annual in nature, rather than being scheduled around new [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy) game releases.
+We decided to fill the gaps with RPGs other than Final Fantasy, and chose to play [Suikoden III](https://en.wikipedia.org/wiki/Suikoden_III). After that, the timing of Fest became more annual in nature, rather than being scheduled around new [Final Fantasy](https://en.wikipedia.org/wiki/Final_Fantasy) game releases.
 
-The following year, with the release of [Final Fantasy Crystal Chronicles](http://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles), we again had to choose whether a "non-primary" Final Fantasy entry could serve as the Fest game. We were intrigued by FFCC's promise of four-player simultaneous gameplay, and decided to give it a try, making it the first (and thus far, only) multiplayer Fest game we have done.
+The following year, with the release of [Final Fantasy Crystal Chronicles](https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles), we again had to choose whether a "non-primary" Final Fantasy entry could serve as the Fest game. We were intrigued by FFCC's promise of four-player simultaneous gameplay, and decided to give it a try, making it the first (and thus far, only) multiplayer Fest game we have done.
 
-In 2005, we faced a new problem: there was no clear "A-grade" game title that rose above the others. For the first time, we held a vote amongst the group to decide which game to Fest. The winner was [Dragon Quest VIII](http://en.wikipedia.org/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King). From then on, the Fest game each year has been decided through a democratic process, which continues to evolve.
+In 2005, we faced a new problem: there was no clear "A-grade" game title that rose above the others. For the first time, we held a vote amongst the group to decide which game to Fest. The winner was [Dragon Quest VIII](https://en.wikipedia.org/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King). From then on, the Fest game each year has been decided through a democratic process, which continues to evolve.
 
 Today, Fest is a regularly scheduled, collectively driven event that always delivers a good time, regardless of the quality of the game.
 
@@ -24,8 +24,8 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 <table class="clean">
   <tbody><tr>
       <th class="right">Fest</th>
-      <th>Setup<br></th>
-      <th>Release<br></th>
+      <th>Setup</th>
+      <th>Release</th>
       <th>Game</th>
       <th>Location</th>
       <th>Dinner</th><th>Comments</th>
@@ -34,103 +34,103 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td class="right">1</td>
       <td>1997-Sep-07</td>
       <td>1997-Sep-07</td>
-      <td><a href="http://en.wikipedia.org/wiki/Final_Fantasy_VII">Final Fantasy VII</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII">Final Fantasy VII</a></td>
       <td>S. Gammon apt.</td>
-      <td>-</td><td>Move out!<br></td>
+      <td>-</td><td>Move out!</td>
     </tr>
     <tr>
       <td class="right">2</td>
       <td>1999-Sep-??</td>
       <td>1999-Sep-09</td>
-      <td><a href="http://en.wikipedia.org/wiki/Final_Fantasy_VIII">Final Fantasy VIII</a></td>
-      <td>Ponwood condo<br></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VIII">Final Fantasy VIII</a></td>
+      <td>Ponwood condo</td>
       <td>-</td><td>...</td>
     </tr>
     <tr>
       <td class="right">3</td>
       <td>2000 Q4?</td>
       <td>2000-Nov-14</td>
-      <td><a href="http://en.wikipedia.org/wiki/Final_Fantasy_IX">Final Fantasy IX</a></td>
-      <td>Ponwood condo<br></td>
-      <td>?</td><td>I do what I want! You have problem?<br></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_IX">Final Fantasy IX</a></td>
+      <td>Ponwood condo</td>
+      <td>?</td><td>I do what I want! You have problem?</td>
     </tr>
     <tr>
       <td class="right">4</td>
       <td>2001 Q4?</td>
       <td>2001-Dec-20</td>
-      <td><a href="http://en.wikipedia.org/wiki/Final_Fantasy_X">Final Fantasy X</a></td>
-      <td>Ponwood condo<br></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_X">Final Fantasy X</a></td>
+      <td>Ponwood condo</td>
       <td>?</td><td>By all means, try!</td>
     </tr>
     <tr>
       <td class="right">5</td>
       <td>2002 Q4?</td>
       <td>2002-Oct-22</td>
-      <td><a href="http://en.wikipedia.org/wiki/Suikoden_III">Suikoden III</a><br></td>
-      <td>Ponwood condo<br></td>
-      <td>?</td><td>Five dog combo attack~<br></td>
+      <td><a href="https://en.wikipedia.org/wiki/Suikoden_III">Suikoden III</a></td>
+      <td>Ponwood condo</td>
+      <td>?</td><td>Five dog combo attack~</td>
     </tr>
     <tr>
       <td class="right">6</td>
       <td>2004 Q1?</td>
       <td>2004-Feb-09</td>
-      <td><a href="http://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles">FF Crystal Chronicles</a></td>
-      <td>New Berlin condo<br></td>
-      <td>?</td><td>alt.moogle.die.die.die<br></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles">FF Crystal Chronicles</a></td>
+      <td>New Berlin condo</td>
+      <td>?</td><td>alt.moogle.die.die.die</td>
     </tr>
     <tr>
       <td class="right">7</td>
       <td>2004 Q4?</td>
       <td>2004-Aug-31</td>
-      <td><a href="http://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time">Star Ocean 3</a><br></td>
-      <td>New Berlin condo<br></td>
-      <td>Buca de Bepo</td><td>But what about the UP3?<br></td>
+      <td><a href="https://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time">Star Ocean 3</a></td>
+      <td>New Berlin condo</td>
+      <td>Buca de Bepo</td><td>But what about the UP3?</td>
     </tr>
     <tr>
       <td class="right">8</td>
       <td>2005 Q1?</td>
       <td>2005-Jan-11</td>
-      <td><a href="http://en.wikipedia.org/wiki/Suikoden_IV">Suikoden IV</a><br></td>
-      <td>New Berlin condo<br></td>
-      <td>?</td><td>AARGH SNOWE; ALSO BOATS<br></td>
+      <td><a href="https://en.wikipedia.org/wiki/Suikoden_IV">Suikoden IV</a></td>
+      <td>New Berlin condo</td>
+      <td>?</td><td>AARGH SNOWE; ALSO BOATS</td>
     </tr>
     <tr>
       <td class="right">9</td>
       <td>2005-Dec-26</td>
       <td>2005-Nov-15</td>
-      <td><a href="http://en.wikipedia.org/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King">Dragon Quest VIII</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King">Dragon Quest VIII</a></td>
       <td>Churchill duplex</td>
-      <td>?</td><td>Damn you Akira Toriyama!<br></td>
+      <td>?</td><td>Damn you Akira Toriyama!</td>
     </tr>
     <tr>
       <td class="right">10</td>
       <td>2006-Dec-26</td>
       <td>2006-Oct-31</td>
-      <td><a href="http://en.wikipedia.org/wiki/Final_Fantasy_XII">Final Fantasy XII</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XII">Final Fantasy XII</a></td>
       <td>Churchill duplex</td>
-      <td>?</td><td>I'm Basch fon Ronsenberg!<br></td>
+      <td>?</td><td>I'm Basch fon Ronsenberg!</td>
     </tr>
     <tr>
       <td class="right">11</td>
       <td>2007-Dec-31</td>
       <td>2007-Aug-14</td>
-      <td><a href="http://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_3">Persona 3</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_3">Persona 3</a></td>
       <td>Churchill duplex</td>
-      <td>Pedro's</td><td>Triple brown cow<br></td>
+      <td>Pedro's</td><td>Triple brown cow</td>
     </tr>
     <tr>
       <td class="right">12</td>
       <td>2009-Jan-16</td>
       <td>2008-Dec-09</td>
-      <td><a href="http://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_4">Persona 4</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_4">Persona 4</a></td>
       <td>Churchill duplex</td>
-      <td>Samba<br></td><td>BEAR-SONA!</td>
+      <td>Samba</td><td>BEAR-SONA!</td>
     </tr>
     <tr>
       <td class="right">13</td>
       <td>2009-Dec-26</td>
       <td>2009-Aug-25</td>
-      <td><a href="http://en.wikipedia.org/wiki/Mana_Khemia_2:_Fall_of_Alchemy">Mana Khemia 2</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Mana_Khemia_2:_Fall_of_Alchemy">Mana Khemia 2</a></td>
       <td>Monticello house</td>
       <td>Oliva</td><td>Howdy y'all!</td>
     </tr>
@@ -138,15 +138,15 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td class="right">14</td>
       <td>2010-Dec-26</td>
       <td>2010-Mar-09</td>
-      <td><a href="http://en.wikipedia.org/wiki/Final_Fantasy_XIII">Final Fantasy XIII</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIII">Final Fantasy XIII</a></td>
       <td>Monticello house</td>
-      <td>Ginza</td><td>Since when have heroes ever needed plans?<br></td>
+      <td>Ginza</td><td>Since when have heroes ever needed plans?</td>
     </tr>
     <tr>
       <td class="right">15</td>
       <td>2012-Jan-07</td>
       <td>2011-Sep-27</td>
-      <td><a href="http://en.wikipedia.org/wiki/Atelier_Totori:_The_Adventurer_of_Arland">Atelier Totori</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Atelier_Totori:_The_Adventurer_of_Arland">Atelier Totori</a></td>
       <td>Monticello house</td>
       <td>Benvenuto's</td><td>;_;</td>
     </tr>
@@ -154,7 +154,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td class="right">-</td>
       <td>2012-May-19</td>
       <td>2012-May-15</td>
-      <td><a href="http://en.wikipedia.org/wiki/Diablo_3">Diablo 3</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Diablo_3">Diablo 3</a></td>
       <td>Monticello house</td>
       <td>N/A</td><td>(Not an official fest)</td>
     </tr>
@@ -162,7 +162,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td class="right">16</td>
       <td>2012-Dec-28</td>
       <td> 2010-Jun-29</td>
-      <td><a href="http://en.wikipedia.org/wiki/Trinity_Universe_(video_game)">Trinity Universe</a></td>
+      <td><a href="https://en.wikipedia.org/wiki/Trinity_Universe_(video_game)">Trinity Universe</a></td>
       <td>Monticello house</td>
       <td>Rocky's (before),<br>China One (after)</td>
       <td>You can't escape</td>
@@ -266,6 +266,15 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>...</td>
       <td>...</td>
     </tr>
+    <tr>
+      <td class="right">27</td>
+      <td>2023-Aug-18</td>
+      <td>2023-Jun-22</td>
+      <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XVI">Final Fantasy XVI</a></td>
+      <td>Monticello house</td>
+      <td>...</td>
+      <td>...</td>
+    </tr>
   </tbody>
 </table>
 
@@ -297,183 +306,176 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_VII">FF7</a></th>
-      <td>-<br></td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td>
-      <td>-</td><td>-</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII">FF7</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>Derek</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_VIII">FF8</a></th>
-      <td>-<br></td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td>
-      <td>-</td><td>-</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VIII">FF8</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>Jason</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_IX">FF9</a></th>
-      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td>
-      <td>-</td><td>-</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_IX">FF9</a></th>
+      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_X">FF10</a></th>
-      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td>
-      <td>-</td><td>-</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_X">FF10</a></th>
+      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Suikoden_III">Suikoden III</a><br></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
-      <td>-</td><td>-</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Suikoden_III">Suikoden III</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
       <td>Nate</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles">FFCC</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td>
-      <td>-</td><td>-</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles">FFCC</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>Eva, Kyle</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time">Star Ocean 3</a><br></th>
-      <td>-</td><td>?</td><td>X</td><td>-</td><td>X</td><td>-<br></td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-<br></td><td>-</td><td>-</td><td>X</td>
-      <td>-</td><td>X</td><td>X</td>
+      <th><a href="https://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time">Star Ocean 3</a></th>
+      <td>-</td><td>?</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Suikoden_IV">Suikoden IV</a><br></th>
-      <td>-</td><td>?<br></td><td>X</td><td>-</td><td>X</td><td>?<br></td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td>
-      <td>-</td><td>X</td><td>X</td>
+      <th><a href="https://en.wikipedia.org/wiki/Suikoden_IV">Suikoden IV</a></th>
+      <td>-</td><td>?</td><td>X</td><td>-</td><td>X</td><td>?</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King">DQ8</a></th>
-      <td>-</td><td>-<br></td><td>X</td><td>-</td><td>X</td><td>-<br></td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-<br></td><td>X</td><td>X</td><td>X</td>
-      <td>-</td><td>-</td><td>X</td>
-
+      <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King">DQ8</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td>
       <td>-</td>
     </tr>
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_XII">FF12</a></th>
-      <td>-</td><td>X<br></td><td>X</td><td>X<br></td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X<br></td><td>-</td><td>X</td><td>X</td>
-      <td>-</td><td>X</td><td>X</td>
-      <td style="padding-left: 5px; padding-right: 5px">Emily, Justin, Lauren<br></td>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XII">FF12</a></th>
+      <td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td>
+      <td style="padding-left: 5px; padding-right: 5px">Emily, Justin, Lauren</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_3">Persona 3</a></th>
-      <td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td>
-      <td>X</td><td>X</td><td>X</td>
+      <th><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_3">Persona 3</a></th>
+      <td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_4">Persona 4</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td>
-      <td>-</td><td>X</td><td>X</td>
+      <th><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_4">Persona 4</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Mana_Khemia_2:_Fall_of_Alchemy">Mana Khemia 2</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-<br></td><td>X</td><td>X</td><td>X</td>
-      <td>X</td><td>X</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Mana_Khemia_2:_Fall_of_Alchemy">Mana Khemia 2</a></th>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Final_Fantasy_XIII">FF13</a></th>
-      <td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td>
-      <td>-</td><td>X</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIII">FF13</a></th>
+      <td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Atelier_Totori:_The_Adventurer_of_Arland">Atelier Totori</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-<br></td><td>-</td><td>-</td><td>X</td>
-      <td>X</td><td>X</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Atelier_Totori:_The_Adventurer_of_Arland">Atelier Totori</a></th>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr style="background: #ddd">
-      <th><a href="http://en.wikipedia.org/wiki/Diablo_3">Diablo 3</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-<br></td><td>-</td><td>-</td><td>X</td>
-      <td>-</td><td>X</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Diablo_3">Diablo 3</a></th>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
-      <th><a href="http://en.wikipedia.org/wiki/Trinity_Universe_(video_game)">Trinity Universe</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-<br></td><td>X</td><td>-</td><td>X</td>
-      <td>X</td><td>X</td><td>-</td>
+      <th><a href="https://en.wikipedia.org/wiki/Trinity_Universe_(video_game)">Trinity Universe</a></th>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Ni_no_Kuni">Ni no Kuni</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-<br></td><td>X</td><td>-</td><td>X</td>
-      <td>X</td><td>X</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition">Dragon Age: Inquisition</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-<br></td><td>X</td><td>-</td><td>X</td>
-      <td>X</td><td>X</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X">Xenoblade Chronicles X</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-<br></td><td>X</td><td>-</td><td>X</td>
-      <td>X</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XV">FF15</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td>
     </tr>
 
     <tr style="background: #ddd">
       <th><a href="https://en.wikipedia.org/wiki/Persona_5">Persona 5</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>+</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>+</td><td>-</td>
+      <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Nier_Automata">Nier: Automata</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>+</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>+</td><td>-</td>
+      <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Ni_no_Kuni_2">Ni no Kuni 2</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td>
+      <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_XI">DQ11</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">FF7 Remake</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses">Fire Emblem: Three Houses</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V">Shin Megami Tensei V</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XVI">Final Fantasy XVI</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>Chris</td>
     </tr>
   </tbody>
 </table>
@@ -498,20 +500,20 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 *   Sleeping items: sleeping bag, pillows, blankets, etc. There are a few beds, couches, lovesacs, comfy chairs, etc. for such things, but probably not enough for everyone.
 *   Chargers for whatever other electronic equipment you're bringing (e.g., mobile phones).
 *   Food is generally NOT necessary. See "The Grocery Run" below. However:
-*   Money: Bring enough money for a few dinners, your share of the grocery run, and whatever other expenses you will have. Generally, $150 is sufficient, assuming you are not needing to buy the game, system, TV, etc. The grocery run generally clocks in between $50-$100/person.
-*   Anything else you're going to need to be comfortable in one place for 5 days. iPods? Small sets of weights? Laptops?
+*   Money: Bring enough money for a few dinners, your share of the grocery run, and whatever other expenses you will have. The grocery run generally clocks in between $100-$200/person.
+*   Anything else you're going to need to be comfortable in one place for 5+ days. iPods? Small sets of weights? Laptops?
 
 ## Traditions
 
-1.  **Voting:** The Core Festers choose each Fest game through a democratic voting process. A Core Fester is anyone who has attended Fest in three out of four consecutive years (unless they later miss three out of four consecutive Fests).
-2.  **Scheduling:** The Core Festers decide the Fest date by consensus. Fest typically takes place around or shortly after the December holidays; see "History" above for prior dates.
+1.  **Hosting:** Game is chosen by the hosts. If you are interested in hosting a Fest, please raise it on Discord!
+2.  **Scheduling:** Regular Festers decide the Fest date by consensus. Fest has occurred at various different times of year over its history; see "History" above for prior dates.
 3.  **Setup:** You are responsible for your own game setup. _Make sure it is working on setup day_; do not wait until the morning of day one. It is encouraged to come early on setup day to get ready, and then hang out with others. With so many games and systems in one place, there is generally not a lack of ways to amuse oneself if you are there early and you're done setting up.
-4.  **Seating:** To reduce the time spent on seating during setup day, the seating arrangement is the same as the previous Fest, except: 1) players who did not attend the previous Fest take a vacant seat, or have one created by the host, as needed; and 2) voluntary position swaps are allowed. In the case of a change of venue, the host creates a seating chart as comparable as possible to the previous one.
-5.  **Cooking:** Some participants opt to cook 1-2 dishes for the group during Fest or on setup day, to improve the quality and variety of meals. Please let us know if you are interested in cooking.
+4.  **Seating:** Seating is laid out by the hosts, with spots claimed on a "greedy but compassionate" first come, first served basis, 
+5.  **Cooking:** Some participants opt to cook once or twice for the group during Fest or on setup day, to improve the quality and variety of meals. Please let us know if you are interested in cooking.
 6.  **The Dinner:** We will go to dinner on the evening of setup day. Locale is generally not determined in advance.
-7.  **The Grocery Run:** A subset of the participants will go on a grocery trip for food for Fest, so that we are not required to leave during Fest. People may make (reasonable) requests of what is to be added to the grocery lists. Grocery costs are split evenly among the participants; expect around $50-$100.
+7.  **The Grocery Run:** A subset of the participants will go on a grocery trip for food for Fest, so that we are not required to leave during Fest. People may make (reasonable) requests of what is to be added to the grocery lists. Grocery costs are split evenly among the participants; plan for ~$100-$200.
 8.  **The Start:** At the designated time on day one, everyone will start the game at the same time. Don't worry too much about details, we've done it many times. Everyone is required to be present for the start; after that, people sleep/play/etc at their own (usually somewhat "hardcore") pace.
-9.  **The Pizza Bitch:** One of the staple foods of Fest is the frozen pizza. Whoever is "farthest" in the game is responsible for the creation of high-quality pizzas for the rest of the gamers. This is not a responsibility to be taken lightly! =)
+9. **Pizzas:** One of the staple foods of Fest is the frozen pizza. Whoever is "farthest" in the game is responsible for the creation of high-quality pizzas for the rest of the gamers, whenever they request them. This is not a responsibility to be taken lightly! =)
 
 ## Etiquette
 
