@@ -497,8 +497,8 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 *   A copy of the game (don't count on being able to rent it, or buying a copy on setup day).
 *   A few changes of clothes (you're staying for several days!).
 *   Whatever is required for you to look/feel/SMELL human: shampoo, conditioner, toothbrush, towels, etc. We will not accept otaku rot—thou shalt shower daily.
-*   Sleeping items: sleeping bag, pillows, blankets, etc. There are a few beds, couches, lovesacs, comfy chairs, etc. for such things, but probably not enough for everyone.
 *   Chargers for whatever other electronic equipment you're bringing (e.g., mobile phones).
+*   Sleeping items are probably NOT necessary. But it might depend on where Fest is taking place, and how many people are attending. When in doubt, ask on the Fest Discord.
 *   Food is generally NOT necessary. See "The Grocery Run" below. However:
 *   Money: Bring enough money for a few dinners, your share of the grocery run, and whatever other expenses you will have. The grocery run generally clocks in between $100-$200/person.
 *   Anything else you're going to need to be comfortable in one place for 5+ days. iPods? Small sets of weights? Laptops?
@@ -508,7 +508,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 1.  **Hosting:** Game is chosen by the hosts. If you are interested in hosting a Fest, please raise it in the Fest Discord!
 2.  **Scheduling:** Regular Festers decide the Fest date by consensus. Fest has occurred at various different times of year over its history; see "History" above for prior dates.
 3.  **Setup:** You are responsible for your own game setup. _Make sure it is working on setup day_; do not wait until the morning of day one. It is encouraged to come early on setup day to get ready, and then hang out with others. With so many games and systems in one place, there is generally not a lack of ways to amuse oneself if you are there early and you're done setting up.
-4.  **Seating:** Seating is laid out by the hosts, with spots claimed on a "greedy but compassionate" first come, first served basis, 
+4.  **Seating:** Seating is laid out by the hosts, with spots claimed on a "greedy but compassionate" first come, first served basis.
 5.  **Cooking:** Some participants opt to cook once or twice for the group during Fest or on setup day, to improve the quality and variety of meals. Please let us know if you are interested in cooking.
 6.  **The Dinner:** We will go to dinner on the evening of setup day. Locale is generally not determined in advance.
 7.  **The Grocery Run:** A subset of the participants will go on a grocery trip for food for Fest, so that we are not required to leave during Fest. People may make (reasonable) requests of what is to be added to the grocery lists. Grocery costs are split evenly among the participants; plan for ~$100-$200.
