@@ -490,8 +490,8 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 
 **Stuff to bring:** It's important to come prepared. Here are some things you'll want to bring:
 
-*   A television!
-*   A game system. If you have access to any spare systems, that's good too, since not everyone may have one. If you have extras, please let us know.
+*   A video screen! Or arrange with the hosts to borrow one.
+*   A game system. If you don't own the system, ask in the Fest Discord and we'll help you to borrow or rent one.
 *   Headphones, and the equipment necessary to attach these to your system. This may be an adapter, or a jack on your TV.
 *   _If you need help with your setup, ask for help early._ We can often lend equipment, but plenty of advance notice is best.
 *   A copy of the game (don't count on being able to rent it, or buying a copy on setup day).
@@ -505,7 +505,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 
 ## Traditions
 
-1.  **Hosting:** Game is chosen by the hosts. If you are interested in hosting a Fest, please raise it on Discord!
+1.  **Hosting:** Game is chosen by the hosts. If you are interested in hosting a Fest, please raise it in the Fest Discord!
 2.  **Scheduling:** Regular Festers decide the Fest date by consensus. Fest has occurred at various different times of year over its history; see "History" above for prior dates.
 3.  **Setup:** You are responsible for your own game setup. _Make sure it is working on setup day_; do not wait until the morning of day one. It is encouraged to come early on setup day to get ready, and then hang out with others. With so many games and systems in one place, there is generally not a lack of ways to amuse oneself if you are there early and you're done setting up.
 4.  **Seating:** Seating is laid out by the hosts, with spots claimed on a "greedy but compassionate" first come, first served basis, 
