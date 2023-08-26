@@ -272,8 +272,8 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>2023-Jun-22</td>
       <td><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XVI">Final Fantasy XVI</a></td>
       <td>Monticello house</td>
-      <td>...</td>
-      <td>...</td>
+      <td>Sugar River Pizza</td>
+      <td>Such foul attaint may not be sublimed through gainstanding.</td>
     </tr>
   </tbody>
 </table>
@@ -475,7 +475,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XVI">Final Fantasy XVI</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
-      <td>Chris</td>
+      <td>Chris, Flora</td>
     </tr>
   </tbody>
 </table>
