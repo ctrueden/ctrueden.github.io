@@ -275,6 +275,15 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>Sugar River Pizza</td>
       <td>Such foul attaint may not be sublimed through gainstanding.</td>
     </tr>
+    <tr>
+      <td class="right">27</td>
+      <td>2024-Jun-14</td>
+      <td>2024-Apr-23</td>
+      <td><a href="https://en.wikipedia.org/wiki/Eiyuden_Chronicle:_Hundred_Heroes">Eiyuden Chronicle: Hundred Heroes</a></td>
+      <td>Hillside house</td>
+      <td>North and South</td>
+      <td>...</td>
+    </tr>
   </tbody>
 </table>
 
@@ -292,6 +301,7 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <th class="rotate"><div>Ben</div></th>
       <th class="rotate"><div>Curtis</div></th>
       <th class="rotate"><div>Dave</div></th>
+      <th class="rotate"><div>Flora</div></th>
       <th class="rotate"><div>Jamie</div></th>
       <th class="rotate"><div>Joey</div></th>
       <th class="rotate"><div>Jon</div></th>
@@ -307,175 +317,181 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII">FF7</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>Derek</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VIII">FF8</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>Jason</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_IX">FF9</a></th>
-      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_X">FF10</a></th>
-      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Suikoden_III">Suikoden III</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
       <td>Nate</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_Crystal_Chronicles">FFCC</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>Eva, Kyle</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Star_Ocean:_Till_the_End_of_Time">Star Ocean 3</a></th>
-      <td>-</td><td>?</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td>
+      <td>-</td><td>?</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Suikoden_IV">Suikoden IV</a></th>
-      <td>-</td><td>?</td><td>X</td><td>-</td><td>X</td><td>?</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td>
+      <td>-</td><td>?</td><td>X</td><td>-</td><td>X</td><td>?</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_VIII:_Journey_of_the_Cursed_King">DQ8</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td>
       <td>-</td>
     </tr>
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XII">FF12</a></th>
-      <td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td>
+      <td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td>
       <td style="padding-left: 5px; padding-right: 5px">Emily, Justin, Lauren</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_3">Persona 3</a></th>
-      <td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td>
+      <td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei:_Persona_4">Persona 4</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>X</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Mana_Khemia_2:_Fall_of_Alchemy">Mana Khemia 2</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XIII">FF13</a></th>
-      <td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Atelier_Totori:_The_Adventurer_of_Arland">Atelier Totori</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr style="background: #ddd">
       <th><a href="https://en.wikipedia.org/wiki/Diablo_3">Diablo 3</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Trinity_Universe_(video_game)">Trinity Universe</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Ni_no_Kuni">Ni no Kuni</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Dragon_Age:_Inquisition">Dragon Age: Inquisition</a></th>
-      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
+      <td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Xenoblade_Chronicles_X">Xenoblade Chronicles X</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XV">FF15</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr style="background: #ddd">
       <th><a href="https://en.wikipedia.org/wiki/Persona_5">Persona 5</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>+</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>+</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Nier_Automata">Nier: Automata</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>+</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>+</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Ni_no_Kuni_2">Ni no Kuni 2</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>X</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Dragon_Quest_XI">DQ11</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_VII_Remake">FF7 Remake</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Fire_Emblem:_Three_Houses">Fire Emblem: Three Houses</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Shin_Megami_Tensei_V">Shin Megami Tensei V</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>
       <td>-</td>
     </tr>
 
     <tr>
       <th><a href="https://en.wikipedia.org/wiki/Final_Fantasy_XVI">Final Fantasy XVI</a></th>
-      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
-      <td>Chris, Flora</td>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>Chris</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Eiyuden_Chronicle:_Hundred_Heroes">Eiyuden Chronicle: Hundred Heroes</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>Jessica</td>
     </tr>
   </tbody>
 </table>
