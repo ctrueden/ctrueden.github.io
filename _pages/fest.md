@@ -276,13 +276,22 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <td>Such foul attaint may not be sublimed through gainstanding.</td>
     </tr>
     <tr>
-      <td class="right">27</td>
+      <td class="right">28</td>
       <td>2024-Jun-14</td>
       <td>2024-Apr-23</td>
       <td><a href="https://en.wikipedia.org/wiki/Eiyuden_Chronicle:_Hundred_Heroes">Eiyuden Chronicle: Hundred Heroes</a></td>
       <td>Hillside house</td>
       <td>North and South</td>
       <td>...</td>
+    </tr>
+    <tr>
+      <td class="right">29</td>
+      <td>2024-Oct-11</td>
+      <td>2025-XXX-XX</td>
+      <td><a href="https://en.wikipedia.org/wiki/Metaphor:_ReFantazio">Metaphor: ReFantazio</a></td>
+      <td>Hillside house</td>
+      <td>TBD</td>
+      <td>TBD</td>
     </tr>
   </tbody>
 </table>
@@ -492,6 +501,12 @@ Today, Fest is a regularly scheduled, collectively driven event that always deli
       <th><a href="https://en.wikipedia.org/wiki/Eiyuden_Chronicle:_Hundred_Heroes">Eiyuden Chronicle: Hundred Heroes</a></th>
       <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
       <td>Jessica</td>
+    </tr>
+
+    <tr>
+      <th><a href="https://en.wikipedia.org/wiki/Metaphor:_ReFantazio">Metaphor: ReFantazio</a></th>
+      <td>-</td><td>-</td><td>X</td><td>-</td><td>X</td><td>X</td><td>X</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>X</td><td>-</td><td>-</td><td>-</td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
