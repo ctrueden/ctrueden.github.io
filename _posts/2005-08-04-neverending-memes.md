@@ -26,5 +26,5 @@ the inner self. Image from: Dorothy Simpson
 Krause.  
 http://www.dotkrause.com/art/tarot/tarot.htm   
   
-[ Which Tarot Card Are You?](<http://quizilla.com/users/Koshari/quizzes/Which%20Tarot%20Card%20Are%20You%3F/>)  
-brought to you by [Quizilla](<http://quizilla.com>)
+[ Which Tarot Card Are You?](http://quizilla.com/users/Koshari/quizzes/Which%20Tarot%20Card%20Are%20You%3F/)  
+brought to you by [Quizilla](http://quizilla.com)

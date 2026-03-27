@@ -6,7 +6,7 @@ song: "Skillet - Open Wounds"
 original_url: https://restless-coder.livejournal.com/21175.html
 ---
 
-I was discussing the topic of technological innovation with [noonereally](<https://noonereally.livejournal.com/>) (regarding my previous post), and had a rather disturbing flash of insight.  
+I was discussing the topic of technological innovation with [noonereally](https://noonereally.livejournal.com/) (regarding my previous post), and had a rather disturbing flash of insight.  
   
 My viewpoint with respect to technological innovation, cryptography, hacking, and other discovery of potentially dangerous or disruptive knowledge is that ultimately, the discovery of such knowledge will strengthen us. That is, uncovering an exploit in a firewall, for example, will cause that exploit to be fixed, resulting in better protection for all henceforth. If you are malicious, you'll punish the exploit because you're malicious. If you're benevolent, you'll inform someone responsible for security about it so that it can be fixed. Either way, it gets fixed. In addition, if you're benevolent, you'll bring the knowledge to light to avoid potential future malicious exploitation. This theory is a spinoff of the theory of evolution, and is also closely tied to the "play to win" philosophy of games -- it's all intertwined.  
   

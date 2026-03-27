@@ -35,9 +35,9 @@ X is for X.Org
 Y is for Yahoo! Messenger  
 Z is for Z Communications  
   
-Edit: Apparently someone [automated this pointlessness](<http://searchenginewatch.com/searchday/article.php/2200941>) more than two years ago. Unfortunately, the script currently seems to be broken. So sad!  
+Edit: Apparently someone [automated this pointlessness](http://searchenginewatch.com/searchday/article.php/2200941) more than two years ago. Unfortunately, the script currently seems to be broken. So sad!  
   
-Edit 2: A distinct but similar question is [what the most popular search keyword for each letter of the alphabet is](<http://labs.patrickgaskill.com/googlealphabet/>).  
+Edit 2: A distinct but similar question is [what the most popular search keyword for each letter of the alphabet is](http://labs.patrickgaskill.com/googlealphabet/).  
   
 
 * * *

@@ -6,7 +6,7 @@ song: "Final Fantasy 3 - SNES - Ending Theme #1 (Gaming FM - Complete Selection)
 original_url: https://restless-coder.livejournal.com/10884.html
 ---
 
-Here's a great sermon entitled [Living Under Fascism](<http://www.uua.org/news/2004/voting/sermon_loehr.html>). It does a nice job summing up the state of affairs in America today. There is some rhetoric that annoys me, but overall it's a strong piece.  
+Here's a great sermon entitled [Living Under Fascism](http://www.uua.org/news/2004/voting/sermon_loehr.html). It does a nice job summing up the state of affairs in America today. There is some rhetoric that annoys me, but overall it's a strong piece.  
   
 
 * * *

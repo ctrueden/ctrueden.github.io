@@ -8,7 +8,7 @@ original_url: https://restless-coder.livejournal.com/16952.html
 
 `int zero(int x, int y, int z) { return 0; } // ha ha, screw you, x y and z!`  
   
-Also, the following chatlog provides a raw illustration of the sorts of problems I deal with at work, as well as a lengthy demonstration of what happens when I get going with [afgncaapvaljean](<https://afgncaapvaljean.livejournal.com/>).  
+Also, the following chatlog provides a raw illustration of the sorts of problems I deal with at work, as well as a lengthy demonstration of what happens when I get going with [afgncaapvaljean](https://afgncaapvaljean.livejournal.com/).  
   
 (14:14:36) **WhtSMatrx:** Are you serious about there being interest in people who program theoretically?  
 (14:15:00) **Restless Warrior:** What do you mean?  
@@ -306,7 +306,7 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (15:18:25) **WhtSMatrx:** Equal volume is out, for the moment.  
 (15:19:00) **Restless Warrior:** Heh, you're stumbling onto something similar to Voronoi power diagrams, which is a dual to the Delaunay triangulation. =)  
 (15:19:19) **WhtSMatrx:** Yeah, they're not entirely dissimilar.  
-(15:19:34) **Restless Warrior:** [http://www.cs.cornell.edu/Info/People/chew/Delaunay.html](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.cs.cornell.edu%2FInfo%2FPeople%2Fchew%2FDelaunay.html>)  
+(15:19:34) **Restless Warrior:** [http://www.cs.cornell.edu/Info/People/chew/Delaunay.html](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.cs.cornell.edu%2FInfo%2FPeople%2Fchew%2FDelaunay.html)  
 (15:19:37) **WhtSMatrx:** Plus, you get to use epsilon delta balls.  
 (15:20:04) **WhtSMatrx:** I didn't know they had already defined this so well.  
 (15:20:14) **WhtSMatrx:** Wow.  

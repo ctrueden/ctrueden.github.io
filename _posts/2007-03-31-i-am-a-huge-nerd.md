@@ -15,5 +15,5 @@ Literature Nerd|
 Social Nerd|   
 Anime Nerd|   
 Artistic Nerd|   
-[**What Be Your Nerd Type?**](<http://www.gotoquiz.com/what_be_your_nerd_type>)  
-[Quizzes for MySpace](<http://www.gotoquiz.com/>)
+[**What Be Your Nerd Type?**](http://www.gotoquiz.com/what_be_your_nerd_type)  
+[Quizzes for MySpace](http://www.gotoquiz.com/)

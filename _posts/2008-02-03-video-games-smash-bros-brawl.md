@@ -8,7 +8,7 @@ original_url: https://restless-coder.livejournal.com/38675.html
 
 You guys like video games, right? I know you do.  
   
-I have been pondering how to get more of us together more often to play console games, both old and new. (Why console games specifically? Well, [manbegetsgod](<https://manbegetsgod.livejournal.com/>) already hosts a semi-regular LAN party for PC games, so I'm not sure PC games require further representation. Also, keep reading...)  
+I have been pondering how to get more of us together more often to play console games, both old and new. (Why console games specifically? Well, [manbegetsgod](https://manbegetsgod.livejournal.com/) already hosts a semi-regular LAN party for PC games, so I'm not sure PC games require further representation. Also, keep reading...)  
   
 I have a large collection of classic games able to be hooked into my projector system, and bucket loads of nostalgia related to them. I know I'm not the only one. I was trying to think of a scheme that might interest people to get together and play them as a group, and I came up with a couple of ideas.  
   

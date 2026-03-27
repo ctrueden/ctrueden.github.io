@@ -16,4 +16,4 @@ This anecdote has been your daily evidence that all individuals who drive gigant
 * * *
 
 "People seemed to like this better, but only marginally so—the way one might prefer to be stabbed than shot. Optimally, one isn't stabbed or shot. Optimally, one eats some cake! But there are times when cake is not available, and instead we are destroyed. This is the deep poetry of the universe."  
-—Tycho Brahe, [Penny Arcade](<http://www.penny-arcade.com/2007/05/21>)
+—Tycho Brahe, [Penny Arcade](http://www.penny-arcade.com/2007/05/21)

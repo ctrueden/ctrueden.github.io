@@ -5,7 +5,7 @@ mood: impressed
 original_url: https://restless-coder.livejournal.com/37719.html
 ---
 
-Barack Obama, [keynote address](<http://obama.senate.gov/speech/060628-call_to_renewal/>), Call to Renewal's Building a Covenant for a New America conference, 6/28/06 in Washington, D.C. (bold emphasis is mine):  
+Barack Obama, [keynote address](http://obama.senate.gov/speech/060628-call_to_renewal/), Call to Renewal's Building a Covenant for a New America conference, 6/28/06 in Washington, D.C. (bold emphasis is mine):  
   
 "Given the increasing diversity of America's population, the dangers of sectarianism have never been greater. **Whatever we once were, we are no longer just a Christian nation** ; we are also a Jewish nation, a Muslim nation, a Buddhist nation, a Hindu nation, and a nation of nonbelievers.  
   

@@ -6,4 +6,4 @@ song: "Metroid Prime - Gamecube - Samus Vs  Meta Ridley (Gaming FM"
 original_url: https://restless-coder.livejournal.com/3278.html
 ---
 
-[It was ALF all along!](<http://www.somethingawful.com/articles.php?a=2253>)
+[It was ALF all along!](http://www.somethingawful.com/articles.php?a=2253)

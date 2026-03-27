@@ -6,7 +6,7 @@ song: "Stardust - Music Sounds Better With You ( (EnergyRadio.FM -"
 original_url: https://restless-coder.livejournal.com/14139.html
 ---
 
-Just when it seemed like world peace was on the horizon, the availability of online weather data is [under attack in the Senate](<http://www.palmbeachpost.com/news/content/news/epaper/2005/04/21/m1a_wx_0421.html>)! Not that this is the most important issue ever to grace the Congressional floor (nor even this humble LJ). But it serves to illustrate one thing horribly wrong with our lawmaking process today.  
+Just when it seemed like world peace was on the horizon, the availability of online weather data is [under attack in the Senate](http://www.palmbeachpost.com/news/content/news/epaper/2005/04/21/m1a_wx_0421.html)! Not that this is the most important issue ever to grace the Congressional floor (nor even this humble LJ). But it serves to illustrate one thing horribly wrong with our lawmaking process today.  
   
 I can at least comprehend some aspects of Santorum's argument (e.g., that money could be better spent focusing on disaster prevention rather than daily forecasts -- I may not agree, but I at least see where the opposition is coming from there). What really pisses me off is the mentality that government should enact law to allow corporations to more effectively compete with nonviable or outmoded business models.  
   

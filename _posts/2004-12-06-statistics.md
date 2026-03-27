@@ -20,12 +20,12 @@ original_url: https://restless-coder.livejournal.com/6914.html
 **9.****_religion_** (2) |  **19.****_movies_** (2)  
 **10.** breaking things (2) |  **20.** japanese literature (1)  
 **Interests gestalt**  
-My most interesting friend is [noonereally](<https://noonereally.livejournal.com/>) who has **14** of these interests, followed by [jasexavier](<https://jasexavier.livejournal.com/>) (**10**), [square721bt](<https://square721bt.livejournal.com/>) (**4**) and [flower_on_fire](<https://flower_on_fire.livejournal.com/>) (**3**).  
+My most interesting friend is [noonereally](https://noonereally.livejournal.com/) who has **14** of these interests, followed by [jasexavier](https://jasexavier.livejournal.com/) (**10**), [square721bt](https://square721bt.livejournal.com/) (**4**) and [flower_on_fire](https://flower_on_fire.livejournal.com/) (**3**).  
 **Normality Index**  
 My friends are 66.41% normal.  
 **Analyze me !**  
 Username:   
-_[Popular interests](<http://www.memeland.org/pop.php>) created by [_imran_](<http://livejournal.com/users/_imran_>)_  
+_[Popular interests](http://www.memeland.org/pop.php) created by [_imran_](http://livejournal.com/users/_imran_)_  
   
   
-Now that I investigate things more closely, however, I see that the "interests gestalt" section is not very interesting. [space_case_](<https://space_case_.livejournal.com/>), for example, shares **7** of my interests, but since many of them are not "top 20" interests, he is not mentioned in the top four. He is "interesting with respect to me" but not interesting "in general" according to the analysis. But I'm not interested in how generally interesting someone is--all that matters is me, me, me!
+Now that I investigate things more closely, however, I see that the "interests gestalt" section is not very interesting. [space_case_](https://space_case_.livejournal.com/), for example, shares **7** of my interests, but since many of them are not "top 20" interests, he is not mentioned in the top four. He is "interesting with respect to me" but not interesting "in general" according to the analysis. But I'm not interested in how generally interesting someone is--all that matters is me, me, me!

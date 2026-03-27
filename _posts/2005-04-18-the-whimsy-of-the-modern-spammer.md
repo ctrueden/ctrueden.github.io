@@ -19,7 +19,7 @@ Don't you have anything better to do, Neateye? Are you hoping I will investigate
   
 Ok, fine, you win. Googling...  
   
-Hmm, apparently the [#1](<https://www.livejournal.com/rsearch/?tags=%231>) hit is a Grand Theft Auto resource site. Definitely worth sending obscure spam for. But actually, the [Urban Dictionary entry](<http://www.urbandictionary.com/define.php?term=gouranga>) is a lot more enlightening (well, sort of...). It seems [many others](<http://www.juju.org/archives/2003/04/06/call-out-gouranga-be-happy>) have commented on this oddity as well.  
+Hmm, apparently the [#1](https://www.livejournal.com/rsearch/?tags=%231) hit is a Grand Theft Auto resource site. Definitely worth sending obscure spam for. But actually, the [Urban Dictionary entry](http://www.urbandictionary.com/define.php?term=gouranga) is a lot more enlightening (well, sort of...). It seems [many others](http://www.juju.org/archives/2003/04/06/call-out-gouranga-be-happy) have commented on this oddity as well.  
   
 
 * * *

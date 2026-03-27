@@ -5,9 +5,9 @@ mood: amused
 original_url: https://restless-coder.livejournal.com/37057.html
 ---
 
-For those of you who have beaten Portal and/or watched the VG Cats [Still Alive](<http://www.vgcats.com/comics/?strip_id=251>) video: Rob Balder of the Funny Music Project has parodied the Jonathan Coulton original with [Still Annoyed](<http://www.thefump.com/fump.php?id=149>), sung by Bowser. SO AWESOME.  
+For those of you who have beaten Portal and/or watched the VG Cats [Still Alive](http://www.vgcats.com/comics/?strip_id=251) video: Rob Balder of the Funny Music Project has parodied the Jonathan Coulton original with [Still Annoyed](https://www.youtube.com/watch?v=5MQ9wSfuFPI), sung by Bowser. SO AWESOME.  
   
-Also linked from VG Cats, for you D&D and/or MMO fans: [IM IN UR MANGER KILLING UR SAVIOR](<http://www.youtube.com/watch?v=AVZczLuoJoU>). Funny, but not quite what I was hoping for from the title.  
+Also linked from VG Cats, for you D&D and/or MMO fans: [IM IN UR MANGER KILLING UR SAVIOR](http://www.youtube.com/watch?v=AVZczLuoJoU). Funny, but not quite what I was hoping for from the title.  
   
 
 * * *

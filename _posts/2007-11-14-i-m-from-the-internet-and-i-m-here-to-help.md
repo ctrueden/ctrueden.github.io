@@ -5,9 +5,9 @@ mood: silly
 original_url: https://restless-coder.livejournal.com/35291.html
 ---
 
-[Snowclones](<http://snowclones.org/>) are the new [chiasmus](<http://www.chiasmus.com/welcometochiasmus.shtml>)!  
+[Snowclones](http://snowclones.org/) are the new [chiasmus](http://www.chiasmus.com/welcometochiasmus.shtml)!  
   
-The insane popularity of lolcats [lends credence to my point](<http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/004508.html>).  
+The insane popularity of lolcats [lends credence to my point](http://itre.cis.upenn.edu/%7Emyl/languagelog/archives/004508.html).  
   
 
 * * *

@@ -6,11 +6,11 @@ song: "Bad Religion - Marked"
 original_url: https://restless-coder.livejournal.com/34498.html
 ---
 
-Career meme stolen from [lordaristar](<https://lordaristar.livejournal.com/>) and [noonereally](<https://noonereally.livejournal.com/>):  
+Career meme stolen from [lordaristar](https://lordaristar.livejournal.com/) and [noonereally](https://noonereally.livejournal.com/):  
   
   
   
-Go to [http://www.careercruising.com/](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.careercruising.com%2F>).  
+Go to [http://www.careercruising.com/](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.careercruising.com%2F).  
   
 Put in Username: nycareers, Password: landmark.  
   

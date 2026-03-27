@@ -6,7 +6,7 @@ song: "Darren Tate - Deliverance (1.FM - Trance)"
 original_url: https://restless-coder.livejournal.com/25284.html
 ---
 
-[Awesome.](<http://www.rationalmind.net/2006/03/15/and-this-universe-has-a-god/>)  
+[Awesome.](http://www.rationalmind.net/2006/03/15/and-this-universe-has-a-god/)  
   
 
 * * *

@@ -6,7 +6,7 @@ song: "Junior Jack - Stupid disco (EnergyRadio.FM - Energy Dance)"
 original_url: https://restless-coder.livejournal.com/12817.html
 ---
 
-I was doing some obligatory Slashdot April 1st surfing (I swear their stories get crazier every year), and came across [an article](<http://news.com.com/Why+cant+you+pay+attention+anymore/2008-1022_3-5637632.html>) from a few days ago about "Attention Deficit Trait." The basic idea is that some people do not have true ADD, but still suffer from an inability to think deeply or be productive when surrounded by distracting technologies, especially interrupting ones like cell phones and instant messenging. The guy who linked the article was critical, saying that of _course_ people get distracted by distracting things, and that this phenomenon is not something new.  
+I was doing some obligatory Slashdot April 1st surfing (I swear their stories get crazier every year), and came across [an article](http://news.com.com/Why+cant+you+pay+attention+anymore/2008-1022_3-5637632.html) from a few days ago about "Attention Deficit Trait." The basic idea is that some people do not have true ADD, but still suffer from an inability to think deeply or be productive when surrounded by distracting technologies, especially interrupting ones like cell phones and instant messenging. The guy who linked the article was critical, saying that of _course_ people get distracted by distracting things, and that this phenomenon is not something new.  
   
 However, the article really hits home for me. The information age has dramatically increased our ability to distract ourselves with superficial communication. More than ever before, we can engage in busywork all day and get nothing significant done.  
   

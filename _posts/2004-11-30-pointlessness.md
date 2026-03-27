@@ -31,5 +31,5 @@ Gluttony| |
 25%  
 </td>  
   
-[Seven deadly sins](<http://quizfarm.com/test.php?q_id=145>)  
-created with [QuizFarm.com](<http://quizfarm.com>)
+[Seven deadly sins](http://quizfarm.com/test.php?q_id=145)  
+created with [QuizFarm.com](http://quizfarm.com)

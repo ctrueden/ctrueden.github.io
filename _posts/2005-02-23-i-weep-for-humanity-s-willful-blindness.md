@@ -6,7 +6,7 @@ song: "Final Fantasy X-2 - Playstation 2 - 1000 Words-Reprise (Gami"
 original_url: https://restless-coder.livejournal.com/11563.html
 ---
 
-[Must](<http://www.icr.org/pubs/btg-a/btg-191a.htm>)... [stop](<http://www.icr.org/pubs/btg-a/btg-186a.htm>)... [reading](<http://www.icr.org/pubs/btg-a/btg-192a.htm>)... [horrible](<http://www.icr.org/pubs/btg-a/btg-194a.htm>)... [Christian](<http://www.icr.org/pubs/btg-a/btg-184a.htm>)... [propaganda](<http://www.icr.org/pubs/btg-a/btg-195a.htm>)... *gasps for air*  
+[Must](http://www.icr.org/pubs/btg-a/btg-191a.htm)... [stop](http://www.icr.org/pubs/btg-a/btg-186a.htm)... [reading](http://www.icr.org/pubs/btg-a/btg-192a.htm)... [horrible](http://www.icr.org/pubs/btg-a/btg-194a.htm)... [Christian](http://www.icr.org/pubs/btg-a/btg-184a.htm)... [propaganda](http://www.icr.org/pubs/btg-a/btg-195a.htm)... *gasps for air*  
   
 
 * * *

@@ -6,7 +6,7 @@ song: "Skinlab - Bullet With Butterfly Wings ( ChroniX Aggression -"
 original_url: https://restless-coder.livejournal.com/14968.html
 ---
 
-Reading about the [trackerless BitTorrent beta](<http://www.zdnet.com.au/news/software/0,2000061733,39192758,00.htm>) got me thinking some more about the future of media (movies, television and music) in a [capitalistic economy](<http://www.mises.org/etexts/mises/anticap.asp>) (the latter article, while often insightful, is hurting my brain).  
+Reading about the [trackerless BitTorrent beta](http://www.zdnet.com.au/news/software/0,2000061733,39192758,00.htm) got me thinking some more about the future of media (movies, television and music) in a [capitalistic economy](http://www.mises.org/etexts/mises/anticap.asp) (the latter article, while often insightful, is hurting my brain).  
   
 Let's talk about how things that work now will break in the future, shall we?  
   
@@ -26,7 +26,7 @@ There will be technologies to combat the overlays, but as long as the advertisem
   
 Also, if the overlays are fixed for a given episode (rather than a given airing), they will command a much higher premium, with the product being permanently etched into history. Allowing full distribution of the material simply spreads the advertisement to a larger audience.  
   
-3) CDs are harder. The analagous technique to [#2](<https://www.livejournal.com/rsearch/?tags=%232>), but audio-only, seems too invasive for the public to accept, and bootleg live recordings would overtake "polluted" studio recordings. I do not know how viable it is for bands to give away their music for free, and succeed by selling merchandise (I am concerned that things like T-shirts will soon be easy to produce on your own, making the $30 concert T-shirt a thing of the past, but maybe social norms and pressures would take care of that).  
+3) CDs are harder. The analagous technique to [#2](https://www.livejournal.com/rsearch/?tags=%232), but audio-only, seems too invasive for the public to accept, and bootleg live recordings would overtake "polluted" studio recordings. I do not know how viable it is for bands to give away their music for free, and succeed by selling merchandise (I am concerned that things like T-shirts will soon be easy to produce on your own, making the $30 concert T-shirt a thing of the past, but maybe social norms and pressures would take care of that).  
   
 There are alternative schemes, such as donation systems (people give money to shows they like), pledge systems (e.g., people pledge a certain amount of money toward the next episode of a show; if enough money is pledged, the creators make the episode and collect the pledges; if not, no money is forfeit), or even government funding (an equivalent to the National Science Foundation, but for entertainment), but all these schemes have serious weaknesses.  
   

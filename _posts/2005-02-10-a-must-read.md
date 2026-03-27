@@ -6,7 +6,7 @@ song: "Prince of Persia: The Sands of Time - Xbox - The Fight (Gaming FM - Moder
 original_url: https://restless-coder.livejournal.com/11070.html
 ---
 
-[This essay](<http://www.elsewhere.org/cgi-bin/postmodern>) is the best ever. All those other essays you have read are inferior to this one. If you think there is another, better essay out there, you are totally wrong, because no essay could possibly be as good as this one.  
+[This essay](http://www.elsewhere.org/cgi-bin/postmodern) is the best ever. All those other essays you have read are inferior to this one. If you think there is another, better essay out there, you are totally wrong, because no essay could possibly be as good as this one.  
   
 
 * * *

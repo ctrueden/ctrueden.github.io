@@ -6,11 +6,11 @@ song: "Placebo - Song To Say Goodbye"
 original_url: https://restless-coder.livejournal.com/27448.html
 ---
 
-I want to thank everyone for their tremendous generosity and support over the past days and weeks. This past weekend was totally amazing. It was fantastic to see everyone, and I hope you all enjoyed yourselves. [Big](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.orgs.bucknell.edu%2Fc_and_h%2Fimages%2Fhug.jpg>) [hugs](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.oh100.com%2Fteach%2Fshucaiku%2Fpic%2Fgwmh-0042%2Fbig%2Fhug.jpg>)!  
+I want to thank everyone for their tremendous generosity and support over the past days and weeks. This past weekend was totally amazing. It was fantastic to see everyone, and I hope you all enjoyed yourselves. [Big](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.orgs.bucknell.edu%2Fc_and_h%2Fimages%2Fhug.jpg) [hugs](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.oh100.com%2Fteach%2Fshucaiku%2Fpic%2Fgwmh-0042%2Fbig%2Fhug.jpg)!  
   
   
   
-I can't wait to compile all the photos from various sources and put up online galleries (if you took digital pictures, I would greatly appreciate getting my hands on them for my collection). ~~I'll post again (or bump this one) when I have something put up.~~ Edit: I have posted some initial [galleries of the wedding](<https://www.livejournal.com/away?to=http%3A%2F%2Frestlesswarrior.com%2Fgallery2%2Fmain.php%3Fg2_itemId%3D987>).  
+I can't wait to compile all the photos from various sources and put up online galleries (if you took digital pictures, I would greatly appreciate getting my hands on them for my collection). ~~I'll post again (or bump this one) when I have something put up.~~ Edit: I have posted some initial [galleries of the wedding](https://www.livejournal.com/away?to=http%3A%2F%2Frestlesswarrior.com%2Fgallery2%2Fmain.php%3Fg2_itemId%3D987).  
   
   
   
@@ -88,7 +88,7 @@ power and responsibility.
   
 ![](https://imgprx.livejournal.net/05ae5ce2eefde519a64523d829a79d8b374562b227adc713892210a259cf1aeb/P2WlxyVijxKghm1o885UV0Mdsf-ah7h0yFmVCaFWjtLB9h3OkMKqBVozFEJlDQNyuU8ajyjOZhFNGEAD0ggy_FVAmGfGPPDP6lNW5gw:mt5eIpOYI54egqHUSkUyNA)  
 [  
-Click here to take the Superhero Personality Quiz](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.seabreezecomputers.com%2Fsuperhero>)  
+Click here to take the Superhero Personality Quiz](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.seabreezecomputers.com%2Fsuperhero)  
   
   
   

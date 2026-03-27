@@ -28,5 +28,5 @@ Independence | |||||||||||||||||| | 54%
 Perfectionism | |||||||||||||||||||||||||||| | 86%  
 Tension | ||||||||||||||| | 46%  
   
-[Take Free 16pf based Personality Test](<http://similarminds.com/cattell-16-factor.html>)  
-[personality tests by similarminds.com](<http://similarminds.com>)
+[Take Free 16pf based Personality Test](http://similarminds.com/cattell-16-factor.html)  
+[personality tests by similarminds.com](http://similarminds.com)

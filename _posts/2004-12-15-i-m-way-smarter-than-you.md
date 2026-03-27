@@ -10,7 +10,7 @@ original_url: https://restless-coder.livejournal.com/7878.html
   
 ---|---  
   
-[What High School stereotype are you?](<http://quizfarm.com/test.php?q_id=155>)  
+[What High School stereotype are you?](http://quizfarm.com/test.php?q_id=155)  
   
 
 * * *

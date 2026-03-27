@@ -31,8 +31,8 @@ Mindless Action Flick| |
 30%  
 </td>  
   
-[Movie Recommendation.](<http://quizfarm.com/test.php?q_id=1389>)  
-created with [QuizFarm.com](<http://quizfarm.com>)  
+[Movie Recommendation.](http://quizfarm.com/test.php?q_id=1389)  
+created with [QuizFarm.com](http://quizfarm.com)  
   
 
 * * *

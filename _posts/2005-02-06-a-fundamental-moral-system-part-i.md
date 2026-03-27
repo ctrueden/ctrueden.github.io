@@ -6,7 +6,7 @@ song: "See-Saw & Kajiura Yuki - Hack Sign ed ~ Yasashii Yoake"
 original_url: https://restless-coder.livejournal.com/10122.html
 ---
 
-From [The Hypothesis of Sentient Self-Destruction](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.liberator.net%2Farticles%2FTremblayFrancois%2FHypSelfDestruction.html>) by Francois Tremblay:  
+From [The Hypothesis of Sentient Self-Destruction](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.liberator.net%2Farticles%2FTremblayFrancois%2FHypSelfDestruction.html) by Francois Tremblay:  
 
 >   
 > 
@@ -50,7 +50,7 @@ This statement may seem utterly obvious, but it is important to recognize it as 
 
   
 
-However, there are several caveats to this tenet. I do not claim that truth always exists (just that it usually, or at least often, does). I do not claim that every truth can be proven, or even known (just that they sometimes can). And I do not claim that [our perception of truth cannot change its nature](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.astronomynotes.com%2Fscimethd%2Fs7.htm>).
+However, there are several caveats to this tenet. I do not claim that truth always exists (just that it usually, or at least often, does). I do not claim that every truth can be proven, or even known (just that they sometimes can). And I do not claim that [our perception of truth cannot change its nature](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.astronomynotes.com%2Fscimethd%2Fs7.htm).
 
   
   
@@ -62,7 +62,7 @@ However, there are several caveats to this tenet. I do not claim that truth alwa
   
   
 
-This tenet is named from a conversation I had with [noonereally](<https://noonereally.livejournal.com/>). People have a need to be right about things; knowledge helps us make decisions every moment of every day. I vindicate the mandate for us to pursue truth by pointing out that to pursue anything else is degenerate; in fact, it may not even be _possible_ to "pursue falsehood," because the human mind may not be capable of honestly believing something it does not accept as true (by the definition of "believe"). Humans are simply wired to pursue truth.
+This tenet is named from a conversation I had with [noonereally](https://noonereally.livejournal.com/). People have a need to be right about things; knowledge helps us make decisions every moment of every day. I vindicate the mandate for us to pursue truth by pointing out that to pursue anything else is degenerate; in fact, it may not even be _possible_ to "pursue falsehood," because the human mind may not be capable of honestly believing something it does not accept as true (by the definition of "believe"). Humans are simply wired to pursue truth.
 
   
   
@@ -79,7 +79,7 @@ But moreover, honestly striving to understand the properties of the universe imp
   
   
 
-Though there are [several ways to pursue truth](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.astronomynotes.com%2Fscimethd%2Fs6.htm>), any way other than reason is by definition unreasonable.
+Though there are [several ways to pursue truth](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.astronomynotes.com%2Fscimethd%2Fs6.htm), any way other than reason is by definition unreasonable.
 
   
   
@@ -91,7 +91,7 @@ Though there are [several ways to pursue truth](<https://www.livejournal.com/awa
   
   
 
-Several conversations with [jessierose33](<https://jessierose33.livejournal.com/>) on sentience and related topics have made it clear to me that self-awareness is a key feature of rationality. After all, if you are not self-aware, how can you reason about yourself? And if you cannot reason about yourself, how can you claim to be fully rational?
+Several conversations with [jessierose33](https://jessierose33.livejournal.com/) on sentience and related topics have made it clear to me that self-awareness is a key feature of rationality. After all, if you are not self-aware, how can you reason about yourself? And if you cannot reason about yourself, how can you claim to be fully rational?
 
   
   
@@ -103,7 +103,7 @@ Several conversations with [jessierose33](<https://jessierose33.livejournal.com/
   
   
 
-A [serious problem](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.bcc.ctc.edu%2FArtsHum%2Fmaterials%2Fphil%2FPayne%2Fspring03%2F160HumeproblemSp03.htm>) exists with the scientific principle of induction, originally raised by David Hume. The basic argument is as follows.
+A [serious problem](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.bcc.ctc.edu%2FArtsHum%2Fmaterials%2Fphil%2FPayne%2Fspring03%2F160HumeproblemSp03.htm) exists with the scientific principle of induction, originally raised by David Hume. The basic argument is as follows.
 
   
   
@@ -135,7 +135,7 @@ If the universe is deterministic, then we have no choice whether to subscribe to
   
   
 
-Because every lengthy post I make is required to contain at least one tangent, I briefly present two now. First, the [compatibilism](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.rep.routledge.com%2Farticle%2FV014SECT1>)/[incompatibilism](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.rep.routledge.com%2Farticle%2FV014SECT2>) debate is purely semantic with respect to the term "free," and thus of much less import than it is traditionally regarded to be. Second, the existence of human free will [does not absolve the Christian God](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.philosophyofreligion.info%2Ffreewilldefence.html>) (who is supposedly omnibenevolent) of responsibility for the existence of evil in the world.
+Because every lengthy post I make is required to contain at least one tangent, I briefly present two now. First, the [compatibilism](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.rep.routledge.com%2Farticle%2FV014SECT1)/[incompatibilism](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.rep.routledge.com%2Farticle%2FV014SECT2) debate is purely semantic with respect to the term "free," and thus of much less import than it is traditionally regarded to be. Second, the existence of human free will [does not absolve the Christian God](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.philosophyofreligion.info%2Ffreewilldefence.html) (who is supposedly omnibenevolent) of responsibility for the existence of evil in the world.
 
   
   

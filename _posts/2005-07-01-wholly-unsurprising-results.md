@@ -39,8 +39,8 @@ Paganism| |
 21%  
 </td>  
   
-[Which religion is the right one for you? (new version)](<http://quizfarm.com/test.php?q_id=10907>)  
-created with [QuizFarm.com](<http://quizfarm.com>)  
+[Which religion is the right one for you? (new version)](http://quizfarm.com/test.php?q_id=10907)  
+created with [QuizFarm.com](http://quizfarm.com)  
   
 
 * * *

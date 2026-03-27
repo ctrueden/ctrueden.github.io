@@ -26,4 +26,4 @@ Without graphics acceleration, emulators (snes9x, gens, fceu) are exceedingly ch
   
 On the plus side, XMMS with aRts is pretty sweet, as is logjam with XMMS music detection. So now you, dear readers, can see that I'm listening to shitty dance music on EnergyRadio.FM, and I'm sure you are all intensely pleased.  
   
-Lastly, I know that the title of this LiveJournal promises shallow philosophical ravings. Rest assured they are coming. I plan to post some thoughts on [SENS](<http://www.gen.cam.ac.uk/sens/>) later tonight or tomorrow.
+Lastly, I know that the title of this LiveJournal promises shallow philosophical ravings. Rest assured they are coming. I plan to post some thoughts on [SENS](http://www.gen.cam.ac.uk/sens/) later tonight or tomorrow.

@@ -15,9 +15,9 @@ I hate the feeling of obligation associated with gift giving, that by not buying
   
 I hate snow. It is a freezing wet blanket smothering my life, especially when it is too cold for it to possess any fun properties. I hate that it saturates my boots then melts when I go inside and covers the floors of campus buildings with grime. I hate that I can't drive around town in my convertible with the top down, that the roads are especially dangerous, and that the salt which keeps the infrastructure functional also destroys my car. I hate that everything I touch gives me an electric shock, and I have to run a humidifier in my house that needs daily replenishment and weekly cleaning and maintenance.  
   
-There are other, less December-specific things that contribute to my vortex of unease and disgust, too, especially this year. I hate having split priorities, and lacking the ability to focus fully on one thing at a time. I hate the feeling of resentment that builds up surrounding all of my obligations, and knowing that if I drop out for even a short time, it may take me weeks to regain the momentum (and the money). I hate that [Bush vetoed H.R. 3043](<http://www.the-scientist.com/news/home/53858/>), which would have granted NIH a budget increase of more than a billion dollars; now NIH has frozen all grant proposal decisions until Congress tries again, before which I have no hope of a raise.  
+There are other, less December-specific things that contribute to my vortex of unease and disgust, too, especially this year. I hate having split priorities, and lacking the ability to focus fully on one thing at a time. I hate the feeling of resentment that builds up surrounding all of my obligations, and knowing that if I drop out for even a short time, it may take me weeks to regain the momentum (and the money). I hate that [Bush vetoed H.R. 3043](http://www.the-scientist.com/news/home/53858/), which would have granted NIH a budget increase of more than a billion dollars; now NIH has frozen all grant proposal decisions until Congress tries again, before which I have no hope of a raise.  
   
-Walking around town this time of year, I can't help but notice the red kettles of the Salvation Army at every crossroads of humanity. The sound of their ringing bells fills me with rage. I walk close by in the hope that they might try to solicit a donation from me or wish me a Merry Christmas, ready with my witty retort: "[Bah, humbug!](<http://www.slate.com/id/2132806/>)"  
+Walking around town this time of year, I can't help but notice the red kettles of the Salvation Army at every crossroads of humanity. The sound of their ringing bells fills me with rage. I walk close by in the hope that they might try to solicit a donation from me or wish me a Merry Christmas, ready with my witty retort: "[Bah, humbug!](http://www.slate.com/id/2132806/)"  
   
 
 * * *
@@ -32,4 +32,4 @@ I said, 'Is it good, friend?'
 'But I like it  
 Because it is bitter,  
 And because it is my heart.'"  
-—Stephen Crane, [The Black Riders and Other Lines](<http://www.theotherpages.org/poems/crane02.html#3>) (1895)
+—Stephen Crane, [The Black Riders and Other Lines](http://www.theotherpages.org/poems/crane02.html#3) (1895)

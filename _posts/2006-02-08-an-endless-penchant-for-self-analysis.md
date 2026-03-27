@@ -44,4 +44,4 @@ In life, you tend to be an early adopter of all new things and ideas.
 You'll try almost anything interesting, and you're constantly pushing your own limits.  
 A great connoisseir of art and beauty, you can find the positive side of almost anything.  
   
-[The Five Factor Personality Test](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.blogthings.com%2Fthefivefactorpersonalitytest%2F>)
+[The Five Factor Personality Test](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.blogthings.com%2Fthefivefactorpersonalitytest%2F)
