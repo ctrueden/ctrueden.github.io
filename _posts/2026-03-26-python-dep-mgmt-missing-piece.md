@@ -1,5 +1,5 @@
 ---
-title: "Python's Dependency Management Is Missing a Half"
+title: "Python Dependency Management's Missing Piece"
 date: 2026-03-26 20:38:00 -0600
 ---
 
