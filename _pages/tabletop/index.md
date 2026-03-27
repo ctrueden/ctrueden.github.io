@@ -1,6 +1,7 @@
 ---
 title: Tabletop Gaming
 nav: Tabletop
+nav_order: 5
 ---
 
 I play tabletop role-playing games. My main interest lies in d20, but I have also played BESM, Burning Wheel, Changeling, Deadlands, Dread, Exalted, In Nomine, Mechanical Dream, Paranoia, Tales from the Floating Vagabond, and probably others.

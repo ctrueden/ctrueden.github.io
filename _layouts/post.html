@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post-meta">
+  <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time>
+  {% if page.mood %}<span class="post-mood"> &middot; mood: {{ page.mood }}</span>{% endif %}
+  {% if page.song %}<span class="post-song"> &middot; &#9835; {{ page.song }}</span>{% endif %}
+</div>
+
+{{ content }}
+
+{% if page.original_url %}
+<div class="post-original">
+  <a href="{{ page.original_url }}">Originally posted on LiveJournal</a>
+</div>
+{% endif %}

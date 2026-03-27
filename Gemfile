@@ -1,24 +1,30 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 ruby RUBY_VERSION
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
+# NB: This site uses stock GitHub Pages deployment, as described at:
 #
-#     bundle exec jekyll serve
+#    https://pages.github.com/versions/
 #
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-#gem "jekyll", "3.3.0"
+# However, builds with Jekyll 4.2 are orders of magnitude faster than with
+# Jekyll 3.9, especially on Windows (6x faster) and macOS (3x faster).
+#
+# Therefore, this Gemfile declares Jekyll 4.2 with a suitable config,
+# rather than using the github-pages gem, so that local builds will
+# benefit from the superior performance.
+#
+# When developing functionality for the site, please take care to
+# use only features available in Jekyll 3.9 / stock GitHub Pages.
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+#gem 'github-pages', group: :jekyll_plugins
+
+gem 'jekyll', '~> 4.2'
+gem 'logger'
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'webrick'
+
+# Default theme for Jekyll sites.
 gem "minima", "~> 2.0"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
-
-# If you have any plugins, put them here!
-#group :jekyll_plugins do
-#   gem "jekyll-feed", "~> 0.6"
-#end
+group :jekyll_plugins do
+  gem 'jekyll-sitemap'
+end

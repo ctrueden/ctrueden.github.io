@@ -1,6 +1,7 @@
 ---
 title: Checkmate
 nav: Chess
+nav_order: 3
 ---
 
 I love chess. But I don't have much interesting to say about it, except that chess is awesome, and you should play it!

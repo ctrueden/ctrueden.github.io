@@ -1,6 +1,7 @@
 ---
 title: Fest
 nav: Fest
+nav_order: 4
 ---
 
 **Fest** (originally known as **Final Fantasy Fest**) is a mostly-annual event where a small group of friends gathers for several days to play through a [role-playing video game](https://en.wikipedia.org/wiki/Role-playing_video_game), typically a single-player [JRPG](https://en.wikipedia.org/wiki/History_of_Eastern_role-playing_video_games). Each person has their own TV and game system, and plays through the game in parallel. In this way, we enjoy and discuss the game together, while each making our own choices and controlling our own progress.

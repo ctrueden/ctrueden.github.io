@@ -1,0 +1,80 @@
+---
+title: "Singularity vs Collapse"
+date: 2007-04-16 23:36:00 -0600
+mood: resolved
+song: "Bad Religion - Modern Man"
+original_url: https://restless-coder.livejournal.com/32514.html
+---
+
+For months—years, actually—I have been promising [bitches_tyrone](<https://bitches_tyrone.livejournal.com/>) a post, first about [my moral tenets](<http://restless-coder.livejournal.com/10122.html>), and more recently about my thoughts on civilization, its impending doom, and related topics. I have been continually struggling to write this entry, not only because I'm busy, but also because there is so much to say, and I don't know where to start. At various times I have devoted substantial effort toward educating myself on these issues, but unfortunately, the more I read, the more I realize that the scope of the topic is far beyond what I have time to fully absorb.  
+  
+Nonetheless, this entry has been a cloud hanging over my head for too long, so today I am finally posting something, even though it is merely an overview of the relevant topics. I first committed a draft of this article to LJ on March 10th as a private entry. I was planning to make one massive post, introducing the topics, explaining my thoughts and opinions, and tying the ideas together within my moral framework. My first draft included only the first portion—the overview—but even so, when [ziffy76](<https://ziffy76.livejournal.com/>) read it over, he urged me to split things into many different posts instead. I am not sure I will ever have the time to fully discuss my thoughts on these topics, but better to post something than nothing, right? So here it is.  
+  
+
+### Overview
+
+There are two overarching "camps" I'll be discussing, although there is great diversity within each camp about philosophical specifics. The focus in this article is to introduce the camps, and to illustrate their diametric opposition, but as opposite sides of the same coin in certain ways.  
+  
+First, we have the "doomers," people who think that [civilization was a mistake](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.primitivism.com%2Fprimitivist-critique.htm>), that [civilization will end soon](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifeaftertheoilcrash.net%2F>), or both. Many are reasonable people doubtful of the viability of continued energy production, others are ecologists concerned about the environment, a few call themselves [anarcho-primitivists](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAnarcho-primitivism>), and some have [weirder views](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.infoshop.org%2Finews%2Farticle.php%3Fstory%3D2005012715260752>). Many believe that in the years following the [worldwide peak in oil production](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPeak_oil>) we will need to [drastically change the way we live](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.kunstler.com%2Fspch_hudson.htm>).  
+  
+Second, we have a group of "futurists" who think there will be a [technological singularity](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTechnological_singularity>): the creation of human-level intelligence leading to superintelligence, which will revolutionize our civilization—an [idea originally popularized](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww-rohan.sdsu.edu%2Ffaculty%2Fvinge%2Fmisc%2Fsingularity.html>) by [Vernor Vinge](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVernor_Vinge>). [Many of them](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSingularitarianism>) feel the Singularity is something for which to strive, with massive potential benefits (and risks) to humanity. Others like Ray Kurzweil merely [argue that the singularity is inevitable](<https://www.livejournal.com/away?to=http%3A%2F%2Fsl4.org%2Farchive%2F0206%2F4015.html>). And some, including [my mentor](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBill_Hibbard>), warn that we must work to engineer certain properties into superintelligent machines to assure our continued survival and happiness.  
+  
+These two topics may be the natural extremes of the two most hot-button issues in future studies. From [an interview with Jørgen Randers](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.plausiblefutures.com%2Fcparticle203175-5911.html>), co-author of [Limits to Growth](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLimits_to_growth>):
+
+> Q: Complexity and the future has fascinated scientists throughout the ages. ... Is there a red-thread through the history of future studies?  
+>   
+> There exist a red thread in the fear of limits to natural resources and the belief in technology. Malthus was a strong advocate of a finite world. .. A hundred years after Malthus it was polite to believe that human creativity could solve every possible problem. We represent a synthesis of these two perspectives. ... The problem is that we might not have enough time. The problems are so many and coming at us so fast that even if they are solvable at a slower speed we get problems getting the solutions in place in time. We are forced into a passing period of recession and lower welfare before we get the solutions in place. The thesis is Malthus and the anti-thesis is neo-liberal economic theory.
+
+The idea that civilization is doomed to collapse is the "fear of limits to natural resources" taken to its extreme, while the idea of the Singularity is the ultimate "belief in technology."  
+  
+
+### Sources
+
+My intention is not for those reading this article to feel obligated to thoroughly study every linked reference, as doing so could take days or weeks. Rather, the idea is to read whichever links catch your interest, or are necessary to further elucidate the ideas touched on here.  
+  
+Though I am drawing from many places regarding doomer topics, my main source is Jason Godesky's [Thirty Theses](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2Fthirty>), as it is well-written, well-reasoned and well-organized. Also useful is [Life After the Oil Crash](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifeaftertheoilcrash.net%2F>), despite its crazy layout, because it consolidates essentially the entirety of the Peak Oil doomer argument in one place. A popular site I have avoided is [dieoff.org](<https://www.livejournal.com/away?to=http%3A%2F%2Fdieoff.org%2F>), since its layout greatly annoys me, and it is too massive to easily locate specific arguments. My sources of information on futurist topics are more scattered, and largely stem from Google searches, though I do highly recommend the novella [After Life](<https://www.livejournal.com/away?to=http%3A%2F%2Fsifter.org%2F%7Esimon%2FAfterLife%2Findex.html>) by Simon Funk to get a visceral feeling of what a technological singularity and machine superintelligence really entail. Lastly, for both positions, Wikipedia delivers a large collection of comprehensible overviews on nearly every topic with many backing sources.  
+  
+
+### Similarities
+
+Though in most ways, the two views are diametrically opposed, there are some interesting similarities between them. Both touch on the topic of human extinction—for the doomers due to [massive population dieoff](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2F2006%2F09%2Fovershoot%2F>) when our resources run low, and for the futurists as the ultimate [result of machine superiority](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.wired.com%2Fwired%2Farchive%2F8.04%2Fjoy_pr.html>) to humans.  
+  
+There is also a shared mentality of inevitability, but in opposite directions. [Vernor Vinge writes](<https://www.livejournal.com/away?to=http%3A%2F%2Fmindstalk.net%2Fvinge%2Fvinge-sing.html>):
+
+> "But if the technological Singularity can happen, it will. Even if all the governments of the world were to understand the 'threat' and be in deadly fear of it, progress toward the goal would continue. ... In fact, the competitive advantage—economic, military, even artistic—of every advance in automation is so compelling that passing laws, or having customs, that forbid such things merely assures that someone else will get them first."
+
+Compare to [Jason Godesky on the growth of civilization](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2F2005%2F10%2Fthesis-12-civilization-must-always-grow%2F>):
+
+> "Each society faces a choice: do we continue to intensify production, adopt greater complexity, and increase the size or scale of our society, or do we happily accept the level we're already at? If you choose not to intensify, you will be out-competed by those who do—and your lower level of intensity and complexity will become a resource they can absorb to fuel their further acceleration, whether by outright conquest or more subtle forms of economic or cultural exploitation."
+
+In short, both positions claim their predicted outcome is inevitable, for the same reason.  
+  
+
+### Diametrically opposed
+
+But getting back to their differences—the doomers use the well-known and oft-cited [principle of diminishing returns](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2F2005%2F10%2Fthesis-14-complexity-is-subject-to-diminishing-returns%2F>) to claim that [civilization is guaranteed to fail sooner or later](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2F2006%2F01%2Fthesis-26-collapse-is-inevitable%2F>). On the other hand, the futurists point to a ["law of accelerating returns"](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAccelerating_change%23Kurzweil_and_The_Law_of_Accelerating_Returns>)—an extrapolation of [Moore's Law](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FMoore%2527s_law>)—detailing how technological progress has escalated in a pattern of exponential growth, and will ultimately [result in the construction of superhuman intelligence](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.nickbostrom.com%2Fsuperintelligence.html>). Aesthetically, these two principles cancel out one another nicely, leaving the open question of which predicted endpoint (or neither, or both) is really in our future. Maybe civilization will collapse before we can invent strong AI. Or maybe the strong AI we invent just in the nick of time will save us (or destroy us).  
+  
+
+### Peak Oil
+
+The most compelling (though not the sole) reason to believe that civilization will collapse within the next few decades is certainly [Peak Oil](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifeaftertheoilcrash.net%2F>). There are [blogs devoted to overcoming Peak Oil](<https://www.livejournal.com/away?to=http%3A%2F%2Fpeakoiloptimist.blogspot.com%2F>) and (stupid right-wing) [blogs "debunking" Peak Oil](<https://www.livejournal.com/away?to=http%3A%2F%2Fpeakoildebunked.blogspot.com%2F>). The Bush administration's bizarre actions have been [blamed on Peak Oil](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.altpr.org%2Fmodules.php%3Fop%3Dmodload%26name%3DNews%26file%3Darticle%26sid%3D403%26mode%3Dthread%26order%3D0%26thold%3D0>), and cited as an example of the trouble brewing in the coming decades. For every possible solution to the problem, there are naysayers who insist the solution is infeasible:
+
+  * Belief that [Peak Oil will be a non-event due to free market competition of energy alternatives](<https://www.livejournal.com/away?to=http%3A%2F%2Fmarshallbrain.blogspot.com%2F2005%2F06%2Fpeak-oil-will-be-non-event.html>) is countered by claims that "we won't be motivated to invest them on the massive scale necessary until it's too late" ([Life After the Oil Crash](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifeaftertheoilcrash.net%2FSecondPage.html>), "Won't high oil prices motivate us to look for alternatives?")—though [Alan Greenspan disagrees](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.federalreserve.gov%2Fboarddocs%2Fspeeches%2F2004%2F200410152%2F>).
+  * Proponents of [bio-diesel](<https://www.livejournal.com/away?to=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVegetable_oil_economy>) are [said to be dangerously narrow-focused](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.energybulletin.net%2F3288.html>), or told that bio-diesel is a "joke" because it "require[s] more energy to produce than [it] give[s] back" (from [Jim Kunstler's remarks in Hudson, NY](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.kunstler.com%2Fspch_hudson.htm>)). (Rebuttals, [jasexavier](<https://jasexavier.livejournal.com/>)?)
+  * [Catalysis of coal to diesel](<https://www.livejournal.com/away?to=http%3A%2F%2Furwebsrv.rutgers.edu%2Fmedrel%2Fscience%2Fcoal.shtml>) seems amazing, but will supposedly deplete our coal reserves within two decades ([Life After the Oil Crash](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifeaftertheoilcrash.net%2FSecondPage.html>), "What About Synthetic Oil From Coal?").
+  * Nuclear power plants, in particular [pebble bed reactors [PDF]](<https://www.livejournal.com/away?to=http%3A%2F%2Fweb.mit.edu%2Fpebble-bed%2Fpapers1_files%2FPBReactors.pdf>), look extremely promising until the supply of uranium is brought into question ([Life After the Oil Crash](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifeaftertheoilcrash.net%2FSecondPage.html>), "What About Nuclear Energy?"). But there are [refutations of the claim that uranium will be in short supply](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.americanenergyindependence.com%2Furanium.html>), too.
+
+From everything I've read, I think nuclear power sounds most promising, with bio-diesel helping us through the transitional period until we can have portable nuclear energy, or at least [awesome electric cars](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.teslamotors.com%2F>). Even China, though, which is [ramping up its nuclear power generation rather quickly](<https://www.livejournal.com/away?to=http%3A%2F%2Fwww.china-embassy.org%2Feng%2Fgyzg%2Ft295611.htm>), is still targeting only an increase from 2.3 percent total power output today to 4 percent total power output by 2020—a figure which seems dismally low to me.  
+  
+
+### Civilization flawed
+
+However, none of this Peak Oil discussion gets to the bottom of Godesky's Thirty Theses, which claims not that Peak Oil will doom us, necessarily, but rather that technical solutions (which [necessarily increase complexity](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2F2005%2F10%2Fthesis-13-civilization-always-pursues-complexity%2F>), which is [subject to diminishing returns](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2F2005%2F10%2Fthesis-14-complexity-is-subject-to-diminishing-returns%2F>)) [cannot solve systemic problems](<https://www.livejournal.com/away?to=http%3A%2F%2Fanthropik.com%2F2005%2F11%2Fthesis-16-technology-cannot-stop-collapse%2F>) to prevent us from hitting an eventual glass ceiling.  
+  
+My original plan was to begin examining this conclusion in more detail, but this post is weighty enough already. Instead, I hope to continue the discussion further in a future post. Ciao for now.  
+  
+
+* * *
+
+"And progress is not intelligently planned—it's the facade of our heritage, the odor of our land. They speak of progress, in red, white and blue. It's the structure of the future, as demise comes seething through. It's progress, 'til there's nothing left to gain, as the dearth of new ideas makes us wallow in our shame. So before you go contribute more to the destruction of this world you adore, remember life on Earth is but a flash of dawn, and we're all part of it as the day rolls on."  
+—Bad Religion, "Progress"
