@@ -126,6 +126,28 @@ footer {
 	padding: 40px;
 }
 
+/* General tables */
+
+table:not(.calculator):not(.clean):not(.compact):not(.chessboard) {
+	border-collapse: collapse;
+	width: 100%;
+	margin-bottom: 1.5em;
+	th, td {
+		padding: 0.5em 0.75em;
+		border: 1px solid darken($light, 10%);
+		font-size: 0.75em;
+	}
+	th {
+		background-color: $heading-font-color;
+		color: #fff;
+		text-align: left;
+		font-family: $heading-font;
+	}
+	tr:nth-child(even) td {
+		background-color: $light;
+	}
+}
+
 /* Mystic Magic guide */
 
 table.calculator {
