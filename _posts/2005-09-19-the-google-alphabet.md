@@ -6,8 +6,8 @@ song: "Silverstein - Smile In Your Sleep [dl@wazee]"
 original_url: https://restless-coder.livejournal.com/19854.html
 ---
 
-What do you get when you search Google for a single letter? Somewhere between 433 million and 8.12 billion results. Put 'em all together, and you've got the Google alphabet! Sing along, everyone!  
-  
+What do you get when you search Google for a single letter? Somewhere between 433 million and 8.12 billion results. Put 'em all together, and you've got the Google alphabet! Sing along, everyone!
+
 A is for Apple  
 B is for B'Tselem  
 C is for C-SPAN  
@@ -33,14 +33,13 @@ V is for V-Day
 W is for President George W. Bush  
 X is for X.Org  
 Y is for Yahoo! Messenger  
-Z is for Z Communications  
-  
-Edit: Apparently someone [automated this pointlessness](http://searchenginewatch.com/searchday/article.php/2200941) more than two years ago. Unfortunately, the script currently seems to be broken. So sad!  
-  
-Edit 2: A distinct but similar question is [what the most popular search keyword for each letter of the alphabet is](http://labs.patrickgaskill.com/googlealphabet/).  
-  
+Z is for Z Communications
+
+Edit: Apparently someone [automated this pointlessness](http://searchenginewatch.com/searchday/article.php/2200941) more than two years ago. Unfortunately, the script currently seems to be broken. So sad!
+
+Edit 2: A distinct but similar question is [what the most popular search keyword for each letter of the alphabet is](http://labs.patrickgaskill.com/googlealphabet/).
 
 * * *
 
 "The three great virtues of a programmer: laziness, impatience, and hubris."  
-\--Larry Wall
+—Larry Wall

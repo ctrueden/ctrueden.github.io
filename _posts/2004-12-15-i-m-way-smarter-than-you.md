@@ -6,12 +6,8 @@ song: "Beatmania IIDX 9th Style - Honey (Bemanistyle Radio: Bemanis"
 original_url: https://restless-coder.livejournal.com/7878.html
 ---
 
-|  You scored as **Brain**. A+  
-  
----|---  
-  
-[What High School stereotype are you?](http://quizfarm.com/test.php?q_id=155)  
-  
+You scored as **Brain**. A+  
+[What High School stereotype are you?](http://quizfarm.com/test.php?q_id=155)
 
 * * *
 

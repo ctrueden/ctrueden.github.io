@@ -6,10 +6,10 @@ song: "Sylver - Make It  (Radioseven - www.radioseven.se )"
 original_url: https://restless-coder.livejournal.com/16952.html
 ---
 
-`int zero(int x, int y, int z) { return 0; } // ha ha, screw you, x y and z!`  
-  
-Also, the following chatlog provides a raw illustration of the sorts of problems I deal with at work, as well as a lengthy demonstration of what happens when I get going with [afgncaapvaljean](https://afgncaapvaljean.livejournal.com/).  
-  
+`int zero(int x, int y, int z) { return 0; } // ha ha, screw you, x y and z!`
+
+Also, the following chatlog provides a raw illustration of the sorts of problems I deal with at work, as well as a lengthy demonstration of what happens when I get going with [afgncaapvaljean](https://afgncaapvaljean.livejournal.com/).
+
 (14:14:36) **WhtSMatrx:** Are you serious about there being interest in people who program theoretically?  
 (14:15:00) **Restless Warrior:** What do you mean?  
 (14:15:26) **Restless Warrior:** Look at it this way: no matter how much of a code monkey you are, someone has to design the original algorithms that everyone else rips off.  
@@ -396,8 +396,7 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (15:42:14) **WhtSMatrx:** Heh, I like that.  
 (15:42:19) **Restless Warrior:** Yeah, me too. =)  
 (15:42:28) **Restless Warrior:** It makes me chuckle, enough that I'm considering posting it in my LJ. =P  
-(15:42:34) **Restless Warrior:** And you thought *your* sense of humor was isoteric.  
-  
+(15:42:34) **Restless Warrior:** And you thought *your* sense of humor was isoteric.
 
 * * *
 
