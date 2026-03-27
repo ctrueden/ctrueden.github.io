@@ -25,7 +25,7 @@ _**Democrat**_
 | ![](https://imgprx.livejournal.net/86b1643b16cd8aea0ecc73d562c8580b8505a2d4c1fa6ec3f3b4ffaa4f550354/P2WlxyVijxKghm1o885fUEMdsf-ah7h01l3SCb1YjMXD-hyals6oR000AVd_F05i-VJakDTKagBWIksDiFY89kBNlg:wqpwpaXVHsgKFHJC2VBwwg) |   |
 | ![](https://imgprx.livejournal.net/86b1643b16cd8aea0ecc73d562c8580b8505a2d4c1fa6ec3f3b4ffaa4f550354/P2WlxyVijxKghm1o885fUEMdsf-ah7h01l3SCb1YjMXD-hyals6oR000AVd_F05i-VJakDTKagBWIksDiFY89kBNlg:wqpwpaXVHsgKFHJC2VBwwg) |   |
 
-Link: [**The Politics Test**](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.okcupid.com%2Fpolitics) on [**Ok Cupid**](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.okcupid.com)
+Link: [**The Politics Test**](http://www.okcupid.com/politics) on [**Ok Cupid**](http://www.okcupid.com)
 
 I also took the Classic Leading Man test.
 
@@ -45,7 +45,7 @@ Your leading ladies include Jean Arthur and Donna Reed, those sweet
 girl-next-door types.
 
 Find out what kind of classic dame you'd make by taking the   
-[Classic Dames Test](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.okcupid.com%2Ftests%2Ftake%3Ftestid%3D4621123663119520922).
+[Classic Dames Test](http://www.okcupid.com/tests/take?testid=4621123663119520922).
 
 ![](https://imgprx.livejournal.net/8a18ae735539160d2a6adb52b2334a18e11c287f930de160543e55e9a2aa9ed9/P2WlxyVijxKghm1o885fUEMdsf-ah7h01l3SCb1YjMXD-hyals6oR181BVVkURUk5g0BxW2RO1YVSQtdz0tprRNY3iCYbrrYuhVdsEAweEa7QbHP75EAg31X_A8:mj2Ro54Brsz0jyC4QmExyg)
 
@@ -56,9 +56,9 @@ My test tracked 4 variables How you compared to other people _your age and gende
 * You scored higher than **83%** on **Friendly**
 * You scored higher than **1%** on **Charming**
 
-Link: [The Classic Leading Man Test](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.okcupid.com%2Ftests%2Ftake%3Ftestid%3D8651547809586515731) written by [gidgetgoes](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.okcupid.com%2Fprofile%3Ftuid%3D8504912322575776397) on [Ok Cupid](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.okcupid.com)
+Link: [The Classic Leading Man Test](http://www.okcupid.com/tests/take?testid=8651547809586515731) written by [gidgetgoes](http://www.okcupid.com/profile?tuid=8504912322575776397) on [Ok Cupid](http://www.okcupid.com)
 
 * * *
 
 "America believes that all people are entitled to hope and human rights, to the non-negotiable demands of human dignity."  
-—[President George W. Bush – October 7, 2002](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.whitehouse.gov%2Fnews%2Freleases%2F2002%2F10%2F20021007-8.html)
+—[President George W. Bush – October 7, 2002](http://www.whitehouse.gov/news/releases/2002/10/20021007-8.html)

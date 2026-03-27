@@ -5,7 +5,7 @@ mood: exhausted
 original_url: https://restless-coder.livejournal.com/31487.html
 ---
 
-NOR, Ryan and I decided to obtain Nintendo's new console, the Wii, on the launch day (Sunday, November 19th), by camping out in front of a store the night before. We got in line before 6:00 pm; sixteen hours later, we were checking out of the store with our shiny new Wiis. I [posted a few pictures](https://www.livejournal.com/away?to=http%3A%2F%2Frestlesswarrior.com%2Fgallery2%2Fmain.php%3Fg2_itemId%3D11473).
+NOR, Ryan and I decided to obtain Nintendo's new console, the Wii, on the launch day (Sunday, November 19th), by camping out in front of a store the night before. We got in line before 6:00 pm; sixteen hours later, we were checking out of the store with our shiny new Wiis. I [posted a few pictures](http://restlesswarrior.com/gallery2/main.php?g2_itemId=11473).
 
 After reports came in that Best Buy (our tentative choice) was only guaranteeing possession of a handful of units, versus Target west's 111 count, we settled on Target. We were hoping to start camping some time between midnight and 4:00 am, but word came in that lines were forming at several stores by 4:00 pm Saturday, so we mobilized and made it to Target before 6:00 pm, securing positions 7 through 13 in line. We were joined by Toz, Mark, Sean, and NOR's friend Andy from Verizon. Sean had to leave shortly into the night, but was soon replaced by Andy/Ziffy, bringing our Andy total to two.
 

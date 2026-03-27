@@ -71,9 +71,9 @@ THREE THINGS YOU WANT IN A RELATIONSHIP (love is a given):
 3. Shared interests
 
 TWO TRUTHS AND A LIE (in no particular order)
-1. The Bush administration [believes that Apocalypse is nigh](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.commondreams.org%2Fviews04%2F0908-16.htm)
-2. If you don't embrace Jesus Christ as your personal Savior, you will [burn in Hell for eternity](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.bible.com%2Fanswers%2Fahell.html)
-3. [It takes more than three licks](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.tootsie.com%2FmemoriesLicksMachine.html) to get to the center of a Tootsie Pop
+1. The Bush administration [believes that Apocalypse is nigh](http://www.commondreams.org/views04/0908-16.htm)
+2. If you don't embrace Jesus Christ as your personal Savior, you will [burn in Hell for eternity](http://www.bible.com/answers/ahell.html)
+3. [It takes more than three licks](http://www.tootsie.com/memoriesLicksMachine.html) to get to the center of a Tootsie Pop
 
 THREE PHYSICAL THINGS ABOUT THE OPPOSITE SEX (or same) THAT APPEAL TO YOU:
 1. Full lips
@@ -81,7 +81,7 @@ THREE PHYSICAL THINGS ABOUT THE OPPOSITE SEX (or same) THAT APPEAL TO YOU:
 3. Everything from waist to thighs
 
 THREE THINGS YOU JUST CAN'T DO:
-1. [Kill in God's name](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.spiderrobinson.com%2Fjesus.htm)
+1. [Kill in God's name](http://www.spiderrobinson.com/jesus.htm)
 2. Move ring finger without pinky twitching
 3. Fool all the people all the time
 

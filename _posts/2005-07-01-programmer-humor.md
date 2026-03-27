@@ -306,7 +306,7 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (15:18:25) **WhtSMatrx:** Equal volume is out, for the moment.  
 (15:19:00) **Restless Warrior:** Heh, you're stumbling onto something similar to Voronoi power diagrams, which is a dual to the Delaunay triangulation. =)  
 (15:19:19) **WhtSMatrx:** Yeah, they're not entirely dissimilar.  
-(15:19:34) **Restless Warrior:** [http://www.cs.cornell.edu/Info/People/chew/Delaunay.html](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.cs.cornell.edu%2FInfo%2FPeople%2Fchew%2FDelaunay.html)  
+(15:19:34) **Restless Warrior:** [http://www.cs.cornell.edu/Info/People/chew/Delaunay.html](http://www.cs.cornell.edu/Info/People/chew/Delaunay.html)  
 (15:19:37) **WhtSMatrx:** Plus, you get to use epsilon delta balls.  
 (15:20:04) **WhtSMatrx:** I didn't know they had already defined this so well.  
 (15:20:14) **WhtSMatrx:** Wow.  

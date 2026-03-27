@@ -10,11 +10,11 @@ I thought of a fun, hopefully-offensive-to-the-religious-right bumper sticker to
 
 **Who needs God when we have SCIENCE?**
 
-I then thought that probably others on the Internet had already utilized this phrase for some purpose or other, and tried Googling it, but [no hits](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.google.com%2Fsearch%3Fhl%3Den%26q%3D%2522who%2Bneeds%2Bgod%2Bwhen%2Bwe%2Bhave%2Bscience%2522%26btnG%3DGoogle%2BSearch). Without the quotes was [more successful](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.google.com%2Fsearch%3Fhl%3Den%26lr%3D%26q%3Dwho%2Bneeds%2Bgod%2Bwhen%2Bwe%2Bhave%2Bscience%26btnG%3DSearch), yielding several interesting articles.
+I then thought that probably others on the Internet had already utilized this phrase for some purpose or other, and tried Googling it, but [no hits](http://www.google.com/search?hl=en&q=%22who+needs+god+when+we+have+science%22&btnG=Google+Search). Without the quotes was [more successful](http://www.google.com/search?hl=en&lr=&q=who+needs+god+when+we+have+science&btnG=Search), yielding several interesting articles.
 
-The first was the [open letter to the Kansas school board](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.venganza.org%2F) regarding the Flying Spaghetti Monster theory of Intelligent Design, which is the most efficient, scathing rebuke to Intelligent Design that I've seen (though still not quite as entertaining as the theory of [Unintelligent Design](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.geocities.com%2Flclane2%2Fud.html)). I recommend giving it a read if you haven't already seen it.
+The first was the [open letter to the Kansas school board](http://www.venganza.org/) regarding the Flying Spaghetti Monster theory of Intelligent Design, which is the most efficient, scathing rebuke to Intelligent Design that I've seen (though still not quite as entertaining as the theory of [Unintelligent Design](http://www.geocities.com/lclane2/ud.html)). I recommend giving it a read if you haven't already seen it.
 
-The second was an article written by some Australian guy entitled [Who Needs God When We've Got America?](https://www.livejournal.com/away?to=http%3A%2F%2Fwritingstatic.blogspot.com%2F2005%2F10%2Fwho-needs-god-when-weve-got-america.html), and it is on this article that I am compelled to comment today.
+The second was an article written by some Australian guy entitled [Who Needs God When We've Got America?](http://writingstatic.blogspot.com/2005/10/who-needs-god-when-weve-got-america.html), and it is on this article that I am compelled to comment today.
 
 The piece starts out with some well-written criticism of the Bible, which I always enjoy reading. But then the writer goes off the rails.
 
@@ -30,7 +30,7 @@ The author quotes John Gray:
 
 > Science does not yield any fixed picture of things, but by censoring thinkers who stray too far from current orthodoxies it preserves the comforting illusion of a single established worldview.
 
-A little research on Gray reveals that he is a British philosopher who strongly opposes the idea that humans are different from or superior to other animals. From Booklist's review of [Gray's book](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.amazon.com%2Fgp%2Fproduct%2F1862075964%2Fqid%3D1129423561%2Fsr%3D2-1%2Fref%3Dpd_bbs_b_2_1%2F104-4692376-2367149%3Fs%3Dbooks%26v%3Dglance%26n%3D283155):
+A little research on Gray reveals that he is a British philosopher who strongly opposes the idea that humans are different from or superior to other animals. From Booklist's review of [Gray's book](http://www.amazon.com/gp/product/1862075964/qid=1129423561/sr=2-1/ref=pd_bbs_b_2_1/104-4692376-2367149?s=books&v=glance&n=283155):
 
 > Human vanity, he complains, has even converted science (which should teach us of our insignificant place in nature) into an ideology of progress.
 

@@ -6,7 +6,7 @@ song: "Manhattan - Nothern (Miami Bug Mix) (1.FM - Club! )"
 original_url: https://restless-coder.livejournal.com/30279.html
 ---
 
-Today [Lifehacker](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifehacker.com%2F) (have you seen Lifehacker? [withouttalent](https://withouttalent.livejournal.com/), I think you would like Lifehacker) posted an interesting poll: [What makes you happy?](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.lifehacker.com%2Fsoftware%2Fhappiness%2Freader-poll--what-makes-you-happy-199836.php) There are a few things about it I found noteworthy, but I'm going to cut so that my analysis doesn't potentially influence your vote.
+Today [Lifehacker](http://www.lifehacker.com/) (have you seen Lifehacker? [withouttalent](https://withouttalent.livejournal.com/), I think you would like Lifehacker) posted an interesting poll: [What makes you happy?](http://www.lifehacker.com/software/happiness/reader-poll--what-makes-you-happy-199836.php) There are a few things about it I found noteworthy, but I'm going to cut so that my analysis doesn't potentially influence your vote.
 
 First, family wins (followed by spouse, which is sort of still family, followed by friends). These top three all demonstrate how cultivating human relationships is most important to many people. It also, unfortunately, illustrates how people can be so stupid so often; as long as you're with like-minded others, you're happy, so who cares about truth. In a sense, if other people agree with you, you're not wrong.
 

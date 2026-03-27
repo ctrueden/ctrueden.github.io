@@ -6,7 +6,7 @@ song: "See-Saw & Kajiura Yuki - Hack Sign ed ~ Yasashii Yoake"
 original_url: https://restless-coder.livejournal.com/10122.html
 ---
 
-From [The Hypothesis of Sentient Self-Destruction](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.liberator.net%2Farticles%2FTremblayFrancois%2FHypSelfDestruction.html) by Francois Tremblay:
+From [The Hypothesis of Sentient Self-Destruction](http://www.liberator.net/articles/TremblayFrancois/HypSelfDestruction.html) by Francois Tremblay:
 
 > As human being, we are little more than forest-dwelling, pack-following monkeys that got dropped in an urban environment in a blink of evolutionary time - as I like to say, our instincts are a harp out of tune. Even the smallest adaptations take ten thousand years or more : there is simply not enough time between the advent of civilization and now for the millions of years necessary to make a new, civilized species.
 >
@@ -24,7 +24,7 @@ The first few tenets do not deal with interaction between people, but rather for
 
 This statement may seem utterly obvious, but it is important to recognize it as an assumption. Although logicians have constructed systems where statements such as "X & ~X" are not logically false, even these systems have layers of truth and falseness buried within. If statements have no truth values, then the concept of "reality" has no meaning. The idea that "there is no truth," if true, is itself a truth, and self-defeating. I vindicate the existence of truth by claiming that it is required to reason at all.
 
-However, there are several caveats to this tenet. I do not claim that truth always exists (just that it usually, or at least often, does). I do not claim that every truth can be proven, or even known (just that they sometimes can). And I do not claim that [our perception of truth cannot change its nature](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.astronomynotes.com%2Fscimethd%2Fs7.htm).
+However, there are several caveats to this tenet. I do not claim that truth always exists (just that it usually, or at least often, does). I do not claim that every truth can be proven, or even known (just that they sometimes can). And I do not claim that [our perception of truth cannot change its nature](http://www.astronomynotes.com/scimethd/s7.htm).
 
 **II. Believe Reality**
 
@@ -38,7 +38,7 @@ But moreover, honestly striving to understand the properties of the universe imp
 
  _Reason is the most effective way to pursue truth_
 
-Though there are [several ways to pursue truth](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.astronomynotes.com%2Fscimethd%2Fs6.htm), any way other than reason is by definition unreasonable.
+Though there are [several ways to pursue truth](http://www.astronomynotes.com/scimethd/s6.htm), any way other than reason is by definition unreasonable.
 
 **IV. Strive for Self-Awareness**
 
@@ -50,7 +50,7 @@ Several conversations with [jessierose33](https://jessierose33.livejournal.com/)
 
  _The future resembles the past_
 
-A [serious problem](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.bcc.ctc.edu%2FArtsHum%2Fmaterials%2Fphil%2FPayne%2Fspring03%2F160HumeproblemSp03.htm) exists with the scientific principle of induction, originally raised by David Hume. The basic argument is as follows.
+A [serious problem](http://www.bcc.ctc.edu/ArtsHum/materials/phil/Payne/spring03/160HumeproblemSp03.htm) exists with the scientific principle of induction, originally raised by David Hume. The basic argument is as follows.
 
 Induction is not foolproof. Why do we assume the future will resemble the past? Because it has worked for us so far; that is, it has always worked in the past. But that logic is clearly circular! So how can we justify induction?
 
@@ -64,7 +64,7 @@ The first few tenets above urge certain behaviors and thought patterns. But how 
 
 If the universe is deterministic, then we have no choice whether to subscribe to any of these tenets. We have no choice in anything at all. We cannot be held truly responsible for our actions. In essence, we cannot make mistakes. The only way we can make a mistake is if we possess free will but erroneously hold to determinism. Thus, the only reasonable belief is free will.
 
-Because every lengthy post I make is required to contain at least one tangent, I briefly present two now. First, the [compatibilism](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.rep.routledge.com%2Farticle%2FV014SECT1)/[incompatibilism](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.rep.routledge.com%2Farticle%2FV014SECT2) debate is purely semantic with respect to the term "free," and thus of much less import than it is traditionally regarded to be. Second, the existence of human free will [does not absolve the Christian God](https://www.livejournal.com/away?to=http%3A%2F%2Fwww.philosophyofreligion.info%2Ffreewilldefence.html) (who is supposedly omnibenevolent) of responsibility for the existence of evil in the world.
+Because every lengthy post I make is required to contain at least one tangent, I briefly present two now. First, the [compatibilism](http://www.rep.routledge.com/article/V014SECT1)/[incompatibilism](http://www.rep.routledge.com/article/V014SECT2) debate is purely semantic with respect to the term "free," and thus of much less import than it is traditionally regarded to be. Second, the existence of human free will [does not absolve the Christian God](http://www.philosophyofreligion.info/freewilldefence.html) (who is supposedly omnibenevolent) of responsibility for the existence of evil in the world.
 
 * * *
 
