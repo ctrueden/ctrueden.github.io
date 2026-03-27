@@ -42,7 +42,7 @@ This forces library authors into a dilemma:
 - **Exact pin** (`requests==2.28.0`): Reproducible, but breaks composability. If library A pins `requests==2.28.0` and library B pins `requests==2.29.0`, they cannot coexist. Resolution fails.
 - **Range** (`requests>=2,<3`): Composable, but loses any version anchor entirely. Consumers have no reference point for a configuration the author verified works. A new `2.x` release of `requests` upstream breaks reproducibility, potentially introducing security issues or bugs.
 
-The lockfile (`uv.lock`, `poetry.lock`, `Gemfile.lock`) recovers reproducibility—but only for applications. Most libraries don't publish lockfiles alongside releases on PyPI, so consumers of library releases are silently subject to transitive churn with every fresh install. No verified baseline exists in the published artifact.
+The lockfile (e.g. `uv.lock` or `poetry.lock`) recovers reproducibility—but only for applications. Most libraries don't publish lockfiles alongside releases on PyPI, so consumers of library releases are silently subject to transitive churn with every fresh install. No verified baseline exists in the published artifact.
 
 It is worth noting here that this design flaw is not limited to Python—there are many dependency management ecosystems with exactly the same problem: JavaScript's `package.json`, Rust's `Cargo.toml`, Conda's `environment.yml` (though see [Bills of Materials and Ecosystem Coordination](#bills-of-materials-and-ecosystem-coordination) below), PHP's `composer.json`, Ruby's `Gemfile`, Swift's `Package.swift`, and Lua's `rockspec`, to name a few.
 
