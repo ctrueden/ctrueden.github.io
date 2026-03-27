@@ -59,19 +59,15 @@ The [.NET/NuGet `PackageReference`](https://github.com/NuGet/docs.microsoft.com-
 
 ### Cross-Ecosystem Comparison
 
-The table below examines each ecosystem's dependency artifacts on several dimensions central to this argument.
+The table below examines each ecosystem's dependency artifacts along several dimensions:
 
-**Columns:**
-
-| Column | Description |
-|---|---|
-| **Reproducible** | Does this artifact alone guarantee an identical dependency set on every install? |
-| **Composable** | Can a downstream resolver incorporate this into a combined dependency tree? |
-| **Version anchor** | Does this artifact communicate a known-good reference version, as a non-binding signal to downstream resolvers? |
-| **Constraint expressiveness** | How flexible are version specifications? |
-| **Resolution algorithm** | What strategy does the resolver use? |
-| **Cross-platform** | Is the artifact platform-independent? |
-| **Published with library releases** | Is this artifact routinely published alongside library releases? |
+* **Reproducible** – Does this artifact alone guarantee an identical dependency set on every install?
+* **Composable** – Can a downstream resolver incorporate this into a combined dependency tree?
+* **Version anchor** – Does this artifact communicate a known-good reference version, as a non-binding signal to downstream resolvers?
+* **Constraint expressiveness** – How flexible are version specifications?
+* **Resolution algorithm** – What strategy does the resolver use?
+* **Cross-platform** – Is the artifact platform-independent?
+* **Published with library releases** – Is this artifact routinely published alongside library releases?
 
 | Ecosystem | Artifact | Reproducible | Composable | Version anchor | Constraint expressiveness | Resolution algorithm | Cross-platform | Published with library releases |
 |---|---|---|---|---|---|---|---|---|
@@ -97,9 +93,13 @@ The table below examines each ecosystem's dependency artifacts on several dimens
 | .NET | `packages.lock.json` | Yes | No | Yes (but moot) | Exact (lockfile) | None (pre-resolved) | Mostly | Never |
 | Lua | `rockspec` | No | Yes | No | Basic ranges, exact | SAT/backtracking | Mostly | Always |
 
+<div style="font-size: 0.75em; margin-top: -1em" markdown=1>
+
 \* Declarative Gradle is not yet stable.  
 † CRAN runs ecosystem-wide reverse-dependency checks against all packages on the registry, acting as a partial BOM validator: packages that break their dependents are delisted.  
 ‡ conda-forge pinnings (`conda-forge-pinning`) are the closest Python-ecosystem analog to a Maven BOM: a centrally curated set of pinned versions for key compiled dependencies against which all conda-forge packages are built and tested. Usable only within the conda-forge build system, not by arbitrary downstream projects.
+
+</div>
 
 The story the table tells is stark. `pom.xml`, `go.mod`, and .NET's `PackageReference` are the only artifacts that simultaneously score well on reproducibility, composability, version anchor, and "published always." Python's `pyproject.toml` and Conda's `environment.yml` are composable and expressively flexible but have no version anchor. Their respective lockfiles are reproducible but are never published alongside library releases and are not composable. The gap between them is exactly the missing mechanism.
 
