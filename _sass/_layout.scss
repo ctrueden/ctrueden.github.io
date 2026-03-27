@@ -246,6 +246,21 @@ table.chessboard tr:nth-child(even) td:nth-child(even)
 	background: #ccc;
 }
 
+/* Code */
+
+div.highlighter-rouge {
+	border: 1px dotted gray;
+	padding: 0 1em;
+	border-radius: 0.5em;
+	background: #eee;
+}
+code.highlighter-rouge {
+	border: 1px dotted gray;
+	padding: 0.1em 0.5em;
+	border-radius: 0.5em;
+	background: #eee;
+}
+
 /* Blog */
 
 .post-meta {
