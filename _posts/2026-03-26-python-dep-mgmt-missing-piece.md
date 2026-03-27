@@ -1,5 +1,5 @@
 ---
-title: "Python Dependency Management's Missing Piece"
+title: "Python Dependency Management<br>is Missing a Piece"
 date: 2026-03-26 20:38:00 -0600
 ---
 
@@ -9,7 +9,7 @@ date: 2026-03-26 20:38:00 -0600
 
 ## The Core Problem
 
-I am increasingly convinced that Python's dependency management is fundamentally broken compared to Java's. Python's package metadata has a structural gap that forces library authors into an impossible choice.
+I am increasingly convinced that Python's dependency management ecosystem is fundamentally broken compared to Java's, for one reason: Python's package metadata has a structural gap that forces library authors into an impossible choice.
 
 Here's the argument in brief: in Java, [Maven](https://maven.apache.org/)'s `pom.xml` provides *soft* version pinning: library authors declare "I verified dependency libfoo works at version 2.28.0—use it as a starting point, but feel free to move if something else in the mix requires otherwise." Python's `pyproject.toml` offers no equivalent: you can express a constraint (`>=2.28.0,<3`), but you cannot communicate "this is a version I verified works." Lockfiles provide strict reproducibility, but at the cost of composability—they are only a partial solution for communicating a signal missing from primary project metadata.
 
@@ -165,25 +165,25 @@ The limitations:
 - **No discovery.** PyPI has no field for "here is the constraint file for this release." Users must already know it exists and where to find it.
 - **Out-of-band publication.** Constraint files are typically hosted on GitHub or a project website—entirely outside the standard packaging machinery.
 - **No automatic resolver integration.** The constraint file does not participate in dependency mediation on its own.
-- **Tool-specific.** `uv`, `pixi`, and `conda` do not support `--constraint` nor offer an equivalent mechanism.
+- **Limited tool support.** `pip` and `uv` support `--constraint` (uv also via the `UV_CONSTRAINT` environment variable), but `pixi` and `conda` do not offer an equivalent mechanism. More importantly, nothing in PyPI metadata points any tool to the right constraint file for a given release—support for the flag is moot without a standard way to discover the file.
 - **Not composable.** If you depend on two libraries that each publish constraint files, there is no standard mechanism to merge them into a consistent resolution (although in many cases it might be doable to apply something like minimum version selection across multiple overlapping constraint files).
 
-### Apache Airflow: A Proof of Concept
+### Apache Airflow and napari: Proofs of Concept
 
-[Apache Airflow](https://airflow.apache.org/) is the most complete current implementation of `--constraints` as a published known-good baseline. For each release, the maintainers generate and publish a pinned constraint file for every supported Python version, hosted as raw files in [orphan Git branches on GitHub](https://github.com/apache/airflow/branches/all?query=constraints) (e.g. `constraints-3.1.8`). Installation looks like:
+There are some projects that publish constraints files as known-good baselines. For example, [Apache Airflow](https://airflow.apache.org/) project, for each release, generates and publishes a pinned constraint file for every supported Python version, hosted as raw files in [orphan Git branches on GitHub](https://github.com/apache/airflow/branches/all?query=constraints) (e.g. `constraints-3.1.8`). Installation looks like:
 
 ```bash
 pip install "apache-airflow[celery]==3.1.8" \
   --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-3.1.8/constraints-3.10.txt"
 ```
 
-The Airflow maintainers [have reported](https://discuss.python.org/t/pre-pep-add-ability-to-install-a-package-with-reproducible-dependencies/99497/23) it has saved them from transitive breakage on numerous occasions. But it is important to be precise about which tier of dependency management this represents.
+The Airflow maintainers [have reported](https://discuss.python.org/t/pre-pep-add-ability-to-install-a-package-with-reproducible-dependencies/99497/23) it has saved them from transitive breakage on numerous occasions. The [napari](https://napari.org/) project uses a similar approach, [publishing its constraint files](https://github.com/napari/napari/tree/v0.7.0/resources/constraints) on each branch under `resources/constraints` and [using them in CI workflows](https://github.com/napari/napari/blob/50df933a59a6cac83f36ef471a9809196f7e7a8d/.github/workflows/reusable_run_tox_test.yml#L57).
 
-Airflow's constraint file is a **tier 1 workaround**: it publishes a known-good baseline configuration for Airflow's own dependency graph at release time. The labor involved is almost entirely infrastructure overhead: orphan branches, URL conventions, per-(version × Python) generation scripts, user documentation—all to communicate a signal that should be automatic with every component release.
+Both projects recognized the need to fill this dependency management gap, but had to implement their own ad hoc solutions, due to the lack of packaging standard for this purpose. As such, these constraint files are a **tier 1 workaround**: they publish known-good baseline configurations for each project's own dependency graph at release time. The labor involved is almost entirely infrastructure overhead: orphan branches, URL conventions, per-(version × Python) generation scripts, user documentation—all to communicate a signal that should be automatic with every component release.
 
 This is categorically different from the **tier 2** work of curating a multi-project BOM and the **tier 3** work of verifying its claims. The [SciJava BOM](https://github.com/scijava/pom-scijava), for example, coordinates compatibility guarantees across hundreds of independent components spanning many different teams and release schedules. That curation labor is inherent to the coordination task—the hard part is not *recording* what was tested but *deciding* which versions of independent projects should be declared mutually compatible and then *verifying* that claim. Closing the tier 1 gap for all published components would nonetheless reduce the BOM maintenance burden, by providing better starting points leading to fewer surprises during BOM validation testing.
 
-The Airflow case demonstrates that demand for tier 1 exists and the concept works. But absent a standard, most maintainers don't know this is something they should do, those who recognize the gap have no obvious established practice to follow, the few who build their own solutions build them incompatibly. The result is a near-total absence of the practice across the ecosystem: a coordination failure that individual effort cannot fix, with the many who consume these dependencies feeling the pain of irreproducibility by default.
+Airflow and napari demonstrate that demand for tier 1 exists and the approach works. But the absence of a standard is visible in the divergence between them: Airflow hosts constraint files in orphan Git branches; napari keeps them on each branch under `resources/constraints`. Both choices work, but neither is discoverable from PyPI, and each requires users to learn a project-specific convention. Absent a standard to converge on, most maintainers don't know this is something they should do at all, and those who do build their own solutions build them incompatibly. The result is a near-total absence of the practice across the ecosystem, with downstream consumers left to feel the pain of irreproducibility by default.
 
 ## The Standard Python Needs
 
