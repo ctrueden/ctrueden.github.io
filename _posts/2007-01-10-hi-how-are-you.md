@@ -31,7 +31,7 @@ I am also pondering (thanks to some [discussion](http://bitches-tyrone.livejourn
 #### My New Year's Resolution
 
   
-I know I said I _wasn't_ going to discuss the sociopolitical topics—but I needed to provide an overview of them anyway to place my New Year's resolution this year into perspective: I have resolved to be a worse person. *grin* Specifically, I have resolved to be more practical, making decisions that benefit me directly instead of taking a "higher moral ground" (of dubious existence).  
+I know I said I _wasn't_ going to discuss the sociopolitical topics—but I needed to provide an overview of them anyway to place my New Year's resolution this year into perspective: I have resolved to be a worse person. \*grin\* Specifically, I have resolved to be more practical, making decisions that benefit me directly instead of taking a "higher moral ground" (of dubious existence).  
   
   
   

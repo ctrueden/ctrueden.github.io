@@ -120,7 +120,7 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (14:38:39) **WhtSMatrx:** Sure.  
 (14:39:00) **Restless Warrior:** The only mildly challenging part is finding the enclosing tet.  
 (14:39:08) **Restless Warrior:** And trust me, it is much faster than O(n).  
-(14:39:15) **WhtSMatrx:** *Grumbles* My method would work. Just inefficiently.  
+(14:39:15) **WhtSMatrx:** \*Grumbles\* My method would work. Just inefficiently.  
 (14:39:19) **Restless Warrior:** Yes, it would work!  
 (14:39:24) **Restless Warrior:** It is not bad.  
 (14:39:53) **Restless Warrior:** It really depends on how many points you need to interpolate.  
@@ -134,7 +134,7 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (14:41:13) **WhtSMatrx:** Divide them into Tetrahedra.  
 (14:41:15) **Restless Warrior:** As long as you're doing the work of computing distance between the sample and every point in the set, you may as well factor them into the computation at that point; it's not any slower.  
 (14:41:21) **WhtSMatrx:** DAMN YOU!  
-(14:41:27) **Restless Warrior:** *laughs maniacally*  
+(14:41:27) **Restless Warrior:** \*laughs maniacally\*  
 (14:41:31) **Restless Warrior:** You begin to see!  
 (14:42:06) **WhtSMatrx:** What a charming problem!  
 (14:42:13) **Restless Warrior:** I like it.  
@@ -326,17 +326,12 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (15:22:54) **Restless Warrior:** Perhaps.  
 (15:22:57) **WhtSMatrx:** I'd have come up with my epsilon delta balls.  
 (15:23:06) **Restless Warrior:** Still, computing a Delaunay triangulation efficiently is tricky.  
-(15:23:17) **Restless Warrior:** There are six or seven major algorithms people have come up ith for it.  
+(15:23:17) **Restless Warrior:** There are six or seven major algorithms people have come up with for it.  
 (15:23:17) **WhtSMatrx:** I'd have started with cubes.  
 (15:23:23) **Restless Warrior:** Cubes are a lot messier.  
 (15:23:28) **WhtSMatrx:** Right.  
 (15:23:34) **WhtSMatrx:** I think I would've gotten that.  
-(15:23:36) **Restless Warrior:** BRB  
 (15:23:39) **WhtSMatrx:** Maybe not.  
-(15:23:40) **WhtSMatrx:** K.  
-(15:25:33) **Restless Warrior:** Back.  
-(15:25:38) **Restless Warrior:** Too much Mt Dew.  
-(15:26:01) **WhtSMatrx:** NP.  
 (15:26:38) **WhtSMatrx:** Hmm.  
 (15:26:42) **WhtSMatrx:** I wonder.  
 (15:26:50) **WhtSMatrx:** Could there be something else to try here?  
@@ -351,14 +346,14 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (15:30:46) **Restless Warrior:** How does reducing the average sample value to zero assist in uncovering the field?  
 (15:30:53) **WhtSMatrx:** Heh, I once teased my professor by telling him I could make an algorithm at 1/n.  
 (15:31:12) **WhtSMatrx:** Which was true.  
-(15:31:56) **Restless Warrior:** But with N defined only within [0, 1] or somethign?  
-(15:32:03) **Restless Warrior:** Err (0, 1]  
+(15:31:56) **Restless Warrior:** But with N defined only within `[0, 1]` or something?  
+(15:32:03) **Restless Warrior:** Err `(0, 1]`  
 (15:32:17) **WhtSMatrx:** No.  
 (15:32:31) **WhtSMatrx:** Give you a hint.  
-(15:32:48) **WhtSMatrx:** N defined from [1, maxint]  
+(15:32:48) **WhtSMatrx:** N defined from `[1, maxint]`  
 (15:33:03) **Restless Warrior:** For 1-bit numbers?  
 (15:33:12) **WhtSMatrx:** Nope.  
-(15:33:27) **Restless Warrior:** So, N defined from [1, 2^32] shall we say?  
+(15:33:27) **Restless Warrior:** So, N defined from `[1, 2^32]` shall we say?  
 (15:33:31) **WhtSMatrx:** Sure.  
 (15:34:37) **Restless Warrior:** Sorry, I don't get it.  
 (15:34:46) **WhtSMatrx:** I'm glad I'm relaying this over computer. Yo'd hit me in person when I tell you.  
@@ -377,13 +372,13 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (15:37:36) **Restless Warrior:** No real problem is helped by that idea!  
 (15:37:44) **WhtSMatrx:** Exactly!  
 (15:37:55) **Restless Warrior:** Well, except for delays.  
-(15:38:13) **WhtSMatrx:** *Sighs* Why must I be cursed with such an esoteric sense of mathematical whimsey?  
+(15:38:13) **WhtSMatrx:** \*Sighs\* Why must I be cursed with such an esoteric sense of mathematical whimsey?  
 (15:38:34) **Restless Warrior:** If you *want* to stall for time, then you could use it. It's similar to keeping track of the number of ms elapsed during some operations, then waiting for 60-n ms after that to ensure that exactly 60 ms pass total between frames or something.  
 (15:38:58) **Restless Warrior:** Although I'm not sure how to adapt that example to apply to 60/n instead of 60-n.  
 (15:39:10) **WhtSMatrx:** It's not supposed to be USEFUL!  
 (15:39:20) **Restless Warrior:** Ha, I'm *making* it useful!  
 (15:39:29) **WhtSMatrx:** Curse you!  
-(15:39:50) **Restless Warrior:** You want useless! I'll give you useless! public int ident(int n) { return n; }  
+(15:39:50) **Restless Warrior:** You want useless! I'll give you useless! `public int ident(int n) { return n; }`  
 (15:39:54) **Restless Warrior:** Now *that's* useless!  
 (15:40:09) **WhtSMatrx:** What's that do?  
 (15:40:18) **Restless Warrior:** It's the identity function.  
@@ -392,12 +387,12 @@ Also, the following chatlog provides a raw illustration of the sorts of problems
 (15:40:46) **Restless Warrior:** Useful in mathematics but useless directly for programming.  
 (15:40:47) **WhtSMatrx:** Oh!  
 (15:40:54) **WhtSMatrx:** I see,  
-(15:40:59) **Restless Warrior:** I mean, if you already have n, you have n.  
+(15:40:59) **Restless Warrior:** I mean, if you already have `n`, you have `n`.  
 (15:41:05) **WhtSMatrx:** Ehh.  
 (15:41:16) **WhtSMatrx:** Useful as a template, maybe?  
 (15:41:34) **Restless Warrior:** Yeah, in OO programming it could be good for subclassing or something.  
 (15:41:42) **Restless Warrior:** But that's true of almost anything.  
-(15:41:56) **Restless Warrior:** Even public int zero(int x, int y, int z) { return 0; } // ha ha, screw you, x y and z!  
+(15:41:56) **Restless Warrior:** Even `public int zero(int x, int y, int z) { return 0; } // ha ha, screw you, x y and z!`  
 (15:42:14) **WhtSMatrx:** Heh, I like that.  
 (15:42:19) **Restless Warrior:** Yeah, me too. =)  
 (15:42:28) **Restless Warrior:** It makes me chuckle, enough that I'm considering posting it in my LJ. =P  

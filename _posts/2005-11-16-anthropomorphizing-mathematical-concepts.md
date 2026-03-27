@@ -36,7 +36,7 @@ original_url: https://restless-coder.livejournal.com/21985.html
   
 (13:22:38) **Curtis:** It's not like it's unique or even bounded that way or anything.  
   
-(13:29:56) **Paul:** *Shrugs* It's an element of more useful sets than any other numbers than 0 and 1.  
+(13:29:56) **Paul:** \*Shrugs\* It's an element of more useful sets than any other numbers than 0 and 1.  
   
 (13:30:18) **Paul:** And -1.  
   

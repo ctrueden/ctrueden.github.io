@@ -6,7 +6,7 @@ song: "La Grande Sophie - On savait (devenir grand) (Frequence3 --"
 original_url: https://restless-coder.livejournal.com/19971.html
 ---
 
-People like [noonereally](https://noonereally.livejournal.com/) and [withouttalent](https://withouttalent.livejournal.com/) hit higher on the economic permissiveness than I did. It makes me wonder how much I really understand the consequences of corporate regulation. *shrug*  
+People like [noonereally](https://noonereally.livejournal.com/) and [withouttalent](https://withouttalent.livejournal.com/) hit higher on the economic permissiveness than I did. It makes me wonder how much I really understand the consequences of corporate regulation. \*shrug\*  
   
 You are a    
 **Social Liberal**   

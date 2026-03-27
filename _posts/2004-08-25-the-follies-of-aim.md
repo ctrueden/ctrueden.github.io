@@ -11,7 +11,7 @@ original_url: https://restless-coder.livejournal.com/626.html
 (16:12:37) **nor is hiding:** If it were perfect... >_<  
 (16:13:46) **Restless Warrior:** It's perceived perfection. You *think* it's perfect until they improve the product, and you then realize only the *new* way is *really* perfect.  
 (16:14:15) **nor is hiding:** ... uh huh. =P  
-(16:14:35) **Restless Warrior:** See? I get it. I'm a thinker. *taps forehead*  
+(16:14:35) **Restless Warrior:** See? I get it. I'm a thinker. \*taps forehead\*  
 (16:15:10) **nor is hiding:** or an iThinker!  
 (16:16:49) **Restless Warrior:** The "i-" prefix is the Mac's version of "of" syndrome, you realize.  
 (16:17:00) **nor is hiding:** iKnow!  

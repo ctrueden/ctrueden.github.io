@@ -18,7 +18,7 @@ Now that the wedding is over, it's time to plan the honeymoon. We'll be going to
   
   
   
-Deus is also over (none of you commented on my post-campaign thoughts... *pout*), and anime night only has two weeks of Thursdays left. My schedule is not as different as I thought it might be, though, since I am still playing DDR on MW, running on TFSun, and doing game night on Tuesday. Saturday will be my free day with Anna, Sunday will be anime night, Friday will be Allen's game, and Thursday will likely be Joey's game. Still, I should have more time for video games, computer shenanigans, TV, movies and reading. The amount of time I'm devoting to exercise is annoying in some ways, but it is keeping me fit, and I'm steadily losing weight (although I gained back a couple of pounds from the wedding). Maybe if I get bored with running and/or DDR, I'll take James up on his offer and go back to Villari's.  
+Deus is also over (none of you commented on my post-campaign thoughts... \*pout\*), and anime night only has two weeks of Thursdays left. My schedule is not as different as I thought it might be, though, since I am still playing DDR on MW, running on TFSun, and doing game night on Tuesday. Saturday will be my free day with Anna, Sunday will be anime night, Friday will be Allen's game, and Thursday will likely be Joey's game. Still, I should have more time for video games, computer shenanigans, TV, movies and reading. The amount of time I'm devoting to exercise is annoying in some ways, but it is keeping me fit, and I'm steadily losing weight (although I gained back a couple of pounds from the wedding). Maybe if I get bored with running and/or DDR, I'll take James up on his offer and go back to Villari's.  
   
   
   
