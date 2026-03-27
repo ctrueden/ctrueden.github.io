@@ -10,8 +10,6 @@ markdown: kramdown
 theme: minima
 sass:
   sass_dir: _sass
-kramdown:
-  syntax_highlighter: rogue
 collections:
   pages:
     output: true
