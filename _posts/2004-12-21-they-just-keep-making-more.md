@@ -12,7 +12,7 @@ interesting information and you're a great
 friend to the people you care about. You may  
 have sides to you that no one understands. But  
 while you understand more than most people,  
-you're only half-there most of the time.   
-  
+you're only half-there most of the time.
+
 [ Which Biological Molecule Are You?](http://quizilla.com/users/Sc0tty/quizzes/Which%20Biological%20Molecule%20Are%20You%3F/)  
 brought to you by [Quizilla](http://quizilla.com)

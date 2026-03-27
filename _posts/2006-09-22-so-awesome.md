@@ -6,8 +6,7 @@ song: "Pete Yorn - For Us"
 original_url: https://restless-coder.livejournal.com/31110.html
 ---
 
-[This](http://gumstix.com/store/catalog/product_info.php?products_id=167) is the coolest thing ever! I'm trying to rationalize buying one by thinking of something I could actually use it for...  
-  
+[This](http://gumstix.com/store/catalog/product_info.php?products_id=167) is the coolest thing ever! I'm trying to rationalize buying one by thinking of something I could actually use it for...
 
 * * *
 

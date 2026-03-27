@@ -5,8 +5,7 @@ mood: amused
 song: "Kyau vs. Albert feat. Julie - Not With You (Ronski Speed Mix Radio Edit)  (Radioseven - www.radiosev"
 ---
 
-Any of you gamers out there seen [Fear of Girls](http://video.google.com/videoplay?docid=7521044027821122670)?  
-  
+Any of you gamers out there seen [Fear of Girls](http://video.google.com/videoplay?docid=7521044027821122670)?
 
 * * *
 

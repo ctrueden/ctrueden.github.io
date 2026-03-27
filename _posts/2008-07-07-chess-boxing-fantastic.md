@@ -6,8 +6,7 @@ song: "BoA - LONG TIME NO SEE"
 original_url: https://restless-coder.livejournal.com/41125.html
 ---
 
-Slashdot posted a story about the [best sport ever](http://www.news.com.au/story/0,23599,23979955-23109,00.html) today. I am only half kidding—I would _love_ to try it!  
-  
+Slashdot posted a story about the [best sport ever](http://www.news.com.au/story/0,23599,23979955-23109,00.html) today. I am only half kidding—I would _love_ to try it!
 
 * * *
 
