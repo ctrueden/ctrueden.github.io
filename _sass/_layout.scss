@@ -263,6 +263,34 @@ code.highlighter-rouge {
 
 /* Blog */
 
+.post-card h2 {
+	font-size: 1.3em;
+	margin-bottom: 0.2em;
+}
+hr.post-divider {
+	border: none;
+	border-top: 1px solid lighten($light, 30%);
+	margin: 2em 0;
+}
+.read-more {
+	margin-top: 0.5em;
+}
+.pager {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: 2em;
+	padding-top: 1em;
+	border-top: 1px solid lighten($light, 30%);
+	font-family: 'Muli', sans-serif;
+}
+.pager-info {
+	color: #898989;
+	font-size: 0.9em;
+}
+.pager-disabled {
+	color: #ccc;
+}
 .post-meta {
 	color: #898989;
 	font-size: 0.9em;

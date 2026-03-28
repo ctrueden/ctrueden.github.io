@@ -10,6 +10,9 @@ markdown: kramdown
 theme: minima
 sass:
   sass_dir: _sass
+paginate: 20
+paginate_path: "/page:num/"
+
 collections:
   pages:
     output: true

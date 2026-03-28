@@ -1,0 +1,38 @@
+---
+title: ctrue.name
+layout: default
+nav: Home
+nav_order: 1
+---
+
+{% for post in paginator.posts %}
+<article class="post-card">
+<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<div class="post-meta">
+  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>{% if post.mood %} &middot; {{ post.mood }}{% endif %}{% if post.song %} &middot; &#9835; {{ post.song }}{% endif %}
+</div>
+{% if post.content.size < 1500 %}
+{{ post.content }}
+{% else %}
+{{ post.excerpt }}
+<p class="read-more"><a href="{{ post.url }}">Read more →</a></p>
+{% endif %}
+</article>
+{% unless forloop.last %}<hr class="post-divider">{% endunless %}
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<nav class="pager">
+  {% if paginator.previous_page %}
+  <a class="pager-prev" href="{{ paginator.previous_page_path }}">← Newer</a>
+  {% else %}
+  <span class="pager-prev pager-disabled">← Newer</span>
+  {% endif %}
+  <span class="pager-info">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+  <a class="pager-next" href="{{ paginator.next_page_path }}">Older →</a>
+  {% else %}
+  <span class="pager-next pager-disabled">Older →</span>
+  {% endif %}
+</nav>
+{% endif %}

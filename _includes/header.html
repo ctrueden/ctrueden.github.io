@@ -2,6 +2,7 @@
 	<div class="container">
 		<nav>
 			<ul>
+				<li><a href="/">Home</a></li>
 				{% assign nav_pages = site.pages | where_exp: "page", "page.nav" | sort: "nav_order" %}
 				{% for page in nav_pages %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.nav }}</a></li>
