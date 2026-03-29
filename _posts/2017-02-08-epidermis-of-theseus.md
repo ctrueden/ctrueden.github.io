@@ -5,4 +5,4 @@ original_category: tweet
 original_url: https://twitter.com/ctrueden/status/829361043713429505
 ---
 
-Need to escape from a predator, fast? Just rip off your skin! #gecko #evolution #yuck http://peerj.com/blog/post/115284878920/new-species-of-gecko-mark-scherz/
+Need to escape from a predator, fast? Just [rip off your skin](https://peerj.com/blog/post/115284878920/new-species-of-gecko-mark-scherz/)! #gecko #evolution #yuck 

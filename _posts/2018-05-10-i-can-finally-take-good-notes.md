@@ -5,4 +5,6 @@ original_category: tweet
 original_url: https://twitter.com/ctrueden/status/994608944248127490
 ---
 
-Amazing! Looks like Half Past Never has finally arrived! https://arstechnica.com/gadgets/2018/05/notepad-gets-a-major-upgrade-now-does-unix-line-endings/
+Amazing! Looks like Half Past Never has finally arrived!
+
+[Notepad gets a major upgrade, now does Unix line endings](https://arstechnica.com/gadgets/2018/05/notepad-gets-a-major-upgrade-now-does-unix-line-endings/)
