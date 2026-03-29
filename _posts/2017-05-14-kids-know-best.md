@@ -2,7 +2,7 @@
 date: 2017-05-14 10:46:05 -0500
 title: "Kids know best"
 mood: amused
-category: posts
+original_category: posts
 original_url: https://facebook.com/ctrueden
 ---
 

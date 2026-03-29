@@ -1,7 +1,7 @@
 ---
 date: 2014-04-12 14:08:26 +0000
 title: "Staunch the Heartbleeding"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/454984389206626304
 ---
 

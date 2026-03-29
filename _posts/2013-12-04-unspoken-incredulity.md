@@ -1,7 +1,7 @@
 ---
 date: 2013-12-04 16:33:04 -0600
 title: "Unspoken incredulity"
-category: status
+original_category: status
 original_url: https://facebook.com/ctrueden
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2022-04-05 20:29:43 +0000
 title: "Technological tribulation XI"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1511440970692407298
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2020-11-16 01:13:48 +0000
 title: "A worm in your Apple"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1328144203130564610
 ---
 

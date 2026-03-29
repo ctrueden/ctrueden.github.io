@@ -1,7 +1,7 @@
 ---
 date: 2017-11-08 20:10:11 +0000
 title: "Somebody reaaally likes reading the news"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/928353980354301952
 ---
 

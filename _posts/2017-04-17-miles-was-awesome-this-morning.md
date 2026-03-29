@@ -2,7 +2,7 @@
 date: 2017-04-17 07:39:36 -0500
 title: "Emily was awesome this morning"
 mood: proud
-category: posts
+original_category: posts
 original_url: https://facebook.com/ctrueden
 ---
 

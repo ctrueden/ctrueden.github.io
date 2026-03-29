@@ -1,7 +1,7 @@
 ---
 date: 2018-10-18 19:33:22 +0000
 title: "Technological tribulation VIII"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1053006140622217224
 ---
 

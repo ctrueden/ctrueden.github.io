@@ -1,7 +1,7 @@
 ---
 date: 2019-08-15 15:23:28 +0000
 title: "Space lizards!"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1162022000195493889
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2018-10-15 18:47:34 +0000
 title: "Poisoned Apple"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1051907452684390401
 ---
 

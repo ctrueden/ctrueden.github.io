@@ -1,7 +1,7 @@
 ---
 date: 2021-11-15 22:15:19 +0000
 title: "Technological tribulation X"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1460370856211845126
 ---
 

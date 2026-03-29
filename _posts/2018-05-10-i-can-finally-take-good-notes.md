@@ -1,7 +1,7 @@
 ---
 date: 2018-05-10 16:03:45 +0000
 title: "I can finally take good notes"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/994608944248127490
 ---
 

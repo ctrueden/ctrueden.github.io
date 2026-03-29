@@ -1,7 +1,7 @@
 ---
 date: 2015-03-10 17:15:44 +0000
 title: "Gamifying futility"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/575344296137781249
 ---
 

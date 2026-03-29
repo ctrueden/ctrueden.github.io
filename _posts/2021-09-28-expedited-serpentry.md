@@ -1,7 +1,7 @@
 ---
 date: 2021-09-28 13:43:22 +0000
 title: "Expedited serpentry"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1442847401597968389
 ---
 

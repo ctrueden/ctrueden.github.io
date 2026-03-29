@@ -1,7 +1,7 @@
 ---
 date: 2013-01-11 13:38:09 -0600
 title: "Humanist affirmation of St. Francis"
-category: status
+original_category: status
 original_url: https://facebook.com/ctrueden
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2012-12-12 12:28:14 -0600
 title: "Iterating toward perfection"
-category: status
+original_category: status
 original_url: https://facebook.com/ctrueden
 ---
 

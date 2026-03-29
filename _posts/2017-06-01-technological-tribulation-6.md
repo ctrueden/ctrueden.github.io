@@ -1,7 +1,7 @@
 ---
 date: 2017-06-01 20:01:41 +0000
 title: "Technological tribulation VI"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/870369783644114944
 ---
 

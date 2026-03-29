@@ -1,7 +1,7 @@
 ---
 date: 2014-01-05 14:07:46 -0600
 title: "Irrefutable logic"
-category: added
+original_category: added
 original_url: https://facebook.com/ctrueden
 media:
   - uri: "your_facebook_activity/posts/media/Mobileuploads_2577903526115/10203015079557170.jpg"

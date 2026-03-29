@@ -2,7 +2,7 @@
 date: 2018-04-21 16:35:04 -0500
 title: "Face fungus"
 mood: silly
-category: posts
+original_category: posts
 original_url: https://facebook.com/ctrueden
 ---
 

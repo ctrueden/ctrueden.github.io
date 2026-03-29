@@ -1,7 +1,7 @@
 ---
 date: 2019-08-07 18:49:52 +0000
 title: "Committed to the bit"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1159174838789070854
 ---
 

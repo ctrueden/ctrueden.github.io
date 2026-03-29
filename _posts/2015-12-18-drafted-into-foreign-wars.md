@@ -1,7 +1,7 @@
 ---
 date: 2015-12-18 21:55:40 +0000
 title: "Drafted into foreign wars"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/677970512690180096
 ---
 

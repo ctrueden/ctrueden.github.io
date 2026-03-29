@@ -2,7 +2,7 @@
 date: 2016-11-21 14:20:12 -0600
 title: "Dust in the Wind"
 mood: desolate
-category: shares
+original_category: shares
 original_url: https://facebook.com/ctrueden
 links:
   - url: "https://wikimediafoundation.org/wiki/Ways_to_Give"

@@ -1,7 +1,7 @@
 ---
 date: 2018-05-01 22:16:22 +0000
 title: "Technological tribulation VII"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/991441225604464640
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2014-01-01 07:18:07 +0000
 title: "Satisfying ending = auspicious beginning"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/418279956423012352
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2019-06-14 21:42:50 +0000
 title: "Planes, Trains & 302 Redirects"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1139649423884148737
 ---
 

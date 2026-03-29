@@ -1,7 +1,7 @@
 ---
 date: 2019-04-25 18:57:54 +0000
 title: "Zeus, Mightiest of the Olympyans"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1121488522433712128
 ---
 

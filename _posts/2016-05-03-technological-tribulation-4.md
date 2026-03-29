@@ -1,7 +1,7 @@
 ---
 date: 2016-05-03 20:30:12 +0000
 title: "Technological tribulation IV"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/727596141823561728
 ---
 

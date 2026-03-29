@@ -1,7 +1,7 @@
 ---
 date: 2020-03-04 14:59:51 +0000
 title: "Rational actors"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1235218406078545920
 ---
 

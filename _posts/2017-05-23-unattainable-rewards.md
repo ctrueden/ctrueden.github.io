@@ -1,7 +1,7 @@
 ---
 date: 2017-05-23 17:55:11 -0500
 title: "Unattainable rewards"
-category: posts
+original_category: posts
 original_url: https://facebook.com/ctrueden
 ---
 

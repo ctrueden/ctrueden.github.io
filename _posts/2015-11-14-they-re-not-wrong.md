@@ -1,7 +1,7 @@
 ---
 date: 2015-11-14 02:39:48 +0000
 title: "They're not wrong"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/665358440324141057
 ---
 

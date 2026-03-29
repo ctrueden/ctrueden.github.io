@@ -1,7 +1,7 @@
 ---
 date: 2014-05-07 16:27:46 +0000
 title: "Technological tribulation II"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/464079149796446208
 ---
 

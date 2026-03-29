@@ -1,7 +1,7 @@
 ---
 date: 2019-01-18 22:39:01 +0000
 title: "Technological tribulation IX"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1086392545238810625
 ---
 

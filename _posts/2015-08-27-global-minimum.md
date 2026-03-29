@@ -1,7 +1,7 @@
 ---
 date: 2015-08-27 21:38:49 +0000
 title: "Global minimum"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/637016439946412033
 ---
 

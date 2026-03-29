@@ -1,7 +1,7 @@
 ---
 date: 2017-11-17 14:55:11 +0000
 title: "Apple-flavored coffee"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/931536197733711872
 ---
 

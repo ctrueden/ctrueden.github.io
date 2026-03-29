@@ -1,7 +1,7 @@
 ---
 date: 2016-11-04 20:32:27 -0500
 title: "Vertebral artery dissection"
-category: shares
+original_category: shares
 original_url: https://facebook.com/ctrueden
 links:
   - url: "https://en.wikipedia.org/wiki/Vertebral_artery_dissection"

@@ -2,7 +2,7 @@
 date: 2011-11-27 19:21:41 -0600
 title: "Resistance is futile"
 mood: resigned
-category: status
+original_category: status
 original_url: https://facebook.com/ctrueden
 ---
 

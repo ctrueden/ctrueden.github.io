@@ -1,7 +1,7 @@
 ---
 date: 2018-12-19 16:19:14 +0000
 title: "Printers gonna print"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1075425332637982720
 ---
 

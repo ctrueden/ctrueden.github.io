@@ -1,7 +1,7 @@
 ---
 date: 2020-11-11 14:58:15 +0000
 title: "A dearth of lavish vacations"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1326539745904656385
 ---
 

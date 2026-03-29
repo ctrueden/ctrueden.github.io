@@ -1,7 +1,7 @@
 ---
 date: 2016-08-01 17:22:03 +0000
 title: "Technological tribulation V"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/760163697838788608
 ---
 

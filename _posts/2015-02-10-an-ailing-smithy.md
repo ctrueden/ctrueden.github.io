@@ -1,7 +1,7 @@
 ---
 date: 2015-02-10 18:55:08 +0000
 title: "An ailing smithy"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/565222450666168320
 ---
 

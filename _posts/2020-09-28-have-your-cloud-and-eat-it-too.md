@@ -1,7 +1,7 @@
 ---
 date: 2020-09-28 22:47:52 +0000
 title: "Have your cloud and eat it too"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1310712860474044417
 ---
 

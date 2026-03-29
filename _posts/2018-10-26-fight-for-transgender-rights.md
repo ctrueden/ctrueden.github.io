@@ -1,7 +1,7 @@
 ---
 date: 2018-10-26 13:56:03 -0500
 title: "Fight for transgender rights"
-category: shares
+original_category: shares
 original_url: https://facebook.com/ctrueden
 links:
   - url: "https://www.out.com/news-opinion/2018/10/24/doj-says-businesses-can-discriminate-against-trans-workers"

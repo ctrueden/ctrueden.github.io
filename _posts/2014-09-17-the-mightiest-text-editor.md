@@ -1,7 +1,7 @@
 ---
 date: 2014-09-17 19:03:26 +0000
 title: "The mightiest text editor"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/512315910817075202
 ---
 

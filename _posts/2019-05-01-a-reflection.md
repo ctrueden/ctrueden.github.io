@@ -1,7 +1,7 @@
 ---
 date: 2019-05-01 19:11:26 +0000
 title: "A reflection"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1123666252952756231
 ---
 

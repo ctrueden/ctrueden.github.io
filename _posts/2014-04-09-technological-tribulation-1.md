@@ -1,7 +1,7 @@
 ---
 date: 2014-04-09 20:11:38 +0000
 title: "Technological tribulation I"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/453988630126551040
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2016-09-24 22:13:10 -0500
 title: "The wisdom of Siri"
-category: status
+original_category: status
 original_url: https://facebook.com/ctrueden
 ---
 

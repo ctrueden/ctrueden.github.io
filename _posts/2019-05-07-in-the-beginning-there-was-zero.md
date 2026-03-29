@@ -1,7 +1,7 @@
 ---
 date: 2019-05-07 15:07:41 +0000
 title: "In the beginning there was zero"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1125779238886477825
 ---
 

@@ -1,7 +1,7 @@
 ---
 date: 2019-08-06 16:54:49 +0000
 title: "Hyperconnectivity"
-category: tweet
+original_category: tweet
 original_url: https://twitter.com/ctrueden/status/1158783495092822016
 ---
 
