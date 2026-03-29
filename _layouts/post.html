@@ -12,6 +12,14 @@ layout: default
 
 {% if page.original_url %}
 <div class="post-original">
+  {% if page.original_url contains 'twitter.com' or page.original_url contains 'x.com' %}
+  <a href="{{ page.original_url }}">Originally posted on Twitter</a>
+  {% elsif page.original_url contains 'facebook.com' %}
+  <a href="{{ page.original_url }}">Originally posted on Facebook</a>
+  {% elsif page.original_url contains 'livejournal.com' %}
   <a href="{{ page.original_url }}">Originally posted on LiveJournal</a>
+  {% else %}
+  <a href="{{ page.original_url }}">Originally posted elsewhere</a>
+  {% endif %}
 </div>
 {% endif %}
