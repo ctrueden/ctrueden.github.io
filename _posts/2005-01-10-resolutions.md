@@ -27,5 +27,6 @@ I think that covers all my bases. I have other goals for the year, such as learn
 
 * * *
 
-"Failure is not an option. It comes bundled with your Microsoft product."  
-\--Ferenc Mantfeld
+> Failure is not an option. It comes bundled with your Microsoft product.
+
+—Ferenc Mantfeld

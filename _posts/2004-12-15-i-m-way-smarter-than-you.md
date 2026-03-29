@@ -11,5 +11,6 @@ You scored as **Brain**. A+
 
 * * *
 
-"The test of the artist does not lie in the will with which he goes to work, but in the excellence of the work he produces."  
-\--St. Thomas Aquinas
+> The test of the artist does not lie in the will with which he goes to work, but in the excellence of the work he produces.
+
+—St. Thomas Aquinas

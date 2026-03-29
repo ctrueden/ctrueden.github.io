@@ -20,8 +20,9 @@ Or maybe, like psychics, only the successful predictions get noticed. After all,
 
 * * *
 
-In a world without leaders  
-Who'd start all our wars?  
-The world that you're saving  
-Will always be yours  
-\--Offspring, "Kill the President"
+> In a world without leaders  
+> Who'd start all our wars?  
+> The world that you're saving  
+> Will always be yours
+
+—Offspring, "Kill the President"

@@ -24,5 +24,6 @@ All of this hinges on the idea that hypocrisy is bad, which I have trouble justi
 
 * * *
 
-"There's a fine line between fishing and standing on the shore like an idiot."  
-\--Steven Wright
+> There's a fine line between fishing and standing on the shore like an idiot.
+
+—Steven Wright

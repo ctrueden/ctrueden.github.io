@@ -18,10 +18,11 @@ P.S. People have gotten annoyed after finding out through third parties, so I am
 
 * * *
 
-"correct is consensus  
-everything else, nonsense  
-forward is the hope  
-forget recompense  
-peace and tranquility is only for the wealthy  
-dearth for the masses and inequality"  
-\--Bad Religion, "Strange Denial"
+> correct is consensus  
+> everything else, nonsense  
+> forward is the hope  
+> forget recompense  
+> peace and tranquility is only for the wealthy  
+> dearth for the masses and inequality
+
+—Bad Religion, "Strange Denial"

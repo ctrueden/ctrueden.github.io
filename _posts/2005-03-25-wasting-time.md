@@ -13,5 +13,6 @@ Brought to you by [YouThink.com](http://www.youthink.com/quiz.asp) quizzes and p
 
 * * *
 
-"But clearly, Madame Giry, genius has turned to madness."  
-\--Raoul, "The Phantom of the Opera"
+> But clearly, Madame Giry, genius has turned to madness.
+
+—Raoul, "The Phantom of the Opera"

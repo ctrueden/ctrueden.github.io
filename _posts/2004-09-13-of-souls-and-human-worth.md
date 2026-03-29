@@ -30,8 +30,9 @@ And that fact really saddens me. I like who I am. Why does it have to end?
 
 * * *
 
-Let me take you to the hurting ground  
-Where all good men are trampled down  
-Just to settle a bet that could not be won  
-Between a prideful father and his son  
-\--Bad Religion, "Sorrow"
+> Let me take you to the hurting ground  
+> Where all good men are trampled down  
+> Just to settle a bet that could not be won  
+> Between a prideful father and his son
+
+—Bad Religion, "Sorrow"

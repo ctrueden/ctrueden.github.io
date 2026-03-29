@@ -24,5 +24,6 @@ Lastly, there is a complication to all of these musings in that any sort of equa
 
 * * *
 
-"If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a man and a dog."  
-\--Mark Twain
+> If you pick up a starving dog and make him prosperous, he will not bite you. This is the principal difference between a man and a dog.
+
+—Mark Twain

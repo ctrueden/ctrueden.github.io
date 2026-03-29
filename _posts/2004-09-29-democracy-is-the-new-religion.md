@@ -29,13 +29,14 @@ The bottom line is that neocon imperialism is not about helping anyone else – 
 
 * * *
 
-"Modern globalization  
-coupled with condemnations  
-unnecessary death  
-matador corporations  
-puppeting your frustrations with a blinded flag  
-manufacturing consent is the name of the game  
-the bottom line is money and nobody gives a fuck  
-4,000 hungry children leave us per hour from starvation  
-while billions are spent creating death showers"  
-\--System of a Down, "Boom!"
+> Modern globalization  
+> coupled with condemnations  
+> unnecessary death  
+> matador corporations  
+> puppeting your frustrations with a blinded flag  
+> manufacturing consent is the name of the game  
+> the bottom line is money and nobody gives a fuck  
+> 4,000 hungry children leave us per hour from starvation  
+> while billions are spent creating death showers
+
+—System of a Down, "Boom!"
