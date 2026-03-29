@@ -3,6 +3,7 @@ date: 2017-04-17 07:39:36 -0500
 title: "Emily was awesome this morning"
 mood: proud
 category: posts
+original_url: https://facebook.com/ctrueden
 ---
 
 She has been playing Minecraft lately. When we start the game together, her world loads, the UI frame is white, the game autosaves regularly, and all is fine. But when she starts it alone, the UI frame is red instead of white, and autosave is disabled. I figured she must be making different menu choices, but was not sure what it could be.

@@ -9,6 +9,13 @@ nav_order: 1
 <article class="post-card">
 <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 <div class="post-meta">
+  {% if post.original_url contains 'twitter.com' or post.original_url contains 'x.com' -%}
+  <img class="post-source-icon" src="/images/twitter.svg" alt="Twitter">
+  {%- elsif post.original_url contains 'facebook.com' -%}
+  <img class="post-source-icon" src="/images/facebook.svg" alt="Facebook">
+  {%- elsif post.original_url -%}
+  <img class="post-source-icon" src="/images/livejournal.svg" alt="LiveJournal">
+  {%- endif %}
   <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>{% if post.mood %} &middot; {{ post.mood }}{% endif %}{% if post.song %} &middot; &#9835; {{ post.song }}{% endif %}
 </div>
 {% if post.content.size < 1500 %}

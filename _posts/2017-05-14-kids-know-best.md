@@ -3,6 +3,7 @@ date: 2017-05-14 10:46:05 -0500
 title: "Kids know best"
 mood: amused
 category: posts
+original_url: https://facebook.com/ctrueden
 ---
 
 Anna: I'd really like to go to Catherine's and get some new summerwear. And right next to there is—  

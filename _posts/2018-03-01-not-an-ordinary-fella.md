@@ -2,6 +2,7 @@
 date: 2018-03-01 13:41:53 -0600
 title: "Not an ordinary fella!"
 category: added
+original_url: https://facebook.com/ctrueden
 media:
   - uri: "your_facebook_activity/posts/media/Photos_1120198004388/10216890222907082.jpg"
     description: "We pass Orion.78 Civilization mix!"

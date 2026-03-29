@@ -2,6 +2,7 @@
 date: 2016-03-12 18:19:23 -0600
 title: "Zero tolerance policy"
 category: status
+original_url: https://facebook.com/ctrueden
 ---
 
 Teddy: "Can I have a grapefruit?"  

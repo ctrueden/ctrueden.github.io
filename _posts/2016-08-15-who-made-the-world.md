@@ -2,6 +2,7 @@
 date: 2016-08-15 15:07:50 -0500
 title: "Who made the world?"
 category: status
+original_url: https://facebook.com/ctrueden
 ---
 
 Teddy: Dada, who made the world?  
