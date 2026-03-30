@@ -5,4 +5,4 @@ original_category: status
 original_url: https://facebook.com/ctrueden
 ---
 
-Gmail is *sooo* much faster in Chrome... *cry*
+Gmail is *sooo* much faster in Chrome... \*cry\*
