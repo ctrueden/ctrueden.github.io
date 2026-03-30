@@ -1,7 +1,7 @@
 ---
 date: 2016-11-21 14:20:12 -0600
 title: "Dust in the Wind"
-mood: desolate
+mood: demolished
 original_category: shares
 original_url: https://facebook.com/ctrueden
 links:

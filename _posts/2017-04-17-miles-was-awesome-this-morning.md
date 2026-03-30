@@ -6,7 +6,7 @@ original_category: posts
 original_url: https://facebook.com/ctrueden
 ---
 
-She has been playing Minecraft lately. When we start the game together, her world loads, the UI frame is white, the game autosaves regularly, and all is fine. But when she starts it alone, the UI frame is red instead of white, and autosave is disabled. I figured she must be making different menu choices, but was not sure what it could be.
+Emily has been playing Minecraft lately. When we start the game together, her world loads, the UI frame is white, the game autosaves regularly, and all is fine. But when she starts it alone, the UI frame is red instead of white, and autosave is disabled. I figured she must be making different menu choices, but was not sure what it could be.
 
 This morning, after Emily played for ~90 minutes in red mode, I was concerned she might lose her work, so I asked her to save it. When she tried, there was a notice that she was using a "trial texture pack" and would need to sign in to PSN in order to buy it before she could save. Evil.
 
