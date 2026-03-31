@@ -5,4 +5,4 @@ original_category: tweet
 original_url: https://twitter.com/ctrueden/status/454984389206626304
 ---
 
-@LastPass added a Heartbleed security report that tells which passwords to change. Awesome! No one should manually manage their passwords.
+LastPass added a Heartbleed security report that tells which passwords to change. Awesome! No one should manually manage their passwords.
