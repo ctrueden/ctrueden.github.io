@@ -1,6 +1,6 @@
 ---
 date: 2015-08-06 15:01:21 -0500
-title: "Glorious hide and seek"
+title: "Royal scavenger hunt"
 original_category: status
 original_url: https://facebook.com/ctrueden
 ---
