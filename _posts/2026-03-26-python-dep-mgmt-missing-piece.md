@@ -9,7 +9,7 @@ date: 2026-03-26 20:38:00 -0600
 
 ## The Core Problem
 
-I am increasingly convinced that Python's dependency management ecosystem is fundamentally broken compared to Java's, for one reason: Python's package metadata has a structural gap that forces library authors into an impossible choice.
+I am increasingly convinced that Python's dependency management ecosystem is fundamentally broken compared to Java's, for one reason: Python's package metadata has a structural gap that forces library authors into an impossible choice between **reproducibility** and **composability**.
 
 Here's the argument in brief: in Java, [Maven](https://maven.apache.org/)'s `pom.xml` provides *soft* version pinning: library authors declare "I verified dependency libfoo works at version 2.28.0—use it as a starting point, but feel free to move if something else in the mix requires otherwise." Python's `pyproject.toml` offers no equivalent: you can express a constraint (`>=2.28.0,<3`), but you cannot communicate "this is a version I verified works." Lockfiles provide strict reproducibility, but at the cost of composability—they are only a partial solution for communicating a signal missing from primary project metadata.
 
