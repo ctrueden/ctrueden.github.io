@@ -23,7 +23,7 @@ But macOS ruins this wonderful setup as follows:
 
 <div style="text-align: center" markdown=1>
 
-![Evil dialog box](/images/gatekeeper-is-evil.png){:style="max-width:min(100%, 372px)"}
+![Evil dialog box](/media/gatekeeper-is-evil.png){:style="max-width:min(100%, 372px)"}
 
 </div>
 

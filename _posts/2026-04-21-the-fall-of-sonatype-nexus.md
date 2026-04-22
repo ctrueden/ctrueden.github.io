@@ -252,7 +252,7 @@ Even setting aside the crippleware issue, the upgrade instructions are convolute
 
 After upgrading and logging into the upgraded Nexus, the crippleware limits were immediately obvious. Here is how it looks as of today:
 
-![](/images/2026-04-21-nexus-limits.png)
+![Nexus Usage Limits](/media/nexus-limits.png)
 
 But it took some major changes to get to that point where the bars are all green and happy.
 
