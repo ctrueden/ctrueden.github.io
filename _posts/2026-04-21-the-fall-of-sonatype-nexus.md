@@ -84,6 +84,14 @@ With the SciJava Maven repository, I have always striven to follow best practice
 
 > In my experience, it is best to let your CI system deploy your snapshots. This is the most reliable way to ensure that the contents of your repository are kept in sync with your source control system. To do this practically, you need to couple CI with a repository manager like Sonatype Nexus Repository that can automatically purge snapshots.
 
+<details><summary>Aside: snapshots versus releases</summary>
+<div markdown=1>
+
+Having a place to deploy [SNAPSHOT builds](https://stackoverflow.com/q/5901378/1207769) easily was historically another reason to use a repository manager. While Sonatype's new Central Portal infrastructure [supports snapshots in a straightforward way](https://central.sonatype.org/publish/publish-portal-snapshots/), and [so did its previous OSSRH mechanism](https://web.archive.org/web/20190726000740/https://central.sonatype.org/pages/ossrh-guide.html), it has much of the same setup complexity that using Central for releases does.
+
+</div>
+</details>
+
 Over the years, [the message has remained consistent](https://www.sonatype.com/blog/maven-central-and-the-tragedy-of-the-commons):
 
 > For nearly two decades it has been a well-understood best practice to leverage a repository manager as a caching proxy. Not only does this reduce the load on the central repositories, but it improves your own build performance and reliability by caching the components needed by your builds instead of fetching them from the internet 10,000 times a day.
