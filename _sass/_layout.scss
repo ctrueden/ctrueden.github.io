@@ -263,6 +263,36 @@ blockquote {
 	p:last-child { margin-bottom: 0; }
 }
 
+/* Details/summary */
+
+details {
+	border: 1px solid darken($light, 10%);
+	border-radius: 0.4em;
+	margin: 1em 0;
+	summary {
+		cursor: pointer;
+		font-weight: bold;
+		background: $light;
+		padding: 0.5em 1em;
+		border-radius: 0.4em;
+		list-style: none;
+		&::marker, &::-webkit-details-marker { display: none; }
+		&::before { content: "▶\00a0"; font-size: 0.7em; vertical-align: middle; }
+	}
+	&[open] {
+		summary {
+			border-radius: 0.4em 0.4em 0 0;
+			border-bottom: 1px solid darken($light, 10%);
+			&::before { content: "▼\00a0"; }
+		}
+		> :not(summary) {
+			padding: 0 1em;
+			&:first-of-type { margin-top: 0.75em; }
+			&:last-child { margin-bottom: 0.75em; }
+		}
+	}
+}
+
 /* Code */
 
 div.highlighter-rouge {
