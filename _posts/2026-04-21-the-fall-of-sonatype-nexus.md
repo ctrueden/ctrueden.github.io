@@ -300,7 +300,7 @@ Not knowing this, I upgraded the SciJava Nexus to v3.91.0 yesterday as part of d
 
 ## What's next?
 
-Let's conclude this obnoxiously long post as per usual: by talking about the future!
+Let's conclude this obnoxiously long post as per usual: by talking about [the future](/2004/10/06/wherein-i-continue-to-look-forward-ever-hopeful)!
 
 What are we going to do now? How can we avoid renewed problems going forward?
 
