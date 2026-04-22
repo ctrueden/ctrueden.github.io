@@ -304,7 +304,7 @@ Let's conclude this obnoxiously long post as per usual: by talking about the fut
 
 What are we going to do now? How can we avoid renewed problems going forward?
 
-**Purchase Nexus Pro?** Even with an academic discount, it's >=$5K/year&mdash;not within our budget. And even if we had the money, we have better things to spend it on, like hackathons.
+**Purchase Nexus Pro?** Even with an academic discount, it's >$4K/year&mdash;not within our budget. And even if we had the money, we have better things to spend it on, like hackathons.
 
 **Downgrade to Nexus Core/OSS?** Clone the mirrored repository from GitHub, build from source, get it running? I already tried, twice, but the tests fail, and when you skip them, the final built artifact (a fat JAR) crashes on startup. It has been like that for many months, and I do not expect that Sonatype will ever fix it.
 
