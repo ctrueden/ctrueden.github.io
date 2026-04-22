@@ -136,9 +136,13 @@ And the Sonatype Nexus v2 user interface itself also declares itself as unsuppor
 
 ## My upgrade experience
 
-Before I upgraded the SciJava Maven repository to Nexus v3, I actually had no idea about the crippleware restrictions. I actually had a completely different concern: I read that Nexus v3 is a total rewrite of v2 that switches to a mandatory blob store approach even for file-system-based repositories like ours. I had developed some tooling capable of running on the repository server's file system to reason about Maven components in a much more efficient way than you can do using the Nexus REST API, which is orders of magnitude slower by comparison, and I was concerned that switching to Nexus v3 would destabilize the service.
+Before I upgraded the SciJava Maven repository to Nexus v3, I had no idea about the crippleware restrictions. I actually had a completely different concern: I read that Nexus v3 is a total rewrite of v2 that switches to a mandatory blob store approach even for file-system-based repositories like ours. I had developed some tooling capable of running on the repository server's file system to reason about Maven components in a much more efficient way than you can do using the Nexus REST API, which is orders of magnitude slower by comparison, and I was concerned that switching to Nexus v3 would destabilize the service.
 
-So I put off the upgrade as long as I could. But when the actual end-of-life date drew nigh, I knew I could wait no longer, and dove into the effort.
+The flat-file organization of Nexus v2 was one of the many great things about it. Here's Brian Fox [answering a question about Nexus versus Artifactory](https://stackoverflow.com/a/393036/1207769) on Stack Overflow in 2008:
+
+> Artifactory stores the artifacts in a database, which means that if something goes wrong, all your artifacts are gone. Nexus uses a flat file for your precious artifacts so you don't have to worry about them all getting lost.
+
+I was sad to see that go, so I put off the upgrade as long as I could. But when the actual end-of-life date drew nigh, I knew I could wait no longer, and dove into the effort.
 
 As one does, I started by reading the official documentation: [Sonatype Nexus Repository](https://help.sonatype.com/en/sonatype-nexus-repository.html) led to [Upgrade from Nexus Repository 2](https://help.sonatype.com/en/upgrade-from-nexus-repository-2.html) which explained the built-in upgrade wizard, which sounded ideal for us. I was particularly heartened to see support for a hard linking mode:
 
@@ -307,7 +311,3 @@ What are we going to do now? How can we avoid renewed problems going forward?
 **Hack around the limitations?** Since Nexus v3 Community is largely built on the open-source Nexus v3 Core, it should be possible to disable the crippleware limits via reverse engineering. Java is easy to decompile; I already discovered that the crippleware subsystem is powered by a `ServiceLoader`-discovered interface implementation. But a quick try at slotting in a more permissive implementation does not immediately work&mdash;I'm guessing there is some obfuscation in place. While it can probably be defeated, I am not eager to enter an arms race with a company that I have until recently admired so much.
 
 **Switch to a different repository manager?** I feel this is the most promising way forward. Two projects I'm interested in testing are [Reposilite](https://reposilite.com/), which I noticed is running in production on [Unidata's Maven repository](https://artifacts.unidata.ucar.edu/), and [Artifact Keeper](https://artifactkeeper.com/), a promising-looking recent effort that has a dedicated [Nexus migration guide](https://artifactkeeper.com/docs/migration/from-nexus/). But researching and testing these things takes time, and I have no idea when I'll be able to make room for it. Probably when Sonatype cuts the Nexus v3 component limit in half again. -_-
-
-* * *
-
-QUOTE HERE
