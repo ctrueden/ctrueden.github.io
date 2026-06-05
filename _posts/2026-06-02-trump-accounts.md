@@ -5,6 +5,8 @@ date: 2026-06-02 18:43:00 -0600
 
 Trump Accounts look like worse investments than both Traditional IRAs and Roth IRAs. Why aren't more folks in the financial sector pointing this out?
 
+*2026-06-05 update: I have since seen one article that covers why Trump Accounts are not competitive with other existing investment options: [Trump Accounts Serve No Clear Purpose and Would Exclude Vulnerable Children](https://taxlawcenter.org/blog/trump-accounts-serve-no-clear-purpose-and-would-exclude-vulnerable-children).*
+
 Not only is it impossible to withdraw early (unlike regular IRAs) — and not only does one have to suffer the narcissistic moniker "Trump Account" for decades in one's financial portfolio — but the math also doesn't work out.
 
 What follows is some quick LLM-powered (LLM-tainted?) calculation of common scenarios. I honestly have not checked the math super thoroughly, but I would be surprised if the conclusions drawn here are fundamentally wrong.
@@ -29,6 +31,8 @@ Traditional pre-tax IRA wins — by about $22,000 over Roth and $31,000 over Tru
 The crossover point is exactly when contribution rate = withdrawal rate (e.g., both 22%). At that point, Roth and traditional pre-tax are mathematically equivalent — and Trump Accounts still lose, since they combine post-tax contributions with taxed earnings.
 
 ## Comparison: withdrawal at age 60
+
+2026-06-05 update: "On a taxpayer’s 31st birthday, the account ceases to be a Trump account and any remaining balance is treated as distributed" [\[source\]](https://taxlawcenter.org/blog/trump-accounts-serve-no-clear-purpose-and-would-exclude-vulnerable-children). So this retirement-at-age-60 scenario is only limitedly useful.
 
 |      Starting balance (age 18)      | Balance at age 60 |
 |-------------------------------------|-------------------|
