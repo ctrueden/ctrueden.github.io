@@ -13,6 +13,8 @@ I am increasingly convinced that Python's dependency management ecosystem is fun
 
 Here's the argument in brief: in Java, [Maven](https://maven.apache.org/)'s `pom.xml` provides *soft* version pinning: library authors declare "I verified dependency libfoo works at version 2.28.0—use it as a starting point, but feel free to move if something else in the mix requires otherwise." Python's `pyproject.toml` offers no equivalent: you can express a constraint (`>=2.28.0,<3`), but you cannot communicate "this is a version I verified works." Lockfiles provide strict reproducibility, but at the cost of composability—they are only a partial solution for communicating a signal missing from primary project metadata.
 
+*2026-06-05 update: A promising potential solution to the issue described in this post, which is not discussed below, is [uv's `--resolution lowest` option](https://docs.astral.sh/uv/concepts/resolution/#resolution-strategy). If all Python projects declared (and tested with) minimum bounds on all their dependencies, it would go a long way toward achieving a level of composable reproducibility similar to Java's.*
+
 ---
 
 ## Dependency Management Approaches
