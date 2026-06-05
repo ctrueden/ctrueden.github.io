@@ -1,5 +1,5 @@
 ---
-title: "Trump Accounts are Worse Than Regular IRAs"
+title: "Trump Accounts are worse than regular IRAs"
 date: 2026-06-02 18:43:00 -0600
 ---
 

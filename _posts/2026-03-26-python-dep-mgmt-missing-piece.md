@@ -1,5 +1,5 @@
 ---
-title: "Python Dependency Management is Missing a Piece"
+title: "Python dependency management is missing a piece"
 date: 2026-03-26 20:38:00 -0600
 ---
 

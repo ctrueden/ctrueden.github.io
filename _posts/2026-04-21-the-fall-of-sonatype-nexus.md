@@ -1,5 +1,5 @@
 ---
-title: "The Fall of Sonatype Nexus"
+title: "The fall of Sonatype Nexus"
 date: 2026-04-21 12:22:00 -0600
 ---
 
