@@ -1,6 +1,6 @@
 ---
 title: "LLM language telltales"
-date: 2026-07-24 20:39:00 -0600
+date: 2026-07-24 20:39:00 +0200
 ---
 
 Have you noticed how LLMs (or maybe just Claude? IDK) love certain language constructions that humans rarely ever use?
