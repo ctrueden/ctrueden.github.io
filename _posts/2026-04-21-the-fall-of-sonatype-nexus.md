@@ -5,6 +5,8 @@ date: 2026-04-21 12:22:00 -0600
 
 *With Nexus Repository Manager v3, Sonatype has turned to the dark side.*
 
+\[Edit 2026-09-08: It is still possible to run the [open-source core of Sonatype Nexus 3](https://github.com/sonatype/nexus-public), which has no crippleware restrictions, but there are no official pre-built binary builds, so it must be built from source. I [created a helper project to do just that](https://github.com/scijava/nexus-core-oss), which you are welcome to use or adapt however you see fit!\]
+
 I maintain the [SciJava Maven repository](https://maven.scijava.org/), a public Maven repository manager (MRM) housing Java components related to the [SciJava component collection](https://imagej.net/libs/scijava), including the component stack that powers [Fiji](https://fiji.sc/), an extensible platform and application for scientific image analysis.
 
 Since around 2010, we have hosted and maintained this resource using Sonatype's then-excellent Nexus repository manager software, specifically version 2.x thereof, known historically as Sonatype Nexus OSS. Not only did Sonatype provide this wonderful tool as open source, and keep it updated with security fixes, they also published an [entire book on best practices with it](https://github.com/sonatype/nexus-book), while tirelessly hosting and maintaining the vast Maven Central repository at `search.maven.org` for the open-source software community, all for free. So I have a deep well of gratitude for what Sonatype has done and is doing to elevate the open-source Java community. Unfortunately, this golden age is now coming to an end. But before explaining what I mean by that, some background is needed.
